@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:12:36",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "ur",
+        "language_name": "Urdu",
+        "language_name_local": "اُردو",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "غیر متصل",
+        "description": "یہاں آپ کی بورڈنگ کو ملانے اور انہیں کام کرنے کے لئے جوڑ سکتے ہیں ۔."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "امتحان",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "کي بورڈ پر ملانے کي مشق کريں",
+            "ANY_BUTTON_KEY": "کوئی بٹن",
+            "SUBSCRIBE_KEY": "فائلز",
+            "UNSUBSCRIBE_KEY": "غیر متصل",
+            "SHOW_SUBSCRIBERS_KEY": "طےشدہ",
+            "KEYBOARD_DEMO_POPUP_KEY": "جمہوری پوپ کو معطل کریں"
+        }
+    }
+}

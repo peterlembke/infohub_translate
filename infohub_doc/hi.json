@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 17:56:00",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "hi",
+        "language_name": "Hindi",
+        "language_name_local": "हिन्दी",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "दस्तावेज़ीकरण",
+        "description": "इन्फोहब और सभी प्लगइन्स पर पूर्ण प्रलेखन।."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "दस्तावेज़",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "यहाँ आप दस्तावेज़ देखेंगे"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "ताज़ा सूचकांक",
+            "INDEX_KEY": "सूचकांक"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "रिफ्रेश नेविगेट",
+            "NAVIGATION_KEY": "नेविगेशन"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "रिफ्रेश का दौरा"
+        }
+    }
+}

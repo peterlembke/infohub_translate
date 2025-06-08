@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 19:15:45",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "sq",
+        "language_name": "Albanian",
+        "language_name_local": "Shqip",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Përdorues dhe Noda",
+        "description": "Ju mund të merreni me përdoruesit tuaj këtu. Mund të vendosni hyrje në nyjet e server-it tjetër këtu."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Udhëzime",
+            "USE_THE_MENU._KEY": "Përdor menunë."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Duke rifreskuar klientët",
+            "CLIENT_CONTACTS_KEY": "Asnjë kontakt",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Listë me të gjithë kontaktet e klientit",
+            "NEW_KEY": "E re",
+            "SAVE_KEY": "Ruaj",
+            "DELETE_KEY": "Elemino",
+            "IMPORT_KEY": "Importo",
+            "EXPORT_KEY": "Eksporto",
+            "ONE_CONTACT_KEY": "Një kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Kjo është forma e të dhënave për një kontakt",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Emri yt unik i klientit",
+            "NOTE_KEY": "Shënim",
+            "ANY_TEXT_YOU_WANT_KEY": "Çdo tekst që dëshironi",
+            "DOMAIN_ADDRESS_KEY": "Adresa Domain",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Adresa e domainës tek serveri juaj",
+            "USER_NAME_KEY": "Emri i përdoruesit",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Ju merrni një qendër-uiid kur ju kurseni (fjala bosh)",
+            "SHARED_SECRET_KEY": "Librari e përbashkët",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Do të merrni një stringë 2k të rastit kur të ruani (të largoheni bosh)",
+            "ALLOWED_ROLES_KEY": "Roli i lejuar",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Lista me të gjitha rolet e përdoruesit që keni",
+            "USER_KEY": "Përdoruesi",
+            "DEVELOPER_KEY": "Zhvillues",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Fjalëkalimi:",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Nëse file i importuar ka një fjalëkalim klienti të caktuar nga përdoruesi"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentacioni do të përkthehet këtu",
+            "MAIN_DOC_KEY": "Mjeku kryesor",
+            "CLIENT_DOC_KEY": "Mjeku i klientit",
+            "SERVER_DOC_KEY": "Opsionet e serverit"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Menaxhues kontaktesh",
+            "DOCUMENTATION_KEY": "Dokumentë",
+            "CLIENT_CONTACT_KEY": "Kontakti i klientit",
+            "SERVER_CONTACT_KEY": "Kontakti i serverit"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Rifresko",
+            "SERVER_CONTACTS_KEY": "Asnjë kontakt",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Listë me të gjithë kontaktet në server",
+            "SAVE_KEY": "Ruaj",
+            "DELETE_KEY": "Elemino",
+            "IMPORT_KEY": "Importo",
+            "EXPORT_KEY": "Eksporto",
+            "PING_SERVER_KEY": "Serveri Ping",
+            "ONE_CONTACT_KEY": "Një kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Kjo është forma e të dhënave për një kontakt.",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Emri i nyjes suaj unike",
+            "NOTE_KEY": "Shënim",
+            "ANY_TEXT_YOU_WANT_KEY": "Çdo tekst që dëshironi",
+            "DOMAIN_ADDRESS_KEY": "Adresa Domain",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Adresa e domain tek serveri remot",
+            "USER_NAME_KEY": "Emri i përdoruesit",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uid ju mori nga server remote",
+            "SHARED_SECRET_KEY": "Librari e përbashkët",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "stringa 2k e rastësishme që keni marrë nga serveri remot",
+            "ALLOWED_ROLES_KEY": "Roli i lejuar",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Lista me të gjitha rolet që ka ky profil",
+            "USER_KEY": "Përdoruesi",
+            "DEVELOPER_KEY": "Zhvillues",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

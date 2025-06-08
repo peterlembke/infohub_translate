@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:05:36",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "id",
+        "language_name": "Indonesian",
+        "language_name_local": "Indonesia",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Papan Ketik",
+        "description": "Di sini Anda dapat berlangganan ke kombinasi keyboard dan mengikatnya ke fungsi."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Tes papan tik",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Coba kombinasi pada papan tik Anda",
+            "ANY_BUTTON_KEY": "Tombol apapun",
+            "SUBSCRIBE_KEY": "Berlangganan",
+            "UNSUBSCRIBE_KEY": "Berhenti berlangganan",
+            "SHOW_SUBSCRIBERS_KEY": "Tampilkan pelanggan",
+            "KEYBOARD_DEMO_POPUP_KEY": "Popup demo papan tik"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "ms",
+        "language_name": "Malay",
+        "language_name_local": "Bahasa Melayu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Ukur suku bunga",
+        "description": "Menghitung di daerah seperti ekonomi, suku bunga, dll."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Instruksi",
+            "USE_THE_MENU._KEY": "Guna menunya."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Anda dapat menghitung suku bunga bulanan pada tabungan Anda dari suku bunga tahunan.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Anda dapat menggunakan hasil dari anggaran Anda untuk menambah bunga bank pada tabungan Anda setiap bulan.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Itu menyelesaikan masalah dengan suku bunga pada suku bunga.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Jika Anda menghitung suku bunga pinjaman bulanan maka jangan gunakan alat ini.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Pinjaman untuk pinjaman Anda membagi suku bunga tahunan dengan 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Perbedaan adalah bahwa pinjaman tidak memiliki suku bunga pada suku bunga.",
+            "INTEREST_RATE_KEY": "Kadar suku bunga nina",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Klik untuk instruksi...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Memhitungkan suku bunga bulanan pada tabungan Anda",
+            "YEARLY_INTEREST_RATE_KEY": "Suku bunga tahunan",
+            "CALCULATE_KEY": "AYAT",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Kadar suku bunga bulanan ninarian persen",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Bunga bulanan suku bunga bulanan persen persen dengan dua desimal",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Perpuluhan suku bunga bulanan",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Bunga bulanan suku desimal dengan semua desimal untuk bugdet Anda",
+            "CALCULATION_OK_KEY": "Penghitungan eksakulasi ok",
+            "CALCULATION_VERIFIED_OK_KEY": "Ok, ok, ok",
+            "CALCULATION_FAILED_KEY": "Penghitungan suara gagal",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Penghitungan suara eksakulasi gagal verifikasi"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Suku bunga bulanan"
+        }
+    }
+}

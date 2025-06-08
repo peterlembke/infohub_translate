@@ -1,0 +1,114 @@
+{
+    "version": {
+        "date": "2025-06-08 17:49:04",
+        "plugin": "infohub_login",
+        "data_checksum": "3a54ba3a88dc75f26a5466d65d0f5ea6",
+        "language": "sv",
+        "language_name": "Swedish",
+        "language_name_local": "Svenska",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Logga in",
+        "description": "Du kan logga in på servern, logga ut, ställa in eller ändra ditt lösenord."
+    },
+    "data": {
+        "infohub_login": {
+            "INSTRUCTIONS_KEY": "Instruktioner",
+            "USE_THE_MENU._KEY": "Använd menyn.",
+            "WHAT_IS_THIS?_KEY": "Vad är detta?"
+        },
+        "infohub_login_contact": {
+            "ONE_CONTACT_KEY": "En kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Detta är dataformuläret för en kontakt",
+            "NODE_KEY": "Nod",
+            "ANY_TEXT_YOU_WANT_KEY": "All text du vill ha",
+            "NOTE_KEY": "Note",
+            "SAVE_KEY": "Spara",
+            "DOMAIN_ADDRESS_KEY": "Domänadress",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Domänadressen till din server",
+            "USER_NAME_KEY": "Användarnamn",
+            "THIS_IS_YOU_ON_THE_SERVER_KEY": "Detta är du på servern",
+            "SHARED_SECRET_KEY": "Delad hemlighet",
+            "YOU_SHARE_THIS_SECRET_WITH_THE_SERVER_KEY": "Du delar denna hemlighet med servern",
+            "CHECKSUM_KEY": "Checksum",
+            "CHECKSUM_OF_DOMAIN_ADDRESS_+_USER_NAME_+_SHARED_SECRET._KEY": "Checksum för domänadress + användarnamn + delad hemlighet.",
+            "ALLOWED_SERVER_PLUGINS_KEY": "Tillåtna serverplugins",
+            "LIST_WITH_ALL_SERVER_PLUGIN_NAMES_YOU_CAN_SEND_MESSAGES_TO_ON_THE_REMOTE_NODE_KEY": "Lista med alla server plugin namn du kan skicka meddelanden till på fjärrnoden"
+        },
+        "infohub_login_export": {
+            "EXPORT_CONTACT_KEY": "Exportkontakt",
+            "HERE_YOU_CAN_EXPORT_THE_CONTACT_DATA_KEY": "Här kan du exportera kontaktdata",
+            "EXPORT_KEY": "Export"
+        },
+        "infohub_login_forget": {
+            "FORGET_CONTACT_KEY": "Glöm kontakt",
+            "HERE_YOU_CAN_LET_THE_BROWSER_FORGET_THE_CONTACT_DATA._KEY": "Här kan du låta webbläsaren glömma kontaktdata.",
+            "YOU_CAN_ALWAYS_IMPORT_YOUR_FILE_AGAIN._KEY": "Du kan alltid importera din fil igen.",
+            "FORGET_KEY": "Glöm"
+        },
+        "infohub_login_import": {
+            "IMPORT_KEY": "Importera import",
+            "IMPORT_THE_CONTACT_INFORMATION_FROM_FILE_KEY": "Importera kontaktinformationen från filen",
+            "SELECT_FILE_KEY": "Välj fil"
+        },
+        "infohub_login_login": {
+            "LOGIN_KEY": "Login",
+            "HERE_YOU_CAN_USE_THE_CONTACT_DATA_YOU_IMPORTED_AND_LOGIN_TO_THE_SERVER_KEY": "Här kan du använda de kontaktuppgifter du importerade och logga in på servern",
+            "PASSWORD_KEY": "Lösenord",
+            "THE_PASSWORD_YOU_NEED_TO_DECODE_THE_SHARED_SECRET_KEY": "Lösenordet du behöver avkoda den delade hemligheten",
+            "LOGIN_RESULT_KEY": "Login resultat",
+            "RELOAD_AFTER_LOGIN_KEY": "Reload efter inloggning",
+            "YOU_ARE_ALREADY_LOGGED_IN_KEY": "Du är redan inloggad",
+            "MISSING_USER_NAME_KEY": "Saknar användarnamn",
+            "MISSING_RANDOM_CODE_KEY": "Saknar slumpkod",
+            "THE_ANSWER_FROM_THE_SERVER_TOOK_TOO_LONG_TIME._KEY": "Svaret från servern tog för lång tid.",
+            "I_WILL_ABANDON_THE_LOGIN_ATTEMPT_KEY": "Jag överger inloggningsförsöket",
+            "FAILED_TO_LOGIN_KEY": "Underlåten att logga in",
+            "SUCCESS_LOGGING_IN_KEY": "Framgångsloggning i",
+            "THE_RANDOM_CODE_DO_NOT_HAVE_THE_CORRECT_LENGTH_KEY": "Den slumpmässiga koden har inte rätt längd",
+            "UNLIKELY_THAT_THE_TOTAL_AVERAGE_HAS_NO_DECIMALS_KEY": "Osannolikt att det totala genomsnittet inte har några decimaler",
+            "UNLIKELY_THAT_THE_AVERAGE_IS_EQUAL_TO_THE_TOTAL_AVERAGE_KEY": "Osannolikt att genomsnittet är lika med det totala genomsnittet",
+            "THESE_SIMPLE_TESTS_SHOW_THAT_THE_RANDOM_CODE_AT_LEAST_IS_NOT_A_FLAT_LINE_OF_NUMBERS._KEY": "Dessa enkla tester visar att slumpkoden åtminstone inte är en platt rad siffror."
+        },
+        "infohub_login_logout": {
+            "LOGOUT_KEY": "Logout",
+            "HERE_YOU_CAN_LOGOUT_FROM_THE_SERVER_KEY": "Här kan du logga ut från servern",
+            "IF_SUCCESSFUL_THEN_THE_LOGIN_PAGE_SHOWS_KEY": "Om det är framgångsrikt visar inloggningssidan",
+            "LOGOUT_RESULT_KEY": "Logout resultat",
+            "FAILED_TO_LOGOUT_KEY": "Misslyckades med logout",
+            "SUCCESS_LOGGING_OUT_KEY": "Framgång loggning ut"
+        },
+        "infohub_login_menu": {
+            "MENU_KEY": "Menyn",
+            "IMPORT_CONTACT_DATA_KEY": "Importera kontaktuppgifter",
+            "LOGIN_KEY": "Login",
+            "SET_PASSWORD_KEY": "Ange lösenord",
+            "EXPORT_CONTACT_DATA_KEY": "Export kontaktdata",
+            "LOGOUT_KEY": "Logout",
+            "FORGET_CONTACT_KEY": "Glöm kontakt"
+        },
+        "infohub_login_password": {
+            "SET_PASSWORD_KEY": "Ange lösenord",
+            "WHEN_YOU_SET_YOUR_LOCAL_PASSWORD_YOU_SCRAMBLE_THE_SHARED_SECRET_SO_THAT_IT_REQUIRE_YOUR_PASSWORD_TO_WORK_KEY": "När du ställer in ditt lokala lösenord kryper du den delade hemligheten så att det kräver ditt lösenord för att fungera",
+            "CURRENT_PASSWORD_KEY": "Nuvarande lösenord",
+            "LEAVE_BLANK_IF_YOU_HAVE_NONE_KEY": "Lämna tomt om du inte har någon",
+            "NEW_PASSWORD_KEY": "Nytt lösenord",
+            "LEAVE_BLANK_IF_YOU_WANT_TO_REMOVE_THE_PASSWORD_KEY": "Lämna tom om du vill ta bort lösenordet",
+            "CHANGE_PASSWORD_KEY": "Ändra lösenord"
+        },
+        "infohub_login_standalone": {
+            "LOGIN_KEY": "Login",
+            "SELECT_FILE_KEY": "Välj fil",
+            "PASSWORD_KEY": "Lösenord",
+            "DOWNLOAD_DEMO_ACCOUNT_KEY": "Ladda ner demo-konto",
+            "LOGIN_RESULT_KEY": "Login resultat",
+            "MORE_KEY": "Mer",
+            "CURRENT_URL_KEY": "Nuvarande url",
+            "REFRESH_PAGE_KEY": "Refresh page"
+        }
+    }
+}

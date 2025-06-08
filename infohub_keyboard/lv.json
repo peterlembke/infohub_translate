@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "lv",
+        "language_name": "Latvian",
+        "language_name_local": "Latviešu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Tastatūra",
+        "description": "Šeit jūs varat abonēt tastatūras kombinācijas un piesaistīt tās funkcijām."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Tastatūras testi",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Mēģiniet kombinācijas uz klaviatūras",
+            "ANY_BUTTON_KEY": "Jebkura poga",
+            "SUBSCRIBE_KEY": "Pierakstīties",
+            "UNSUBSCRIBE_KEY": "Atrakstīties",
+            "SHOW_SUBSCRIBERS_KEY": "Rādīt abonentus",
+            "KEYBOARD_DEMO_POPUP_KEY": "Tastatūras demo uznirstošais logs"
+        }
+    }
+}

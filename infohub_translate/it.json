@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:46:01",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "it",
+        "language_name": "Italian",
+        "language_name_local": "Italiano",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Traduttore",
+        "description": "Tradurre manualmente una frase. Crea file di lingua per i plugin."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Istruzioni",
+            "USE_THE_MENU._KEY": "Usa il menu."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "La documentazione verrà resa qui",
+            "MAIN_DOC_KEY": "Doc principale",
+            "MANUAL_TRANSLATION_KEY": "Traduzione manuale",
+            "PLUGIN_TRANSLATION_KEY": "Traduzione del plugin"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Traduzione manuale",
+            "REFRESH_LANGUAGE_LIST_KEY": "Elenco delle lingue",
+            "SELECT_LANGUAGE_KEY": "Seleziona la lingua",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Selezionare la lingua di origine.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Seleziona la lingua di destinazione.",
+            "YOUR_TEXT_KEY": "Il tuo testo",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Il testo che vuoi tradurre.",
+            "TRANSLATE_KEY": "Traduttore",
+            "THE_TRANSLATED_TEXT_KEY": "Il testo tradotto",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Il testo che si ottiene dopo la traduzione.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Seleziona la lingua di destinazione. Scrivi un testo. Fare clic su tradurre",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Scegli una lingua da tradurre",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Scrivere qualcosa in modo da poter tradurre",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Scegli una lingua da tradurre",
+            "TRANSLATION_DONE_KEY": "Traduzione fatta"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Strumento di traduzione",
+            "DOCUMENTATION_KEY": "Documentazione",
+            "MANUAL_TRANSLATION_KEY": "Traduzione manuale",
+            "PLUGIN_TRANSLATION_KEY": "Traduzione del plugin"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Liste dei rifiuti",
+            "SELECT_PLUGIN_KEY": "Seleziona plugin",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Elenca tutti i plugin client che possono avere file di traduzione.",
+            "SELECT_LANGUAGES_KEY": "Seleziona lingue",
+            "TRANSLATE_KEY": "Traduttore",
+            "PLUGIN_TRANSLATION_KEY": "Traduzione del plugin",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Seleziona plugin e lingue",
+            "CLICK_TRANSLATE_KEY": "Fare clic su tradurre",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Rifiuto delle liste è fatto",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Scegli uno o più plugin per tradurre",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Scegli una o più lingue da tradurre",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Chiedere al server di tradurre",
+            "TO_LANGUAGES_KEY": "Alle lingue",
+            "TRANSLATION_DONE_KEY": "Traduzione fatta",
+            "EXECUTION_TIME_KEY": "Tempo di esecuzione",
+            "SECONDS_KEY": "Secondo"
+        }
+    }
+}

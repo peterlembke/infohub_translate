@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:00:18",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "ar",
+        "language_name": "Arabic",
+        "language_name_local": "العربية",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "الوثائق",
+        "description": "وثائق كاملة عن \"إنفو هوب\" و جميع المزمار."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "الوثيقة",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "هنا سترى الوثيقة"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "مؤشر التجديد",
+            "INDEX_KEY": "الفهرس"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "الملاحة النادرة",
+            "NAVIGATION_KEY": "الملاحة"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Refresh visited"
+        }
+    }
+}

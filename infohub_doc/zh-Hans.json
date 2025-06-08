@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 17:57:35",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "zh-Hans",
+        "language_name": "Chinese",
+        "language_name_local": "中国语",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "文档",
+        "description": "InfoHub 和所有插件的完整文档 ."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "文档",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "在这里,你会看到文件"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "刷新索引",
+            "INDEX_KEY": "指数"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "刷新导航",
+            "NAVIGATION_KEY": "导航"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "刷新访问"
+        }
+    }
+}

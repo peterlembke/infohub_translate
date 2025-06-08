@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "lt",
+        "language_name": "Lithuanian",
+        "language_name_local": "Lietuvių",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Išbandyti siunčiamus pranešimus",
+        "description": "Kaip kūrėjas galite pamatyti, kas atsitinka, kai siunčiate pranešimą įskiepiai ar funkcija, kuri neegzistuoja."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Instrukcijos",
+            "USE_THE_MENU._KEY": "Naudokite meniu.",
+            "RESULT_KEY": "Rezultatas"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Demo skambutis",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Čia galite ištirti, kas atsitinka, jei skambinate įskiepiai, kad trūksta, arba trūkstama funkcija",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Klientas - teisingas skambutis. Įskiepis ir funkcija egzistuoja",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Klientas - įskiepiai egzistuoja, cmd funkcija neegzistuoja",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Klientas - įskiepio trūksta",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Serveris - teisingas skambutis. Įskiepis ir funkcija egzistuoja",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Serveris - įskiepiai egzistuoja, cmd funkcija neegzistuoja",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Serveris - nėra įskiepio",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Klientas - vaikas kalba su galiojančiu atsakovu",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Klientas - netinkamas skambutis broliui ar sesei",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Klientas - netinkamas skambutis iš vaiko į tėvą",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Serveris - atlikti visus serverio testus"
+        }
+    }
+}

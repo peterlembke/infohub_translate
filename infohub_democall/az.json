@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "az",
+        "language_name": "Azerbaijani",
+        "language_name_local": "Bakı",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Test mesajları",
+        "description": "Bir geliştirici kimi, mövcud deyil bir plugin və ya funksiya bir mesaj göndərdiyiniz zaman olanları görə bilərsiniz."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Qeydiyyat",
+            "USE_THE_MENU._KEY": "Menyu istifadə edin.",
+            "RESULT_KEY": "Sonuncu"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Demo axtarış",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Burada, eksik olan bir plugin çağırırsan, və ya eksik funksiya",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Yadda saxla Plugin və funksiya",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Yadda saxla",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Yadda saxla",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Yadda saxla Plugin və funksiya",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Yadda saxla",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Yadda saxla",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Yadda saxla",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Yadda saxla",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Yadda saxla",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Yadda saxla"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "nb",
+        "language_name": "Norwegian",
+        "language_name_local": "Norsk",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Test sende meldinger",
+        "description": "Som utvikler kan du se hva som skjer når du sender en melding til en plugin eller funksjon som ikke eksisterer."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Instruksjoner",
+            "USE_THE_MENU._KEY": "Bruk menyen.",
+            "RESULT_KEY": "Resultat"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Demosamtale",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Her kan du utforske hva som skjer hvis du ringer et plugin som mangler, eller en manglende funksjon",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Kunden - riktig telefon. Plugin og funksjon finnes",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Kunden - plugin eksisterer, cmd funksjon eksisterer ikke",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Kunde - plugin mangler",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Server - riktig samtale. Plugin og funksjon finnes",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Server - plugin finnes, cmd funksjonen eksisterer ikke",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Server - plugin mangler",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Kunde - Barn snakker med gyldige respondenter",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Kunde - ugyldig samtale til søsken barn",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Kunde - ugyldig telefon fra barn til foreldre",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Server - kjør alle servertester"
+        }
+    }
+}

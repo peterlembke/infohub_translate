@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "ga",
+        "language_name": "Irish",
+        "language_name_local": "Gaeilge na hÉireann",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Obair gan an idirlíon",
+        "description": "Anseo is féidir leat a ullmhú le haghaidh oibre gan an rochtain ar an bhfreastalaí. Íoslódálacha sonraí a d'fhéadfadh a bheith de dhíth ort."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Seirbhís do Chustaiméirí",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Uirlisí a fheiceáil má tá tú ar líne nó as líne.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Féach cad plugins atá ag síntiús leis an ócáid sin.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Buttons a íoslódáil agus a stóráil sonraí a ullmhú le haghaidh úsáid as líne.",
+            "DOWNLOAD_PLUGINS_KEY": "Íoslódáil plugins",
+            "OF_KEY": "As an",
+            "DOWNLOAD_ASSETS_KEY": "Íoslódáil sócmhainní",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Doiciméid a íoslódáil",
+            "SHOW_SUBSCRIBERS_KEY": "Taispeáin síntiúsóirí",
+            "STATUS_KEY": "Stádas"
+        }
+    }
+}

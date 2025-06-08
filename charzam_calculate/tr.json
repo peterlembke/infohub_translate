@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:18:57",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "tr",
+        "language_name": "Turkish",
+        "language_name_local": "Türk Türkçesi",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "İlgi oranları hesaplama",
+        "description": "Ekonomi, ilgi oranları gibi alanlarda hesaplayın, vs."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Talimatlar",
+            "USE_THE_MENU._KEY": "Menüyü kullanın."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Yıllık faiz oranınızı yıllık faiz oranından hesaplayabilirsiniz.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Her ay tasarruflarınızla ilgili banka ilgisini eklemek için bütçenizdeki sonucu kullanabilirsiniz.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Bu problemi faiz oranına ilgi oranıyla çözer.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Aylık kredi faiz oranlarını hesaplarsanız, bu aracı kullanmıyorsunuz.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Krediler için yıllık faiz oranını 12'ye ayırıyorsunuz.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Farklılık, kredilerin faiz oranına ilgisi yoktur.",
+            "INTEREST_RATE_KEY": "İlgi oranı",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Talimatlar için tıklayın...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Tasarrufunuzda aylık faiz oranı hesaplayın",
+            "YEARLY_INTEREST_RATE_KEY": "Yıllık ilgi oranı",
+            "CALCULATE_KEY": "Hesaplama",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Aylık faiz oranı yüzde yüzde yüzde Yüzde",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Aylık ilgi oranı yüzde iki dekimal ile",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Aylık faiz oranı",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Aylık ilgi oranı, tüm hayal kırıklıkları ile boğar",
+            "CALCULATION_OK_KEY": "Hesaplama tamam",
+            "CALCULATION_VERIFIED_OK_KEY": "Hesaplama doğrulandı",
+            "CALCULATION_FAILED_KEY": "Hesaplama başarısız oldu",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Hesaplama başarısız doğrulama"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Aylık faiz oranı"
+        }
+    }
+}

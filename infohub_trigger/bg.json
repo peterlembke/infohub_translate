@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "bg",
+        "language_name": "Bulgarian",
+        "language_name_local": "Български",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Изпращане на потребителско съобщение",
+        "description": "Като разработчик можете да изпращате съобщения до вашите функции."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Спусък",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Вие като разработчик може да изпрати съобщение до вашия появяващ се плъгин.",
+            "REFRESH_DATA_KEY": "Обновяване на данните",
+            "NODE_KEY": "Възел",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Изберете възела, на който искате да изпратите съобщението",
+            "CLIENT_KEY": "Клиент",
+            "SERVER_KEY": "Сървър",
+            "PLUGIN_KEY": "Приставка",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Изберете плъгин искате да изпратите съобщението до",
+            "FUNCTION_KEY": "Функция",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Изберете функцията, на която искате да изпратите съобщението",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Съобщение по подразбиране за избраната функция",
+            "MESSAGE_KEY": "Съобщение",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Това е съобщението, което можете да изпратите на избрания плъгин.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Съобщението, което виждате, е стойностите по подразбиране, които функцията е задала.",
+            "GET_ALL_KEY": "Вземи всичко",
+            "BARE_BONE_KEY": "Кокалесто дърво",
+            "GET_DEFAULT_MESSAGE_KEY": "Получаване на съобщение по подразбиране",
+            "SEND_MESSAGE_KEY": "Изпращане на съобщение",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Отговор от функцията",
+            "RESPONSE_KEY": "Отговор",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Тук ще видите отговора от функцията.",
+            "NO_CONFIG_KEY": "Без конфигуриране"
+        }
+    }
+}

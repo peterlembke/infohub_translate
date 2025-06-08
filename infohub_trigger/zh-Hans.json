@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 17:57:35",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "zh-Hans",
+        "language_name": "Chinese",
+        "language_name_local": "中国语",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "发送自定义消息",
+        "description": "作为开发者,您可以向您的功能发送消息."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "触发",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "您作为开发者可以向您的新兴插件发送消息 .",
+            "REFRESH_DATA_KEY": "刷新数据",
+            "NODE_KEY": "节点",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "选择要发送信件的节点",
+            "CLIENT_KEY": "客户端",
+            "SERVER_KEY": "服务器",
+            "PLUGIN_KEY": "插头",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "选择要发送信件的插件",
+            "FUNCTION_KEY": "函数",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "选择要发送消息的函数",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "选定函数的默认消息",
+            "MESSAGE_KEY": "消息",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "这是您可以发送到选中插件的信件 .",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "您看到的信息是函数设置的默认值 .",
+            "GET_ALL_KEY": "都来",
+            "BARE_BONE_KEY": "赤骨头",
+            "GET_DEFAULT_MESSAGE_KEY": "获取默认消息",
+            "SEND_MESSAGE_KEY": "发送消息",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "函数的回应",
+            "RESPONSE_KEY": "回应",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "在此您可以看到函数的响应 .",
+            "NO_CONFIG_KEY": "无配置"
+        }
+    }
+}

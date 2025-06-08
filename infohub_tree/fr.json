@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:01:58",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "fr",
+        "language_name": "French",
+        "language_name_local": "Français",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "L'arbre",
+        "description": "Gérez vos données personnelles."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Instructions",
+            "USE_THE_MENU._KEY": "Utilisez le menu."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Toutes les sauvegardes",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Sauvegarde complète de toutes vos données que vous avez sur le serveur.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Tu as un dossier avec tout.",
+            "BACKUP_EVERYTHING_KEY": "Sauvegardez tout",
+            "BACKUP_PLUGINS_KEY": "Greffons de sauvegarde",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Sauvegarde de chaque plugin séparément.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Vous obtenez un fichier de sauvegarde pour chaque plugin.",
+            "REFRESH_PLUGIN_LIST_KEY": "Actualiser la liste des plugins",
+            "PLUGIN_LIST_KEY": "Liste des greffons",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Liste avec tous les plugins arborescence",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Sauvegarder les plugins sélectionnés",
+            "PARTIAL_BACKUP_KEY": "Sauvegarde partielle",
+            "PARTIAL_BACKUP._KEY": "Sauvegarde partielle.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Sélectionnez un plugin et sélectionnez les clés à sauvegarder.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Vous avez un fichier de sauvegarde.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Liste avec tous les plugins arborescence.",
+            "SELECT_ONE_KEY": "Sélectionner une",
+            "REFRESH_KEY_LIST_KEY": "Actualiser la liste des clés",
+            "KEYS_KEY": "Clés",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Toutes les clés pour le plugin sélectionné.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Sélectionnez ceux que vous voulez sauvegarder",
+            "BACKUP_SELECTED_KEYS_KEY": "Sauvegarde des clés sélectionnées"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "La documentation sera rendue ici",
+            "MAIN_DOC_KEY": "Doc. principal",
+            "VERSION_DOC_KEY": "Version doc",
+            "ENCRYPTION_DOC_KEY": "Chiffrement doc",
+            "BACKUP_DOC_KEY": "Doc. de sauvegarde",
+            "RESTORE_DOC_KEY": "Restaurer le doc",
+            "STORAGE_DOC_KEY": "Document de stockage",
+            "SYNC_DOC_KEY": "Sync doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Importer le fichier clé",
+            "ONE_CONTACT_KEY": "Un seul contact",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Ceci est le formulaire de données pour un contact",
+            "IMPORT_PASSWORD_KEY": "Importer le mot de passe",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Votre mot de passe pour le fichier",
+            "FORGET_IMPORTED_KEY_KEY": "Oubliez l'importation",
+            "EXPORT_KEY_FILE_KEY": "Exporter le fichier clé",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Exporter la clé importée avec un nouveau mot de passe",
+            "EXPORT_PASSWORD_KEY": "Exporter le mot de passe",
+            "CREATE_KEY_FILE_KEY": "Créer un fichier clé",
+            "CREATE_NEW_KEY_FILE_KEY": "Créer un nouveau fichier clé",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Créer une nouvelle clé avec un nouveau mot de passe"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Gestionnaire d'arbres",
+            "DOCUMENTATION_KEY": "Documentation",
+            "VERSION_KEY": "Version",
+            "ENCRYPTION_KEY": "Chiffrement",
+            "BACKUP_KEY": "Sauvegarde",
+            "RESTORE_KEY": "Restauration",
+            "SYNC_KEY": "Synchronisation"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Conflits",
+            "SELECT_BACKUP_FILES_KEY": "Sélectionnez les fichiers de sauvegarde",
+            "CLEAR_LIST_KEY": "Effacer la liste",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Restaurer les données dans le stockage du navigateur",
+            "BACKUP_FILES_KEY": "Fichiers de sauvegarde",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Voici une liste avec tous les fichiers de sauvegarde que vous avez sélectionnés dans le sélecteur de fichiers",
+            "INFORMATION_KEY": "Informations",
+            "RESTORE_LOG_KEY": "Restaurer le journal",
+            "CLICK_ON_THE_LIST_KEY": "Cliquez sur la liste",
+            "REFRESH_CONFLICT_LIST_KEY": "Actualiser la liste des conflits",
+            "KEEP_LOCAL_VERSION_KEY": "Conserver la version locale",
+            "KEEP_SERVER_VERSION_KEY": "Gardez la version du serveur",
+            "CONFLICT_LIST_KEY": "Liste des conflits"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Démarre la synchronisation ici",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Vous d'abord synchronisez, puis gérez les listes de téléchargement, de téléchargement et de conflit",
+            "CLICK_ON_THE_LIST_KEY": "Cliquez sur la liste",
+            "SYNC_KEY": "Synchronisation",
+            "UPLOAD_KEY": "Envoi",
+            "DOWNLOAD_KEY": "Télécharger",
+            "REFRESH_CONFLICT_LIST_KEY": "Actualiser la liste des conflits",
+            "KEEP_LOCAL_VERSION_KEY": "Conserver la version locale",
+            "KEEP_SERVER_VERSION_KEY": "Gardez la version du serveur",
+            "CONFLICT_LIST_KEY": "Liste des conflits",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Tu peux m'aider à décider quelle version garder"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Actualiser les données de la version"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:00:18",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "ar",
+        "language_name": "Arabic",
+        "language_name_local": "العربية",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "المستعملون والنوديس",
+        "description": "يمكنك التعامل مع مستخدميك هنا يمكنك أن تجهز وصولاً إلى أماكن الخادم الأخرى هنا."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "التعليمات",
+            "USE_THE_MENU._KEY": "استخدم القائمة."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "عملاء جدد",
+            "CLIENT_CONTACTS_KEY": "اتصالات العملاء",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "قائمة بجميع الاتصالات مع العملاء",
+            "NEW_KEY": "جديدة",
+            "SAVE_KEY": "أنقذ",
+            "DELETE_KEY": "تحذف",
+            "IMPORT_KEY": "الواردات",
+            "EXPORT_KEY": "الصادرات",
+            "ONE_CONTACT_KEY": "اتصال واحد",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "هذا هو استمارة البيانات لتواصل واحد",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "اسمك الفريد للعميل",
+            "NOTE_KEY": "ملاحظة",
+            "ANY_TEXT_YOU_WANT_KEY": "أي نص تريد",
+            "DOMAIN_ADDRESS_KEY": "عنوان Domain",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "عنوان المجال لخادمكم",
+            "USER_NAME_KEY": "اسم المستخدم",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "تَحْصلُ على a محرّكِ عندما تُوفّرُ (تَرْك فارغ)",
+            "SHARED_SECRET_KEY": "سرية مشتركة",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "سوف تحصلين على خيط عشوائي 2k عندما تنقذين",
+            "ALLOWED_ROLES_KEY": "الأدوار المسموح بها",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "قائمة بجميع أدوار المستخدمين",
+            "USER_KEY": "مستعمل",
+            "DEVELOPER_KEY": "المطور",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "له كلمة سر",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "إذا كان الملف المستورد يحتوي على كلمة سر عملاء حددها المستخدم"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "الوثائق ستصدر هنا",
+            "MAIN_DOC_KEY": "المركز الرئيسي(ج)",
+            "CLIENT_DOC_KEY": "طبيب العملاء(ج)",
+            "SERVER_DOC_KEY": "Server doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "مدير اتصال",
+            "DOCUMENTATION_KEY": "الوثائق",
+            "CLIENT_CONTACT_KEY": "الاتصال مع العملاء",
+            "SERVER_CONTACT_KEY": "جهاز اتصال"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "التجديد",
+            "SERVER_CONTACTS_KEY": "أجهزة اتصال",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "List all server contacts",
+            "SAVE_KEY": "أنقذ",
+            "DELETE_KEY": "تحذف",
+            "IMPORT_KEY": "الواردات",
+            "EXPORT_KEY": "الصادرات",
+            "PING_SERVER_KEY": "خادوم",
+            "ONE_CONTACT_KEY": "اتصال واحد",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "هذه هي استمارة البيانات لتواصل واحد.",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "إسمك الفريد",
+            "NOTE_KEY": "ملاحظة",
+            "ANY_TEXT_YOU_WANT_KEY": "أي نص تريد",
+            "DOMAIN_ADDRESS_KEY": "عنوان Domain",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "The domain address to the remote server",
+            "USER_NAME_KEY": "اسم المستخدم",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "هل حصلت من الخادم البعيد",
+            "SHARED_SECRET_KEY": "سرية مشتركة",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k عشوائي الخادم البعيد",
+            "ALLOWED_ROLES_KEY": "الأدوار المسموح بها",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "قائمة بجميع الأدوار التي يضطلع بها هذا الحساب",
+            "USER_KEY": "مستعمل",
+            "DEVELOPER_KEY": "المطور",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

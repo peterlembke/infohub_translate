@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "th",
+        "language_name": "Thai",
+        "language_name_local": "ภาษาไทยName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ต้นไม้",
+        "description": "จัดการข้อมูลส่วนตัวของคุณ."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "การ สอน",
+            "USE_THE_MENU._KEY": "ใช้เมนูสิ."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "สํารองข้อมูลทั้งหมด",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "สํารองข้อมูลทั้งหมดที่คุณมีบนเซิร์ฟเวอร์.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "คุณจะได้รับหนึ่งไฟล์กับทุกอย่าง.",
+            "BACKUP_EVERYTHING_KEY": "สํารองข้อมูลทุกอย่าง",
+            "BACKUP_PLUGINS_KEY": "ปลั๊กอินสํารองข้อมูล",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "สํารองข้อมูลของปลั๊กอินแต่ละตัวแยกกัน.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "คุณได้แฟ้มสํารองข้อมูลสําหรับแต่ละปลั๊กอิน.",
+            "REFRESH_PLUGIN_LIST_KEY": "ปรับปรุงรายการส่วนเสริมใหม่",
+            "PLUGIN_LIST_KEY": "รายการส่วนเสริม",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "รายการส่วนเสริมต้นไม้ทั้งหมด",
+            "BACKUP_SELECTED_PLUGINS_KEY": "ปลั๊กอินที่เลือกสํารองข้อมูล",
+            "PARTIAL_BACKUP_KEY": "แบ็คเอนต์สํารองข้อมูล",
+            "PARTIAL_BACKUP._KEY": "กําลังเสริม.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "เลือกส่วนเสริมหนึ่งตัว แล้วเลือกปุ่มสํารอง.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "คุณได้แฟ้มสํารองข้อมูลหนึ่งแฟ้ม.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "รายการด้วยส่วนเสริมต้นไม้ทั้งหมด.",
+            "SELECT_ONE_KEY": "เลือกหนึ่ง",
+            "REFRESH_KEY_LIST_KEY": "ปรับปรุงรายการกุญแจใหม่",
+            "KEYS_KEY": "กุญแจ",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "กุญแจทั้งหมดสําหรับปลั๊กอินที่เลือกไว้.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "เลือกรายการที่คุณต้องการจะสํารองข้อมูล",
+            "BACKUP_SELECTED_KEYS_KEY": "สํารองกุญแจที่เลือก"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "เอกสารจะแสดงผลที่นี่",
+            "MAIN_DOC_KEY": "หมอหลัก",
+            "VERSION_DOC_KEY": "ด็อกเวอร์ชัน",
+            "ENCRYPTION_DOC_KEY": "ด็อกการเข้ารหัส",
+            "BACKUP_DOC_KEY": "โปรแกรมสํารองข้อมูล",
+            "RESTORE_DOC_KEY": "เรียกคืนเอกสาร",
+            "STORAGE_DOC_KEY": "ด็อกเก็บ",
+            "SYNC_DOC_KEY": "ปรับเทียบข้อมูลหมอ"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "นําเข้าแฟ้มกุญแจ",
+            "ONE_CONTACT_KEY": "1 คน",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "นี่เป็นแบบฟอร์มข้อมูลสําหรับการติดต่อเดียว",
+            "IMPORT_PASSWORD_KEY": "นําเข้ารหัสผ่าน",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "รหัสผ่านของคุณสําหรับแฟ้ม",
+            "FORGET_IMPORTED_KEY_KEY": "ลืมการนําเข้า",
+            "EXPORT_KEY_FILE_KEY": "ส่งออกแฟ้มกุญแจ",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "ส่งออกกุญแจนําเข้าโดยใช้รหัสผ่านตัวใหม่",
+            "EXPORT_PASSWORD_KEY": "ส่งออกรหัสผ่าน",
+            "CREATE_KEY_FILE_KEY": "สร้างแฟ้มกุญแจ",
+            "CREATE_NEW_KEY_FILE_KEY": "สร้างแฟ้มกุญแจใหม่",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "สร้างกุญแจใหม่ด้วยรหัสผ่านตัวใหม่"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "ตัวจัดการผังต้นไม้",
+            "DOCUMENTATION_KEY": "เอกสาร",
+            "VERSION_KEY": "รุ่น",
+            "ENCRYPTION_KEY": "การเข้ารหัส",
+            "BACKUP_KEY": "สํารองข้อมูล",
+            "RESTORE_KEY": "เรียกคืน",
+            "SYNC_KEY": "ปรับเทียบข้อมูล"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "ความขัดแย้ง",
+            "SELECT_BACKUP_FILES_KEY": "เลือกแฟ้มสํารองข้อมูล",
+            "CLEAR_LIST_KEY": "ล้างรายการ",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "เรียกคืนข้อมูลไปยังคลังเก็บของเบราว์เซอร์",
+            "BACKUP_FILES_KEY": "สํารองข้อมูลแฟ้ม",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "นี่เป็นรายการที่มีแฟ้มสํารองข้อมูลทั้งหมดที่คุณเลือกไว้ในเครื่องมือเลือกแฟ้ม",
+            "INFORMATION_KEY": "ข้อมูล",
+            "RESTORE_LOG_KEY": "เรียกคืนปูมบันทึก",
+            "CLICK_ON_THE_LIST_KEY": "คลิกในรายการ",
+            "REFRESH_CONFLICT_LIST_KEY": "ปรับปรุงรายการความขัดแย้งใหม่",
+            "KEEP_LOCAL_VERSION_KEY": "คงรุ่นของระบบไว้",
+            "KEEP_SERVER_VERSION_KEY": "คงรุ่นของแม่ข่ายไว้",
+            "CONFLICT_LIST_KEY": "ขัดแย้งกับรายการ"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "เริ่มการจับคู่ที่นี่",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "คุณปรับเทียบครั้งแรก จากนั้นจัดการการอัปโหลดดาวน์โหลดและความขัดแย้ง",
+            "CLICK_ON_THE_LIST_KEY": "คลิกในรายการ",
+            "SYNC_KEY": "ปรับเทียบข้อมูล",
+            "UPLOAD_KEY": "อัปโหลด",
+            "DOWNLOAD_KEY": "ดาวน์โหลด",
+            "REFRESH_CONFLICT_LIST_KEY": "ปรับปรุงรายการความขัดแย้งใหม่",
+            "KEEP_LOCAL_VERSION_KEY": "คงรุ่นของระบบไว้",
+            "KEEP_SERVER_VERSION_KEY": "คงรุ่นของแม่ข่ายไว้",
+            "CONFLICT_LIST_KEY": "ขัดแย้งกับรายการ",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "คุณช่วยฉันตัดสินใจได้ว่าอะไร"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "ปรับปรุงข้อมูลรุ่นใหม่อีกครั้ง"
+        }
+    }
+}

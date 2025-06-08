@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:18:57",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "tr",
+        "language_name": "Turkish",
+        "language_name_local": "Türk Türkçesi",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Çeviri çevirisi",
+        "description": "Manually bir cümle tercüme eder. Eklentiler için dil dosyaları oluşturun."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Talimatlar",
+            "USE_THE_MENU._KEY": "Menüyü kullanın."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokümantasyon burada doğacak",
+            "MAIN_DOC_KEY": "Main docc",
+            "MANUAL_TRANSLATION_KEY": "Manual çeviri çevirisi",
+            "PLUGIN_TRANSLATION_KEY": "Eklenti çevirisi"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Manual çeviri çevirisi",
+            "REFRESH_LANGUAGE_LIST_KEY": "Yeni dil listesi",
+            "SELECT_LANGUAGE_KEY": "Dili seçin",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Kaynak dili seçin.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Hedef dili seçin.",
+            "YOUR_TEXT_KEY": "Sizin metin",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Tercüme etmek istediğiniz metin.",
+            "TRANSLATE_KEY": "Çeviri çevirisi",
+            "THE_TRANSLATED_TEXT_KEY": "Tercüme metin",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Çeviriden sonra aldığınız metin.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Hedef dili seçin. Write text. Click çeviri çevirisi",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Tercüme etmek için bir dil seçin",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Bir şey yazın, böylece tercüme edebilirim",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Tercüme etmek için bir dil seçin",
+            "TRANSLATION_DONE_KEY": "Çeviri yapıldı"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Çeviri aracı",
+            "DOCUMENTATION_KEY": "Dokümantasyon",
+            "MANUAL_TRANSLATION_KEY": "Manual çeviri çevirisi",
+            "PLUGIN_TRANSLATION_KEY": "Eklenti çevirisi"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Yeni liste listeleri",
+            "SELECT_PLUGIN_KEY": "Eklenti seçin",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Çeviri dosyalarına sahip olabilecek tüm müşteri eklentilerini listeler.",
+            "SELECT_LANGUAGES_KEY": "Dilleri seçin",
+            "TRANSLATE_KEY": "Çeviri çevirisi",
+            "PLUGIN_TRANSLATION_KEY": "Eklenti çevirisi",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Eklentiler ve diller seçin",
+            "CLICK_TRANSLATE_KEY": "Click çeviri çevirisi",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Listelerin yenilenmesi yapılır",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Tercüme etmek için bir veya daha fazla eklenti seçin",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Bir veya daha fazla dil seçin, tercüme etmek için",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Sunucuyu çevirin",
+            "TO_LANGUAGES_KEY": "Diller için",
+            "TRANSLATION_DONE_KEY": "Çeviri yapıldı",
+            "EXECUTION_TIME_KEY": "Yürütme zamanı",
+            "SECONDS_KEY": "İkincisi"
+        }
+    }
+}

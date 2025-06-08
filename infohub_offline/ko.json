@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "ko",
+        "language_name": "Korean",
+        "language_name_local": "한국어",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "인터넷없이 작업",
+        "description": "서버에 액세스하지 않고 작업 할 수 있습니다. 필요한 다운로드 데이터."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Offline 도구",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "온라인 또는 오프라인이라면 볼 수 있습니다.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "플러그인이 그 이벤트에 대해 설명합니다.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "다운로드 및 저장 데이터는 오프라인 사용으로 준비합니다.",
+            "DOWNLOAD_PLUGINS_KEY": "플러그인 다운로드",
+            "OF_KEY": "이름 *",
+            "DOWNLOAD_ASSETS_KEY": "비밀번호",
+            "DOWNLOAD_DOCUMENTATION_KEY": "문서 다운로드",
+            "SHOW_SUBSCRIBERS_KEY": "회원 가입",
+            "STATUS_KEY": "주요연혁"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "lv",
+        "language_name": "Latvian",
+        "language_name_local": "Latviešu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Aprēķināt procentu likmes",
+        "description": "Aprēķināt tādās jomās kā ekonomika, procentu likmes utt."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Norādījumi",
+            "USE_THE_MENU._KEY": "Izmanto izvēlni."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Jūs varat aprēķināt mēneša procentu likmi saviem ietaupījumiem no gada procentu likmes.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Jūs varat izmantot rezultātu savā budžetā, lai pievienotu bankas procentus par saviem ietaupījumiem katru mēnesi.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Tas atrisina problēmu ar procentu likmi.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Ja jūs aprēķināt ikmēneša aizdevuma procentu likmes, tad neizmantojiet šo rīku.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Par aizdevumiem jūs sadalīt gada procentu likmi ar 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Starpība ir tāda, ka aizdevumiem nav procentu likmes.",
+            "INTEREST_RATE_KEY": "Procentu likme",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Nospiediet instrukcijas...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Aprēķināt mēneša procentu likmi par jūsu ietaupījumiem",
+            "YEARLY_INTEREST_RATE_KEY": "Gada procentu likme",
+            "CALCULATE_KEY": "Aprēķināt",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Mēneša procentu likme (%)",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Mēneša procentu likme ar diviem cipariem aiz komata",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Mēneša procentu likme aiz komata",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Mēneša procentu likme aiz komata ar visiem cipariem aiz komata jūsu bugdet",
+            "CALCULATION_OK_KEY": "Aprēķina ok",
+            "CALCULATION_VERIFIED_OK_KEY": "Aprēķins pārbaudīts ok",
+            "CALCULATION_FAILED_KEY": "Neizdevās aprēķināt",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Aprēķina neveiksmīgā verifikācija"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Mēneša procentu likme"
+        }
+    }
+}

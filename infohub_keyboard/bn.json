@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "bn",
+        "language_name": "Bengali",
+        "language_name_local": "বাংলা",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "কীবোর্ড",
+        "description": "এখানে আপনি কীবোর্ড কম্বিনেশনের গ্রাহক হতে পারেন এবং তাদের ফাংশনে বাঁধা দিতে পারেন ।."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "কি-বোর্ড পরীক্ষা",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "কীবোর্ডের উপর কম্বিনেশন চেষ্টা করুন",
+            "ANY_BUTTON_KEY": "যে কোনো বাটন",
+            "SUBSCRIBE_KEY": "সাবস্ক্রাইব করা",
+            "UNSUBSCRIBE_KEY": "থেকে",
+            "SHOW_SUBSCRIBERS_KEY": "গ্রাহক দেখাও",
+            "KEYBOARD_DEMO_POPUP_KEY": "কীবোর্ড ডেমো পপ-আপ"
+        }
+    }
+}

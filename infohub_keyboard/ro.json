@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:32:55",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "ro",
+        "language_name": "Romanian",
+        "language_name_local": "Română",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Tastatură",
+        "description": "Aici vă puteți abona la combinații de tastatură și le puteți lega de funcții."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Încercări de tastatură",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Încercați combinații pe tastatură",
+            "ANY_BUTTON_KEY": "Orice buton",
+            "SUBSCRIBE_KEY": "Abonează",
+            "UNSUBSCRIBE_KEY": "Dezabonează",
+            "SHOW_SUBSCRIBERS_KEY": "Afișează abonații",
+            "KEYBOARD_DEMO_POPUP_KEY": "Keyboard demo popup"
+        }
+    }
+}

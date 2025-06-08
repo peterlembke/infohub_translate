@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "th",
+        "language_name": "Thai",
+        "language_name_local": "ภาษาไทยName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ส่งจดหมายที่กําหนดเอง",
+        "description": "ในฐานะนักพัฒนา คุณสามารถส่งข้อความไปยังการทํางานของคุณ."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "ตัวกระตุ้น",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "คุณเป็นนักพัฒนาสามารถส่งข้อความ ไปยังส่วนเสริมของคุณ.",
+            "REFRESH_DATA_KEY": "ปรับปรุงข้อมูลใหม่",
+            "NODE_KEY": "โหนด",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "เลือกโหนดที่คุณต้องการจะส่งข้อความไปยัง",
+            "CLIENT_KEY": "ลูกข่าย",
+            "SERVER_KEY": "เซิร์ฟเวอร์",
+            "PLUGIN_KEY": "โปรแกรมเสริม",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "เลือกส่วนเสริมที่คุณต้องการจะส่งข้อความไปยัง",
+            "FUNCTION_KEY": "ฟังก์ชัน",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "เลือกฟังก์ชันที่คุณต้องการจะส่งข้อความไปยัง",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "ข้อความปริยายสําหรับฟังก์ชันที่เลือก",
+            "MESSAGE_KEY": "จดหมาย",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "นี่เป็นจดหมายที่คุณสามารถส่งไปยังส่วนเสริมที่เลือกไว้ได้.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "ข้อความที่คุณเห็น เป็นค่าปริยายที่ฟังก์ชันได้ตั้งค่าไว้.",
+            "GET_ALL_KEY": "ได้รับทั้งหมด",
+            "BARE_BONE_KEY": "กระดูก",
+            "GET_DEFAULT_MESSAGE_KEY": "ข้อความปริยาย",
+            "SEND_MESSAGE_KEY": "ส่งข้อความ",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "การตอบรับจากฟังก์ชัน",
+            "RESPONSE_KEY": "ปฏิกิริยา",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "ตรงนี้คุณจะเห็นการตอบสนองจากฟังก์ชัน.",
+            "NO_CONFIG_KEY": "ไม่มีการปรับแต่ง"
+        }
+    }
+}

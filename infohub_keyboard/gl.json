@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:59:33",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "gl",
+        "language_name": "Galician",
+        "language_name_local": "Galego",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Keyboard",
+        "description": "Aquí podes subscribirte ás combinacións de teclado e ligalas ás funcións."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Test Keyboard",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Probe combinacións no seu teclado",
+            "ANY_BUTTON_KEY": "Calquera botón",
+            "SUBSCRIBE_KEY": "Subscribe",
+            "UNSUBSCRIBE_KEY": "Unsubscribe",
+            "SHOW_SUBSCRIBERS_KEY": "Mostrar subscritores",
+            "KEYBOARD_DEMO_POPUP_KEY": "Keyboard demo popup"
+        }
+    }
+}

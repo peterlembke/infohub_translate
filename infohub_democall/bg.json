@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "bg",
+        "language_name": "Bulgarian",
+        "language_name_local": "Български",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Тестови съобщения",
+        "description": "Като разработчик можете да видите какво се случва, когато изпратите съобщение до плъгин или функция, която не съществува."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Инструкции",
+            "USE_THE_MENU._KEY": "Използвай менюто.",
+            "RESULT_KEY": "Резултат"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Demo call",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Тук можете да проучите какво се случва, ако се обадите на плъгин, който липсва, или липсва функция",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Клиент - правилно повикване. Приставка и функция",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Клиент - плъгин съществува, cmd функция не съществува",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Липсва приставка за клиент",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Сървър - правилно повикване. Приставка и функция",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Сървър - плъгин съществува, функцията на cmd не съществува",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Сървър - приставката липсва",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Клиент - дете разговаря с валидни отговорили",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Клиент - невалиден разговор с брат или сестра",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Клиент - невалидно обаждане от дете на родител",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Сървър - стартирайте всички сървърни тестове"
+        }
+    }
+}

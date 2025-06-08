@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:07:10",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "fa",
+        "language_name": "Persian",
+        "language_name_local": "فارسی",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "حذف ابزار",
+        "description": "ابزار برای توسعه دهندگان و تست کنندگان."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "تمیز کردن حافظه",
+            "DONE_REFRESHING_PAGE_KEY": "صفحه بازسازی",
+            "RELOAD_PAGE._KEY": "صفحه Reload.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "پلاگین های قدیمی مشخص شده توسط سرور را تمیز کنید. صفحه Reload.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "تمام افزونه های محلی را تمیز کنید، صفحه بارگذاری مجدد را باز کنید.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "تمام داده های محلی را پاک کنید، صفحه را بارگذاری کنید.",
+            "INSTRUCTIONS_KEY": "دستورالعمل ها",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "روی گزینه کلیک کنید یا از صفحه کلید استفاده کنید. این کلیدها همیشه در هر جایی که در Infohub هستید کار می کنند.",
+            "INFORMATION_KEY": "اطلاعات",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "همچنین در پایین صفحه نمایش پرتاب کننده به عنوان یک دکمه در صورتی که شما نمی توانید شروع به اشکال زدایی و هیچ صفحه کلید بر روی دستگاه خود را.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "تنها گزینه ای است که آیکون ها و ترجمه ها و تنظیمات را از ذخیره سازی محلی حذف می کند.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "خاموش کردن کش رندر برای کاربر",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "شما را بیرون و تازه کردن صفحه"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:05:36",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "id",
+        "language_name": "Indonesian",
+        "language_name_local": "Indonesia",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Dokumentasi",
+        "description": "Dokumentasi penuh atas InfoHub dan semua plugin."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "Dokumen",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Di sini Anda akan melihat dokumen"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Indeks refresh",
+            "INDEX_KEY": "Indeks"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "Segarkan navigasi",
+            "NAVIGATION_KEY": "Navigasi"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Segarkan dikunjungi"
+        }
+    }
+}

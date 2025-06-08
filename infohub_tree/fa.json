@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:07:10",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "fa",
+        "language_name": "Persian",
+        "language_name_local": "فارسی",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "درخت",
+        "description": "اطلاعات شخصی خود را مدیریت کنید."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "دستورالعمل ها",
+            "USE_THE_MENU._KEY": "از منو استفاده کنید."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "پشتیبان گیری همه",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "پشتیبان گیری کامل از تمام اطلاعات شما در سرور.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "شما یک فایل را با همه چیز دریافت می کنید.",
+            "BACKUP_EVERYTHING_KEY": "همه چیز را پشتیبان بگیرید",
+            "BACKUP_PLUGINS_KEY": "افزونه های Backup",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "پشتیبان گیری از هر پلاگین به طور جداگانه.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "شما یک فایل پشتیبان برای هر پلاگین دریافت می کنید.",
+            "REFRESH_PLUGIN_LIST_KEY": "لیست افزونه های جدید",
+            "PLUGIN_LIST_KEY": "لیست Plugin list",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "لیست با تمام افزونه های درخت",
+            "BACKUP_SELECTED_PLUGINS_KEY": "افزونه های انتخاب شده",
+            "PARTIAL_BACKUP_KEY": "پشتیبانی جزئی",
+            "PARTIAL_BACKUP._KEY": "پشتیبانی جزئی.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "یک افزونه را انتخاب کنید و کلید های پشتیبان گیری را انتخاب کنید.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "شما یک فایل پشتیبان دریافت می کنید.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "لیست با تمام پلاگین های درخت.",
+            "SELECT_ONE_KEY": "انتخاب یک",
+            "REFRESH_KEY_LIST_KEY": "فهرست کلید های جدید",
+            "KEYS_KEY": "کلیدهای",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "تمام کلیدها برای پلاگین انتخاب شده.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "گزینه هایی را انتخاب کنید که می خواهید پشتیبان بگیرید",
+            "BACKUP_SELECTED_KEYS_KEY": "کلیدهای انتخاب شده"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "مستندات در اینجا ارائه خواهد شد",
+            "MAIN_DOC_KEY": "اصلی doc",
+            "VERSION_DOC_KEY": "نسخه doc",
+            "ENCRYPTION_DOC_KEY": "رمزگذاری doc",
+            "BACKUP_DOC_KEY": "پشتیبان گیری doc",
+            "RESTORE_DOC_KEY": "بازگشت doc",
+            "STORAGE_DOC_KEY": "ذخیره سازی doc",
+            "SYNC_DOC_KEY": "Sync doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "فایل کلیدی واردات",
+            "ONE_CONTACT_KEY": "یک تماس",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "این نوع داده ها برای یک تماس",
+            "IMPORT_PASSWORD_KEY": "رمز عبور واردات",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "رمز عبور شما برای فایل",
+            "FORGET_IMPORTED_KEY_KEY": "فراموش کردن واردات",
+            "EXPORT_KEY_FILE_KEY": "فایل کلیدی صادرات",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "صادرات کلید وارداتی با رمز عبور جدید",
+            "EXPORT_PASSWORD_KEY": "رمز عبور صادرات",
+            "CREATE_KEY_FILE_KEY": "ایجاد فایل کلیدی",
+            "CREATE_NEW_KEY_FILE_KEY": "ایجاد فایل کلیدی جدید",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "ایجاد کلید جدید با رمز عبور جدید"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "مدیر درخت",
+            "DOCUMENTATION_KEY": "مستندات",
+            "VERSION_KEY": "نسخه Version",
+            "ENCRYPTION_KEY": "رمزگذاری",
+            "BACKUP_KEY": "پشتیبان گیری",
+            "RESTORE_KEY": "بازگشت",
+            "SYNC_KEY": "Sync"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "مناقشات",
+            "SELECT_BACKUP_FILES_KEY": "گزینه Backup files",
+            "CLEAR_LIST_KEY": "لیست واضح",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "بازگرداندن داده ها به ذخیره سازی مرورگر",
+            "BACKUP_FILES_KEY": "فایل های پشتیبان",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "در اینجا یک لیست با تمام فایل های پشتیبان است که شما در انتخاب کننده فایل انتخاب کرده اید",
+            "INFORMATION_KEY": "اطلاعات",
+            "RESTORE_LOG_KEY": "بازگرداندن log",
+            "CLICK_ON_THE_LIST_KEY": "روی لیست کلیک کنید",
+            "REFRESH_CONFLICT_LIST_KEY": "لیست جدید مناقشات",
+            "KEEP_LOCAL_VERSION_KEY": "نسخه محلی را نگه دارید",
+            "KEEP_SERVER_VERSION_KEY": "Keep server version",
+            "CONFLICT_LIST_KEY": "فهرست مناقشات"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "شروع همگام سازی در اینجا",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "شما برای اولین بار همگام سازی، سپس حساب آپلود، دانلود و لیست تعارض",
+            "CLICK_ON_THE_LIST_KEY": "روی لیست کلیک کنید",
+            "SYNC_KEY": "Sync",
+            "UPLOAD_KEY": "آپلود",
+            "DOWNLOAD_KEY": "دانلود بازی Download",
+            "REFRESH_CONFLICT_LIST_KEY": "لیست جدید مناقشات",
+            "KEEP_LOCAL_VERSION_KEY": "نسخه محلی را نگه دارید",
+            "KEEP_SERVER_VERSION_KEY": "Keep server version",
+            "CONFLICT_LIST_KEY": "فهرست مناقشات",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "شما می توانید به من کمک کنید تا تصمیم بگیرید که چه نسخه ای را نگه دارید"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "نسخه جدید Data"
+        }
+    }
+}

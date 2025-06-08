@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:10:20",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "pt-BR",
+        "language_name": "Portuguese (Brazil)",
+        "language_name_local": "Português (Brasil)",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Teste enviar mensagens",
+        "description": "Como desenvolvedor você pode ver o que acontece quando você envia uma mensagem para um plugin ou função que não existe."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Instruções",
+            "USE_THE_MENU._KEY": "Use o menu.",
+            "RESULT_KEY": "Resultado"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Chamada de demonstração",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Aqui você pode explorar o que acontece se você chamar um plugin que está faltando, ou uma função faltando",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Cliente, chamada correta. Plugin e função existem",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Cliente - plugin existe, função cmd não existe",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Cliente - o plugin está faltando",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Servidor, chamada correta. Plugin e função existem",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Servidor - plugin existe, função cmd não existe",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Servidor - plugin está faltando",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Cliente - criança conversa com respondedores válidos",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Cliente - chamada inválida para filho irmão",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Cliente - chamada inválida de filho para pai",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Servidor - execute todos os testes do servidor"
+        }
+    }
+}

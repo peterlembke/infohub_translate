@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "az",
+        "language_name": "Azerbaijani",
+        "language_name_local": "Bakı",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Tarix",
+        "description": "Manually bir söz çevirir. plugins üçün dil faylları yaradır."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Qeydiyyat",
+            "USE_THE_MENU._KEY": "Menyu istifadə edin."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Sertifikatlaşdırma buraxacaq",
+            "MAIN_DOC_KEY": "Ana doc",
+            "MANUAL_TRANSLATION_KEY": "Elan",
+            "PLUGIN_TRANSLATION_KEY": " Plug"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Elan",
+            "REFRESH_LANGUAGE_LIST_KEY": "Dil siyahısı",
+            "SELECT_LANGUAGE_KEY": "Qadın",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Əsas dili seçin.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Uşaq dili seçin.",
+            "YOUR_TEXT_KEY": "E-poçt",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Siz çevirmək istəyirsiniz məhsul.",
+            "TRANSLATE_KEY": "Tarix",
+            "THE_TRANSLATED_TEXT_KEY": "Tarix edilmiş məhsul",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "E-poçt ünvanı.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Uşaq dili seçin. Qeyd yazın. Axtarış",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Bir dili çevirmək üçün seçin",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Bir şey yazın ki, çevirə bilər",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Bir dil seçin",
+            "TRANSLATION_DONE_KEY": "Tərcümə"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Təhlükəsizlik",
+            "DOCUMENTATION_KEY": "Tarix",
+            "MANUAL_TRANSLATION_KEY": "Elan",
+            "PLUGIN_TRANSLATION_KEY": " Plug"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Daxil ol",
+            "SELECT_PLUGIN_KEY": " plugin",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Çeviri faylları ola bilər bütün müştəri addımlar.",
+            "SELECT_LANGUAGES_KEY": "Dillərini seç",
+            "TRANSLATE_KEY": "Tarix",
+            "PLUGIN_TRANSLATION_KEY": " Plug",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Addımlar və dillər",
+            "CLICK_TRANSLATE_KEY": "Axtarış",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Qeydlərin formalaşması",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Bir və ya daha çox plugins seçin",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Bir və ya daha çox dil almaq",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Server ünvanı",
+            "TO_LANGUAGES_KEY": "Dil",
+            "TRANSLATION_DONE_KEY": "Tərcümə",
+            "EXECUTION_TIME_KEY": "Daxili vaxt",
+            "SECONDS_KEY": "Böyük"
+        }
+    }
+}

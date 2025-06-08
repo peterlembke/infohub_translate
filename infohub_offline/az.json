@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "az",
+        "language_name": "Azerbaijani",
+        "language_name_local": "Bakı",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "İnternet olmadan iş",
+        "description": "Burada server giriş olmadan iş üçün hazırlaya bilərsiniz. Əgər məlumatları yükləyə bilərsiniz."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Daxili alətlər",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Online və offline varsa görmək üçün Tools.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": " plugin . . . . .",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Pulsuz istifadə üçün hazırlamaq və mağaza məlumatları yükləyin.",
+            "DOWNLOAD_PLUGINS_KEY": "Download plugins",
+            "OF_KEY": " Of",
+            "DOWNLOAD_ASSETS_KEY": "Domen adı qeydiyyatdan keçir",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Sertifikatlaşdırma",
+            "SHOW_SUBSCRIBERS_KEY": "Proqramlar",
+            "STATUS_KEY": " Status"
+        }
+    }
+}

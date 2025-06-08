@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "hu",
+        "language_name": "Hungarian",
+        "language_name_local": "Magyar",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Felhasználók és csomópontok",
+        "description": "Itt kezelheti a felhasználóit. Itt más szervercsomópontokhoz is hozzá lehet férni."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Útmutató",
+            "USE_THE_MENU._KEY": "Használd az étlapot."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Új ügyfelek",
+            "CLIENT_CONTACTS_KEY": "Ügyfél-kapcsolatok",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Az összes ügyfélkapcsolat listája",
+            "NEW_KEY": "Új",
+            "SAVE_KEY": "Mentés",
+            "DELETE_KEY": "Törlés",
+            "IMPORT_KEY": "Import",
+            "EXPORT_KEY": "Export",
+            "ONE_CONTACT_KEY": "Egy kapcsolat",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Ez egy kapcsolatfelvétel adatlapja",
+            "NODE_KEY": "Csomópont",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Az ügyfél egyedi neve",
+            "NOTE_KEY": "Megjegyzés",
+            "ANY_TEXT_YOU_WANT_KEY": "Bármilyen üzenetet, amit csak akarsz",
+            "DOMAIN_ADDRESS_KEY": "Tartománycím",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "A kiszolgáló domain címe",
+            "USER_NAME_KEY": "Felhasználónév",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Kapsz egy hub-uuid, ha menteni (hagyja üres)",
+            "SHARED_SECRET_KEY": "Megosztott titok",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Lesz kap egy 2k véletlenszerű string, ha menteni (hagyja üres)",
+            "ALLOWED_ROLES_KEY": "Megengedett szerepek",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Lista az összes felhasználó szerepével",
+            "USER_KEY": "Felhasználó",
+            "DEVELOPER_KEY": "Fejlesztő",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Van jelszava",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Ha az importált fájl kliens jelszót állított be a felhasználó"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentáció lesz itt",
+            "MAIN_DOC_KEY": "Főorvos",
+            "CLIENT_DOC_KEY": "Ügyfél doc",
+            "SERVER_DOC_KEY": "Szerver doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Kapcsolattartó",
+            "DOCUMENTATION_KEY": "Dokumentáció",
+            "CLIENT_CONTACT_KEY": "Ügyfél",
+            "SERVER_CONTACT_KEY": "A kiszolgáló elérhetősége"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Frissítés",
+            "SERVER_CONTACTS_KEY": "A kiszolgáló kapcsolatai",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "A kiszolgáló összes kapcsolatának listája",
+            "SAVE_KEY": "Mentés",
+            "DELETE_KEY": "Törlés",
+            "IMPORT_KEY": "Import",
+            "EXPORT_KEY": "Export",
+            "PING_SERVER_KEY": "Ping kiszolgáló",
+            "ONE_CONTACT_KEY": "Egy kapcsolat",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Ez egy kapcsolatfelvétel adatlapja.",
+            "NODE_KEY": "Csomópont",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Az egyedi csomópont neve",
+            "NOTE_KEY": "Megjegyzés",
+            "ANY_TEXT_YOU_WANT_KEY": "Bármilyen üzenetet, amit csak akarsz",
+            "DOMAIN_ADDRESS_KEY": "Tartománycím",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "A távoli szerver tartománycíme",
+            "USER_NAME_KEY": "Felhasználónév",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid a távoli szerverről",
+            "SHARED_SECRET_KEY": "Megosztott titok",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k véletlenszerű sztring van a távoli szerver",
+            "ALLOWED_ROLES_KEY": "Megengedett szerepek",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Lista az összes szerepet ez a számla",
+            "USER_KEY": "Felhasználó",
+            "DEVELOPER_KEY": "Fejlesztő",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

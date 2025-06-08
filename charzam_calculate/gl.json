@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:59:33",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "gl",
+        "language_name": "Galician",
+        "language_name_local": "Galego",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Calcular taxas de interese",
+        "description": "Calcular en áreas como economía, tipos de interese, etc."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Instrucións",
+            "USE_THE_MENU._KEY": "Utiliza o menú."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Podes calcular a taxa de interese mensual dos teus aforros a partir da taxa de interese anual.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Podes usar o resultado no teu orzamento para engadir interese bancario nos teus aforros cada mes.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Isto resolve o problema coa taxa de interese.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Se calculas os tipos de interese do préstamo mensual, non uses esta ferramenta.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Para préstamos que dividen a taxa de interese anual por 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "A diferenza é que os préstamos non teñen unha taxa de interese.",
+            "INTEREST_RATE_KEY": "Taxa de interese",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Clic para instrucións...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Calcula a taxa de interese mensual nos teus aforros",
+            "YEARLY_INTEREST_RATE_KEY": "Taxa de interese anual",
+            "CALCULATE_KEY": "Calcular",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Taxa de interese mensual por cento",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Porcentaxe mensual con dous decimais",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Tipo de xuro decimal",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Taxa de interese mensual decimal con todos os decimais para o teu bugdet",
+            "CALCULATION_OK_KEY": "Cálculo OK",
+            "CALCULATION_VERIFIED_OK_KEY": "Cálculo verificado ok",
+            "CALCULATION_FAILED_KEY": "Cálculo fallido",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Cálculo de verificacións fallidas"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Taxa de interese mensual"
+        }
+    }
+}

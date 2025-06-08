@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:46:01",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "it",
+        "language_name": "Italian",
+        "language_name_local": "Italiano",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Lavoro senza internet",
+        "description": "Qui puoi prepararti a lavorare senza l'accesso al server. Scarica i dati di cui potresti aver bisogno."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Strumenti off-line",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Strumenti per vedere se sei online o offline.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Vedere quali plugin si sottoscrivono a quell'evento.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Pulsanti per scaricare e memorizzare i dati per prepararsi all'utilizzo offline.",
+            "DOWNLOAD_PLUGINS_KEY": "Scarica plugins",
+            "OF_KEY": "Di",
+            "DOWNLOAD_ASSETS_KEY": "Scarica le attività",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Scarica la documentazione",
+            "SHOW_SUBSCRIBERS_KEY": "Mostra gli iscritti",
+            "STATUS_KEY": "Stato"
+        }
+    }
+}

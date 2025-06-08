@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:32:55",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "ru",
+        "language_name": "Russian",
+        "language_name_local": "Русский",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Переводить",
+        "description": "Вручную перевести фразу. Создание языковых файлов для плагинов."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Инструкции",
+            "USE_THE_MENU._KEY": "Используйте меню."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Документация будет представлена здесь",
+            "MAIN_DOC_KEY": "Главный ДОК",
+            "MANUAL_TRANSLATION_KEY": "Ручной перевод",
+            "PLUGIN_TRANSLATION_KEY": "Плагиновый перевод"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Ручной перевод",
+            "REFRESH_LANGUAGE_LIST_KEY": "Обновить языковой список",
+            "SELECT_LANGUAGE_KEY": "Выберите язык",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Выбор исходного языка.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Выберите язык назначения.",
+            "YOUR_TEXT_KEY": "Твой текст",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Текст, который вы хотите перевести.",
+            "TRANSLATE_KEY": "Переводить",
+            "THE_TRANSLATED_TEXT_KEY": "Переведенный текст",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Текст, который вы получите после перевода.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Выберите язык назначения Напиши текст. Кликните перевод",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Выберите язык для перевода с",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Написать что-нибудь, чтобы перевести",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Выберите язык для перевода",
+            "TRANSLATION_DONE_KEY": "Перевод выполнен"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Инструмент перевода",
+            "DOCUMENTATION_KEY": "Документация",
+            "MANUAL_TRANSLATION_KEY": "Ручной перевод",
+            "PLUGIN_TRANSLATION_KEY": "Плагиновый перевод"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Списки обновлений",
+            "SELECT_PLUGIN_KEY": "Выберите плагин",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Список всех клиентских плагинов, которые могут иметь файлы перевода.",
+            "SELECT_LANGUAGES_KEY": "Выбор языков",
+            "TRANSLATE_KEY": "Переводить",
+            "PLUGIN_TRANSLATION_KEY": "Плагиновый перевод",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Выберите плагины и языки",
+            "CLICK_TRANSLATE_KEY": "Кликните перевод",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Обновление списков сделано",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Выберите один или несколько плагинов для перевода",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Выберите один или несколько языков для перевода",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Попросить сервер перевести",
+            "TO_LANGUAGES_KEY": "На языках",
+            "TRANSLATION_DONE_KEY": "Перевод выполнен",
+            "EXECUTION_TIME_KEY": "Время исполнения",
+            "SECONDS_KEY": "Секунды"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:59:33",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "gl",
+        "language_name": "Galician",
+        "language_name_local": "Galego",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Ferramenta de depuración",
+        "description": "Ferramenta para desenvolvedores e testadores."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "Limpar caché",
+            "DONE_REFRESHING_PAGE_KEY": "Páxina de refresco",
+            "RELOAD_PAGE._KEY": "Reload page.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "Limpar os plugins antigos marcados polo servidor. Reload page.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "Limpa todos os plugins locais, recargar a páxina.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "Limpa todos os datos locais, recargar a páxina.",
+            "INSTRUCTIONS_KEY": "Instrucións",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "Faga clic nunha opción ou use o teclado. Estas claves sempre funcionan onde queira que estea en infohub.",
+            "INFORMATION_KEY": "Información",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "Tamén está na parte inferior da pantalla do lanzador como un botón no caso de que non pode comezar debug e non ten teclado no seu dispositivo.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "É a única opción que tamén elimina iconas e traducións e axustes do almacenamento local.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "Elimina silenciosamente a caché render para o usuario rexistrado",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "Anímate e refresca a páxina"
+        }
+    }
+}

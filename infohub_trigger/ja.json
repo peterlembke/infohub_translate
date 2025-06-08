@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:46:01",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "ja",
+        "language_name": "Japanese",
+        "language_name_local": "日本語 English",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "カスタムメッセージを送信する",
+        "description": "開発者として、あなたの関数にメッセージを送ることができます."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "トリガー",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "開発者は、新しいプラグインにメッセージを送ることができます.",
+            "REFRESH_DATA_KEY": "データのリフレッシュ",
+            "NODE_KEY": "ノード",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "メッセージを送信するノードを選択します",
+            "CLIENT_KEY": "クライアント",
+            "SERVER_KEY": "サーバー",
+            "PLUGIN_KEY": "プラグイン",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "メッセージを送信するプラグインを選択します",
+            "FUNCTION_KEY": "関数",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "メッセージを送信したい機能を選択します",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "選択した関数のデフォルトメッセージ",
+            "MESSAGE_KEY": "メッセージ",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "選択したプラグインに送信できるメッセージです.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "参照するメッセージは、関数がセットされているデフォルト値です.",
+            "GET_ALL_KEY": "お問い合わせ",
+            "BARE_BONE_KEY": "ベアボーン",
+            "GET_DEFAULT_MESSAGE_KEY": "デフォルトメッセージの取得",
+            "SEND_MESSAGE_KEY": "送信メッセージ",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "機能からの応答",
+            "RESPONSE_KEY": "ソリューション",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "ここでは、関数からの応答が表示されます.",
+            "NO_CONFIG_KEY": "設定なし"
+        }
+    }
+}

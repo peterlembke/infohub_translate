@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:55:22",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "el",
+        "language_name": "Greek",
+        "language_name_local": "Ελληνικά",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Το δέντρο",
+        "description": "Χειρίζεται τα προσωπικά σας δεδομένα."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Οδηγίες",
+            "USE_THE_MENU._KEY": "Χρησιμοποίησε το μενού."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Αντιγράφων ασφαλείας όλων",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Πλήρης υποστήριξη όλων των δεδομένων που έχετε στον διακομιστή.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Παίρνεις ένα αρχείο με όλα.",
+            "BACKUP_EVERYTHING_KEY": "Αντιγράφων ασφαλείας τα πάντα",
+            "BACKUP_PLUGINS_KEY": "Πρόσθετο αντιγράφων ασφαλείας",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Αντιγράφων ασφαλείας κάθε πρόσθετου ξεχωριστά.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Μπορείτε να πάρετε ένα αντίγραφο ασφαλείας για κάθε πρόσθετο.",
+            "REFRESH_PLUGIN_LIST_KEY": "Ανανέωση λίστας πρόσθετων",
+            "PLUGIN_LIST_KEY": "Λίστα πρόσθετων",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Λίστα με όλα τα πρόσθετα δέντρου",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Επιλεγμένα πρόσθετα αντιγράφων ασφαλείας",
+            "PARTIAL_BACKUP_KEY": "Μερικό αντίγραφο ασφαλείας",
+            "PARTIAL_BACKUP._KEY": "Μερική υποστήριξη.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Επιλέξτε ένα πρόσθετο και επιλέξτε τα κλειδιά για το αντίγραφο ασφαλείας.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Έχεις ένα εφεδρικό αρχείο.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Λίστα με όλα τα πρόσθετα δέντρου.",
+            "SELECT_ONE_KEY": "Επιλογή ενός",
+            "REFRESH_KEY_LIST_KEY": "Ανανέωση λίστας κλειδιών",
+            "KEYS_KEY": "Κλειδιά",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Όλα τα πλήκτρα για το επιλεγμένο πρόσθετο.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Επιλέξτε αυτά που θέλετε να δημιουργήσετε αντίγραφα ασφαλείας",
+            "BACKUP_SELECTED_KEYS_KEY": "Αντιγράφων ασφαλείας επιλεγμένων κλειδιών"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Η τεκμηρίωση θα αποδώσει εδώ",
+            "MAIN_DOC_KEY": "Κύριο έγγραφο",
+            "VERSION_DOC_KEY": "Έκδοση doc",
+            "ENCRYPTION_DOC_KEY": "Doc κρυπτογράφησης",
+            "BACKUP_DOC_KEY": "Δημιουργία αντιγράφων ασφαλείας",
+            "RESTORE_DOC_KEY": "Επαναφορά εγγράφου",
+            "STORAGE_DOC_KEY": "Έγγραφο αποθήκευσης",
+            "SYNC_DOC_KEY": "Συγχρονισμός doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Εισαγωγή αρχείου κλειδιού",
+            "ONE_CONTACT_KEY": "Μία επαφή",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Αυτή είναι η φόρμα δεδομένων για μία επαφή",
+            "IMPORT_PASSWORD_KEY": "Εισαγωγή κωδικού πρόσβασης",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Ο κωδικός πρόσβασης του αρχείου",
+            "FORGET_IMPORTED_KEY_KEY": "Ξεχάστε τις εισαγωγές",
+            "EXPORT_KEY_FILE_KEY": "Εξαγωγή αρχείου κλειδιού",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Εξαγωγή του εισαγόμενου κλειδιού με νέο κωδικό πρόσβασης",
+            "EXPORT_PASSWORD_KEY": "Εξαγωγή κωδικού πρόσβασης",
+            "CREATE_KEY_FILE_KEY": "Δημιουργία αρχείου κλειδιού",
+            "CREATE_NEW_KEY_FILE_KEY": "Δημιουργία νέου αρχείου κλειδιού",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Δημιουργία νέου κλειδιού με νέο κωδικό πρόσβασης"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Διαχειριστής δέντρων",
+            "DOCUMENTATION_KEY": "Τεκμηρίωση",
+            "VERSION_KEY": "Έκδοση",
+            "ENCRYPTION_KEY": "Κρυπτογράφηση",
+            "BACKUP_KEY": "Δημιουργία αντιγράφων ασφαλείας",
+            "RESTORE_KEY": "Επαναφορά",
+            "SYNC_KEY": "Συγχρονισμός"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Συγκρούσεις",
+            "SELECT_BACKUP_FILES_KEY": "Επιλέξτε αντίγραφα ασφαλείας",
+            "CLEAR_LIST_KEY": "Καθαρισμός λίστας",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Επαναφορά δεδομένων στην αποθήκευση του προγράμματος περιήγησης",
+            "BACKUP_FILES_KEY": "Αρχεία αντιγράφων ασφαλείας",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Εδώ είναι μια λίστα με όλα τα αρχεία αντιγράφων ασφαλείας που έχετε επιλέξει στον επιλογέα αρχείων",
+            "INFORMATION_KEY": "Πληροφορίες",
+            "RESTORE_LOG_KEY": "Επαναφορά καταγραφής",
+            "CLICK_ON_THE_LIST_KEY": "Κλικ στη λίστα",
+            "REFRESH_CONFLICT_LIST_KEY": "Ανανέωση λίστας συγκρούσεων",
+            "KEEP_LOCAL_VERSION_KEY": "Διατήρηση τοπικής έκδοσης",
+            "KEEP_SERVER_VERSION_KEY": "Διατήρηση έκδοσης εξυπηρετητή",
+            "CONFLICT_LIST_KEY": "Λίστα συγκρούσεων"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Εκκίνηση συγχρονισμού εδώ",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Πρώτα συγχρονίζεσαι, μετά χειρίζεσαι τις λίστες αποστολής, λήψης και σύγκρουσης",
+            "CLICK_ON_THE_LIST_KEY": "Κλικ στη λίστα",
+            "SYNC_KEY": "Συγχρονισμός",
+            "UPLOAD_KEY": "Αποστολή",
+            "DOWNLOAD_KEY": "Λήψη",
+            "REFRESH_CONFLICT_LIST_KEY": "Ανανέωση λίστας συγκρούσεων",
+            "KEEP_LOCAL_VERSION_KEY": "Διατήρηση τοπικής έκδοσης",
+            "KEEP_SERVER_VERSION_KEY": "Διατήρηση έκδοσης εξυπηρετητή",
+            "CONFLICT_LIST_KEY": "Λίστα συγκρούσεων",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Μπορείς να με βοηθήσεις να αποφασίσω ποια εκδοχή να κρατήσω"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Ανανέωση δεδομένων έκδοσης"
+        }
+    }
+}

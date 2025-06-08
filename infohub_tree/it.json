@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:46:01",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "it",
+        "language_name": "Italian",
+        "language_name_local": "Italiano",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "L'albero",
+        "description": "Gestisci i tuoi dati personali."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Istruzioni",
+            "USE_THE_MENU._KEY": "Usa il menu."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Backup",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Backup completo di tutti i dati che hai sul server.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Hai un file con tutto.",
+            "BACKUP_EVERYTHING_KEY": "Backup di tutto",
+            "BACKUP_PLUGINS_KEY": "Plugin di backup",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Backup di ogni plugin separatamente.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Si ottiene un file di backup per ogni plugin.",
+            "REFRESH_PLUGIN_LIST_KEY": "Aggiornare la lista dei plugin",
+            "PLUGIN_LIST_KEY": "Elenco Plugin",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Elenca con tutti i plugin albero",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Backup dei plugin selezionati",
+            "PARTIAL_BACKUP_KEY": "Backup parziale",
+            "PARTIAL_BACKUP._KEY": "Backup parziale.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Selezionare un plugin e selezionare i tasti per il backup.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Hai un file di backup.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Elenca con tutti i plugin albero.",
+            "SELECT_ONE_KEY": "Seleziona uno",
+            "REFRESH_KEY_LIST_KEY": "Aggiorna la lista dei tasti",
+            "KEYS_KEY": "Chiavi",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Tutte le chiavi per il plugin selezionato.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Selezionare quelli che si desidera eseguire il backup",
+            "BACKUP_SELECTED_KEYS_KEY": "Backup delle chiavi selezionate"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "La documentazione verrà resa qui",
+            "MAIN_DOC_KEY": "Doc principale",
+            "VERSION_DOC_KEY": "Versione doc",
+            "ENCRYPTION_DOC_KEY": "Doc di crittografia",
+            "BACKUP_DOC_KEY": "Documento di backup",
+            "RESTORE_DOC_KEY": "Ripristino doc",
+            "STORAGE_DOC_KEY": "Documento di stoccaggio",
+            "SYNC_DOC_KEY": "Traduzione:"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Importa file chiave",
+            "ONE_CONTACT_KEY": "Un contatto",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Questo è il modulo di dati per un contatto",
+            "IMPORT_PASSWORD_KEY": "Importa password",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "La tua password per il file",
+            "FORGET_IMPORTED_KEY_KEY": "Dimenticare importati",
+            "EXPORT_KEY_FILE_KEY": "File chiave di esportazione",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Esportare la chiave importata con nuova password",
+            "EXPORT_PASSWORD_KEY": "Password di esportazione",
+            "CREATE_KEY_FILE_KEY": "Crea file chiave",
+            "CREATE_NEW_KEY_FILE_KEY": "Crea nuovo file chiave",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Crea nuova chiave con nuova password"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Responsabile albero",
+            "DOCUMENTATION_KEY": "Documentazione",
+            "VERSION_KEY": "Versione",
+            "ENCRYPTION_KEY": "Crittografia",
+            "BACKUP_KEY": "Backup",
+            "RESTORE_KEY": "Ripristino",
+            "SYNC_KEY": "Traduzione:"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Conflitti",
+            "SELECT_BACKUP_FILES_KEY": "Selezionare i file di backup",
+            "CLEAR_LIST_KEY": "Elenco chiaro",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Ripristinare i dati alla memorizzazione del browser",
+            "BACKUP_FILES_KEY": "File di backup",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Ecco un elenco con tutti i file di backup selezionati nel selettore del file",
+            "INFORMATION_KEY": "Informazioni",
+            "RESTORE_LOG_KEY": "Ripristinare il log",
+            "CLICK_ON_THE_LIST_KEY": "Clicca sulla lista",
+            "REFRESH_CONFLICT_LIST_KEY": "Aggiorna la lista dei conflitti",
+            "KEEP_LOCAL_VERSION_KEY": "Tenere la versione locale",
+            "KEEP_SERVER_VERSION_KEY": "Mantenere la versione server",
+            "CONFLICT_LIST_KEY": "Lista dei conflitti"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Inizia la sincronizzazione qui",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Si sincronizza prima, quindi gestire le liste di upload, download e conflitto",
+            "CLICK_ON_THE_LIST_KEY": "Clicca sulla lista",
+            "SYNC_KEY": "Traduzione:",
+            "UPLOAD_KEY": "Caricamento",
+            "DOWNLOAD_KEY": "Scarica",
+            "REFRESH_CONFLICT_LIST_KEY": "Aggiorna la lista dei conflitti",
+            "KEEP_LOCAL_VERSION_KEY": "Tenere la versione locale",
+            "KEEP_SERVER_VERSION_KEY": "Mantenere la versione server",
+            "CONFLICT_LIST_KEY": "Lista dei conflitti",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Puoi aiutarmi a decidere quale versione mantenere"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Aggiornare i dati della versione"
+        }
+    }
+}

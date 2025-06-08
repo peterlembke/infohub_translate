@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 19:07:24",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "ca",
+        "language_name": "Catalan",
+        "language_name_local": "CatalàName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "L' arbre",
+        "description": "Manega les teves dades personals."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Instruccions",
+            "USE_THE_MENU._KEY": "Usa el menú."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Còpia de seguretat tot",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Còpia de seguretat completa de totes les vostres dades en el servidor.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Tens un arxiu amb tot.",
+            "BACKUP_EVERYTHING_KEY": "Còpia de seguretat tot",
+            "BACKUP_PLUGINS_KEY": "Connectors de còpia de seguretat",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Còpia de seguretat de cada connector per separat.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Teniu un fitxer de còpia de seguretat per cada connector.",
+            "REFRESH_PLUGIN_LIST_KEY": "Refresca la llista de connectors",
+            "PLUGIN_LIST_KEY": "Llista de connectors",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Llista amb tots els connectors d' arbre",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Còpia de seguretat dels connectors seleccionats",
+            "PARTIAL_BACKUP_KEY": "Còpia de seguretat parcial",
+            "PARTIAL_BACKUP._KEY": "Suport parcial.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Seleccioneu un connector i seleccioneu claus per fer còpia de seguretat.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Aconsegueix un fitxer de còpia de seguretat.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Llista amb tots els connectors en arbre.",
+            "SELECT_ONE_KEY": "Selecciona- ne un",
+            "REFRESH_KEY_LIST_KEY": "Refresca la llista de claus",
+            "KEYS_KEY": "Claus",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Totes les claus per al connector seleccionat.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Seleccioneu els que voleu fer còpia de seguretat",
+            "BACKUP_SELECTED_KEYS_KEY": "Còpia de claus seleccionades"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "La documentació es representarà aquí",
+            "MAIN_DOC_KEY": "Doc principal",
+            "VERSION_DOC_KEY": "Doc de versions",
+            "ENCRYPTION_DOC_KEY": "Doc d' encriptatge",
+            "BACKUP_DOC_KEY": "Còpia de seguretat",
+            "RESTORE_DOC_KEY": "Restaura el document",
+            "STORAGE_DOC_KEY": "Doc d' emmagatzematge",
+            "SYNC_DOC_KEY": "Sincronitza el document"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Importa un fitxer de clau",
+            "ONE_CONTACT_KEY": "Un contacte",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Aquesta és la forma de dades d' un contacte",
+            "IMPORT_PASSWORD_KEY": "Importa contrasenya",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "La vostra contrasenya pel fitxer",
+            "FORGET_IMPORTED_KEY_KEY": "Oblida importat",
+            "EXPORT_KEY_FILE_KEY": "Exporta fitxer de clau",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Exporta la clau importada amb una contrasenya nova",
+            "EXPORT_PASSWORD_KEY": "Exporta contrasenya",
+            "CREATE_KEY_FILE_KEY": "Crea un fitxer de clau",
+            "CREATE_NEW_KEY_FILE_KEY": "Crea un nou fitxer de clau",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Crea una nova clau amb una nova contrasenya"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Gestor d' arbre",
+            "DOCUMENTATION_KEY": "Documentació",
+            "VERSION_KEY": "Versió",
+            "ENCRYPTION_KEY": "Encriptatge",
+            "BACKUP_KEY": "Còpia de seguretat",
+            "RESTORE_KEY": "Restaura",
+            "SYNC_KEY": "Sincronitza"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Conflictes",
+            "SELECT_BACKUP_FILES_KEY": "Seleccioneu els fitxers de còpia de seguretat",
+            "CLEAR_LIST_KEY": "Neteja la llista",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Restaura les dades al magatzem del navegador",
+            "BACKUP_FILES_KEY": "Fitxers de còpia de seguretat",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Aquesta és una llista amb tots els fitxers de còpia de seguretat seleccionats en el selector de fitxers",
+            "INFORMATION_KEY": "Informació",
+            "RESTORE_LOG_KEY": "Restaura el registre",
+            "CLICK_ON_THE_LIST_KEY": "Cliqueu a la llista",
+            "REFRESH_CONFLICT_LIST_KEY": "Refresca la llista de conflictes",
+            "KEEP_LOCAL_VERSION_KEY": "Mantén la versió local",
+            "KEEP_SERVER_VERSION_KEY": "Mantén la versió del servidor",
+            "CONFLICT_LIST_KEY": "Llista de conflictes"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Inicia la sincronització aquí",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Primer sincronitzar, després maneja la pujada, descarrega i llista de conflictes",
+            "CLICK_ON_THE_LIST_KEY": "Cliqueu a la llista",
+            "SYNC_KEY": "Sincronitza",
+            "UPLOAD_KEY": "Puja",
+            "DOWNLOAD_KEY": "Descarrega",
+            "REFRESH_CONFLICT_LIST_KEY": "Refresca la llista de conflictes",
+            "KEEP_LOCAL_VERSION_KEY": "Mantén la versió local",
+            "KEEP_SERVER_VERSION_KEY": "Mantén la versió del servidor",
+            "CONFLICT_LIST_KEY": "Llista de conflictes",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Podeu ajudar-me a decidir quina versió s' ha de mantenir"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Refresca les dades de la versió"
+        }
+    }
+}

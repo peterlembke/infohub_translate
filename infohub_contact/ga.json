@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "ga",
+        "language_name": "Irish",
+        "language_name_local": "Gaeilge na hÉireann",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Úsáideoirí agus nóid",
+        "description": "Is féidir leat a láimhseáil d'úsáideoirí anseo. Is féidir leat a chur ar bun rochtain ar nóid freastalaí eile anseo."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Treoracha",
+            "USE_THE_MENU._KEY": "Bain úsáid as an roghchlár."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Cliaint Athraigh",
+            "CLIENT_CONTACTS_KEY": "Teagmhálacha Cliant",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Liosta gach teagmhálacha cliant",
+            "NEW_KEY": "Nuashonraithe go deireanach",
+            "SAVE_KEY": "Sábháil",
+            "DELETE_KEY": "Scriosta",
+            "IMPORT_KEY": "Allmhairiú Allamuigh",
+            "EXPORT_KEY": "Easpórtáil",
+            "ONE_CONTACT_KEY": "Teagmháil amháin",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Is é seo an fhoirm sonraí le haghaidh teagmhála amháin",
+            "NODE_KEY": "Taiseachas aeir: fliuch",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Do ainm uathúil an chliaint",
+            "NOTE_KEY": "Tabhair do d’aire",
+            "ANY_TEXT_YOU_WANT_KEY": "Aon téacs is mian leat",
+            "DOMAIN_ADDRESS_KEY": "Seoladh fearainn",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "An seoladh fearainn le do fhreastalaí",
+            "USER_NAME_KEY": "Ainm úsáideora",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "A gheobhaidh tú mol-uid nuair a shábháil tú (fág bán)",
+            "SHARED_SECRET_KEY": "Roinnte rúnda",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Gheobhaidh tú teaghrán randamach 2k nuair a shábháil tú (fág bán)",
+            "ALLOWED_ROLES_KEY": "Róil Ceadaithe",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Liosta le gach ról úsáideora agat",
+            "USER_KEY": "Úsáideora",
+            "DEVELOPER_KEY": "Forbairt",
+            "ADMIN_KEY": "Amharc ar gach eolas",
+            "HAS_PASSWORD_KEY": "An bhfuil focal faire",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Má tá comhad allmhairithe focal faire cliant atá leagtha ag an úsáideoir"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Beidh doiciméadú a dhéanamh anseo",
+            "MAIN_DOC_KEY": "Príomh doc",
+            "CLIENT_DOC_KEY": "Cliant doc",
+            "SERVER_DOC_KEY": "Freastalaí doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Déan teagmháil le bainisteoir",
+            "DOCUMENTATION_KEY": "Cáipéisí",
+            "CLIENT_CONTACT_KEY": "Teagmháil Cliant",
+            "SERVER_CONTACT_KEY": "Teagmháil Freastalaí"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Athraigh",
+            "SERVER_CONTACTS_KEY": "Teagmhálacha Freastalaí",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Liosta na teagmhálacha freastalaí",
+            "SAVE_KEY": "Sábháil",
+            "DELETE_KEY": "Scriosta",
+            "IMPORT_KEY": "Allmhairiú Allamuigh",
+            "EXPORT_KEY": "Easpórtáil",
+            "PING_SERVER_KEY": "Freastalaí Ping",
+            "ONE_CONTACT_KEY": "Teagmháil amháin",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Is é seo an fhoirm sonraí le haghaidh teagmhála amháin.",
+            "NODE_KEY": "Taiseachas aeir: fliuch",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Do ainm nod uathúil",
+            "NOTE_KEY": "Tabhair do d’aire",
+            "ANY_TEXT_YOU_WANT_KEY": "Aon téacs is mian leat",
+            "DOMAIN_ADDRESS_KEY": "Seoladh fearainn",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "An seoladh fearainn chuig an bhfreastalaí iargúlta",
+            "USER_NAME_KEY": "Ainm úsáideora",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid fuair tú as an bhfreastalaí iargúlta",
+            "SHARED_SECRET_KEY": "Roinnte rúnda",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k teaghrán randamach fuair tú ó fhreastalaí iargúlta",
+            "ALLOWED_ROLES_KEY": "Róil Ceadaithe",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Liosta le gach ról atá ag an gcuntas seo",
+            "USER_KEY": "Úsáideora",
+            "DEVELOPER_KEY": "Forbairt",
+            "ADMIN_KEY": "Amharc ar gach eolas"
+        }
+    }
+}

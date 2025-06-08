@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 17:56:00",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "hi",
+        "language_name": "Hindi",
+        "language_name_local": "हिन्दी",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "अनुवाद",
+        "description": "मैन्युअल रूप से एक वाक्यांश का अनुवाद करें। प्लगइन्स के लिए भाषा फाइलें बनाएं।."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "निर्देश",
+            "USE_THE_MENU._KEY": "मेनू का उपयोग करें।."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "दस्तावेज़ीकरण यहां प्रस्तुत करेगा",
+            "MAIN_DOC_KEY": "मुख्य डॉक्टर",
+            "MANUAL_TRANSLATION_KEY": "मैनुअल अनुवाद",
+            "PLUGIN_TRANSLATION_KEY": "प्लगइन अनुवाद"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "मैनुअल अनुवाद",
+            "REFRESH_LANGUAGE_LIST_KEY": "भाषा सूची ताज़ा करें",
+            "SELECT_LANGUAGE_KEY": "भाषा चुनें",
+            "SELECT_SOURCE_LANGUAGE._KEY": "स्रोत भाषा चुनें।.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "गंतव्य भाषा चुनें।.",
+            "YOUR_TEXT_KEY": "आपका पाठ",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "वह पाठ जिसे आप अनुवाद करना चाहते हैं।.",
+            "TRANSLATE_KEY": "अनुवाद",
+            "THE_TRANSLATED_TEXT_KEY": "अनुवादित पाठ",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "अनुवाद के बाद आपको जो पाठ मिलता है।.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "गंतव्य भाषा चुनें। पाठ लिखें। अनुवाद पर क्लिक करें",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "से अनुवाद करने के लिए भाषा चुनें",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "इसलिए मैं अनुवाद कर सकता हूँ",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "अनुवाद करने के लिए भाषा चुनें",
+            "TRANSLATION_DONE_KEY": "अनुवाद किया"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "अनुवाद उपकरण",
+            "DOCUMENTATION_KEY": "दस्तावेज़ीकरण",
+            "MANUAL_TRANSLATION_KEY": "मैनुअल अनुवाद",
+            "PLUGIN_TRANSLATION_KEY": "प्लगइन अनुवाद"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "ताज़ा सूची",
+            "SELECT_PLUGIN_KEY": "प्लगइन चुनें",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "सभी क्लाइंट प्लगइन्स की सूची जिसमें अनुवाद फाइलें हो सकती हैं।.",
+            "SELECT_LANGUAGES_KEY": "भाषा चुनें",
+            "TRANSLATE_KEY": "अनुवाद",
+            "PLUGIN_TRANSLATION_KEY": "प्लगइन अनुवाद",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "प्लगइन्स और भाषाओं का चयन करें",
+            "CLICK_TRANSLATE_KEY": "अनुवाद पर क्लिक करें",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "सूची का ताज़ा होना",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "अनुवाद करने के लिए एक या अधिक प्लगइन्स चुनें",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "अनुवाद करने के लिए एक या अधिक भाषाओं को चुनें",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "सर्वर को अनुवाद करने के लिए पूछ रहा है",
+            "TO_LANGUAGES_KEY": "भाषाओं में",
+            "TRANSLATION_DONE_KEY": "अनुवाद किया",
+            "EXECUTION_TIME_KEY": "निष्पादन समय",
+            "SECONDS_KEY": "दूसरा"
+        }
+    }
+}

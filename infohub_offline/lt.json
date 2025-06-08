@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "lt",
+        "language_name": "Lithuanian",
+        "language_name_local": "Lietuvių",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Darbas be interneto",
+        "description": "Čia galite pasiruošti darbui be prieigos prie serverio. Atsiunčia duomenis, kurių gali prireikti."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Įrankiai išorėje",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Įrankiai pamatyti, ar esate prisijungę ar atsijungę.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Žiūrėti, kokie įskiepiai yra užsisakę tą įvykį.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Mygtukai duomenų atsisiuntimui ir saugojimui, kad būtų pasirengta naudoti prisijungus.",
+            "DOWNLOAD_PLUGINS_KEY": "Parsisiųsti įskiepius",
+            "OF_KEY": "Iš",
+            "DOWNLOAD_ASSETS_KEY": "Atsisiųsti turtą",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Parsisiųsti dokumentaciją",
+            "SHOW_SUBSCRIBERS_KEY": "Rodyti abonentus",
+            "STATUS_KEY": "Būsena"
+        }
+    }
+}

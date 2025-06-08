@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:32:55",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "ru",
+        "language_name": "Russian",
+        "language_name_local": "Русский",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Инструмент отладки",
+        "description": "Инструмент для разработчиков и тестировщиков."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "Очистить кэш",
+            "DONE_REFRESHING_PAGE_KEY": "Обновленная страница",
+            "RELOAD_PAGE._KEY": "Перезагрузить страницу.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "Очистите старые плагины, помеченные сервером. Перезагрузить страницу.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "Очистите все локальные плагины, перезагрузите страницу.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "Очистите все локальные данные, перезагрузите страницу.",
+            "INSTRUCTIONS_KEY": "Инструкции",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "Нажмите на опцию или используйте клавиатуру. Эти ключи всегда работают, где бы вы ни находились.",
+            "INFORMATION_KEY": "Информация",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "Он также находится в нижней части экрана пусковой установки в качестве кнопки на случай, если вы не можете начать отладку и не имеете клавиатуры на своем устройстве.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "Это единственный вариант, который также удаляет иконки, переводы и настройки из локального хранилища.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "Молча удалить кэш рендеринга для зарегистрированного пользователя",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "Зарегистрируйтесь и обновите страницу"
+        }
+    }
+}

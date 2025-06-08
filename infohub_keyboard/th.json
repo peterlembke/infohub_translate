@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "th",
+        "language_name": "Thai",
+        "language_name_local": "ภาษาไทยName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "แป้นพิมพ์",
+        "description": "ที่นี่คุณสามารถสมัครรับการใช้รูปแบบแป้นพิมพ์ และผูกเข้ากับการทํางาน."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "ทดสอบแป้นพิมพ์",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "ลองชุดแป้นพิมพ์ของคุณ",
+            "ANY_BUTTON_KEY": "ปุ่มใด ๆ",
+            "SUBSCRIBE_KEY": "สมัครสมาชิก",
+            "UNSUBSCRIBE_KEY": "เลิกบอกรับ",
+            "SHOW_SUBSCRIBERS_KEY": "แสดงสมาชิก",
+            "KEYBOARD_DEMO_POPUP_KEY": "หน้าต่างผุดของแป้นพิมพ์"
+        }
+    }
+}

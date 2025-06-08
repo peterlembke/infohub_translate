@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "az",
+        "language_name": "Azerbaijani",
+        "language_name_local": "Bakı",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": " Keyboard",
+        "description": "Burada klassik komponentlərinə abone ola bilərsiniz və onları funksiyalara bağlarsınız."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Elanlar",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Sizin klassiklopediya",
+            "ANY_BUTTON_KEY": "Heç bir düym",
+            "SUBSCRIBE_KEY": "E-poçt",
+            "UNSUBSCRIBE_KEY": "Qeydiyyat",
+            "SHOW_SUBSCRIBERS_KEY": "Proqramlar",
+            "KEYBOARD_DEMO_POPUP_KEY": "Qalereya"
+        }
+    }
+}

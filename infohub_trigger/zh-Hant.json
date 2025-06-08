@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 17:58:50",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "zh-Hant",
+        "language_name": "Chinese (traditional)",
+        "language_name_local": "中文( 傳統 )",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "傳送自訂信件",
+        "description": "作為開發者, 您可以向您的函數發送信件 ."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "触发",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "您作為開發者可以向您的新兴插件發送訊息 .",
+            "REFRESH_DATA_KEY": "刷新資料",
+            "NODE_KEY": "節點",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "選擇要傳送信件的節點",
+            "CLIENT_KEY": "客戶端",
+            "SERVER_KEY": "伺服器",
+            "PLUGIN_KEY": "插件",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "選擇要傳送信件的外掛程式",
+            "FUNCTION_KEY": "函數",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "選擇要傳送信件的函數",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "選取的函數的預設信件",
+            "MESSAGE_KEY": "訊息",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "這是您可以傳送到所選取的外掛程式的訊息 .",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "您看到的訊息是函數設定的預設值 .",
+            "GET_ALL_KEY": "全部去",
+            "BARE_BONE_KEY": "赤骨",
+            "GET_DEFAULT_MESSAGE_KEY": "取得預設信件",
+            "SEND_MESSAGE_KEY": "傳送信件",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "函數的回應",
+            "RESPONSE_KEY": "答复",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "這裡您可以看到功能的回應 .",
+            "NO_CONFIG_KEY": "沒有配置"
+        }
+    }
+}

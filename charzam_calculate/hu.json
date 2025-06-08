@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "hu",
+        "language_name": "Hungarian",
+        "language_name_local": "Magyar",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "A kamatlábak kiszámítása",
+        "description": "Számítás olyan területeken, mint a gazdaság, a kamatlábak stb."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Útmutató",
+            "USE_THE_MENU._KEY": "Használd az étlapot."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Az éves kamatból a megtakarítások havi kamatlábát is kiszámíthatja.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Használhatja az eredményt a költségvetés hozzá banki kamatot a megtakarítások minden hónapban.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Ez megoldja a problémát a kamatláb kamatlábával.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Ha kiszámítja a havi hitelkamatlábakat, akkor ne használja ezt az eszközt.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "A kölcsönök esetében az éves kamatlábat osztjuk 12-vel.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "A különbség az, hogy a hitelek nem rendelkeznek kamatlábakkal.",
+            "INTEREST_RATE_KEY": "Kamatláb",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Kattintson az utasításokért...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "A megtakarítások havi kamatlábának kiszámítása",
+            "YEARLY_INTEREST_RATE_KEY": "Éves kamatláb",
+            "CALCULATE_KEY": "Számítás",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Havi kamatláb százalék",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Havi kamatláb százalék két tizedesjegygel",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Havi kamatláb tizedesjegy",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Havi kamatláb tizedesjegy az összes tizedesjegy a bugdet",
+            "CALCULATION_OK_KEY": "Számítás oké",
+            "CALCULATION_VERIFIED_OK_KEY": "Számítás ellenőrzött ok",
+            "CALCULATION_FAILED_KEY": "A számítás nem sikerült",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "A számítás nem sikerült"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Havi kamatláb"
+        }
+    }
+}

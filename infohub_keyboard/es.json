@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 17:52:50",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "es",
+        "language_name": "Spanish",
+        "language_name_local": "Español",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Teclado",
+        "description": "Aquí puede suscribirse a combinaciones de teclado y atarlas a funciones."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Pruebas de teclado",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Prueba combinaciones en tu teclado",
+            "ANY_BUTTON_KEY": "Cualquier botón",
+            "SUBSCRIBE_KEY": "Suscríbete",
+            "UNSUBSCRIBE_KEY": "Suscripción",
+            "SHOW_SUBSCRIBERS_KEY": "Mostrar suscriptores",
+            "KEYBOARD_DEMO_POPUP_KEY": "Teclado demo popup"
+        }
+    }
+}

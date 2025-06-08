@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 19:07:24",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "cs",
+        "language_name": "Czech",
+        "language_name_local": "Česká republika",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Přeložit",
+        "description": "Ručně přeložit frázi. Vytvořit jazykové soubory pro pluginy."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Pokyny",
+            "USE_THE_MENU._KEY": "Použij menu."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentace se objeví zde",
+            "MAIN_DOC_KEY": "Hlavní lékař",
+            "MANUAL_TRANSLATION_KEY": "Ruční překlad",
+            "PLUGIN_TRANSLATION_KEY": "Překlad modulu"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Ruční překlad",
+            "REFRESH_LANGUAGE_LIST_KEY": "Refresh language list",
+            "SELECT_LANGUAGE_KEY": "Vybrat jazyk",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Vyberte zdrojový jazyk.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Vyberte cílový jazyk.",
+            "YOUR_TEXT_KEY": "Tvůj text",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Text, který chcete přeložit.",
+            "TRANSLATE_KEY": "Přeložit",
+            "THE_TRANSLATED_TEXT_KEY": "Překlad textu",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Text, který dostanete po překladu.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Vyberte cílový jazyk. Napiš text. Klikněte na překlad",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Vyberte jazyk přeložit z",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Napiš něco, abych mohl přeložit",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Vyberte jazyk přeložit do",
+            "TRANSLATION_DONE_KEY": "Provedení překladu"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Nástroj pro překlad",
+            "DOCUMENTATION_KEY": "Dokumentace",
+            "MANUAL_TRANSLATION_KEY": "Ruční překlad",
+            "PLUGIN_TRANSLATION_KEY": "Překlad modulu"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Nové seznamy",
+            "SELECT_PLUGIN_KEY": "Vybrat modul",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Seznam všech klientských pluginů, které mohou mít překlad souborů.",
+            "SELECT_LANGUAGES_KEY": "Vybrat jazyky",
+            "TRANSLATE_KEY": "Přeložit",
+            "PLUGIN_TRANSLATION_KEY": "Překlad modulu",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Vybrat pluginy a jazyky",
+            "CLICK_TRANSLATE_KEY": "Klikněte na překlad",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Obnovení seznamu je provedeno",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Vyberte si jeden nebo více pluginů pro překlad",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Vyberte si jeden nebo více jazyků přeložit do",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Požádat server o překlad",
+            "TO_LANGUAGES_KEY": "Jazyky",
+            "TRANSLATION_DONE_KEY": "Provedení překladu",
+            "EXECUTION_TIME_KEY": "Doba provedení",
+            "SECONDS_KEY": "Sekundy"
+        }
+    }
+}

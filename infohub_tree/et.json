@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "et",
+        "language_name": "Estonian",
+        "language_name_local": "Eesti",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Puu",
+        "description": "Käsitleb teie isikuandmeid."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Juhised",
+            "USE_THE_MENU._KEY": "Kasuta menüüd."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Varumees",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Täielik varundamine kõik andmed, mis teil on serveris.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Sa saad ühe faili kõigega.",
+            "BACKUP_EVERYTHING_KEY": "Varu kõike",
+            "BACKUP_PLUGINS_KEY": "Varundamispluginad",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Iga plugina varundamine eraldi.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Sa saad iga plugina jaoks ühe varukoopia faili.",
+            "REFRESH_PLUGIN_LIST_KEY": "Pluginate nimekirja värskendamine",
+            "PLUGIN_LIST_KEY": "Pluginate nimekiri",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Nimekiri kõigi puupluginatega",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Valitud pluginate varundamine",
+            "PARTIAL_BACKUP_KEY": "Osaline varukoopia",
+            "PARTIAL_BACKUP._KEY": "Osaline varukoopia.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Valige üks plugin ja valige varundamiseks võtmed.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Sa saad ühe varukoopia.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Nimekiri kõigi puupluginatega.",
+            "SELECT_ONE_KEY": "Vali üks",
+            "REFRESH_KEY_LIST_KEY": "Uuenda võtmete nimekirja",
+            "KEYS_KEY": "Võtmed",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Kõik valitud plugina võtmed.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Vali need, mida soovid varundada",
+            "BACKUP_SELECTED_KEYS_KEY": "Valitud võtmete varundamine"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentatsioon näitab siin",
+            "MAIN_DOC_KEY": "Peadoktor",
+            "VERSION_DOC_KEY": "Versioonidokument",
+            "ENCRYPTION_DOC_KEY": "Krüpteerimisdokument",
+            "BACKUP_DOC_KEY": "Varukoopia",
+            "RESTORE_DOC_KEY": "Taastage dok",
+            "STORAGE_DOC_KEY": "Salvestuse dok",
+            "SYNC_DOC_KEY": "Sync"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Võtmefaili import",
+            "ONE_CONTACT_KEY": "Üks kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "See on ühe kontakti andmevorm",
+            "IMPORT_PASSWORD_KEY": "Parooli import",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Faili parool",
+            "FORGET_IMPORTED_KEY_KEY": "Unustatud",
+            "EXPORT_KEY_FILE_KEY": "Ekspordi võtmefail",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Imporditud võtme eksport uue parooliga",
+            "EXPORT_PASSWORD_KEY": "Ekspordi parool",
+            "CREATE_KEY_FILE_KEY": "Võtmefaili loomine",
+            "CREATE_NEW_KEY_FILE_KEY": "Uue võtmefaili loomine",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Uue võtme loomine uue parooliga"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Puujuht",
+            "DOCUMENTATION_KEY": "Dokumentatsioon",
+            "VERSION_KEY": "Versioon",
+            "ENCRYPTION_KEY": "Krüpteerimine",
+            "BACKUP_KEY": "Varumees",
+            "RESTORE_KEY": "Taastage",
+            "SYNC_KEY": "Sync"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Konfliktid",
+            "SELECT_BACKUP_FILES_KEY": "Varundusfailide valimine",
+            "CLEAR_LIST_KEY": "Puhasta nimekiri",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Andmete taastamine brauseri salvestisse",
+            "BACKUP_FILES_KEY": "Varukoopiad",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Siin on nimekiri kõigist failivalijas valitud varundusfailidest",
+            "INFORMATION_KEY": "Info",
+            "RESTORE_LOG_KEY": "Taasta logi",
+            "CLICK_ON_THE_LIST_KEY": "Klõpsa nimekirjal",
+            "REFRESH_CONFLICT_LIST_KEY": "Konfliktide nimekirja värskendamine",
+            "KEEP_LOCAL_VERSION_KEY": "Kohaliku versiooni säilitamine",
+            "KEEP_SERVER_VERSION_KEY": "Serveri versiooni säilitamine",
+            "CONFLICT_LIST_KEY": "Konfliktide nimekiri"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Käivita siin sünkroniseerimine",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Kõigepealt sünkroonite, seejärel käitlete üleslaadimise, allalaadimise ja konfliktiloendeid",
+            "CLICK_ON_THE_LIST_KEY": "Klõpsa nimekirjal",
+            "SYNC_KEY": "Sync",
+            "UPLOAD_KEY": "Laadi üles",
+            "DOWNLOAD_KEY": "Laadi alla",
+            "REFRESH_CONFLICT_LIST_KEY": "Konfliktide nimekirja värskendamine",
+            "KEEP_LOCAL_VERSION_KEY": "Kohaliku versiooni säilitamine",
+            "KEEP_SERVER_VERSION_KEY": "Serveri versiooni säilitamine",
+            "CONFLICT_LIST_KEY": "Konfliktide nimekiri",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Saate aidata mul otsustada, millist versiooni säilitada"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Uuenda versiooni andmeid"
+        }
+    }
+}

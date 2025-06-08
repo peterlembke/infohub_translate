@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 17:49:04",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "sv",
+        "language_name": "Swedish",
+        "language_name_local": "Svenska",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Översättning",
+        "description": "Manuellt översätta en fras. Skapa språkfiler för plugins."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Instruktioner",
+            "USE_THE_MENU._KEY": "Använd menyn."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentation kommer att göra här",
+            "MAIN_DOC_KEY": "Huvud Doc",
+            "MANUAL_TRANSLATION_KEY": "Manuell översättning",
+            "PLUGIN_TRANSLATION_KEY": "Plugin översättning"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Manuell översättning",
+            "REFRESH_LANGUAGE_LIST_KEY": "Färsk språklista",
+            "SELECT_LANGUAGE_KEY": "Välj språk",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Välj källspråk.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Välj destinationsspråk.",
+            "YOUR_TEXT_KEY": "Din text",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Texten du vill översätta.",
+            "TRANSLATE_KEY": "Översättning",
+            "THE_TRANSLATED_TEXT_KEY": "Översatt text",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Texten du får efter översättning.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Välj destinationsspråk. Skriv text. Klicka på translate",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Välj ett språk att översätta från",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Skriv något så jag kan översätta",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Välj ett språk att översätta till",
+            "TRANSLATION_DONE_KEY": "Översättning gjort"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Översättningsverktyg",
+            "DOCUMENTATION_KEY": "Dokumentation",
+            "MANUAL_TRANSLATION_KEY": "Manuell översättning",
+            "PLUGIN_TRANSLATION_KEY": "Plugin översättning"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Refresh listor",
+            "SELECT_PLUGIN_KEY": "Välj plugin",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Listar alla klientplugins som kan ha översättningsfiler.",
+            "SELECT_LANGUAGES_KEY": "Välj språk",
+            "TRANSLATE_KEY": "Översättning",
+            "PLUGIN_TRANSLATION_KEY": "Plugin översättning",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Välj plugins och språk",
+            "CLICK_TRANSLATE_KEY": "Klicka på translate",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Uppfriskningar av listorna görs",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Välj en eller flera plugins att översätta",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Välj ett eller flera språk för att översätta till",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Fråga server att översätta",
+            "TO_LANGUAGES_KEY": "Till språk",
+            "TRANSLATION_DONE_KEY": "Översättning gjort",
+            "EXECUTION_TIME_KEY": "Exekveringstid",
+            "SECONDS_KEY": "Andra"
+        }
+    }
+}

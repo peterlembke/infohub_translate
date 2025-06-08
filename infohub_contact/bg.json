@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "bg",
+        "language_name": "Bulgarian",
+        "language_name_local": "Български",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Потребители и възли",
+        "description": "Можете да се справите с потребителите си тук. Можете да създадете достъп до други сървърни възли тук."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Инструкции",
+            "USE_THE_MENU._KEY": "Използвай менюто."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Обновяване на клиентите",
+            "CLIENT_CONTACTS_KEY": "Контакти с клиенти",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Списък на всички контакти с клиенти",
+            "NEW_KEY": "Нов",
+            "SAVE_KEY": "Запис",
+            "DELETE_KEY": "Изтриване",
+            "IMPORT_KEY": "Внос",
+            "EXPORT_KEY": "Експортиране",
+            "ONE_CONTACT_KEY": "Един контакт",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Това е формуляр за данни за един контакт",
+            "NODE_KEY": "Възел",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Вашето уникално име на клиента",
+            "NOTE_KEY": "Забележка",
+            "ANY_TEXT_YOU_WANT_KEY": "Всеки текст, който искате",
+            "DOMAIN_ADDRESS_KEY": "Адрес на домейн",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Адрес на домейна до вашия сървър",
+            "USER_NAME_KEY": "Потребител",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Получаваш хъб-юид, когато го спасиш",
+            "SHARED_SECRET_KEY": "Споделена тайна",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Ще получите 2k случаен низ, когато запишете (оставете празно)",
+            "ALLOWED_ROLES_KEY": "Позволени роли",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Списък с всички потребителски роли, които имате",
+            "USER_KEY": "Потребител",
+            "DEVELOPER_KEY": "Разработчик",
+            "ADMIN_KEY": "Администратор",
+            "HAS_PASSWORD_KEY": "Има парола",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Ако импортираният файл има клиентска парола, зададена от потребителя"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Документацията ще направи тук",
+            "MAIN_DOC_KEY": "Главен лекар",
+            "CLIENT_DOC_KEY": "Клиентски документ",
+            "SERVER_DOC_KEY": "Документ на сървъра"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Управител на контакти",
+            "DOCUMENTATION_KEY": "Документация",
+            "CLIENT_CONTACT_KEY": "Контакт с клиента",
+            "SERVER_CONTACT_KEY": "Контакт със сървър"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Презареждане",
+            "SERVER_CONTACTS_KEY": "Сървърни контакти",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Списък на всички сървърни контакти",
+            "SAVE_KEY": "Запис",
+            "DELETE_KEY": "Изтриване",
+            "IMPORT_KEY": "Внос",
+            "EXPORT_KEY": "Експортиране",
+            "PING_SERVER_KEY": "Сървър Ping",
+            "ONE_CONTACT_KEY": "Един контакт",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Това е формуляр за данни за един контакт.",
+            "NODE_KEY": "Възел",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Уникалното ти име",
+            "NOTE_KEY": "Забележка",
+            "ANY_TEXT_YOU_WANT_KEY": "Всеки текст, който искате",
+            "DOMAIN_ADDRESS_KEY": "Адрес на домейн",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Адрес на домейн към отдалечен сървър",
+            "USER_NAME_KEY": "Потребител",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid имате от отдалечен сървър",
+            "SHARED_SECRET_KEY": "Споделена тайна",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k случайна низ имате от отдалечен сървър",
+            "ALLOWED_ROLES_KEY": "Позволени роли",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Списък с всички роли на този акаунт",
+            "USER_KEY": "Потребител",
+            "DEVELOPER_KEY": "Разработчик",
+            "ADMIN_KEY": "Администратор"
+        }
+    }
+}

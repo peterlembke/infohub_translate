@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "pl",
+        "language_name": "Polish",
+        "language_name_local": "Polski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Oblicz stopy procentowe",
+        "description": "Obliczać w obszarach takich jak gospodarka, stopy procentowe itp."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Instrukcje",
+            "USE_THE_MENU._KEY": "Użyj menu."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Możesz obliczyć miesięczną stopę procentową oszczędności z rocznej stopy procentowej.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Możesz wykorzystać wynik w budżecie, aby dodać odsetki bankowe od oszczędności każdego miesiąca.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "To rozwiązuje problem stopy procentowej.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Jeśli obliczysz miesięczne stopy procentowe pożyczek, nie używaj tego narzędzia.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "W przypadku pożyczek dzielimy roczną stopę procentową przez 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Różnica polega na tym, że pożyczki nie mają stopy procentowej.",
+            "INTEREST_RATE_KEY": "Stopa procentowa",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Kliknij na instrukcję...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Oblicz miesięczną stopę procentową swoich oszczędności",
+            "YEARLY_INTEREST_RATE_KEY": "Roczna stopa procentowa",
+            "CALCULATE_KEY": "Oblicz",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Miesięczna stopa procentowa",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Miesięczny procent stopy procentowej z dwoma przecinkami",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Miesięczna stopa procentowa dziesiętna",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Miesięczna stopa procentowa dziesiętna ze wszystkimi ułamkami dziesiętnymi dla bugdetu",
+            "CALCULATION_OK_KEY": "Obliczanie ok",
+            "CALCULATION_VERIFIED_OK_KEY": "Obliczanie sprawdzone ok",
+            "CALCULATION_FAILED_KEY": "Obliczanie nie powiodło się",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Obliczanie nieudanej weryfikacji"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Miesięczna stopa procentowa"
+        }
+    }
+}

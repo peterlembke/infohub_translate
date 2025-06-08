@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:55:22",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "he",
+        "language_name": "Hebrew",
+        "language_name_local": "עברית",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "שלח הודעה אישית",
+        "description": "כמפתח אתה יכול לשלוח הודעות לפונקציות שלך."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "טריגר",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "אתה כמפתח יכול לשלוח הודעה לתוסף המתעורר שלך.",
+            "REFRESH_DATA_KEY": "נתונים מרעננים",
+            "NODE_KEY": "Node",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "בחר את הצומת שברצונך לשלוח את ההודעה",
+            "CLIENT_KEY": "לקוח",
+            "SERVER_KEY": "Server",
+            "PLUGIN_KEY": "Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "בחר את התוסף שברצונך לשלוח את ההודעה",
+            "FUNCTION_KEY": "תפקוד",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "בחר את הפונקציה שברצונך לשלוח הודעה",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "הודעה על הפונקציה שנבחרה",
+            "MESSAGE_KEY": "הודעה",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "זהו המסר שניתן לשלוח לתוסף שנבחר.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "המסר שאתה רואה הוא ערכי ברירת המחדל שהתפקוד קבע.",
+            "GET_ALL_KEY": "קבל את הכל",
+            "BARE_BONE_KEY": "עצמות",
+            "GET_DEFAULT_MESSAGE_KEY": "קבל הודעת ברירת מחדל",
+            "SEND_MESSAGE_KEY": "שלח הודעה",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "תגובה מהתפקיד",
+            "RESPONSE_KEY": "תגובה",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "כאן תראו את התגובה מהתפקיד.",
+            "NO_CONFIG_KEY": "אין תצורה"
+        }
+    }
+}

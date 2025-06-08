@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "bg",
+        "language_name": "Bulgarian",
+        "language_name_local": "Български",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Дървото",
+        "description": "Оправя личните ви данни."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Инструкции",
+            "USE_THE_MENU._KEY": "Използвай менюто."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Подкрепление на всички",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Пълно архивиране на всички данни, които имате на сървъра.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Получаваш по един файл с всичко.",
+            "BACKUP_EVERYTHING_KEY": "Подсигурете всичко",
+            "BACKUP_PLUGINS_KEY": "Резервни приставки",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Подкрепление на всеки плъгин отделно.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Получавате един резервен файл за всеки плъгин.",
+            "REFRESH_PLUGIN_LIST_KEY": "Презареждане на списъка с приставки",
+            "PLUGIN_LIST_KEY": "Списък с приставки",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Списък с всички приставки за дървета",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Резервни избрани приставки",
+            "PARTIAL_BACKUP_KEY": "Частично архивиране",
+            "PARTIAL_BACKUP._KEY": "Частично архивиране.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Изберете един плъгин и изберете ключове за архивиране.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Имаш един резервен файл.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Списък с всички приставки за дърво.",
+            "SELECT_ONE_KEY": "Избор на",
+            "REFRESH_KEY_LIST_KEY": "Обновяване на списъка с ключове",
+            "KEYS_KEY": "Ключове",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Всички ключове за избрания плъгин.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Изберете тези, които искате да архивирате",
+            "BACKUP_SELECTED_KEYS_KEY": "Резервни ключове"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Документацията ще направи тук",
+            "MAIN_DOC_KEY": "Главен лекар",
+            "VERSION_DOC_KEY": "Документ за версия",
+            "ENCRYPTION_DOC_KEY": "Документ за шифроване",
+            "BACKUP_DOC_KEY": "Резервен документ",
+            "RESTORE_DOC_KEY": "Възстановяване на документ",
+            "STORAGE_DOC_KEY": "Документ за съхранение",
+            "SYNC_DOC_KEY": "Синхронизация на документа"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Импортиране на ключови файлове",
+            "ONE_CONTACT_KEY": "Един контакт",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Това е формуляр за данни за един контакт",
+            "IMPORT_PASSWORD_KEY": "Импортиране на парола",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Вашата парола за файла",
+            "FORGET_IMPORTED_KEY_KEY": "Забрави за вноса",
+            "EXPORT_KEY_FILE_KEY": "Експортиране на ключовия файл",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Експортиране на внесения ключ с нова парола",
+            "EXPORT_PASSWORD_KEY": "Експортиране на паролата",
+            "CREATE_KEY_FILE_KEY": "Създаване на ключов файл",
+            "CREATE_NEW_KEY_FILE_KEY": "Създаване на нов ключов файл",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Създаване на нов ключ с нова парола"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Мениджър на дървета",
+            "DOCUMENTATION_KEY": "Документация",
+            "VERSION_KEY": "Версия",
+            "ENCRYPTION_KEY": "Шифроване",
+            "BACKUP_KEY": "Подкрепление",
+            "RESTORE_KEY": "Възстановяване",
+            "SYNC_KEY": "Синхронизиране"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Конфликти",
+            "SELECT_BACKUP_FILES_KEY": "Избор на резервни файлове",
+            "CLEAR_LIST_KEY": "Изчистване на списъка",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Възстановяване на данните в браузъра",
+            "BACKUP_FILES_KEY": "Резервни файлове",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Ето списък с всички архивни файлове, които сте избрали в селектора на файла",
+            "INFORMATION_KEY": "Информация",
+            "RESTORE_LOG_KEY": "Възстановяване на дневника",
+            "CLICK_ON_THE_LIST_KEY": "Кликнете върху списъка",
+            "REFRESH_CONFLICT_LIST_KEY": "Обновяване на списъка с конфликти",
+            "KEEP_LOCAL_VERSION_KEY": "Запазване на локалната версия",
+            "KEEP_SERVER_VERSION_KEY": "Запазване на версията на сървъра",
+            "CONFLICT_LIST_KEY": "Списък на конфликтите"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Започнете синхронизирането тук",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Първо синхронизирате, после се справяте с качването, изтеглянето и конфликтите",
+            "CLICK_ON_THE_LIST_KEY": "Кликнете върху списъка",
+            "SYNC_KEY": "Синхронизиране",
+            "UPLOAD_KEY": "Качване",
+            "DOWNLOAD_KEY": "Изтегляне",
+            "REFRESH_CONFLICT_LIST_KEY": "Обновяване на списъка с конфликти",
+            "KEEP_LOCAL_VERSION_KEY": "Запазване на локалната версия",
+            "KEEP_SERVER_VERSION_KEY": "Запазване на версията на сървъра",
+            "CONFLICT_LIST_KEY": "Списък на конфликтите",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Можеш да ми помогнеш да реша коя версия да запазя"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Обновяване на данните за версията"
+        }
+    }
+}

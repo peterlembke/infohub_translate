@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:12:36",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "ur",
+        "language_name": "Urdu",
+        "language_name_local": "اُردو",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ٹیسٹ پیغامات بھیجتے ہیں",
+        "description": "ایک ترقی‌یافتہ شخص کے طور پر آپ یہ دیکھ سکتے ہیں کہ جب آپ کسی شخص کے پاس کوئی پیغام بھیجتے ہیں یا کوئی ایسا کام کرتے ہیں جس کا کوئی وجود نہیں ہوتا تو کیا واقع ہوتا ہے ۔."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "ہدایات",
+            "USE_THE_MENU._KEY": "مینو استعمال کریں.",
+            "RESULT_KEY": "نتیجہ"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "دیو فون",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "یہاں آپ اس بات کا جائزہ لے سکتے ہیں کہ کیا ہوتا ہے اگر آپ کسی پلگ انس کو کہتے ہیں جو گم ہو گیا ہے، یا گم شدہ عمل ہے۔",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "مرکزی فون ۔ جمع اور عمل موجود ہے",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "اسکے علاوہ اس میں بھی بہت سی چیزیں پائی جاتی ہیں ۔",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "کلنٹن - پلگن گم ہوتا ہے۔",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "سرور - صحیح فون. جمع اور عمل موجود ہے",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "سرور پلگ‌نس موجود نہیں ہے ۔",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "سرور - پلگ ان گم ہے۔",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "بچے موزوں طور پر بات‌چیت کرتے ہیں",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "اِس سلسلے میں ایک مثال پر غور کریں ۔",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "بچے کی طرف سے والدین سے دُعا",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "سرور - تمام سرور امتحانات چلاتے ہیں۔"
+        }
+    }
+}

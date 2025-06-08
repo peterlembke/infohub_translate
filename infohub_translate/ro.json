@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:32:55",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "ro",
+        "language_name": "Romanian",
+        "language_name_local": "Română",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Tradu",
+        "description": "Tradu manual o frază. Creați fișiere lingvistice pentru module."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Instrucţiuni",
+            "USE_THE_MENU._KEY": "Foloseşte meniul."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Documentaţia va face aici",
+            "MAIN_DOC_KEY": "Docul principal",
+            "MANUAL_TRANSLATION_KEY": "Traducere manuală",
+            "PLUGIN_TRANSLATION_KEY": "Traducere modul"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Traducere manuală",
+            "REFRESH_LANGUAGE_LIST_KEY": "Actualizează lista de limbi",
+            "SELECT_LANGUAGE_KEY": "Alegeți limba",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Selectați limba sursă.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Alegeți limba de destinație.",
+            "YOUR_TEXT_KEY": "Textul dumneavoastră",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Textul pe care vrei să-l traduci.",
+            "TRANSLATE_KEY": "Tradu",
+            "THE_TRANSLATED_TEXT_KEY": "Textul tradus",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Textul pe care îl primeşti după traducere.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Alegeți limba de destinație. Scrie text. Faceți clic pe traduce",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Alege o limbă din care să traduci",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Scrie ceva ca să pot traduce",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Alege o limbă pentru a traduce",
+            "TRANSLATION_DONE_KEY": "Traducerea terminată"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Instrumentul de traducere",
+            "DOCUMENTATION_KEY": "Documentație",
+            "MANUAL_TRANSLATION_KEY": "Traducere manuală",
+            "PLUGIN_TRANSLATION_KEY": "Traducere modul"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Actualizează listele",
+            "SELECT_PLUGIN_KEY": "Alegeți modulul",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Listează toate modulele client care pot avea fișiere de traducere.",
+            "SELECT_LANGUAGES_KEY": "Alegeți limbile",
+            "TRANSLATE_KEY": "Tradu",
+            "PLUGIN_TRANSLATION_KEY": "Traducere modul",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Alegeți modulele și limbile",
+            "CLICK_TRANSLATE_KEY": "Faceți clic pe traduce",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Reîmprospătarea listelor se face",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Alege unul sau mai multe module de tradus",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Alege una sau mai multe limbi pentru a traduce",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Cere serverului să traducă",
+            "TO_LANGUAGES_KEY": "Pentru limbi",
+            "TRANSLATION_DONE_KEY": "Traducerea terminată",
+            "EXECUTION_TIME_KEY": "Perioada de executare",
+            "SECONDS_KEY": "Secunde"
+        }
+    }
+}

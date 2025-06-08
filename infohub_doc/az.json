@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "az",
+        "language_name": "Azerbaijani",
+        "language_name_local": "Bakı",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Tarix",
+        "description": "InfoHub və bütün plugins haqqında tam məlumat."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": " Document",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Burada sənəd görəcək"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Daxil ol",
+            "INDEX_KEY": "İnformasiya"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "Daxil ol",
+            "NAVIGATION_KEY": "Bakı"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Yeniyetmə"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "infohub_asset",
+        "data_checksum": "4b8b2175f172389022784fdb24605692",
+        "language": "nb",
+        "language_name": "Norwegian",
+        "language_name_local": "Norsk",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Lisensinformasjon",
+        "description": "Vis lisensinformasjon for alle brukte eiendeler"
+    },
+    "data": {
+        "infohub_asset": {
+            "REFRESH_LIST_KEY": "Oppdatere listen"
+        }
+    }
+}

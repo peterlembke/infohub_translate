@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:05:36",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "id",
+        "language_name": "Indonesian",
+        "language_name_local": "Indonesia",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Pohon",
+        "description": "Menangani data pribadimu."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Instruksi",
+            "USE_THE_MENU._KEY": "Gunakan menu."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Cadangan semua",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Cadangan penuh dari semua data yang kau miliki di server.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Anda mendapatkan satu file dengan segala sesuatu.",
+            "BACKUP_EVERYTHING_KEY": "Cadangan semuanya",
+            "BACKUP_PLUGINS_KEY": "Plugin cadangan",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Backup dari masing-masing plugin secara terpisah.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Anda mendapatkan satu berkas cadangan untuk setiap plugin.",
+            "REFRESH_PLUGIN_LIST_KEY": "Segarkan daftar plugin",
+            "PLUGIN_LIST_KEY": "Daftar plugin",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Daftar dengan semua plugin pohon",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Plugin terpilih backup",
+            "PARTIAL_BACKUP_KEY": "Cadangan sebagian",
+            "PARTIAL_BACKUP._KEY": "Bantuan sebagian.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Pilih satu plugin dan pilih kunci untuk cadangan.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Anda mendapatkan satu file cadangan.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Daftar dengan semua plugin pohon.",
+            "SELECT_ONE_KEY": "Pilih salah satu",
+            "REFRESH_KEY_LIST_KEY": "Segarkan daftar kunci",
+            "KEYS_KEY": "Tombol",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Semua kunci bagi plugin yang dipilih.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Pilih yang ingin Anda backup",
+            "BACKUP_SELECTED_KEYS_KEY": "Backup kunci yang dipilih"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentasi akan dirender di sini",
+            "MAIN_DOC_KEY": "Dok utama",
+            "VERSION_DOC_KEY": "Doc versi",
+            "ENCRYPTION_DOC_KEY": "Dok enkripsi",
+            "BACKUP_DOC_KEY": "Dok cadangan",
+            "RESTORE_DOC_KEY": "Kembalikan doc",
+            "STORAGE_DOC_KEY": "Dok penyimpanan",
+            "SYNC_DOC_KEY": "Selaraskan doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Impor berkas kunci",
+            "ONE_CONTACT_KEY": "Satu kontak",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Ini adalah bentuk data untuk satu kontak",
+            "IMPORT_PASSWORD_KEY": "Impor sandi",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Sandi untuk berkas",
+            "FORGET_IMPORTED_KEY_KEY": "Lupakan impor",
+            "EXPORT_KEY_FILE_KEY": "Ekspor berkas kunci",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Ekspor kunci impor dengan sandi baru",
+            "EXPORT_PASSWORD_KEY": "Ekspor sandi",
+            "CREATE_KEY_FILE_KEY": "Buat berkas kunci",
+            "CREATE_NEW_KEY_FILE_KEY": "Buat berkas kunci baru",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Buat kunci baru dengan sandi baru"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Manajer pohon",
+            "DOCUMENTATION_KEY": "Dokumentasi",
+            "VERSION_KEY": "Versi",
+            "ENCRYPTION_KEY": "Enkripsi",
+            "BACKUP_KEY": "Backup",
+            "RESTORE_KEY": "Pulihkan",
+            "SYNC_KEY": "Selaraskan"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Konflik",
+            "SELECT_BACKUP_FILES_KEY": "Pilih berkas cadangan",
+            "CLEAR_LIST_KEY": "Hapus daftar",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Kembalikan data ke penyimpanan peramban",
+            "BACKUP_FILES_KEY": "Berkas cadangan",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Berikut adalah daftar dengan semua berkas backup yang telah Anda pilih dalam pemilih berkas",
+            "INFORMATION_KEY": "Informasi",
+            "RESTORE_LOG_KEY": "Pulihkan log",
+            "CLICK_ON_THE_LIST_KEY": "Klik pada daftar",
+            "REFRESH_CONFLICT_LIST_KEY": "Segarkan daftar konflik",
+            "KEEP_LOCAL_VERSION_KEY": "Pertahankan versi lokal",
+            "KEEP_SERVER_VERSION_KEY": "Pertahankan versi server",
+            "CONFLICT_LIST_KEY": "Daftar konflik"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Mulai sinkronisasi di sini",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Anda pertama sinkronisasi, kemudian menangani upload, download dan daftar konflik",
+            "CLICK_ON_THE_LIST_KEY": "Klik pada daftar",
+            "SYNC_KEY": "Selaraskan",
+            "UPLOAD_KEY": "Unggah",
+            "DOWNLOAD_KEY": "Unduh",
+            "REFRESH_CONFLICT_LIST_KEY": "Segarkan daftar konflik",
+            "KEEP_LOCAL_VERSION_KEY": "Pertahankan versi lokal",
+            "KEEP_SERVER_VERSION_KEY": "Pertahankan versi server",
+            "CONFLICT_LIST_KEY": "Daftar konflik",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Anda dapat membantu saya memutuskan apa versi untuk menjaga"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Segarkan data versi"
+        }
+    }
+}

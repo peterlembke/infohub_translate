@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "tl",
+        "language_name": "Tagalog",
+        "language_name_local": "Tagalog",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Pagsasalin",
+        "description": "Manual na isalin ang isang parirala. Gumawa ng mga file ng wika para sa mga plin."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Tagubilin",
+            "USE_THE_MENU._KEY": "Gamitin ang menu."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Ang dokumento ay maggagawad dito",
+            "MAIN_DOC_KEY": "Pangunahing doc",
+            "MANUAL_TRANSLATION_KEY": "Manual translation",
+            "PLUGIN_TRANSLATION_KEY": "Salin ng Plugin"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Manual translation",
+            "REFRESH_LANGUAGE_LIST_KEY": "Nakarerelaks na talaan ng mga wika",
+            "SELECT_LANGUAGE_KEY": "Pumili ng wika",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Pumili ng source language.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Pumili ng wikang pupuntahan.",
+            "YOUR_TEXT_KEY": "Ang iyong teksto",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Ang teksto na gusto mong isalin.",
+            "TRANSLATE_KEY": "Pagsasalin",
+            "THE_TRANSLATED_TEXT_KEY": "Ang isinaling teksto",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Ang teksto na makukuha mo pagkatapos ng pagsasalin.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Pumili ng wikang pupuntahan. Sumulat ng teksto. Pagsasalin ng Click",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Pumili ng wikang isasalin",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Isulat ang isang bagay na puwedeng isalin",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Pumili ng wikang isasalin",
+            "TRANSLATION_DONE_KEY": "Ginawa ang pagsasalin"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Gamit sa pagsasalin",
+            "DOCUMENTATION_KEY": "Dokumento",
+            "MANUAL_TRANSLATION_KEY": "Manual translation",
+            "PLUGIN_TRANSLATION_KEY": "Salin ng Plugin"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Baguhin ang listahan",
+            "SELECT_PLUGIN_KEY": "Pumili ng plagin",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Listahan ang lahat ng mga plagin ng kliyente na maaaring magkaroon ng mga talaksang pagsasalin.",
+            "SELECT_LANGUAGES_KEY": "Pumili ng mga wika",
+            "TRANSLATE_KEY": "Pagsasalin",
+            "PLUGIN_TRANSLATION_KEY": "Salin ng Plugin",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Pumili ng mga plagin at wika",
+            "CLICK_TRANSLATE_KEY": "Pagsasalin ng Click",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Pinananariwa ang listahan",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Pumili ng isa o higit pang plagin upang isalin",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Pumili ng isa o higit pang wika na isasalin",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Paghingi ng server upang magsalin",
+            "TO_LANGUAGES_KEY": "Sa mga wika",
+            "TRANSLATION_DONE_KEY": "Ginawa ang pagsasalin",
+            "EXECUTION_TIME_KEY": "Pagpatay ng panahon",
+            "SECONDS_KEY": "Ikalawa"
+        }
+    }
+}

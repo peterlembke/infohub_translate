@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "et",
+        "language_name": "Estonian",
+        "language_name_local": "Eesti",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Test-saat sõnumid",
+        "description": "Arendajana näete, mis juhtub, kui saadate sõnumi pluginale või funktsioonile, mida pole olemas."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Juhised",
+            "USE_THE_MENU._KEY": "Kasuta menüüd.",
+            "RESULT_KEY": "Tulemus"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Demokõne",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Siin saate uurida, mis juhtub, kui helistate puuduvale pluginale või puuduvale funktsioonile",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Klient - õige kõne. Plugin ja funktsioon on olemas",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Klient - plugin on olemas, cmd funktsiooni pole olemas",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Klient - plugin puudub",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Server - õige kõne. Plugin ja funktsioon on olemas",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Server - plugin on olemas, cmd funktsiooni pole olemas",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Server - plugin puudub",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Klient - laps räägib õigete vastajatega",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Klient - vigane kõne õe-venna lapsele",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Klient - vigane kõne lapselt vanemale",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Server - käivita kõik serveri testid"
+        }
+    }
+}

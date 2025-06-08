@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "bn",
+        "language_name": "Bengali",
+        "language_name_local": "বাংলা",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "সুদের হার",
+        "description": "অর্থনীতি, সুদের হার, ইত্যাদির মান গণনা করুন।."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "তথ্যানুসারে গ্রাফ আঁকো",
+            "USE_THE_MENU._KEY": "মেনু ব্যবহার করুন।."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "আপনি বছরের সুদের হার অনুযায়ী মাসিক সুদের হার হিসাব করতে পারেন।.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "আপনি প্রতি মাসে আপনার সঞ্চয়ের প্রতি ব্যাংকের আগ্রহ যোগ করতে পারেন ।.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "এটা সুদের হার নিয়ে সমস্যা সমাধান করে।.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "যদি আপনি মাসিক সুদের দাম হিসেব করেন তাহলে এই যন্ত্র ব্যবহার করবেন না।.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "লোনের জন্য আপনি বছরে ১২.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "পার্থক্য হল, সুদের হারের ওপর ঋণের হার নেই ।.",
+            "INTEREST_RATE_KEY": "নির্ধারিত সাময়িক সুদের হার",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "নির্দেশাবলী জন্য ক্লিক করুন...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "আপনার সঞ্চয়ের জন্য সুনির্দিষ্ট সুদের হার গণনা করা হয়",
+            "YEARLY_INTEREST_RATE_KEY": "বাৎসরিক সুদের হার",
+            "CALCULATE_KEY": "গণনা করো",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "মাসিক সুদের হার",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "মাস অনুযায়ী প্রদর্শনে ব্যয়ের হার",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "মাস অনুযায়ী প্রদর্শনে ব্যয়ের হার",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "দশমিকের পর যতগুলো অংক যোগ করা হবে",
+            "CALCULATION_OK_KEY": "ঠিক আছে",
+            "CALCULATION_VERIFIED_OK_KEY": "গণনা প্রক্রিয়া ঠিক আছে",
+            "CALCULATION_FAILED_KEY": "গণনা করতে ব্যর্থ",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "গণনা করতে ব্যর্থ"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "মাস অনুযায়ী ধার্য"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "lt",
+        "language_name": "Lithuanian",
+        "language_name_local": "Lietuvių",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Apskaičiuojamos palūkanų normos",
+        "description": "Apskaičiuojama tokiose srityse kaip ekonomika, palūkanų normos ir kt."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Instrukcijos",
+            "USE_THE_MENU._KEY": "Naudokite meniu."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Jūs galite apskaičiuoti mėnesinę palūkanų normą savo santaupų iš metinės palūkanų normos.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Jūs galite naudoti savo biudžeto rezultatą pridėti banko palūkanas savo santaupas kiekvieną mėnesį.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Taip išsprendžiama palūkanų normos problema.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Jei apskaičiuojate mėnesines paskolų palūkanų normas, nenaudokite šios priemonės.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Paskolų atveju metinę palūkanų normą padalinkite iš 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Skirtumas tas, kad paskoloms palūkanų norma netaikoma.",
+            "INTEREST_RATE_KEY": "Palūkanų norma",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Spustelėkite instrukcijas...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Apskaičiuokite mėnesinę palūkanų normą savo santaupoms",
+            "YEARLY_INTEREST_RATE_KEY": "Metinė palūkanų norma",
+            "CALCULATE_KEY": "Skaičiuoti",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Mėnesio palūkanų norma procentais",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Mėnesinė palūkanų norma procentais su dviem dešimtainiais skaičiais",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Mėnesio palūkanų normos dešimtainė dalis",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Mėnesio palūkanų normos dešimtainė su visais dešimtainiais skaičiais jūsų bugdet",
+            "CALCULATION_OK_KEY": "Apskaičiavimas ok",
+            "CALCULATION_VERIFIED_OK_KEY": "Apskaičiavimas patikrintas ok",
+            "CALCULATION_FAILED_KEY": "Nepavyko apskaičiuoti",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Skaičiavimo klaida"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Mėnesinė palūkanų norma"
+        }
+    }
+}

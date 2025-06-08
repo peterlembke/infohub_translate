@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:59:33",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "fi",
+        "language_name": "Finnish",
+        "language_name_local": "Suomi",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Puu",
+        "description": "Hän käsittelee henkilötietojasi."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Ohjeet",
+            "USE_THE_MENU._KEY": "Käytä ruokalistaa."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Varmuuskopioi kaikki",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Täysi varmuuskopio kaikista tiedoistasi palvelimella.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Saat yhden tiedoston kaikesta.",
+            "BACKUP_EVERYTHING_KEY": "Varmistetaan kaikki",
+            "BACKUP_PLUGINS_KEY": "Varaliitännäiset",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Kunkin liitännän varmuuskopiointi erikseen.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Saat yhden varmuuskopion jokaisesta pluginista.",
+            "REFRESH_PLUGIN_LIST_KEY": "Päivitä liitännäisluettelo",
+            "PLUGIN_LIST_KEY": "Liitännäinenluettelo",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Listaa kaikki puuliitännäiset",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Valitut liitännäiset",
+            "PARTIAL_BACKUP_KEY": "Osittainen varmuuskopio",
+            "PARTIAL_BACKUP._KEY": "Osittainen apujoukko.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Valitse yksi liitännäinen ja valitse varmuuskopion avaimet.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Saat yhden varmuuskopion.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Luettelo kaikista puuliitännöistä.",
+            "SELECT_ONE_KEY": "Valitse yksi",
+            "REFRESH_KEY_LIST_KEY": "Päivitä avainluettelo",
+            "KEYS_KEY": "Avaimet",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Kaikki valitun liitännäisen avaimet.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Valitse haluamasi varmuuskopiot",
+            "BACKUP_SELECTED_KEYS_KEY": "Varmuuskopioi valitut avaimet"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentaatio on tässä",
+            "MAIN_DOC_KEY": "Pääasiak",
+            "VERSION_DOC_KEY": "Asiakirjan versio",
+            "ENCRYPTION_DOC_KEY": "Salausasiakirja",
+            "BACKUP_DOC_KEY": "Varaasiakirja",
+            "RESTORE_DOC_KEY": "Palauta asia",
+            "STORAGE_DOC_KEY": "Varastointiasiak",
+            "SYNC_DOC_KEY": "Synkronoi asia"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Tuo avaintiedosto",
+            "ONE_CONTACT_KEY": "Yksi yhteyshenkilö",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Tämä on yhden yhteyshenkilön tietolomake",
+            "IMPORT_PASSWORD_KEY": "Tuo salasana",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Tiedoston salasana",
+            "FORGET_IMPORTED_KEY_KEY": "Unohda tuonti",
+            "EXPORT_KEY_FILE_KEY": "Vie avaintiedosto",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Vie tuotu avain uudella salasanalla",
+            "EXPORT_PASSWORD_KEY": "Vie salasana",
+            "CREATE_KEY_FILE_KEY": "Luo avaintiedosto",
+            "CREATE_NEW_KEY_FILE_KEY": "Luo uusi avaintiedosto",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Luo uusi avain uudella salasanalla"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Puunhallinta",
+            "DOCUMENTATION_KEY": "Asiakirjat",
+            "VERSION_KEY": "Versio",
+            "ENCRYPTION_KEY": "Salaus",
+            "BACKUP_KEY": "Apu",
+            "RESTORE_KEY": "Palauta",
+            "SYNC_KEY": "Synkronoi"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Konfliktit",
+            "SELECT_BACKUP_FILES_KEY": "Valitse varmuuskopiotiedostot",
+            "CLEAR_LIST_KEY": "Tyhjennä lista",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Palauta tiedot selaimen tallennustilaan",
+            "BACKUP_FILES_KEY": "Varmuuskopiotiedostot",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Tässä on luettelo, jossa on kaikki varmuuskopiotiedostot, jotka olet valinnut tiedostonvalitsin",
+            "INFORMATION_KEY": "Tiedot",
+            "RESTORE_LOG_KEY": "Palauta loki",
+            "CLICK_ON_THE_LIST_KEY": "Klikkaa listaa",
+            "REFRESH_CONFLICT_LIST_KEY": "Päivitä konfliktiluettelo",
+            "KEEP_LOCAL_VERSION_KEY": "Säilytä paikallinen versio",
+            "KEEP_SERVER_VERSION_KEY": "Pidä palvelimen versio",
+            "CONFLICT_LIST_KEY": "Konfliktiluettelo"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Aloita synkronointi tästä",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Voit ensin synkronoida, sitten käsitellä ladata, ladata ja ristiriidat luettelot",
+            "CLICK_ON_THE_LIST_KEY": "Klikkaa listaa",
+            "SYNC_KEY": "Synkronoi",
+            "UPLOAD_KEY": "Lähetä",
+            "DOWNLOAD_KEY": "Lataa",
+            "REFRESH_CONFLICT_LIST_KEY": "Päivitä konfliktiluettelo",
+            "KEEP_LOCAL_VERSION_KEY": "Säilytä paikallinen versio",
+            "KEEP_SERVER_VERSION_KEY": "Pidä palvelimen versio",
+            "CONFLICT_LIST_KEY": "Konfliktiluettelo",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Voit auttaa minua päättämään minkä version säilyttää"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Päivitä versiotiedot"
+        }
+    }
+}

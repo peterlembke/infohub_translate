@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:32:55",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "ru",
+        "language_name": "Russian",
+        "language_name_local": "Русский",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Дерево",
+        "description": "Обрабатывает ваши личные данные."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Инструкции",
+            "USE_THE_MENU._KEY": "Используйте меню."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Все резервные копии",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Полное резервное копирование всех ваших данных на сервере.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Вы получаете один файл со всем.",
+            "BACKUP_EVERYTHING_KEY": "Сохранить все",
+            "BACKUP_PLUGINS_KEY": "Резервные плагины",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Резервное копирование каждого плагина отдельно.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Вы получаете один файл резервного копирования для каждого плагина.",
+            "REFRESH_PLUGIN_LIST_KEY": "Обновить список плагинов",
+            "PLUGIN_LIST_KEY": "Список плагинов",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Список всех плагинов для деревьев",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Резервное копирование выбранных плагинов",
+            "PARTIAL_BACKUP_KEY": "Частичное резервирование",
+            "PARTIAL_BACKUP._KEY": "Частичное подкрепление.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Выберите один плагин и выберите ключи для резервного копирования.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Вы получаете один файл резервного копирования.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Список со всеми плагинами дерева.",
+            "SELECT_ONE_KEY": "Выберите один",
+            "REFRESH_KEY_LIST_KEY": "Обновить ключевой список",
+            "KEYS_KEY": "Ключи",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Все клавиши для выбранного плагина.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Выберите те, которые вы хотите сохранить",
+            "BACKUP_SELECTED_KEYS_KEY": "Резервное копирование выбранных ключей"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Документация будет представлена здесь",
+            "MAIN_DOC_KEY": "Главный ДОК",
+            "VERSION_DOC_KEY": "Версия doc",
+            "ENCRYPTION_DOC_KEY": "Шифрование doc",
+            "BACKUP_DOC_KEY": "Резервный док",
+            "RESTORE_DOC_KEY": "Восстановление Doc",
+            "STORAGE_DOC_KEY": "Док хранения",
+            "SYNC_DOC_KEY": "Синхронизация doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Импорт ключа файла",
+            "ONE_CONTACT_KEY": "Один контакт",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Форма данных для одного контакта",
+            "IMPORT_PASSWORD_KEY": "Импортный пароль",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Ваш пароль для файла",
+            "FORGET_IMPORTED_KEY_KEY": "Забудьте об импорте",
+            "EXPORT_KEY_FILE_KEY": "Экспортный ключ",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Экспорт импортного ключа с новым паролем",
+            "EXPORT_PASSWORD_KEY": "Экспортный пароль",
+            "CREATE_KEY_FILE_KEY": "Создайте ключевой файл",
+            "CREATE_NEW_KEY_FILE_KEY": "Создайте новый файл ключа",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Создайте новый ключ с новым паролем"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Менеджер по деревьям",
+            "DOCUMENTATION_KEY": "Документация",
+            "VERSION_KEY": "Версия",
+            "ENCRYPTION_KEY": "Шифрование",
+            "BACKUP_KEY": "Резервное копирование",
+            "RESTORE_KEY": "Восстановить",
+            "SYNC_KEY": "Синхронизация"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Конфликты",
+            "SELECT_BACKUP_FILES_KEY": "Выберите файлы резервного копирования",
+            "CLEAR_LIST_KEY": "Четкий список",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Восстановление данных в хранилище браузера",
+            "BACKUP_FILES_KEY": "Файлы резервного копирования",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Вот список со всеми файлами резервного копирования, которые вы выбрали в селекторе файлов",
+            "INFORMATION_KEY": "Информация",
+            "RESTORE_LOG_KEY": "Восстановить журнал",
+            "CLICK_ON_THE_LIST_KEY": "Нажмите на список",
+            "REFRESH_CONFLICT_LIST_KEY": "Список новых конфликтов",
+            "KEEP_LOCAL_VERSION_KEY": "Сохраните локальную версию",
+            "KEEP_SERVER_VERSION_KEY": "Сохраните серверную версию",
+            "CONFLICT_LIST_KEY": "Список конфликтов"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Начните синхронизацию здесь",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Сначала вы синхронизируете, а затем обрабатываете загрузку, загрузку и списки конфликтов",
+            "CLICK_ON_THE_LIST_KEY": "Нажмите на список",
+            "SYNC_KEY": "Синхронизация",
+            "UPLOAD_KEY": "Загрузить",
+            "DOWNLOAD_KEY": "Скачать",
+            "REFRESH_CONFLICT_LIST_KEY": "Список новых конфликтов",
+            "KEEP_LOCAL_VERSION_KEY": "Сохраните локальную версию",
+            "KEEP_SERVER_VERSION_KEY": "Сохраните серверную версию",
+            "CONFLICT_LIST_KEY": "Список конфликтов",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Вы можете помочь мне решить, какую версию сохранить"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Обновить данные версии"
+        }
+    }
+}

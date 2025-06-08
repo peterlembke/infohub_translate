@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "pl",
+        "language_name": "Polish",
+        "language_name_local": "Polski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Użytkownicy i węzły",
+        "description": "Tutaj możesz zająć się swoimi użytkownikami. Tutaj można skonfigurować dostęp do innych węzłów serwerów."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instrukcje",
+            "USE_THE_MENU._KEY": "Użyj menu."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Odśwież klientów",
+            "CLIENT_CONTACTS_KEY": "Kontakty z klientami",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Lista wszystkich kontaktów z klientami",
+            "NEW_KEY": "Nowy",
+            "SAVE_KEY": "Zapisz",
+            "DELETE_KEY": "Usuń",
+            "IMPORT_KEY": "Import",
+            "EXPORT_KEY": "Eksport",
+            "ONE_CONTACT_KEY": "Jeden kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Jest to formularz danych dla jednego kontaktu",
+            "NODE_KEY": "Węzeł",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Twoje unikalne nazwisko klienta",
+            "NOTE_KEY": "Uwaga",
+            "ANY_TEXT_YOU_WANT_KEY": "Każdy tekst, który chcesz",
+            "DOMAIN_ADDRESS_KEY": "Adres domeny",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Adres domeny do serwera",
+            "USER_NAME_KEY": "Nazwa użytkownika",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Otrzymasz hub- uuid kiedy zapisać (zostawić puste)",
+            "SHARED_SECRET_KEY": "Wspólny sekret",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Otrzymasz 2k losowy ciąg po zapisaniu (zostaw puste)",
+            "ALLOWED_ROLES_KEY": "Dozwolone role",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Lista wszystkich ról użytkownika masz",
+            "USER_KEY": "Użytkownik",
+            "DEVELOPER_KEY": "Programista",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Ma hasło",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Jeśli importowany plik posiada hasło klienta ustawione przez użytkownika"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentacja będzie renderować tutaj",
+            "MAIN_DOC_KEY": "Główny lekarz",
+            "CLIENT_DOC_KEY": "Doc klienta",
+            "SERVER_DOC_KEY": "Doc serwera"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Kierownik kontaktowy",
+            "DOCUMENTATION_KEY": "Dokumentacja",
+            "CLIENT_CONTACT_KEY": "Kontakt z klientem",
+            "SERVER_CONTACT_KEY": "Kontakt z serwerem"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Odśwież",
+            "SERVER_CONTACTS_KEY": "Kontakty serwerów",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Lista wszystkich kontaktów z serwerami",
+            "SAVE_KEY": "Zapisz",
+            "DELETE_KEY": "Usuń",
+            "IMPORT_KEY": "Import",
+            "EXPORT_KEY": "Eksport",
+            "PING_SERVER_KEY": "Serwer ping",
+            "ONE_CONTACT_KEY": "Jeden kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "To jest formularz danych dla jednego kontaktu.",
+            "NODE_KEY": "Węzeł",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Twoja unikalna nazwa węzła",
+            "NOTE_KEY": "Uwaga",
+            "ANY_TEXT_YOU_WANT_KEY": "Każdy tekst, który chcesz",
+            "DOMAIN_ADDRESS_KEY": "Adres domeny",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Adres domeny do zdalnego serwera",
+            "USER_NAME_KEY": "Nazwa użytkownika",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub- uuid masz ze zdalnego serwera",
+            "SHARED_SECRET_KEY": "Wspólny sekret",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k losowy ciąg z zdalnego serwera",
+            "ALLOWED_ROLES_KEY": "Dozwolone role",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Lista wszystkich ról to konto ma",
+            "USER_KEY": "Użytkownik",
+            "DEVELOPER_KEY": "Programista",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

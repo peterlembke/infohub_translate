@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "az",
+        "language_name": "Azerbaijani",
+        "language_name_local": "Bakı",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "E-poçt ünvanı",
+        "description": "Bir geliştirici kimi funksiyalarınıza mesaj göndərmək edə bilərsiniz."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Daxil ol",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Siz bir geliştirici kimi ortaya çıxarılmış plugin bir mesaj göndərmək edə bilər.",
+            "REFRESH_DATA_KEY": "Yeni proqram",
+            "NODE_KEY": "Qeydiyyat",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Node seçin",
+            "CLIENT_KEY": "E-poçt",
+            "SERVER_KEY": "Axtarış",
+            "PLUGIN_KEY": " Plug",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "E-poçt ünvanı",
+            "FUNCTION_KEY": " Function",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Saytın göndərdiyiniz funksiya seçin",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Seçilmiş funksiya üçün pulsuz mesaj",
+            "MESSAGE_KEY": "E-poçt",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Bu seçilmiş plugin göndərmək olar ki, mesajdır.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Görmək mesajı, funksiyanın ümumi qiymətləridir.",
+            "GET_ALL_KEY": "Bütün hüquqlar",
+            "BARE_BONE_KEY": "Bare sümük",
+            "GET_DEFAULT_MESSAGE_KEY": "Yadda saxla",
+            "SEND_MESSAGE_KEY": "Oxunub",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Funksiyadan cavab",
+            "RESPONSE_KEY": " Response",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Burada funksiyadan cavab görəcəksiniz.",
+            "NO_CONFIG_KEY": " No"
+        }
+    }
+}

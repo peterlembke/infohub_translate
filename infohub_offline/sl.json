@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Delo brez interneta",
+        "description": "Tukaj se lahko pripravite na delo brez dostopa do strežnika. Prenese podatke, ki jih morda potrebujete."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Orodja brez povezave",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Orodja za prikaz, ali ste na spletu ali ne.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Oglejte si, kateri plugins so vpis na ta dogodek.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Gumbi za prenos in shranjevanje podatkov za pripravo na uporabo brez povezave.",
+            "DOWNLOAD_PLUGINS_KEY": "Prenesi vstavke",
+            "OF_KEY": "Iz",
+            "DOWNLOAD_ASSETS_KEY": "Prenesi sredstva",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Prenesi dokumentacijo",
+            "SHOW_SUBSCRIBERS_KEY": "Prikaži naročnike",
+            "STATUS_KEY": "Stanje"
+        }
+    }
+}

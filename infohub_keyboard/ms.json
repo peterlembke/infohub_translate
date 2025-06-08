@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "ms",
+        "language_name": "Malay",
+        "language_name_local": "Bahasa Melayu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Papan Kekunci Keyboard",
+        "description": "Di sini Anda dapat berlangganan kombinasi papan ketik dan mengikatnya ke fungsi."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Tes papan kekunci XKB",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Cobalah kombinasi pada keyboard Anda",
+            "ANY_BUTTON_KEY": "Sebarang tombol",
+            "SUBSCRIBE_KEY": "Langgan",
+            "UNSUBSCRIBE_KEY": "Langganan",
+            "SHOW_SUBSCRIBERS_KEY": "Memperlihatkan pelanggan",
+            "KEYBOARD_DEMO_POPUP_KEY": "Mainkan demo papan kekunci"
+        }
+    }
+}

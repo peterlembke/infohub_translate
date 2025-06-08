@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:59:33",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "gl",
+        "language_name": "Galician",
+        "language_name_local": "Galego",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Usuarios e Nodos",
+        "description": "Podes xestionar os teus usuarios aquí. Pode acceder a outros nodos do servidor aquí."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instrucións",
+            "USE_THE_MENU._KEY": "Utiliza o menú."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Clientes frescos",
+            "CLIENT_CONTACTS_KEY": "Contacto cliente",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Lista todos os contactos do cliente",
+            "NEW_KEY": "Nova nova",
+            "SAVE_KEY": "Save",
+            "DELETE_KEY": "Eliminar",
+            "IMPORT_KEY": "Importacións",
+            "EXPORT_KEY": "Exportación",
+            "ONE_CONTACT_KEY": "Un contacto",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Este é o formulario de datos para un contacto",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Nome único do cliente",
+            "NOTE_KEY": "Nota",
+            "ANY_TEXT_YOU_WANT_KEY": "Calquera texto que queiras",
+            "DOMAIN_ADDRESS_KEY": "Enderezo de dominio",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "O enderezo de dominio ao teu servidor",
+            "USER_NAME_KEY": "Nome de usuario",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Podes engadir [[Categoría:Grupos musicais de Galicia]], por exemplo",
+            "SHARED_SECRET_KEY": "Segredo compartido",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "1 Aplicar o sentido do olfacto para percibir o olor de [algo]",
+            "ALLOWED_ROLES_KEY": "Roles permitidos",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Lista todos os roles de usuario que ten",
+            "USER_KEY": "Usuario",
+            "DEVELOPER_KEY": "Desenvolvedor",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Ten contrasinal",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Se o ficheiro importado ten un contrasinal de cliente definido polo usuario"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "A documentación presentarase aquí",
+            "MAIN_DOC_KEY": "Doc principal",
+            "CLIENT_DOC_KEY": "Cliente Doc",
+            "SERVER_DOC_KEY": "Servidor Doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Contacto Manager",
+            "DOCUMENTATION_KEY": "Documentación",
+            "CLIENT_CONTACT_KEY": "Contacto cliente",
+            "SERVER_CONTACT_KEY": "Servidor contacto"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Refresco",
+            "SERVER_CONTACTS_KEY": "Contactos de servidor",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Lista todos os contactos do servidor",
+            "SAVE_KEY": "Save",
+            "DELETE_KEY": "Eliminar",
+            "IMPORT_KEY": "Importacións",
+            "EXPORT_KEY": "Exportación",
+            "PING_SERVER_KEY": "Servidor Ping",
+            "ONE_CONTACT_KEY": "Un contacto",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Este é o formulario de datos para un contacto.",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Nome único nodo",
+            "NOTE_KEY": "Nota",
+            "ANY_TEXT_YOU_WANT_KEY": "Calquera texto que queiras",
+            "DOMAIN_ADDRESS_KEY": "Enderezo de dominio",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "O enderezo de dominio para o servidor remoto",
+            "USER_NAME_KEY": "Nome de usuario",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uid que recibiu do servidor remoto",
+            "SHARED_SECRET_KEY": "Segredo compartido",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k cadea aleatoria que recibiu do servidor remoto",
+            "ALLOWED_ROLES_KEY": "Roles permitidos",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Lista todos os roles que esta conta ten",
+            "USER_KEY": "Usuario",
+            "DEVELOPER_KEY": "Desenvolvedor",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

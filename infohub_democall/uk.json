@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:14:52",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "uk",
+        "language_name": "Ukrainian",
+        "language_name_local": "Українська",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Тест надсилання повідомлень",
+        "description": "Як розробнику ви можете побачити, що відбувається при надсиланні повідомлення на плагін або функцію, яка не існує."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Інструкції",
+            "USE_THE_MENU._KEY": "Використовуйте меню.",
+            "RESULT_KEY": "Почати"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Демонстраційний дзвінок",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Тут ви можете вивчити, що відбувається, якщо ви зателефонуєте плагін, який відсутній або відсутній функції",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Клієнт - правильний дзвінок. Плагін і функція існують",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Клієнт - плагін існує, Функція cmd не існує",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Клієнт - плагін відсутні",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Статус на сервери Плагін і функція існують",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Сервер - плагін існує, функція cmd не існує",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Сервер - плагін відсутні",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Клієнт - дитяча розмова з дійсними відгуками",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Клієнт - недійсний дзвінок на дитину",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Клієнт - недійсний дзвінок від дитини до батьків",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Сервер - запустити всі тести сервера"
+        }
+    }
+}

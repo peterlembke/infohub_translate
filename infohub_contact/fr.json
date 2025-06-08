@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:01:58",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "fr",
+        "language_name": "French",
+        "language_name_local": "Français",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Utilisateurs et nœuds",
+        "description": "Vous pouvez gérer vos utilisateurs ici. Vous pouvez configurer l'accès à d'autres nœuds de serveur ici."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instructions",
+            "USE_THE_MENU._KEY": "Utilisez le menu."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Rafraîchir les clients",
+            "CLIENT_CONTACTS_KEY": "Contacts avec les clients",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Liste de tous les contacts clients",
+            "NEW_KEY": "Nouveau",
+            "SAVE_KEY": "Enregistrer",
+            "DELETE_KEY": "Supprimer",
+            "IMPORT_KEY": "Importation",
+            "EXPORT_KEY": "Exportations",
+            "ONE_CONTACT_KEY": "Un seul contact",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Ceci est le formulaire de données pour un contact",
+            "NODE_KEY": "Noeud",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Votre nom unique du client",
+            "NOTE_KEY": "Remarque",
+            "ANY_TEXT_YOU_WANT_KEY": "Tout SMS que vous voulez",
+            "DOMAIN_ADDRESS_KEY": "Adresse du domaine",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "L'adresse du domaine à votre serveur",
+            "USER_NAME_KEY": "Nom d'utilisateur",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Vous obtenez un hub-uid quand vous sauvez (laissez blanc)",
+            "SHARED_SECRET_KEY": "Secret partagé",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Vous obtiendrez une chaîne aléatoire de 2k lorsque vous enregistrerez (leave blank)",
+            "ALLOWED_ROLES_KEY": "Rôles autorisés",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Liste avec tous les rôles d'utilisateur que vous avez",
+            "USER_KEY": "Utilisateur",
+            "DEVELOPER_KEY": "Développeur",
+            "ADMIN_KEY": "Administrateur",
+            "HAS_PASSWORD_KEY": "A un mot de passe",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Si le fichier importé a un mot de passe client défini par l'utilisateur"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "La documentation sera rendue ici",
+            "MAIN_DOC_KEY": "Doc. principal",
+            "CLIENT_DOC_KEY": "Doc. client",
+            "SERVER_DOC_KEY": "Doc du serveur"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Gestionnaire de contact",
+            "DOCUMENTATION_KEY": "Documentation",
+            "CLIENT_CONTACT_KEY": "Adresse du client",
+            "SERVER_CONTACT_KEY": "Contact du serveur"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Actualiser",
+            "SERVER_CONTACTS_KEY": "Contacts du serveur",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Lister tous les contacts du serveur",
+            "SAVE_KEY": "Enregistrer",
+            "DELETE_KEY": "Supprimer",
+            "IMPORT_KEY": "Importation",
+            "EXPORT_KEY": "Exportations",
+            "PING_SERVER_KEY": "Serveur Ping",
+            "ONE_CONTACT_KEY": "Un seul contact",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Ceci est le formulaire de données pour un contact.",
+            "NODE_KEY": "Noeud",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Votre nom de noeud unique",
+            "NOTE_KEY": "Remarque",
+            "ANY_TEXT_YOU_WANT_KEY": "Tout SMS que vous voulez",
+            "DOMAIN_ADDRESS_KEY": "Adresse du domaine",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "L'adresse du domaine au serveur distant",
+            "USER_NAME_KEY": "Nom d'utilisateur",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid que vous avez obtenu du serveur distant",
+            "SHARED_SECRET_KEY": "Secret partagé",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k chaîne aléatoire que vous avez obtenu du serveur distant",
+            "ALLOWED_ROLES_KEY": "Rôles autorisés",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Liste avec tous les rôles que ce compte a",
+            "USER_KEY": "Utilisateur",
+            "DEVELOPER_KEY": "Développeur",
+            "ADMIN_KEY": "Administrateur"
+        }
+    }
+}

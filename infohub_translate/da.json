@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 19:05:00",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "da",
+        "language_name": "Danish",
+        "language_name_local": "Dansk",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Oversæt",
+        "description": "Oversæt en sætning manuelt. Opret sprogfiler til plugins."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Instruktioner",
+            "USE_THE_MENU._KEY": "Brug menuen."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentation vil vise her",
+            "MAIN_DOC_KEY": "Hovedlæge",
+            "MANUAL_TRANSLATION_KEY": "Manuel oversættelse",
+            "PLUGIN_TRANSLATION_KEY": "Plugin- oversættelse"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Manuel oversættelse",
+            "REFRESH_LANGUAGE_LIST_KEY": "Genopfrisk sprogliste",
+            "SELECT_LANGUAGE_KEY": "Vælg sprog",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Vælg kildesprog.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Vælg destinationssprog.",
+            "YOUR_TEXT_KEY": "Din tekst",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Den tekst, du vil oversætte.",
+            "TRANSLATE_KEY": "Oversæt",
+            "THE_TRANSLATED_TEXT_KEY": "Den oversatte tekst",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Den tekst, du får efter oversættelse.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Vælg destinationssprog. Skriv tekst. Klik på oversætte",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Vælg et sprog at oversætte fra",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Skriv noget, så jeg kan oversætte",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Vælg et sprog at oversætte til",
+            "TRANSLATION_DONE_KEY": "Oversættelse udført"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Oversættelsesværktøj",
+            "DOCUMENTATION_KEY": "Dokumentation",
+            "MANUAL_TRANSLATION_KEY": "Manuel oversættelse",
+            "PLUGIN_TRANSLATION_KEY": "Plugin- oversættelse"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Genopfrisk lister",
+            "SELECT_PLUGIN_KEY": "Vælg plugin",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Lister alle klientplugins, der kan have oversættelsesfiler.",
+            "SELECT_LANGUAGES_KEY": "Vælg sprog",
+            "TRANSLATE_KEY": "Oversæt",
+            "PLUGIN_TRANSLATION_KEY": "Plugin- oversættelse",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Vælg plugins og sprog",
+            "CLICK_TRANSLATE_KEY": "Klik på oversætte",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Genopfrisk af listerne er gjort",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Vælg en eller flere plugins at oversætte",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Vælg et eller flere sprog at oversætte til",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Bed serveren om at oversætte",
+            "TO_LANGUAGES_KEY": "Til sprog",
+            "TRANSLATION_DONE_KEY": "Oversættelse udført",
+            "EXECUTION_TIME_KEY": "Udførselstid",
+            "SECONDS_KEY": "Sekunder"
+        }
+    }
+}

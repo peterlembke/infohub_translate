@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "eo",
+        "language_name": "Esperanto",
+        "language_name_local": "Esperanto",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Kalkuli interezoprocentojn",
+        "description": "Kalkuli en lokoj kiel ekonomio, interezoprocentoj, ktp."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Instrukciaĵoj",
+            "USE_THE_MENU._KEY": "Uzu la menuon."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Vi povas kalkuli la ĉiumonatan interezoprocenton sur viaj ŝparaĵoj de la ĉiujara interezoprocento.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Vi povas uzi la rezulton en via buĝeto por aldoni bankintereson al viaj ŝparaĵoj ĉiun monaton.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Tio solvas la problemon kun interezoprocento sur interezoprocento.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Se vi kalkulas ĉiumonatajn pruntinteresprocentojn tiam ne uzas tiun ilon.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Por pruntoj vi dividas la ĉiujaran interezoprocenton je 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Diferenco estas ke pruntoj ne havas interezoprocenton sur interezoprocento.",
+            "INTEREST_RATE_KEY": "Intereso",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Alklaku instrukciojn...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Kalkuli ĉiumonatan interezoprocenton sur viaj ŝparaĵoj",
+            "YEARLY_INTEREST_RATE_KEY": "Ĉiujara interezoprocento",
+            "CALCULATE_KEY": "Kalkuli kalkulon",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Ĉiumonata interezoprocento",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Ĉiumonata interezoprocento kun du decimaloj",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Ĉiumonata intereso",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Ĉiumonata interezoprocento kun ĉiuj decimaloj por via cideto",
+            "CALCULATION_OK_KEY": "Kalkulado",
+            "CALCULATION_VERIFIED_OK_KEY": "Kalkulado konfirmita",
+            "CALCULATION_FAILED_KEY": "Kalkulo malsukcesis",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Kalkulo malsukcesis konfirmon"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Ĉiumonata interezoprocento"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "nb",
+        "language_name": "Norwegian",
+        "language_name_local": "Norsk",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Tastatur",
+        "description": "Her kan du abonnere på tastaturkombinasjoner og binde dem til funksjoner."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Tastaturtester",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Prøv kombinasjoner på tastaturet",
+            "ANY_BUTTON_KEY": "Enhver knapp",
+            "SUBSCRIBE_KEY": "Abonner",
+            "UNSUBSCRIBE_KEY": "Slutt å avslutte",
+            "SHOW_SUBSCRIBERS_KEY": "Vis abonnenter",
+            "KEYBOARD_DEMO_POPUP_KEY": "Tastaturdemo popup"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:07:10",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "fa",
+        "language_name": "Persian",
+        "language_name_local": "فارسی",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "صفحه اصلی",
+        "description": "در اینجا شما می توانید ترکیب صفحه کلید را به اشتراک بگذارید و آنها را به توابع متصل کنید."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "تست های صفحه کلید",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "سعی کنید ترکیب بر روی صفحه کلید خود را",
+            "ANY_BUTTON_KEY": "هر دکمه",
+            "SUBSCRIBE_KEY": "مشترک",
+            "UNSUBSCRIBE_KEY": "بی تردید",
+            "SHOW_SUBSCRIBERS_KEY": "نشان دادن مشترکین",
+            "KEYBOARD_DEMO_POPUP_KEY": "صفحه اصلی  popup"
+        }
+    }
+}

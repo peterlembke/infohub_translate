@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 19:05:00",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "nl",
+        "language_name": "Dutch",
+        "language_name_local": "Nederlands",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Gebruikers en nodes",
+        "description": "U kunt hier uw gebruikers aan. U kunt hier toegang tot andere servernodes instellen."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instructies",
+            "USE_THE_MENU._KEY": "Gebruik het menu."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Klanten vernieuwen",
+            "CLIENT_CONTACTS_KEY": "Klantencontacten",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Alle clientcontacten tonen",
+            "NEW_KEY": "Nieuw",
+            "SAVE_KEY": "Opslaan",
+            "DELETE_KEY": "Verwijderen",
+            "IMPORT_KEY": "Importeren",
+            "EXPORT_KEY": "Uitvoer",
+            "ONE_CONTACT_KEY": "Eén contact",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Dit is het gegevensformulier voor één contact",
+            "NODE_KEY": "Knooppunt",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Uw unieke naam van de klant",
+            "NOTE_KEY": "Opmerking",
+            "ANY_TEXT_YOU_WANT_KEY": "Elke sms die je wilt",
+            "DOMAIN_ADDRESS_KEY": "Domeinadres",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Het domeinadres van uw server",
+            "USER_NAME_KEY": "Gebruikersnaam",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Je krijgt een hub-uuid wanneer je opslaat (laat leeg)",
+            "SHARED_SECRET_KEY": "Gedeeld geheim",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "U krijgt een willekeurige tekenreeks van 2k wanneer u opslaat (laat leeg)",
+            "ALLOWED_ROLES_KEY": "Toegestane rollen",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Lijst met alle gebruikersrollen die u heeft",
+            "USER_KEY": "Gebruiker",
+            "DEVELOPER_KEY": "Ontwikkelaar",
+            "ADMIN_KEY": "Beheerder",
+            "HAS_PASSWORD_KEY": "Heeft wachtwoord",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Als geïmporteerd bestand een client wachtwoord heeft ingesteld door de gebruiker"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Documentatie wordt hier weergegeven",
+            "MAIN_DOC_KEY": "Hoofddoc",
+            "CLIENT_DOC_KEY": "Client doc",
+            "SERVER_DOC_KEY": "Server doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Contactbeheerder",
+            "DOCUMENTATION_KEY": "Documentatie",
+            "CLIENT_CONTACT_KEY": "Klantencontact",
+            "SERVER_CONTACT_KEY": "Servercontact"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Verversen",
+            "SERVER_CONTACTS_KEY": "Servercontacten",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Alle servercontacten tonen",
+            "SAVE_KEY": "Opslaan",
+            "DELETE_KEY": "Verwijderen",
+            "IMPORT_KEY": "Importeren",
+            "EXPORT_KEY": "Uitvoer",
+            "PING_SERVER_KEY": "Ping-server",
+            "ONE_CONTACT_KEY": "Eén contact",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Dit is het gegevensformulier voor één contact.",
+            "NODE_KEY": "Knooppunt",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Uw unieke nodenaam",
+            "NOTE_KEY": "Opmerking",
+            "ANY_TEXT_YOU_WANT_KEY": "Elke sms die je wilt",
+            "DOMAIN_ADDRESS_KEY": "Domeinadres",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Het domeinadres van de externe server",
+            "USER_NAME_KEY": "Gebruikersnaam",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid heb je van de externe server",
+            "SHARED_SECRET_KEY": "Gedeeld geheim",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k willekeurige tekenreeks die je kreeg van de externe server",
+            "ALLOWED_ROLES_KEY": "Toegestane rollen",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Lijst met alle rollen die dit account heeft",
+            "USER_KEY": "Gebruiker",
+            "DEVELOPER_KEY": "Ontwikkelaar",
+            "ADMIN_KEY": "Beheerder"
+        }
+    }
+}

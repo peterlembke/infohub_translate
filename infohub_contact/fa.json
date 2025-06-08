@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:07:10",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "fa",
+        "language_name": "Persian",
+        "language_name_local": "فارسی",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "کاربران و گره ها",
+        "description": "شما می توانید کاربران خود را در اینجا اداره کنید. شما می توانید دسترسی به دیگر گره های سرور را در اینجا تنظیم کنید."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "دستورالعمل ها",
+            "USE_THE_MENU._KEY": "از منو استفاده کنید."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "مشتریان جدید",
+            "CLIENT_CONTACTS_KEY": "تماس های مشتری",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "لیست همه تماس های مشتری",
+            "NEW_KEY": "جدید",
+            "SAVE_KEY": "Save",
+            "DELETE_KEY": "حذف",
+            "IMPORT_KEY": "واردات",
+            "EXPORT_KEY": "صادرات",
+            "ONE_CONTACT_KEY": "یک تماس",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "این نوع داده ها برای یک تماس",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "نام منحصر به فرد شما از مشتری",
+            "NOTE_KEY": "توجه داشته باشید",
+            "ANY_TEXT_YOU_WANT_KEY": "هر متن که می خواهید",
+            "DOMAIN_ADDRESS_KEY": "Domain Address",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "آدرس دامنه به سرور شما",
+            "USER_NAME_KEY": "نام کاربری",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "هنگامی که شما را نجات می دهید، به شما هشدار می دهید",
+            "SHARED_SECRET_KEY": "راز مشترک",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "شما یک رشته تصادفی 2k را هنگامی که شما ذخیره (بل سفید)",
+            "ALLOWED_ROLES_KEY": "اجازه دادن به نقش",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "لیست با تمام نقش های کاربر شما",
+            "USER_KEY": "User",
+            "DEVELOPER_KEY": "توسعه دهنده",
+            "ADMIN_KEY": "مدیریت",
+            "HAS_PASSWORD_KEY": "آیا رمز عبور",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "اگر فایل وارداتی دارای یک رمز عبور مشتری است که توسط کاربر تنظیم شده است"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "مستندات در اینجا ارائه خواهد شد",
+            "MAIN_DOC_KEY": "اصلی doc",
+            "CLIENT_DOC_KEY": "مشتری doc",
+            "SERVER_DOC_KEY": "سرور doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "مدیر ارتباطات",
+            "DOCUMENTATION_KEY": "مستندات",
+            "CLIENT_CONTACT_KEY": "تماس مشتری",
+            "SERVER_CONTACT_KEY": "تماس با سرور"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "بازسازی",
+            "SERVER_CONTACTS_KEY": "تماس های سرور",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "لیست تمام تماس های سرور",
+            "SAVE_KEY": "Save",
+            "DELETE_KEY": "حذف",
+            "IMPORT_KEY": "واردات",
+            "EXPORT_KEY": "صادرات",
+            "PING_SERVER_KEY": "Ping server",
+            "ONE_CONTACT_KEY": "یک تماس",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "این نوع داده ها برای یک تماس است.",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "نام گره منحصر به فرد شما",
+            "NOTE_KEY": "توجه داشته باشید",
+            "ANY_TEXT_YOU_WANT_KEY": "هر متن که می خواهید",
+            "DOMAIN_ADDRESS_KEY": "Domain Address",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "آدرس دامنه به سرور از راه دور",
+            "USER_NAME_KEY": "نام کاربری",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid شما از سرور از راه دور",
+            "SHARED_SECRET_KEY": "راز مشترک",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k رشته تصادفی شما از سرور از راه دور",
+            "ALLOWED_ROLES_KEY": "اجازه دادن به نقش",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "لیست با تمام نقش های این حساب",
+            "USER_KEY": "User",
+            "DEVELOPER_KEY": "توسعه دهنده",
+            "ADMIN_KEY": "مدیریت"
+        }
+    }
+}

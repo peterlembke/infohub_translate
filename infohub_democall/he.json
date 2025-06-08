@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:55:22",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "he",
+        "language_name": "Hebrew",
+        "language_name_local": "עברית",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "שלח הודעות",
+        "description": "כמפתח אתה יכול לראות מה קורה כאשר אתה שולח הודעה לתוסף או פונקציה שאינם קיימים."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "הוראות",
+            "USE_THE_MENU._KEY": "השתמש בתפריט.",
+            "RESULT_KEY": "תוצאה"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "תגית: Demo call",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "כאן אתה יכול לחקור מה קורה אם אתה קורא תוסף חסר, או פונקציה חסרה",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "לקוח - שיחה נכונה Plugin ותפקוד קיימים",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "לקוח - תוסף קיים, תפקוד ס\"מ אינו קיים",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "לקוח - plugin is Missing",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "שיחה נכונה Plugin ותפקוד קיימים",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Server - תוסף קיים, תפקוד ס\"מ אינו קיים",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Server - תוסף חסר",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "לקוח - ילד מדבר עם מגיבים תקפים",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "לקוח - Invalid Call to sibling Child",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "לקוח - Invalid Call from Child to Parent",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Server - להפעיל את כל בדיקות השרת"
+        }
+    }
+}

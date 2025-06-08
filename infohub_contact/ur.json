@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:12:36",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "ur",
+        "language_name": "Urdu",
+        "language_name_local": "اُردو",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "صارفین اور نقاد",
+        "description": "آپ یہاں اپنے صارفین کو ہینڈل کر سکتے ہیں. آپ یہاں دیگر سرور حضرات تک رسائی حاصل کر سکتے ہیں."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "ہدایات",
+            "USE_THE_MENU._KEY": "مینو استعمال کریں."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "خوش‌کُن سوالات",
+            "CLIENT_CONTACTS_KEY": "کلیدی رابطہ",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "تمام کلائنٹ رابطے کی فہرست",
+            "NEW_KEY": "نیا",
+            "SAVE_KEY": "محفوظ کریں",
+            "DELETE_KEY": "حذف",
+            "IMPORT_KEY": "غیر متصل",
+            "EXPORT_KEY": "برآمد",
+            "ONE_CONTACT_KEY": "ایک رابطہ",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "یہ ڈیٹا فارم ایک رابطہ کے لیے ہے۔",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "آپ کا منفرد نام کلائنٹ ہے۔",
+            "NOTE_KEY": "نوٹ",
+            "ANY_TEXT_YOU_WANT_KEY": "آپ چاہتے ہیں کوئی متن",
+            "DOMAIN_ADDRESS_KEY": "جگہ",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "آپ کے سرور کے لیے ڈومین پتہ",
+            "USER_NAME_KEY": "صا_رف کا نام",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "آپ کو محفوظ کرتے وقت ایک گنبد ملے گا",
+            "SHARED_SECRET_KEY": "شیئر کردہ راز",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "آپ کو بچا لیا جائے گا جب آپ چلائیں گے",
+            "ALLOWED_ROLES_KEY": "مجازی کردار",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "فہرست تمام صارفی کرداروں آپ کے پاس ہے",
+            "USER_KEY": "صا لح",
+            "DEVELOPER_KEY": "ترقی‌یافتہ",
+            "ADMIN_KEY": "ناظم",
+            "HAS_PASSWORD_KEY": "پاس ورڈ",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "اگر درآمد شدہ فائل صارف کی طرف سے کلائنٹ شناختی اجازہ رکھتا ہے"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "دستاویزات یہاں ترتیب دے گی",
+            "MAIN_DOC_KEY": "ما وٴ س",
+            "CLIENT_DOC_KEY": "رنگ",
+            "SERVER_DOC_KEY": "سرور ڈاک"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "رابطہ منیجر",
+            "DOCUMENTATION_KEY": "دستاویز",
+            "CLIENT_CONTACT_KEY": "رابطہ",
+            "SERVER_CONTACT_KEY": "سرور رابطہ"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "خوشی",
+            "SERVER_CONTACTS_KEY": "سرور رابطہ",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "تمام سرور رابطے کی فہرست",
+            "SAVE_KEY": "محفوظ کریں",
+            "DELETE_KEY": "حذف",
+            "IMPORT_KEY": "غیر متصل",
+            "EXPORT_KEY": "برآمد",
+            "PING_SERVER_KEY": "پینگ سرور",
+            "ONE_CONTACT_KEY": "ایک رابطہ",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "یہ ڈیٹا ایک رابطہ کے لیے تشکیل دیا گیا ہے۔.",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "آپ کا منفرد نام",
+            "NOTE_KEY": "نوٹ",
+            "ANY_TEXT_YOU_WANT_KEY": "آپ چاہتے ہیں کوئی متن",
+            "DOMAIN_ADDRESS_KEY": "جگہ",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "بعید سرور کے لیے ڈومین پتہ",
+            "USER_NAME_KEY": "صا_رف کا نام",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "ہب وید آپ دور سرور سے حاصل کی۔",
+            "SHARED_SECRET_KEY": "شیئر کردہ راز",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2ک عجیب تار آپ کو دور سرور سے ملا",
+            "ALLOWED_ROLES_KEY": "مجازی کردار",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "فہرست تمام کرداروں کے ساتھ",
+            "USER_KEY": "صا لح",
+            "DEVELOPER_KEY": "ترقی‌یافتہ",
+            "ADMIN_KEY": "ناظم"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 17:56:00",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "hi",
+        "language_name": "Hindi",
+        "language_name_local": "हिन्दी",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "कस्टम संदेश भेजें",
+        "description": "एक डेवलपर के रूप में आप अपने कार्यों को संदेश भेज सकते हैं।."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "ट्रिगर",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "आप एक डेवलपर के रूप में अपने उभरते प्लगइन को संदेश भेज सकते हैं।.",
+            "REFRESH_DATA_KEY": "डेटा ताज़ा करें",
+            "NODE_KEY": "नोड",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "वह नोड चुनें जिसे आप संदेश भेजना चाहते हैं",
+            "CLIENT_KEY": "ग्राहक",
+            "SERVER_KEY": "सर्वर",
+            "PLUGIN_KEY": "प्लगइन",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "वह प्लगइन चुनें जिसे आप संदेश भेजना चाहते हैं",
+            "FUNCTION_KEY": "समारोह",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "उस फंक्शन को चुनें जिसे आप संदेश भेजना चाहते हैं",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "चयनित समारोह के लिए डिफ़ॉल्ट संदेश",
+            "MESSAGE_KEY": "संदेश",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "यह संदेश है जिसे आप चयनित प्लगइन में भेज सकते हैं।.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "जिस संदेश को आप देखते हैं वह डिफ़ॉल्ट मान है जिसे फंक्शन ने सेट किया है।.",
+            "GET_ALL_KEY": "सभी प्राप्त करें",
+            "BARE_BONE_KEY": "नंगे हड्डी",
+            "GET_DEFAULT_MESSAGE_KEY": "डिफ़ॉल्ट संदेश प्राप्त करें",
+            "SEND_MESSAGE_KEY": "संदेश भेजें",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "समारोह से प्रतिक्रिया",
+            "RESPONSE_KEY": "जवाब",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "यहाँ आप समारोह से प्रतिक्रिया देखेंगे।.",
+            "NO_CONFIG_KEY": "नहीं विन्यास"
+        }
+    }
+}

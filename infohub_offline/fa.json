@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:07:10",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "fa",
+        "language_name": "Persian",
+        "language_name_local": "فارسی",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "کار بدون اینترنت",
+        "description": "در اینجا شما می توانید برای کار بدون دسترسی به سرور آماده کنید. داده هایی را که ممکن است نیاز داشته باشید دانلود کنید."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "ابزارهای آفلاین",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "ابزار برای دیدن اینکه آیا شما آنلاین یا آفلاین هستید.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "ببینید چه افزونه هایی به این رویداد اختصاص داده شده اند.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "دکمه ها برای دانلود و ذخیره داده ها برای آماده سازی برای استفاده آفلاین.",
+            "DOWNLOAD_PLUGINS_KEY": "Download Plug",
+            "OF_KEY": "از",
+            "DOWNLOAD_ASSETS_KEY": "دانلود بازی Asset",
+            "DOWNLOAD_DOCUMENTATION_KEY": "دانلود مستند Download Document",
+            "SHOW_SUBSCRIBERS_KEY": "نشان دادن مشترکین",
+            "STATUS_KEY": "وضعیت"
+        }
+    }
+}

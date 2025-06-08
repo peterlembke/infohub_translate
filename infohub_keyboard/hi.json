@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 17:56:00",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "hi",
+        "language_name": "Hindi",
+        "language_name_local": "हिन्दी",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "कीबोर्ड",
+        "description": "यहाँ आप कीबोर्ड संयोजन की सदस्यता ले सकते हैं और उन्हें कार्यों के लिए बाध्य कर सकते हैं।."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "कीबोर्ड परीक्षण",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "अपने कीबोर्ड पर संयोजन की कोशिश करें",
+            "ANY_BUTTON_KEY": "कोई बटन",
+            "SUBSCRIBE_KEY": "सदस्यता",
+            "UNSUBSCRIBE_KEY": "सदस्यता",
+            "SHOW_SUBSCRIBERS_KEY": "ग्राहक दिखाएँ",
+            "KEYBOARD_DEMO_POPUP_KEY": "कीबोर्ड डेमो पॉपअप"
+        }
+    }
+}

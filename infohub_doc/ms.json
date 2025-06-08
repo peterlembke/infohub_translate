@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "ms",
+        "language_name": "Malay",
+        "language_name_local": "Bahasa Melayu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Dokumentasi",
+        "description": "Dokumentasi lengkap dokumentasi penuh melalui InfoHub dan semua plugin."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "Dokumen",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Di sini Anda akan melihat dokumen"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Indeks Segarkan",
+            "INDEX_KEY": "Indeks"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "♪ Segarkan navigasi ♪",
+            "NAVIGATION_KEY": "Pemandu arah"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "%s: %s"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "hu",
+        "language_name": "Hungarian",
+        "language_name_local": "Magyar",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Dokumentáció",
+        "description": "Teljes dokumentáció az InfoHub és az összes plugin felett."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "Dokumentum",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Itt láthatja a dokumentumot"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Frissítési index",
+            "INDEX_KEY": "Index"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "Frissítse a navigációt",
+            "NAVIGATION_KEY": "Navigáció"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Frissítés"
+        }
+    }
+}

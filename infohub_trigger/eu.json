@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "eu",
+        "language_name": "Basque",
+        "language_name_local": "Euskara",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Bidali mezu pertsonalizatua",
+        "description": "Garatzaile gisa mezuak bidal ditzakezu zure funtzioetara."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigger",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Garatzaile gisa mezu bat bidal diezaiokezu sortzen ari den pluginari.",
+            "REFRESH_DATA_KEY": "Freskatu datuak",
+            "NODE_KEY": "Node",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Hautatu mezua bidali nahi diozun nodoa",
+            "CLIENT_KEY": "Bezeroa",
+            "SERVER_KEY": "Zerbitzaria",
+            "PLUGIN_KEY": "Plugina",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Hautatu mezua bidali nahi diozun plugina",
+            "FUNCTION_KEY": "Funtzioa",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Hautatu mezua bidali nahi diozun funtzioa",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Hautatutako funtzioaren mezu lehenetsia",
+            "MESSAGE_KEY": "Mezua",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Hau da hautatutako pluginari bidal diezaiokezun mezua.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Ikusten duzun mezua funtzioak ezarri dituen balio lehenetsiak dira.",
+            "GET_ALL_KEY": "Lortu dena",
+            "BARE_BONE_KEY": "Hezur hutsa",
+            "GET_DEFAULT_MESSAGE_KEY": "Lortu mezu lehenetsia",
+            "SEND_MESSAGE_KEY": "Bidali mezua",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Funtzioaren erantzuna",
+            "RESPONSE_KEY": "Erantzuna",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Hemen ikusiko duzu funtzioaren erantzuna.",
+            "NO_CONFIG_KEY": "Konfiguraziorik ez"
+        }
+    }
+}

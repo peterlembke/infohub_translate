@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "lv",
+        "language_name": "Latvian",
+        "language_name_local": "Latviešu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Sūtīt pielāgotu vēstuli",
+        "description": "Kā attīstītājs jūs varat nosūtīt ziņojumus uz savām funkcijām."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigeris",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Jūs kā attīstītājs var nosūtīt ziņu uz jūsu top spraudnis.",
+            "REFRESH_DATA_KEY": "Atsvaidzināt datus",
+            "NODE_KEY": "Mezgls",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Izvēlieties mezglu, uz kuru nosūtīt vēstuli",
+            "CLIENT_KEY": "Klients",
+            "SERVER_KEY": "Serveris",
+            "PLUGIN_KEY": "Spraudnis",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Izvēlieties spraudni, uz kuru nosūtīt vēstuli",
+            "FUNCTION_KEY": "Funkcija",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Izvēlieties funkciju, kurai nosūtīt vēstuli",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Noklusētais ziņojums izvēlētajai funkcijai",
+            "MESSAGE_KEY": "Ziņojums",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Šī ir vēstule, ko varat nosūtīt izvēlētajam spraudnim.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Redzamais ziņojums ir noklusētās vērtības, ko funkcija ir iestatījusi.",
+            "GET_ALL_KEY": "Saņemt visu",
+            "BARE_BONE_KEY": "Kakla kauls",
+            "GET_DEFAULT_MESSAGE_KEY": "Iegūt noklusēto ziņojumu",
+            "SEND_MESSAGE_KEY": "Sūtīt vēstuli",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Funkcijas atbildes reakcija",
+            "RESPONSE_KEY": "Atbildes reakcija",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Šeit jūs redzēsiet atbildi no funkcijas.",
+            "NO_CONFIG_KEY": "Nav konfigurācijas"
+        }
+    }
+}

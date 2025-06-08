@@ -1,0 +1,23 @@
+{
+    "version": {
+        "date": "2025-06-08 19:07:24",
+        "plugin": "infohub_asset",
+        "data_checksum": "4b8b2175f172389022784fdb24605692",
+        "language": "cs",
+        "language_name": "Czech",
+        "language_name_local": "Česká republika",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Informace o licenci",
+        "description": "Zobrazit licenční informace pro všechna použitá aktiva"
+    },
+    "data": {
+        "infohub_asset": {
+            "REFRESH_LIST_KEY": "Obnovit seznam"
+        }
+    }
+}

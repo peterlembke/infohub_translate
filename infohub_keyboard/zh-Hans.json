@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 17:57:35",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "zh-Hans",
+        "language_name": "Chinese",
+        "language_name_local": "中国语",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "键盘",
+        "description": "您可以在此订阅键盘组合并将其绑定到函数中 ."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "键盘测试",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "尝试键盘上的组合",
+            "ANY_BUTTON_KEY": "任意按钮",
+            "SUBSCRIBE_KEY": "订阅",
+            "UNSUBSCRIBE_KEY": "取消订阅",
+            "SHOW_SUBSCRIBERS_KEY": "显示订阅者",
+            "KEYBOARD_DEMO_POPUP_KEY": "键盘演示弹出"
+        }
+    }
+}

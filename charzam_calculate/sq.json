@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 19:15:45",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "sq",
+        "language_name": "Albanian",
+        "language_name_local": "Shqip",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Llogarit normat e interesit",
+        "description": "Llogarite në fusha si ekonomia, normat e interesit, etj."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Udhëzime",
+            "USE_THE_MENU._KEY": "Përdor menunë."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Mund të llogaritësh normën mujore të interesit në kursimet e tua nga norma vjetore e interesit.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Mund ta përdorni rezultatin në buxhetin tuaj për të shtuar interesin bankar në kursimet tuaja çdo muaj.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Kjo e zgjidh problemin me normën e interesit në normën e interesit.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Nëse llogarit përqindjen mujore të interesit të kredisë, mos e përdor këtë mjet.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Për kredi ju ndajnë normën vjetore të interesit me 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Ndryshimi është se kreditë nuk kanë normë interesi në normën e interesit.",
+            "INTEREST_RATE_KEY": "Niveli i interesit",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Kliko për udhëzimet...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Llogarite normën mujore të interesit në kursimet e tua",
+            "YEARLY_INTEREST_RATE_KEY": "Norma e interesit vjetor",
+            "CALCULATE_KEY": "Makinë llogaritëse",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Norma mujore e interesit",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Norma mujore e interesit me dy dhjetore",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Norma mujore e interesit dhjetor",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Norma mujore e interesit dhjetor me të gjitha dhjetoret për bugdet tuaja",
+            "CALCULATION_OK_KEY": "Makinë llogaritëse në rregull",
+            "CALCULATION_VERIFIED_OK_KEY": "Makinë llogaritëse e verifikuar mirë",
+            "CALCULATION_FAILED_KEY": "Llogaritja dështoi",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Verifikimi dështoi"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Norma mujore e interesit"
+        }
+    }
+}

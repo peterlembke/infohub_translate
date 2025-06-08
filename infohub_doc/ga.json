@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "ga",
+        "language_name": "Irish",
+        "language_name_local": "Gaeilge na hÉireann",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Cáipéisí",
+        "description": "Doiciméid iomlán thar InfoHub agus gach plugins."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "Féach ar Léarscáileanna",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Anseo feicfidh tú an doiciméad"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Innéacs Athraigh",
+            "INDEX_KEY": "Innéacs"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "Athraigh nascleanúint",
+            "NAVIGATION_KEY": "Uisce agus Séarachas"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Thug Refresh cuairt"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "sk",
+        "language_name": "Slovak",
+        "language_name_local": "Slovenský",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Vypočítajte úrokové sadzby",
+        "description": "Vypočítajte v oblastiach ako hospodárstvo, úrokové sadzby atď."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Pokyny",
+            "USE_THE_MENU._KEY": "Použi menu."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Mesačnú úrokovú sadzbu na vaše úspory môžete vypočítať z ročnej úrokovej sadzby.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Výsledok vo vašom rozpočte môžete použiť na pridanie bankových úrokov z vašich úspor každý mesiac.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "To rieši problém s úrokovou sadzbou úrokovej sadzby.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Ak vypočítate mesačné úrokové sadzby úveru, nepoužívajte tento nástroj.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Pri pôžičkách vydelíte ročnú úrokovú sadzbu 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Rozdiel je v tom, že úvery nemajú úrokovú sadzbu.",
+            "INTEREST_RATE_KEY": "Úroková sadzba",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Kliknite pre inštrukcie...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Vypočítajte mesačnú úrokovú sadzbu z vašich úspor",
+            "YEARLY_INTEREST_RATE_KEY": "Ročná úroková sadzba",
+            "CALCULATE_KEY": "Vypočítať",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Mesačná úroková sadzba v percentách",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Mesačná úroková sadzba v percentách s dvoma desatinnými miestami",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Mesačná desatinná sadzba",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Mesačná úroková sadzba desiatková so všetkými desatinnými miestami pre vašu chybu",
+            "CALCULATION_OK_KEY": "Výpočet ok",
+            "CALCULATION_VERIFIED_OK_KEY": "Výpočet overený ok",
+            "CALCULATION_FAILED_KEY": "Výpočet zlyhal",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Výpočet zlyhalo overenie"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Mesačná úroková sadzba"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "pl",
+        "language_name": "Polish",
+        "language_name_local": "Polski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Narzędzie debugowania",
+        "description": "Narzędzie dla deweloperów i testerów."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "Wyczyszczenie pamięci podręcznej",
+            "DONE_REFRESHING_PAGE_KEY": "Zrobiona strona odświeżająca",
+            "RELOAD_PAGE._KEY": "Przeładuj stronę.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "Oczyść stare wtyczki oznaczone przez serwer. Przeładuj stronę.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "Wyczyść wszystkie lokalne wtyczki, przeładuj stronę.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "Wyczyść wszystkie lokalne dane, przeładuj stronę.",
+            "INSTRUCTIONS_KEY": "Instrukcje",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "Kliknij na opcję lub użyj klawiatury. Te klucze zawsze działają gdziekolwiek jesteś w Infohub.",
+            "INFORMATION_KEY": "Informacje",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "Jest również na dole ekranu wyrzutni jako przycisk w przypadku, gdy nie można rozpocząć debugowania i nie ma klawiatury na urządzeniu.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "Jest to jedyna opcja, która usuwa ikony, tłumaczenia i ustawienia z lokalnej pamięci masowej.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "Ciche usuwanie pamięci podręcznej renderu zalogowanego użytkownika",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "Wyloguje cię i odświeży stronę"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 17:56:00",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "hi",
+        "language_name": "Hindi",
+        "language_name_local": "हिन्दी",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "उपयोगकर्ता और नोड",
+        "description": "आप यहाँ अपने उपयोगकर्ताओं को संभाल सकते हैं। आप यहां अन्य सर्वर नोड्स तक पहुंच स्थापित कर सकते हैं।."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "निर्देश",
+            "USE_THE_MENU._KEY": "मेनू का उपयोग करें।."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "ग्राहकों को ताज़ा करें",
+            "CLIENT_CONTACTS_KEY": "ग्राहक संपर्क",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "सभी क्लाइंट संपर्कों की सूची",
+            "NEW_KEY": "नया",
+            "SAVE_KEY": "सहेजें",
+            "DELETE_KEY": "डिलीट",
+            "IMPORT_KEY": "आयात",
+            "EXPORT_KEY": "निर्यात",
+            "ONE_CONTACT_KEY": "एक संपर्क",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "यह एक संपर्क के लिए डेटा फॉर्म है",
+            "NODE_KEY": "नोड",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "ग्राहक का आपका अद्वितीय नाम",
+            "NOTE_KEY": "नोट",
+            "ANY_TEXT_YOU_WANT_KEY": "आप चाहते हैं कि कोई भी पाठ",
+            "DOMAIN_ADDRESS_KEY": "डोमेन पता",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "अपने सर्वर पर डोमेन एड्रेस",
+            "USER_NAME_KEY": "उपयोगकर्ता का नाम",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "जब आप सेव करते हैं तो आपको एक हब-uid मिलता है (छोटी खाली छोड़ें)",
+            "SHARED_SECRET_KEY": "साझा रहस्य",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "जब आप सेव करते हैं तो आपको 2k यादृच्छिक स्ट्रिंग मिलेगी (छोटी खाली छोड़ें)",
+            "ALLOWED_ROLES_KEY": "अनुमत भूमिका",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "आपके पास सभी उपयोगकर्ता भूमिकाओं के साथ सूची",
+            "USER_KEY": "उपयोगकर्ता",
+            "DEVELOPER_KEY": "डेवलपर",
+            "ADMIN_KEY": "व्यवस्थापक",
+            "HAS_PASSWORD_KEY": "पासवर्ड है",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "यदि आयातित फ़ाइल में उपयोगकर्ता द्वारा निर्धारित क्लाइंट पासवर्ड है"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "दस्तावेज़ीकरण यहां प्रस्तुत करेगा",
+            "MAIN_DOC_KEY": "मुख्य डॉक्टर",
+            "CLIENT_DOC_KEY": "ग्राहक doc",
+            "SERVER_DOC_KEY": "सर्वर डॉक"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "संपर्क प्रबंधक",
+            "DOCUMENTATION_KEY": "दस्तावेज़ीकरण",
+            "CLIENT_CONTACT_KEY": "ग्राहक संपर्क",
+            "SERVER_CONTACT_KEY": "सर्वर संपर्क"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "रिफ्रेश",
+            "SERVER_CONTACTS_KEY": "सर्वर संपर्क",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "सभी सर्वर संपर्कों की सूची",
+            "SAVE_KEY": "सहेजें",
+            "DELETE_KEY": "डिलीट",
+            "IMPORT_KEY": "आयात",
+            "EXPORT_KEY": "निर्यात",
+            "PING_SERVER_KEY": "पिंग सर्वर",
+            "ONE_CONTACT_KEY": "एक संपर्क",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "यह एक संपर्क के लिए डेटा फॉर्म है।.",
+            "NODE_KEY": "नोड",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "आपका अद्वितीय नोड नाम",
+            "NOTE_KEY": "नोट",
+            "ANY_TEXT_YOU_WANT_KEY": "आप चाहते हैं कि कोई भी पाठ",
+            "DOMAIN_ADDRESS_KEY": "डोमेन पता",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "दूरस्थ सर्वर को डोमेन पता",
+            "USER_NAME_KEY": "उपयोगकर्ता का नाम",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "हब-uid आपको दूरस्थ सर्वर से मिला",
+            "SHARED_SECRET_KEY": "साझा रहस्य",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k यादृच्छिक स्ट्रिंग आप दूरस्थ सर्वर से मिला",
+            "ALLOWED_ROLES_KEY": "अनुमत भूमिका",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "इस खाते की सभी भूमिकाओं के साथ सूची",
+            "USER_KEY": "उपयोगकर्ता",
+            "DEVELOPER_KEY": "डेवलपर",
+            "ADMIN_KEY": "व्यवस्थापक"
+        }
+    }
+}

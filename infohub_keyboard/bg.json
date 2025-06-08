@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "bg",
+        "language_name": "Bulgarian",
+        "language_name_local": "Български",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Клавиатура",
+        "description": "Тук можете да се абонирате за комбинации от клавиатура и да ги свържете с функции."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Клавиатурни тестове",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Опитайте комбинациите на клавиатурата",
+            "ANY_BUTTON_KEY": "Бутон",
+            "SUBSCRIBE_KEY": "Абониране",
+            "UNSUBSCRIBE_KEY": "Отписване",
+            "SHOW_SUBSCRIBERS_KEY": "Показване на абонатите",
+            "KEYBOARD_DEMO_POPUP_KEY": "Демо на клавиатурата"
+        }
+    }
+}

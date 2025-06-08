@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:55:22",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "he",
+        "language_name": "Hebrew",
+        "language_name_local": "עברית",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "המונחים:",
+        "description": "כלי למפתחים ולצופים."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "המונחים: cache",
+            "DONE_REFRESHING_PAGE_KEY": "דף מרענן",
+            "RELOAD_PAGE._KEY": "דף Reload.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "ניקוי תוספים ישנים המסומנים על ידי השרת. דף Reload.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "לנקות את כל התוספים המקומיים, דף טעינה.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "נקה את כל הנתונים המקומיים, דף טעינה.",
+            "INSTRUCTIONS_KEY": "הוראות",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "לחץ על אפשרות או השתמש במקלדת. המפתחות האלה תמיד עובדים בכל מקום בו אתה נמצא ב-infoub.",
+            "INFORMATION_KEY": "מידע",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "הוא גם בתחתית מסך ההשקה כמו כפתור במקרה אתה לא יכול להתחיל debug ואין לך מקלדת על המכשיר שלך.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "זו האפשרות היחידה גם להסיר סמלים ותרגומים והגדרות מהאחסון המקומי.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "מחקה בשקט את cache עבור הנמען",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "מוציאה אותך ומדענן את הדף"
+        }
+    }
+}

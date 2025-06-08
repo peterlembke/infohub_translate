@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "et",
+        "language_name": "Estonian",
+        "language_name_local": "Eesti",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Silumisvahend",
+        "description": "Tööriist arendajatele ja testijatele."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "Puhastusvahemälu",
+            "DONE_REFRESHING_PAGE_KEY": "Värskendav lehekülg",
+            "RELOAD_PAGE._KEY": "Laadi lehekülg uuesti.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "Puhastage serveri märgitud vanad pluginad. Laadi lehekülg uuesti.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "Puhastage kõik kohalikud pluginad, laadige leht uuesti.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "Puhastage kõik kohalikud andmed, laadige leht uuesti.",
+            "INSTRUCTIONS_KEY": "Juhised",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "Klõpsa valikul või kasuta klaviatuuri. Need võtmed töötavad alati kõikjal, kus olete infokeskuses.",
+            "INFORMATION_KEY": "Info",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "On ka käivitaja ekraani allosas nupuna juhuks, kui te ei saa silumist alustada ja oma seadmes pole klaviatuuri.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "On ainus võimalus, mis eemaldab kohalikust salvestusruumist ka ikoonid ja tõlked ning seaded.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "Vaikimisi kustutada sisselogitud kasutaja renderdusvahemälu",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "Logib välja ja värskendab lehekülge"
+        }
+    }
+}

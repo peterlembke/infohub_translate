@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:59:33",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "fi",
+        "language_name": "Finnish",
+        "language_name_local": "Suomi",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Testiviestit",
+        "description": "Kuten kehittäjä voit nähdä, mitä tapahtuu, kun lähetät viestin plugin tai toiminto, joka ei ole olemassa."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Ohjeet",
+            "USE_THE_MENU._KEY": "Käytä ruokalistaa.",
+            "RESULT_KEY": "Tulos"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Demokutsu",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Täällä voit tutkia, mitä tapahtuu, jos kutsut plugin joka puuttuu, tai puuttuu toiminto",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Asiakas - oikea valinta. Liitännäinen ja toiminto on olemassa",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Client - plugin olemassa, cmd toimintoa ei ole olemassa",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Asiakas - liitännäis puuttuu",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Palvelin - oikea valinta. Liitännäinen ja toiminto on olemassa",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Palvelin - plugin olemassa, cmd- toimintoa ei ole olemassa",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Palvelin - liitännäis puuttuu",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Asiakas - lapsi puhuu päteville vastaajille",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Asiakas - virheellinen puhelu sisaruslapselle",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Asiakas - virheellinen puhelu lapselta vanhemmalle",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Palvelin - suorita kaikki palvelimen testit"
+        }
+    }
+}

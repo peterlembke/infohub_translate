@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:03:26",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "de",
+        "language_name": "German",
+        "language_name_local": "Deutsch",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Benutzer und Nodes",
+        "description": "Sie können Ihre Benutzer hier behandeln. Sie können hier Zugriff auf andere Server-Knoten einrichten."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Anweisungen",
+            "USE_THE_MENU._KEY": "Verwenden Sie das Menü."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Erneuerte Kunden",
+            "CLIENT_CONTACTS_KEY": "Kundenkontakte",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Alle Client-Kontakte anzeigen",
+            "NEW_KEY": "Neu",
+            "SAVE_KEY": "Speichern",
+            "DELETE_KEY": "Löschen",
+            "IMPORT_KEY": "Einfuhr",
+            "EXPORT_KEY": "Ausfuhr",
+            "ONE_CONTACT_KEY": "Ein Kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Dies ist das Datenformular für einen Kontakt",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Ihr einzigartiger Name des Kunden",
+            "NOTE_KEY": "Anmerkung",
+            "ANY_TEXT_YOU_WANT_KEY": "Alle gewünschten Texte",
+            "DOMAIN_ADDRESS_KEY": "Domain-Adresse",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Die Domain-Adresse an Ihren Server",
+            "USER_NAME_KEY": "Benutzername",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Sie erhalten einen Hub-uuid, wenn Sie speichern ( leer)",
+            "SHARED_SECRET_KEY": "Geheimhaltung",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Sie erhalten eine 2k zufällige String, wenn Sie speichern (leave leer)",
+            "ALLOWED_ROLES_KEY": "Erlaubte Rollen",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Liste mit allen Benutzerrollen, die Sie haben",
+            "USER_KEY": "Benutzer",
+            "DEVELOPER_KEY": "Entwickler",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Passwort vergessen",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Wenn importierte Datei ein Client-Passwort vom Benutzer gesetzt hat"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentation wird hier erscheinen",
+            "MAIN_DOC_KEY": "Hauptpunkt",
+            "CLIENT_DOC_KEY": "Client doc",
+            "SERVER_DOC_KEY": "Server doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Kontakt Manager",
+            "DOCUMENTATION_KEY": "Dokumentation",
+            "CLIENT_CONTACT_KEY": "Kundenkontakt",
+            "SERVER_CONTACT_KEY": "Serverkontakt"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Refreshing",
+            "SERVER_CONTACTS_KEY": "Serverkontakte",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Alle Serverkontakte anzeigen",
+            "SAVE_KEY": "Speichern",
+            "DELETE_KEY": "Löschen",
+            "IMPORT_KEY": "Einfuhr",
+            "EXPORT_KEY": "Ausfuhr",
+            "PING_SERVER_KEY": "Ping Server",
+            "ONE_CONTACT_KEY": "Ein Kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Dies ist das Datenformular für einen Kontakt.",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Ihr einzigartiger Knotenname",
+            "NOTE_KEY": "Anmerkung",
+            "ANY_TEXT_YOU_WANT_KEY": "Alle gewünschten Texte",
+            "DOMAIN_ADDRESS_KEY": "Domain-Adresse",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Die Domain-Adresse an den Remote-Server",
+            "USER_NAME_KEY": "Benutzername",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid Sie haben von dem Remote-Server",
+            "SHARED_SECRET_KEY": "Geheimhaltung",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k zufälliger string, den sie vom remoteserver erhalten haben",
+            "ALLOWED_ROLES_KEY": "Erlaubte Rollen",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Liste mit allen Rollen dieses Kontos",
+            "USER_KEY": "Benutzer",
+            "DEVELOPER_KEY": "Entwickler",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

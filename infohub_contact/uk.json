@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:14:52",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "uk",
+        "language_name": "Ukrainian",
+        "language_name_local": "Українська",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Користувачі та Ноди",
+        "description": "Ви можете керувати користувачами тут. Ви можете налаштувати доступ до інших вузлів сервера."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Інструкції",
+            "USE_THE_MENU._KEY": "Використовуйте меню."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Клієнтам",
+            "CLIENT_CONTACTS_KEY": "Контакти",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Список контактів клієнтів",
+            "NEW_KEY": "Нові",
+            "SAVE_KEY": "Зберегти",
+            "DELETE_KEY": "Делет",
+            "IMPORT_KEY": "Імпорт",
+            "EXPORT_KEY": "Експорт",
+            "ONE_CONTACT_KEY": "Один контакт",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Це форма даних для одного контакту",
+            "NODE_KEY": "Нід",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Ваше ім'я клієнта",
+            "NOTE_KEY": "Зареєструватися",
+            "ANY_TEXT_YOU_WANT_KEY": "Будь-який текст, який ви хочете",
+            "DOMAIN_ADDRESS_KEY": "Адреса домену",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Адреса домену на сервер",
+            "USER_NAME_KEY": "Ім'я користувача",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Ви отримуєте hub-uuid при збереженні (збережіть порожній)",
+            "SHARED_SECRET_KEY": "Загальний секрет",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Ви отримаєте 2k випадковий рядок при збереженні (Зберегти порожній)",
+            "ALLOWED_ROLES_KEY": "Дозволені ролі",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Список з усіма ролями користувачів, які ви маєте",
+            "USER_KEY": "Користувач",
+            "DEVELOPER_KEY": "Розробник",
+            "ADMIN_KEY": "Головна",
+            "HAS_PASSWORD_KEY": "Має пароль",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Якщо імпортний файл має клієнтський пароль, встановлений користувачем"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Документація буде представлена тут",
+            "MAIN_DOC_KEY": "Головна",
+            "CLIENT_DOC_KEY": "Клієнт doc",
+            "SERVER_DOC_KEY": "Сервер doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Контакти",
+            "DOCUMENTATION_KEY": "Документація",
+            "CLIENT_CONTACT_KEY": "Контакти",
+            "SERVER_CONTACT_KEY": "Статус на сервери"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Реверс",
+            "SERVER_CONTACTS_KEY": "Контакти сервера",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Список всіх контактів сервера",
+            "SAVE_KEY": "Зберегти",
+            "DELETE_KEY": "Делет",
+            "IMPORT_KEY": "Імпорт",
+            "EXPORT_KEY": "Експорт",
+            "PING_SERVER_KEY": "Статус на сервери",
+            "ONE_CONTACT_KEY": "Один контакт",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Це форма даних для одного контакту.",
+            "NODE_KEY": "Нід",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Ваше ім'я вузла",
+            "NOTE_KEY": "Зареєструватися",
+            "ANY_TEXT_YOU_WANT_KEY": "Будь-який текст, який ви хочете",
+            "DOMAIN_ADDRESS_KEY": "Адреса домену",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Адреса домену до віддаленого сервера",
+            "USER_NAME_KEY": "Ім'я користувача",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Ви отримали від віддаленого сервера",
+            "SHARED_SECRET_KEY": "Загальний секрет",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k випадковий рядок ви отримали від віддаленого сервера",
+            "ALLOWED_ROLES_KEY": "Дозволені ролі",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Список з усіма ролями цей обліковий запис має",
+            "USER_KEY": "Користувач",
+            "DEVELOPER_KEY": "Розробник",
+            "ADMIN_KEY": "Головна"
+        }
+    }
+}

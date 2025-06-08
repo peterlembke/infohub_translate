@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:05:36",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "id",
+        "language_name": "Indonesian",
+        "language_name_local": "Indonesia",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Kirim pesan gubahan",
+        "description": "Sebagai pengembang Anda dapat mengirim pesan ke fungsi Anda."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigger",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Anda sebagai pengembang dapat mengirim pesan ke plugin muncul Anda.",
+            "REFRESH_DATA_KEY": "Segarkan data",
+            "NODE_KEY": "Node",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Pilih titik Anda ingin mengirim pesan ke",
+            "CLIENT_KEY": "Klien",
+            "SERVER_KEY": "Server",
+            "PLUGIN_KEY": "Pengaya",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Pilih plugin yang ingin Anda kirim ke",
+            "FUNCTION_KEY": "Fungsi",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Pilih fungsi yang Anda ingin mengirim pesan ke",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Pesan baku untuk fungsi yang dipilih",
+            "MESSAGE_KEY": "Pesan",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Ini adalah pesan yang dapat Anda kirim ke plugin yang dipilih.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Pesan yang Anda lihat adalah nilai baku dari fungsi yang telah ditata.",
+            "GET_ALL_KEY": "Dapatkan semua",
+            "BARE_BONE_KEY": "Tulang mentah",
+            "GET_DEFAULT_MESSAGE_KEY": "Ambil pesan bawaan",
+            "SEND_MESSAGE_KEY": "Kirim pesan",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Respon dari fungsi",
+            "RESPONSE_KEY": "Respon",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Di sini Anda akan melihat respon dari fungsi.",
+            "NO_CONFIG_KEY": "Tidak ada konfigurasi"
+        }
+    }
+}

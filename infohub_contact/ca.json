@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 19:07:24",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "ca",
+        "language_name": "Catalan",
+        "language_name_local": "CatalàName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Usuaris i nodes",
+        "description": "Aquí podeu manejar els vostres usuaris. Aquí podeu configurar l' accés a altres nodes del servidor."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instruccions",
+            "USE_THE_MENU._KEY": "Usa el menú."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Refresca els clients",
+            "CLIENT_CONTACTS_KEY": "Contactes del client",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Llista tots els contactes de clients",
+            "NEW_KEY": "Nou",
+            "SAVE_KEY": "Desa",
+            "DELETE_KEY": "Esborra",
+            "IMPORT_KEY": "Importa",
+            "EXPORT_KEY": "Exporta",
+            "ONE_CONTACT_KEY": "Un contacte",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Aquesta és la forma de dades d' un contacte",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "El vostre nom únic del client",
+            "NOTE_KEY": "Nota",
+            "ANY_TEXT_YOU_WANT_KEY": "Qualsevol text que vulgueu",
+            "DOMAIN_ADDRESS_KEY": "Adreça de domini",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "L' adreça de domini al servidor",
+            "USER_NAME_KEY": "Nom d' usuari",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Teniu un centre-cuuid quan deseu (deixeu-vos en blanc)",
+            "SHARED_SECRET_KEY": "Secret compartit",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Aconseguireu una cadena a l' atzar 2k quan deseu (en blanc)",
+            "ALLOWED_ROLES_KEY": "Papers permesos",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Llista amb tots els rols d' usuari que tingueu",
+            "USER_KEY": "Usuari",
+            "DEVELOPER_KEY": "Desenvolupador",
+            "ADMIN_KEY": "Administrador",
+            "HAS_PASSWORD_KEY": "Té contrasenya",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Si el fitxer importat té una contrasenya de client establerta per l' usuari"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "La documentació es representarà aquí",
+            "MAIN_DOC_KEY": "Doc principal",
+            "CLIENT_DOC_KEY": "Doc client",
+            "SERVER_DOC_KEY": "Servidor doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Gestor de contactes",
+            "DOCUMENTATION_KEY": "Documentació",
+            "CLIENT_CONTACT_KEY": "Contacte client",
+            "SERVER_CONTACT_KEY": "Contacte del servidor"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Refresca",
+            "SERVER_CONTACTS_KEY": "Contactes del servidor",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Llista tots els contactes del servidor",
+            "SAVE_KEY": "Desa",
+            "DELETE_KEY": "Esborra",
+            "IMPORT_KEY": "Importa",
+            "EXPORT_KEY": "Exporta",
+            "PING_SERVER_KEY": "Servidor de Ping",
+            "ONE_CONTACT_KEY": "Un contacte",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Aquesta és la forma de dades d'un contacte.",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "El vostre nom únic node",
+            "NOTE_KEY": "Nota",
+            "ANY_TEXT_YOU_WANT_KEY": "Qualsevol text que vulgueu",
+            "DOMAIN_ADDRESS_KEY": "Adreça de domini",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "L' adreça de domini al servidor remot",
+            "USER_NAME_KEY": "Nom d' usuari",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid que heu obtingut del servidor remot",
+            "SHARED_SECRET_KEY": "Secret compartit",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "cadena aleatòria 2k que heu obtingut del servidor remot",
+            "ALLOWED_ROLES_KEY": "Papers permesos",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Llista amb tots els papers que té aquest compte",
+            "USER_KEY": "Usuari",
+            "DEVELOPER_KEY": "Desenvolupador",
+            "ADMIN_KEY": "Administrador"
+        }
+    }
+}

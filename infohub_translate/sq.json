@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 19:15:45",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "sq",
+        "language_name": "Albanian",
+        "language_name_local": "Shqip",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Përkthe",
+        "description": "Përktheje manualisht një frazë. Krijo për."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Udhëzime",
+            "USE_THE_MENU._KEY": "Përdor menunë."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentacioni do të përkthehet këtu",
+            "MAIN_DOC_KEY": "Mjeku kryesor",
+            "MANUAL_TRANSLATION_KEY": "Manual",
+            "PLUGIN_TRANSLATION_KEY": "Plugin"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Manual",
+            "REFRESH_LANGUAGE_LIST_KEY": "Rifreskon listën e gjuhëve",
+            "SELECT_LANGUAGE_KEY": "Zgjidh gjuhën",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Zgjidh gjuhën e burimit.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Zgjidh gjuhën e destinuar.",
+            "YOUR_TEXT_KEY": "Teksti",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Teksti që do të përkthesh.",
+            "TRANSLATE_KEY": "Përkthe",
+            "THE_TRANSLATED_TEXT_KEY": "Teksti i përkthyer",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Teksti që merrni pas përkthimit.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Zgjidh gjuhën e destinuar. Shkruaj tekst. Kliko",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Zgjidh një gjuhë për të përkthyer nga",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Shkruaj diçka që të mund të përkthej",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Zgjidh një gjuhë për tu përkthyer",
+            "TRANSLATION_DONE_KEY": "Përkthimi u krye"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Mjet përkthimi",
+            "DOCUMENTATION_KEY": "Dokumentë",
+            "MANUAL_TRANSLATION_KEY": "Manual",
+            "PLUGIN_TRANSLATION_KEY": "Plugin"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Rifresko",
+            "SELECT_PLUGIN_KEY": "Zgjidh",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Lista me të gjithë plugin e klientit që mund të kenë file e përkthimit.",
+            "SELECT_LANGUAGES_KEY": "Zgjidh gjuhët",
+            "TRANSLATE_KEY": "Përkthe",
+            "PLUGIN_TRANSLATION_KEY": "Plugin",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Zgjidh plugin dhe gjuhët",
+            "CLICK_TRANSLATE_KEY": "Kliko",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Nga është",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Zgjidh një ose më shumë plugin për t'u përkthyer",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Zgjidh një apo më shumë gjuhë për t'u përkthyer",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Duke pyetur serverin për t'u përkthyer",
+            "TO_LANGUAGES_KEY": "Gjuhët",
+            "TRANSLATION_DONE_KEY": "Përkthimi u krye",
+            "EXECUTION_TIME_KEY": "Koha e ekzekutimit",
+            "SECONDS_KEY": "Unit-format"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "ko",
+        "language_name": "Korean",
+        "language_name_local": "한국어",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "회사연혁",
+        "description": "InfoHub 및 모든 플러그인에 대한 전체 문서."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "회사연혁",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "여기에 문서가 표시됩니다"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "새로 고침",
+            "INDEX_KEY": "주요연혁"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "새로 고침",
+            "NAVIGATION_KEY": "- 연혁"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "자주 묻는 질문"
+        }
+    }
+}

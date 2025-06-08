@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:18:57",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "tr",
+        "language_name": "Turkish",
+        "language_name_local": "Türk Türkçesi",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "İnternet olmadan çalışmak",
+        "description": "Burada sunucuya erişim olmadan çalışmaya hazırlayabilirsiniz. İhtiyacınız olabilecek verileri indirin."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Offline araçları",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Online veya çevrimdışı olup olmadığınızı görmek için araçlar.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Hangi eklentilerin bu olay için tarif edildiğine bakın.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Çevrimdışı kullanım için hazırlamak ve depolama verileri indirmek için düğmeler.",
+            "DOWNLOAD_PLUGINS_KEY": "Download plugins",
+            "OF_KEY": "Of",
+            "DOWNLOAD_ASSETS_KEY": "İndirin varlıklar",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Dokümantasyon",
+            "SHOW_SUBSCRIBERS_KEY": "Show aboneleri göster",
+            "STATUS_KEY": "Durum durumu"
+        }
+    }
+}

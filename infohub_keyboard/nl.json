@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 19:05:00",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "nl",
+        "language_name": "Dutch",
+        "language_name_local": "Nederlands",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Toetsenbord",
+        "description": "Hier kunt u zich abonneren op toetsenbordcombinaties en deze aan functies binden."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Toetsenbordtests",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Probeer combinaties op je toetsenbord",
+            "ANY_BUTTON_KEY": "Elke knop",
+            "SUBSCRIBE_KEY": "Abonneren",
+            "UNSUBSCRIBE_KEY": "Abonnement opzeggen",
+            "SHOW_SUBSCRIBERS_KEY": "Abonnees tonen",
+            "KEYBOARD_DEMO_POPUP_KEY": "Toetsenbord demo popup"
+        }
+    }
+}

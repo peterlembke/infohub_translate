@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 19:15:45",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "sq",
+        "language_name": "Albanian",
+        "language_name_local": "Shqip",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Pema",
+        "description": "Trajton të dhënat e tua personale."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Udhëzime",
+            "USE_THE_MENU._KEY": "Përdor menunë."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Backup Gjithçka",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Të gjitha të dhënat tuaja i keni në server.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Merr një dosje me gjithçka.",
+            "BACKUP_EVERYTHING_KEY": "Backup gjithçka",
+            "BACKUP_PLUGINS_KEY": "Backup plugins",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Nga.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Merr një file backup për çdo plugin.",
+            "REFRESH_PLUGIN_LIST_KEY": "Rifresko listën e plugin",
+            "PLUGIN_LIST_KEY": "Lista Plugin",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Lista me të gjithë plugin e degëzuar",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Backup plugin e zgjedhur",
+            "PARTIAL_BACKUP_KEY": "Ruaj",
+            "PARTIAL_BACKUP._KEY": "Përforcimet e pjesshme.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Zgjidh një plugin dhe zgjidh kyçet për tu backup.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Ke një dosje rezervë.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Lista me të gjithë plugin e degëzuar.",
+            "SELECT_ONE_KEY": "Zgjidh një",
+            "REFRESH_KEY_LIST_KEY": "Rifresko listën e kyçeve",
+            "KEYS_KEY": "Çelësat",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Të gjithë kyçet për plugin e zgjedhur.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Zgjidh ato që dëshiron të zëvendësosh",
+            "BACKUP_SELECTED_KEYS_KEY": "Backup kyçet e zgjedhur"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentacioni do të përkthehet këtu",
+            "MAIN_DOC_KEY": "Mjeku kryesor",
+            "VERSION_DOC_KEY": "Versioni",
+            "ENCRYPTION_DOC_KEY": "Kriptimi",
+            "BACKUP_DOC_KEY": "BackupDok",
+            "RESTORE_DOC_KEY": "_Kthe mbrapa",
+            "STORAGE_DOC_KEY": "Dr",
+            "SYNC_DOC_KEY": "Sinkronizim dok"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Importo file kyç",
+            "ONE_CONTACT_KEY": "Një kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Kjo është forma e të dhënave për një kontakt",
+            "IMPORT_PASSWORD_KEY": "Importo fjalëkalimin",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Fjalëkalimi juaj për file",
+            "FORGET_IMPORTED_KEY_KEY": "Harroje importin",
+            "EXPORT_KEY_FILE_KEY": "Eksporto file kyç",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Eksporto kyçin e importuar me fjalëkalim të ri",
+            "EXPORT_PASSWORD_KEY": "Eksporto fjalëkalimin",
+            "CREATE_KEY_FILE_KEY": "Krijo file kyç",
+            "CREATE_NEW_KEY_FILE_KEY": "Krijo një file të ri kyç",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Krijo një kyç të ri me fjalëkalim të ri"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Menaxhues degëzimi",
+            "DOCUMENTATION_KEY": "Dokumentë",
+            "VERSION_KEY": "Versioni",
+            "ENCRYPTION_KEY": "Kriptimi",
+            "BACKUP_KEY": "Backup (kopje)",
+            "RESTORE_KEY": "Rikthe",
+            "SYNC_KEY": "Sync"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Konflikte",
+            "SELECT_BACKUP_FILES_KEY": "Zgjidh",
+            "CLEAR_LIST_KEY": "Pastro",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Rikthe të dhënat e shfletimit",
+            "BACKUP_FILES_KEY": "File backup",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Ja një listë me të gjithë file backup që keni zgjedhur tek zgjedhësi i file",
+            "INFORMATION_KEY": "Informacione",
+            "RESTORE_LOG_KEY": "Rikthe file",
+            "CLICK_ON_THE_LIST_KEY": "Kliko në listë",
+            "REFRESH_CONFLICT_LIST_KEY": "Duke rifreskuar listën e konflikteve",
+            "KEEP_LOCAL_VERSION_KEY": "Ruaj versionin lokal",
+            "KEEP_SERVER_VERSION_KEY": "Rikthe versionin e serverit",
+            "CONFLICT_LIST_KEY": "Lista e konflikteve"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Fillo sinkronin këtu",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Ti së pari sinkronizon, pastaj merresh me ngarkimin, shkarkimin dhe listat e konflikteve",
+            "CLICK_ON_THE_LIST_KEY": "Kliko në listë",
+            "SYNC_KEY": "Sync",
+            "UPLOAD_KEY": "Ngarko",
+            "DOWNLOAD_KEY": "Shkarkimi",
+            "REFRESH_CONFLICT_LIST_KEY": "Duke rifreskuar listën e konflikteve",
+            "KEEP_LOCAL_VERSION_KEY": "Ruaj versionin lokal",
+            "KEEP_SERVER_VERSION_KEY": "Rikthe versionin e serverit",
+            "CONFLICT_LIST_KEY": "Lista e konflikteve",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Mund të më ndihmosh të vendos se çfarë versioni të mbaj"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Rifresko të dhënat e versionit"
+        }
+    }
+}

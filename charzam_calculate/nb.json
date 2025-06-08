@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "nb",
+        "language_name": "Norwegian",
+        "language_name_local": "Norsk",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Beregn rentesatser",
+        "description": "Beregn i områder som økonomi, renter, etc."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Instruksjoner",
+            "USE_THE_MENU._KEY": "Bruk menyen."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Du kan beregne den månedlige renten på besparelser fra den årlige renten.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Du kan bruke resultatet i budsjettet ditt til å legge til bankrenter på sparepengene dine hver måned.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Det løser problemet med renten på renten.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Hvis du beregner månedlige lån renter så ikke bruk dette verktøyet.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "For lån du deler den årlige renten med 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Forskjellen er at lån ikke har rente på renten.",
+            "INTEREST_RATE_KEY": "Rente",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Klikk for instruksjoner...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Beregn månedlig rente på besparelsene dine",
+            "YEARLY_INTEREST_RATE_KEY": "Årlig rente",
+            "CALCULATE_KEY": "Beregn",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Månedlig renteprosent",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Månedlig renteprosent med to desimaler",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Månedlig rente decimal",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Månedlig rente desimal med alle desimaler for bugdet",
+            "CALCULATION_OK_KEY": "Beregning ok",
+            "CALCULATION_VERIFIED_OK_KEY": "Beregning verifisert ok",
+            "CALCULATION_FAILED_KEY": "Beregning mislyktes",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Beregning mislyktes verifisering"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Månedlig rente"
+        }
+    }
+}

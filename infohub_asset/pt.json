@@ -1,0 +1,23 @@
+{
+    "version": {
+        "date": "2025-06-08 18:08:44",
+        "plugin": "infohub_asset",
+        "data_checksum": "4b8b2175f172389022784fdb24605692",
+        "language": "pt",
+        "language_name": "Portuguese",
+        "language_name_local": "Português",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Informação da licença",
+        "description": "Mostrar informações de licença para todos os ativos usados"
+    },
+    "data": {
+        "infohub_asset": {
+            "REFRESH_LIST_KEY": "Atualizar lista"
+        }
+    }
+}

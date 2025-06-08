@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:18:57",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "tr",
+        "language_name": "Turkish",
+        "language_name_local": "Türk Türkçesi",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Özel mesaj gönder",
+        "description": "Bir geliştirici olarak, mesajları işlevlerinize gönderebilirsiniz."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Tartışma",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Bir geliştirici olarak ortaya çıkan eklentinize bir mesaj gönderebilirsiniz.",
+            "REFRESH_DATA_KEY": "Yenilenen veriler",
+            "NODE_KEY": "Node",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Mesajı göndermek istediğiniz düğümü seçin",
+            "CLIENT_KEY": "Müşteri",
+            "SERVER_KEY": "Server",
+            "PLUGIN_KEY": "Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Mesajı göndermek istediğiniz eklentiyi seçin",
+            "FUNCTION_KEY": "Fonksiyonlar",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Mesajı göndermek istediğiniz işlevi seçin",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Seçilen fonksiyon için varsayılan mesaj",
+            "MESSAGE_KEY": "Mesaj",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Bu, seçilmiş eklentiye gönderebileceğiniz mesajdır.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Gördüğünüz mesaj, işlevin ayarlandığı varsayılan değerlerdir.",
+            "GET_ALL_KEY": "Hepsini alın",
+            "BARE_BONE_KEY": "Bare kemik",
+            "GET_DEFAULT_MESSAGE_KEY": "Varsayılan mesaj alın",
+            "SEND_MESSAGE_KEY": "Mesaj Gönder",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "İşlevden Yanıt",
+            "RESPONSE_KEY": "Yanıt",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "İşte işin cevabı göreceksiniz.",
+            "NO_CONFIG_KEY": "Hiçbir yapılandırma"
+        }
+    }
+}

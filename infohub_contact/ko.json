@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "ko",
+        "language_name": "Korean",
+        "language_name_local": "한국어",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "사용자 및 노드",
+        "description": "사용자를 여기에서 처리할 수 있습니다. 다른 서버 노드에 액세스할 수 있습니다."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "이름 *",
+            "USE_THE_MENU._KEY": "메뉴를 사용하십시오."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "고객 지원",
+            "CLIENT_CONTACTS_KEY": "고객 문의",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "모든 고객 연락처 목록",
+            "NEW_KEY": "- 한국어",
+            "SAVE_KEY": "제품 정보",
+            "DELETE_KEY": "이름 *",
+            "IMPORT_KEY": "제품정보",
+            "EXPORT_KEY": "수출입",
+            "ONE_CONTACT_KEY": "연락처",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "이것은 1개의 접촉을 위한 자료 모양입니다",
+            "NODE_KEY": "이름 *",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "고객의 고유한 이름",
+            "NOTE_KEY": "이름 *",
+            "ANY_TEXT_YOU_WANT_KEY": "당신이 원하는 모든 텍스트",
+            "DOMAIN_ADDRESS_KEY": "도메인 주소",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "서버에 도메인 주소",
+            "USER_NAME_KEY": "사용자 이름",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "저장할 때 허브 우이를 얻을 (비어 있는 공백)",
+            "SHARED_SECRET_KEY": "공유 비밀",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "저장할 때 2k 임의 문자열을 얻을 것이다 (비어 있는 공백)",
+            "ALLOWED_ROLES_KEY": "허용된 역할",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "당신이 가지고 있는 모든 사용자 역할로 목록",
+            "USER_KEY": "사용자 이름",
+            "DEVELOPER_KEY": "주요 특징",
+            "ADMIN_KEY": "계정 관리",
+            "HAS_PASSWORD_KEY": "비밀번호",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "수입된 파일이 사용자가 설정한 클라이언트 암호가 있는 경우"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "문서가 여기에 표시됩니다",
+            "MAIN_DOC_KEY": "주요 문서",
+            "CLIENT_DOC_KEY": "클라이언트 doc",
+            "SERVER_DOC_KEY": "서버 doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "문의 관리자",
+            "DOCUMENTATION_KEY": "회사연혁",
+            "CLIENT_CONTACT_KEY": "고객문의",
+            "SERVER_CONTACT_KEY": "Server 연락처"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "지원하다",
+            "SERVER_CONTACTS_KEY": "Server 연락처",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "모든 서버 연락처 목록",
+            "SAVE_KEY": "제품 정보",
+            "DELETE_KEY": "이름 *",
+            "IMPORT_KEY": "제품정보",
+            "EXPORT_KEY": "수출입",
+            "PING_SERVER_KEY": "Ping 서버",
+            "ONE_CONTACT_KEY": "연락처",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "이것은 1개의 접촉을 위한 자료 모양입니다.",
+            "NODE_KEY": "이름 *",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "노드 이름",
+            "NOTE_KEY": "이름 *",
+            "ANY_TEXT_YOU_WANT_KEY": "당신이 원하는 모든 텍스트",
+            "DOMAIN_ADDRESS_KEY": "도메인 주소",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "원격 서버에 도메인 주소",
+            "USER_NAME_KEY": "사용자 이름",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid 당신은 원격 서버에서 가지고",
+            "SHARED_SECRET_KEY": "공유 비밀",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "원격 서버에서 가져온 2k 임의 문자열",
+            "ALLOWED_ROLES_KEY": "허용된 역할",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "이 계정의 모든 역할 목록은",
+            "USER_KEY": "사용자 이름",
+            "DEVELOPER_KEY": "주요 특징",
+            "ADMIN_KEY": "계정 관리"
+        }
+    }
+}

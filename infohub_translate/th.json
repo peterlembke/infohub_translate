@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "th",
+        "language_name": "Thai",
+        "language_name_local": "ภาษาไทยName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "แปล",
+        "description": "แปลวลีเอง สร้างแฟ้มภาษาสําหรับโปรแกรมเสริม."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "การ สอน",
+            "USE_THE_MENU._KEY": "ใช้เมนูสิ."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "เอกสารจะแสดงผลที่นี่",
+            "MAIN_DOC_KEY": "หมอหลัก",
+            "MANUAL_TRANSLATION_KEY": "แปลภาษาด้วยตนเอง",
+            "PLUGIN_TRANSLATION_KEY": "ส่วนเสริม"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "แปลภาษาด้วยตนเอง",
+            "REFRESH_LANGUAGE_LIST_KEY": "ปรับปรุงรายการภาษาใหม่",
+            "SELECT_LANGUAGE_KEY": "เลือกภาษา",
+            "SELECT_SOURCE_LANGUAGE._KEY": "เลือกภาษาหลัก.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "เลือกภาษาปลายทาง.",
+            "YOUR_TEXT_KEY": "ข้อความของคุณ",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "ข้อความที่คุณต้องการแปล.",
+            "TRANSLATE_KEY": "แปล",
+            "THE_TRANSLATED_TEXT_KEY": "ข้อ ความ ที่ แปล แล้ว",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "ข้อความที่คุณได้หลังจากแปลเสร็จ.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "เลือกภาษาปลายทาง เขียนข้อความ คลิกตัวแปล",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "เลือกภาษาที่จะแปลจาก",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "เขียนอะไรสักอย่างเพื่อให้ฉันแปลได้",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "เลือกภาษาที่จะแปล",
+            "TRANSLATION_DONE_KEY": "แปลเสร็จแล้ว"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "เครื่องมือแปลภาษา",
+            "DOCUMENTATION_KEY": "เอกสาร",
+            "MANUAL_TRANSLATION_KEY": "แปลภาษาด้วยตนเอง",
+            "PLUGIN_TRANSLATION_KEY": "ส่วนเสริม"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "ปรับปรุงรายการใหม่",
+            "SELECT_PLUGIN_KEY": "เลือกส่วนเสริม",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "เรียกปลั๊กอินของไคลเอนต์ทั้งหมดที่มีแฟ้มแปลได้.",
+            "SELECT_LANGUAGES_KEY": "เลือกภาษา",
+            "TRANSLATE_KEY": "แปล",
+            "PLUGIN_TRANSLATION_KEY": "ส่วนเสริม",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "เลือกส่วนเสริมและภาษา",
+            "CLICK_TRANSLATE_KEY": "คลิกตัวแปล",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "การ ทํา ความ สดชื่น จาก รายการ เหล่า นี้ แล้ว",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "เลือกส่วนเสริมหนึ่งหรือหลายตัวที่จะแปล",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "เลือกหนึ่งภาษาหรือมากกว่าเพื่อแปล",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "เรียกเซิร์ฟเวอร์ให้แปล",
+            "TO_LANGUAGES_KEY": "ถึงภาษา",
+            "TRANSLATION_DONE_KEY": "แปลเสร็จแล้ว",
+            "EXECUTION_TIME_KEY": "เวลาประมวลผล",
+            "SECONDS_KEY": "วินาที"
+        }
+    }
+}

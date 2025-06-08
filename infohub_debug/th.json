@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "th",
+        "language_name": "Thai",
+        "language_name_local": "ภาษาไทยName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "เครื่องมือดีบั๊ก",
+        "description": "เครื่องมือสําหรับนักพัฒนาและผู้ทดสอบ."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "กําลังล้างข้อมูลแคช",
+            "DONE_REFRESHING_PAGE_KEY": "สร้างหน้าใหม่เรียบร้อยแล้ว",
+            "RELOAD_PAGE._KEY": "เรียกหน้าใหม่.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "ล้างส่วนเสริมเก่าที่ทําเครื่องหมายโดยเซิร์ฟเวอร์ เรียกหน้าใหม่.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "ล้างส่วนเสริมภายในทั้งหมด, เรียกใหม่หน้า.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "ล้างข้อมูลภายในทั้งหมด, เรียกข้อมูลหน้าใหม่.",
+            "INSTRUCTIONS_KEY": "การ สอน",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "คลิกบนตัวเลือก หรือใช้แป้นพิมพ์ กุญแจพวกนี้ใช้ได้เสมอ ไม่ว่าคุณจะอยู่ที่ไหน.",
+            "INFORMATION_KEY": "ข้อมูล",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "นอกจากนี้ยังอยู่ที่ด้านล่างของหน้าจอยิงเป็นปุ่ม ในกรณีที่คุณไม่สามารถเริ่มดีบั๊กและไม่มีแป้นพิมพ์บนอุปกรณ์ของคุณ.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "เป็นตัวเลือกเดียวที่ลบการแปลและการตั้งค่าออกจากคลังหลัก.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "ลบแคชสําหรับแปลงสําหรับล็อกอินด้วยผู้ใช้แบบเงียบ ๆ",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "ออกจากระบบและรีเฟรชหน้า"
+        }
+    }
+}

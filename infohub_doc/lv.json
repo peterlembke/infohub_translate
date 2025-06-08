@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "lv",
+        "language_name": "Latvian",
+        "language_name_local": "Latviešu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Dokumentācija",
+        "description": "Pilna dokumentācija pār InfoHub un visiem spraudņiem."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "Dokuments",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Šeit jūs redzēsiet dokumentu"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Atsvaidzes indekss",
+            "INDEX_KEY": "Indekss"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "Atjaunot navigāciju",
+            "NAVIGATION_KEY": "Navigācija"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Atsvaidzināt apmeklēto"
+        }
+    }
+}

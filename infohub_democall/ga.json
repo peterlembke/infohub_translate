@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "ga",
+        "language_name": "Irish",
+        "language_name_local": "Gaeilge na hÉireann",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Tástáil teachtaireachtaí a sheoladh",
+        "description": "Mar forbróir féidir leat a fheiceáil cad a tharlaíonn nuair a sheolann tú teachtaireacht chuig breiseán nó feidhm nach bhfuil ann."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Treoracha",
+            "USE_THE_MENU._KEY": "Bain úsáid as an roghchlár.",
+            "RESULT_KEY": "Toradh agus Toradh"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Glaoigh Linn",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Anseo is féidir leat iniúchadh a dhéanamh ar cad a tharlaíonn má ghlaonn tú breiseán atá ar iarraidh, nó feidhm ar iarraidh",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Cliant - glaoch ceart. Plugin agus feidhm ann",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Cliant - breiseán ann, nach bhfuil feidhm cmd ann",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Cliant - Tá breiseán ar iarraidh",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Freastalaí - glaoch ceart. Plugin agus feidhm ann",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Freastalaí - breiseán ann, nach bhfuil feidhm cmd ann",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Freastalaí - Tá breiseán ar iarraidh",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Cliant - labhairt le leanaí le freagraí bailí",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Cliant - glaoch neamhbhailí do leanbh deartháireacha",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Cliant - glaoch ó leanbh go tuismitheoir",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Freastalaí - reáchtáil gach tástálacha freastalaí"
+        }
+    }
+}

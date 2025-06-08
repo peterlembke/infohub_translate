@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "nb",
+        "language_name": "Norwegian",
+        "language_name_local": "Norsk",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Treet",
+        "description": "Hanter dine personopplysninger."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Instruksjoner",
+            "USE_THE_MENU._KEY": "Bruk menyen."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Sikkerhetskopier alle",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Full backup av alle data du har på serveren.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Du får en fil med alt.",
+            "BACKUP_EVERYTHING_KEY": "Sikkerhetskopier alt",
+            "BACKUP_PLUGINS_KEY": "Sikkerhetskopieringstillegg",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Sikkerhetskopiering av hvert plugin separat.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Du får en sikkerhetskopifil for hvert plugin.",
+            "REFRESH_PLUGIN_LIST_KEY": "Oppdater plugin-liste",
+            "PLUGIN_LIST_KEY": "Programtilleggsliste",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Liste med alle tre plugins",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Sikkerhetskopier valgte plugins",
+            "PARTIAL_BACKUP_KEY": "Delvis sikkerhetskopiering",
+            "PARTIAL_BACKUP._KEY": "Delvis backup.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Velg ett plugin og velg nøkler for å sikkerhetskopiere.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Du får én sikkerhetskopifil.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Liste med alle tre plugins.",
+            "SELECT_ONE_KEY": "Velg en",
+            "REFRESH_KEY_LIST_KEY": "Oppdater nøkkellisten",
+            "KEYS_KEY": "Nøkkel",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Alle nøkler for det valgte programtillegget.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Velg dem du vil sikkerhetskopiere",
+            "BACKUP_SELECTED_KEYS_KEY": "Sikkerhetskopier valgte nøkler"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentasjonen vil komme her",
+            "MAIN_DOC_KEY": "Hoveddoc",
+            "VERSION_DOC_KEY": "Versjon doc",
+            "ENCRYPTION_DOC_KEY": "Krypteringsdoc",
+            "BACKUP_DOC_KEY": "Sikkerhetskopi doc",
+            "RESTORE_DOC_KEY": "Gjenopprett doc",
+            "STORAGE_DOC_KEY": "Lagringsdok",
+            "SYNC_DOC_KEY": "Sync doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Importer nøkkelfil",
+            "ONE_CONTACT_KEY": "En kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Dette er dataskjemaet for én kontakt",
+            "IMPORT_PASSWORD_KEY": "Importer passord",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Ditt passord for filen",
+            "FORGET_IMPORTED_KEY_KEY": "Glem importert",
+            "EXPORT_KEY_FILE_KEY": "Eksporter nøkkelfil",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Eksporter den importerte nøkkelen med nytt passord",
+            "EXPORT_PASSWORD_KEY": "Eksporter passord",
+            "CREATE_KEY_FILE_KEY": "Opprett nøkkelfil",
+            "CREATE_NEW_KEY_FILE_KEY": "Opprett ny nøkkelfil",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Opprett ny nøkkel med nytt passord"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Tree Manager",
+            "DOCUMENTATION_KEY": "Dokumentasjon",
+            "VERSION_KEY": "Utgave",
+            "ENCRYPTION_KEY": "Kryptering",
+            "BACKUP_KEY": "Sikkerhetskopi",
+            "RESTORE_KEY": "Gjenopprett",
+            "SYNC_KEY": "Sync"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Konflikter",
+            "SELECT_BACKUP_FILES_KEY": "Velg sikkerhetskopifiler",
+            "CLEAR_LIST_KEY": "Tøm liste",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Gjenopprett data til nettleserlagring",
+            "BACKUP_FILES_KEY": "Sikkerhetskopier filer",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Her er en liste med alle sikkerhetskopifiler du har valgt i filvelgeren",
+            "INFORMATION_KEY": "Informasjon",
+            "RESTORE_LOG_KEY": "Gjenopprett logg",
+            "CLICK_ON_THE_LIST_KEY": "Klikk på listen",
+            "REFRESH_CONFLICT_LIST_KEY": "Oppdater konfliktliste",
+            "KEEP_LOCAL_VERSION_KEY": "Behold lokal versjon",
+            "KEEP_SERVER_VERSION_KEY": "Behold serverversjonen",
+            "CONFLICT_LIST_KEY": "Konfliktliste"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Start synkroniseringen her",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Du synkroniserer først og håndterer deretter opplastings-, nedlastings- og konfliktlistene",
+            "CLICK_ON_THE_LIST_KEY": "Klikk på listen",
+            "SYNC_KEY": "Sync",
+            "UPLOAD_KEY": "Last opp",
+            "DOWNLOAD_KEY": "Last ned",
+            "REFRESH_CONFLICT_LIST_KEY": "Oppdater konfliktliste",
+            "KEEP_LOCAL_VERSION_KEY": "Behold lokal versjon",
+            "KEEP_SERVER_VERSION_KEY": "Behold serverversjonen",
+            "CONFLICT_LIST_KEY": "Konfliktliste",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Du kan hjelpe meg med å bestemme hvilken versjon du skal ha"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Oppdater versjonsdata"
+        }
+    }
+}

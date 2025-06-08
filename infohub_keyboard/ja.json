@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:46:01",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "ja",
+        "language_name": "Japanese",
+        "language_name_local": "日本語 English",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "キーボード",
+        "description": "ここでは、キーボードの組み合わせを購読し、それらを関数にバインドすることができます."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "キーボードテスト",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "キーボードのコンビネーションをお試しください",
+            "ANY_BUTTON_KEY": "任意のボタン",
+            "SUBSCRIBE_KEY": "会員登録",
+            "UNSUBSCRIBE_KEY": "購読解除",
+            "SHOW_SUBSCRIBERS_KEY": "購読者を表示",
+            "KEYBOARD_DEMO_POPUP_KEY": "キーボードデモポップアップ"
+        }
+    }
+}

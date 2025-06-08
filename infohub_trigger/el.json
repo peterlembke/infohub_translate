@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:55:22",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "el",
+        "language_name": "Greek",
+        "language_name_local": "Ελληνικά",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Αποστολή προσαρμοσμένου μηνύματος",
+        "description": "Ως προγραμματιστής μπορείτε να στείλετε μηνύματα στις λειτουργίες σας."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Ενεργοποίηση",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Εσείς ως προγραμματιστής μπορείτε να στείλετε ένα μήνυμα στο αναδυόμενο plugin σας.",
+            "REFRESH_DATA_KEY": "Ανανέωση δεδομένων",
+            "NODE_KEY": "Κόμβος",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Επιλέξτε τον κόμβο στον οποίο θέλετε να στείλετε το μήνυμα",
+            "CLIENT_KEY": "Πελάτης",
+            "SERVER_KEY": "Διακομιστής",
+            "PLUGIN_KEY": "Πρόσθετο",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Επιλέξτε το πρόσθετο στο οποίο θέλετε να στείλετε το μήνυμα",
+            "FUNCTION_KEY": "Συνάρτηση",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Επιλέξτε τη συνάρτηση που θέλετε να στείλετε το μήνυμα",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Προκαθορισμένο μήνυμα για την επιλεγμένη συνάρτηση",
+            "MESSAGE_KEY": "Μήνυμα",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Αυτό είναι το μήνυμα που μπορείτε να στείλετε στο επιλεγμένο πρόσθετο.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Το μήνυμα που βλέπετε είναι οι προκαθορισμένες τιμές που έχει ορίσει η συνάρτηση.",
+            "GET_ALL_KEY": "Πάρτε τα όλα",
+            "BARE_BONE_KEY": "Ξηρά οστά",
+            "GET_DEFAULT_MESSAGE_KEY": "Λήψη προκαθορισμένου μηνύματος",
+            "SEND_MESSAGE_KEY": "Αποστολή μηνύματος",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Απάντηση από τη λειτουργία",
+            "RESPONSE_KEY": "Ανταπόκριση",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Εδώ θα δείτε την απάντηση από τη λειτουργία.",
+            "NO_CONFIG_KEY": "Χωρίς ρύθμιση"
+        }
+    }
+}

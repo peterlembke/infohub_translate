@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "ga",
+        "language_name": "Irish",
+        "language_name_local": "Gaeilge na hÉireann",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Seol teachtaireacht saincheaptha",
+        "description": "Mar forbróir is féidir leat teachtaireachtaí a sheoladh chuig do chuid feidhmeanna."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Triúr",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Is féidir leat mar forbróir teachtaireacht a sheoladh chuig do breiseán ag teacht chun cinn.",
+            "REFRESH_DATA_KEY": "Sonraí a dhiúltú",
+            "NODE_KEY": "Taiseachas aeir: fliuch",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Roghnaigh an nód mian leat a sheoladh chuig an teachtaireacht a",
+            "CLIENT_KEY": "Cineál gas: in airde",
+            "SERVER_KEY": "Freastalaí",
+            "PLUGIN_KEY": "Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Roghnaigh an breiseán mian leat a sheoladh chuig an teachtaireacht a",
+            "FUNCTION_KEY": "Feidhmchlár: Feidhm",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Roghnaigh an fheidhm is mian leat a sheoladh ar an teachtaireacht a",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Teachtaireacht réamhshocraithe don fheidhm roghnaithe",
+            "MESSAGE_KEY": "Teachtaireacht an Choimisiúin",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Is é seo an teachtaireacht is féidir leat a sheoladh chuig an breiseán roghnaithe.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Is é an teachtaireacht a fheiceann tú na luachanna réamhshocraithe an fheidhm atá leagtha.",
+            "GET_ALL_KEY": "Faigh go léir",
+            "BARE_BONE_KEY": "Cnámh folctha",
+            "GET_DEFAULT_MESSAGE_KEY": "Faigh teachtaireacht réamhshocraithe",
+            "SEND_MESSAGE_KEY": "Seol teachtaireacht chuig",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Freagra ón bhfeidhm",
+            "RESPONSE_KEY": "Plandaí faoi dhíon",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Anseo feicfidh tú an freagra ón fheidhm.",
+            "NO_CONFIG_KEY": "Níl an Tweet seo ar fáil"
+        }
+    }
+}

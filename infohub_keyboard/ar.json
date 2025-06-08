@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:00:18",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "ar",
+        "language_name": "Arabic",
+        "language_name_local": "العربية",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "لوحة مفاتيح",
+        "description": "ويمكنكم هنا أن تشاركوا في تركيبات لوحة المفاتيح وتربطوها بالمهام."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "اختبارات لوحة المفاتيح",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "حاولي تركيب لوحة مفاتيحك",
+            "ANY_BUTTON_KEY": "أي زر",
+            "SUBSCRIBE_KEY": "Subscribe",
+            "UNSUBSCRIBE_KEY": "Unsubscribe",
+            "SHOW_SUBSCRIBERS_KEY": "المشتركون في البرنامج",
+            "KEYBOARD_DEMO_POPUP_KEY": "لوحة المفاتيح"
+        }
+    }
+}

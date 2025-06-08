@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:32:55",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "ro",
+        "language_name": "Romanian",
+        "language_name_local": "Română",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Calculează ratele dobânzii",
+        "description": "Calculează în domenii precum economia, ratele dobânzilor etc."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Instrucţiuni",
+            "USE_THE_MENU._KEY": "Foloseşte meniul."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Puteți calcula rata lunară a dobânzii pentru economiile dumneavoastră din rata anuală a dobânzii.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Puteți utiliza rezultatul din bugetul dumneavoastră pentru a adăuga dobânzi bancare la economiile dumneavoastră în fiecare lună.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Asta rezolvă problema cu rata dobânzii la rata dobânzii.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Dacă calculaţi ratele lunare ale dobânzii la împrumut, atunci nu utilizaţi acest instrument.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Pentru împrumuturi împărţiţi rata anuală a dobânzii la 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Diferenţa este că împrumuturile nu au rata dobânzii la rata dobânzii.",
+            "INTEREST_RATE_KEY": "Rata dobânzii",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Click pentru instrucțiuni...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Calculează rata lunară a dobânzii pentru economiile tale",
+            "YEARLY_INTEREST_RATE_KEY": "Rata dobânzii anuale",
+            "CALCULATE_KEY": "Calculează",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Procentul ratei lunare a dobânzii",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Rata dobânzii lunare la sută cu două zecimale",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Zecimală lunară a ratei dobânzii",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Zecimală lunară a ratei dobânzii cu toate zecimalele pentru bugdetul dumneavoastră",
+            "CALCULATION_OK_KEY": "Calculul ok",
+            "CALCULATION_VERIFIED_OK_KEY": "Calcul verificat ok",
+            "CALCULATION_FAILED_KEY": "Calculul a eșuat",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Verificarea calculată a eșuat"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Rata dobânzii lunare"
+        }
+    }
+}

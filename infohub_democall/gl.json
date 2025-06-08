@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:59:33",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "gl",
+        "language_name": "Galician",
+        "language_name_local": "Galego",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Proba de enviar mensaxes",
+        "description": "Como desenvolvedor podes ver o que pasa cando envías unha mensaxe a un plugin ou unha función que non existe."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Instrucións",
+            "USE_THE_MENU._KEY": "Utiliza o menú.",
+            "RESULT_KEY": "Resultado"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Demo chamada",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Aquí podes explorar o que acontece se chamas un plugin que non funciona",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Cliente: chamada correcta. Plugins e funcións existentes",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "O plugin existe, a función cmd non existe",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Msgstr \"Falta o plugin\"",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Servidor: chamada correcta. Plugins e funcións existentes",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Servidor: plugin exist, función cmd non existe",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Msgstr \"Falta o plugin\"",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Cliente - Falar con resposta válida",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Cliente - Chamada inválida para o neno irmán",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Cliente - Chamada inválida de fillo a pai",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Servidor: executa todas as probas do servidor"
+        }
+    }
+}

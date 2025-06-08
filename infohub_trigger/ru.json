@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:32:55",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "ru",
+        "language_name": "Russian",
+        "language_name_local": "Русский",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Отправить пользовательское сообщение",
+        "description": "Как разработчик, вы можете отправлять сообщения своим функциям."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Триггер",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Вы, как разработчик, можете отправить сообщение своему новому плагину.",
+            "REFRESH_DATA_KEY": "Обновить данные",
+            "NODE_KEY": "Узел",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Выберите узел, которому вы хотите отправить сообщение",
+            "CLIENT_KEY": "Клиент",
+            "SERVER_KEY": "Сервер",
+            "PLUGIN_KEY": "Плагин",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Выберите плагин, который вы хотите отправить сообщение",
+            "FUNCTION_KEY": "Функция",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Выберите функцию, для которой вы хотите отправить сообщение",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Сообщение по умолчанию для выбранной функции",
+            "MESSAGE_KEY": "Послание",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Это сообщение вы можете отправить в выбранный плагин.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Сообщение, которое вы видите, — это значения по умолчанию, установленные функцией.",
+            "GET_ALL_KEY": "Получить все",
+            "BARE_BONE_KEY": "Голая кость",
+            "GET_DEFAULT_MESSAGE_KEY": "Получить сообщение default",
+            "SEND_MESSAGE_KEY": "Отправить сообщение",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Ответ от функции",
+            "RESPONSE_KEY": "Ответ",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Здесь вы увидите ответ от функции.",
+            "NO_CONFIG_KEY": "Без конфигураций"
+        }
+    }
+}

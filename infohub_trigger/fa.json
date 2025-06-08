@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:07:10",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "fa",
+        "language_name": "Persian",
+        "language_name_local": "فارسی",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ارسال پیام سفارشی",
+        "description": "به عنوان یک توسعه دهنده می توانید پیام ها را به توابع خود ارسال کنید."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "محرک",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "شما به عنوان یک توسعه دهنده می توانید یک پیام به پلاگین در حال ظهور خود ارسال کنید.",
+            "REFRESH_DATA_KEY": "داده های جدید",
+            "NODE_KEY": "Node",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "گره ای را که می خواهید ارسال کنید انتخاب کنید",
+            "CLIENT_KEY": "مشتری",
+            "SERVER_KEY": "سرور",
+            "PLUGIN_KEY": "پلاگین Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "افزونه ای را انتخاب کنید که می خواهید پیام را به آن ارسال کنید",
+            "FUNCTION_KEY": "عملکرد",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "تابعی را انتخاب کنید که می خواهید پیام را ارسال کنید",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "پیام پیش فرض برای تابع انتخاب شده",
+            "MESSAGE_KEY": "پیام",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "این پیامی است که می توانید به افزونه انتخاب شده ارسال کنید.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "پیامی که می بینید ارزش های پیش فرض است که تابع تنظیم کرده است.",
+            "GET_ALL_KEY": "همه چیز را دریافت کنید",
+            "BARE_BONE_KEY": "استخوان Bare",
+            "GET_DEFAULT_MESSAGE_KEY": "دریافت پیام پیش فرض",
+            "SEND_MESSAGE_KEY": "ارسال پیام",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "پاسخ از تابع",
+            "RESPONSE_KEY": "پاسخ",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "در اینجا شما پاسخ را از تابع خواهید دید.",
+            "NO_CONFIG_KEY": "No config"
+        }
+    }
+}

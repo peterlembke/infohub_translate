@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "eu",
+        "language_name": "Basque",
+        "language_name_local": "Euskara",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Teklatua",
+        "description": "Hemen teklatuaren konbinazioetara harpidetu eta funtzioetara lotu ditzakezu."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Teklatuaren proba",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Saiatu konbinazioak teklatuan",
+            "ANY_BUTTON_KEY": "Edozein botoi",
+            "SUBSCRIBE_KEY": "Harpidetu",
+            "UNSUBSCRIBE_KEY": "Kendu harpidetza",
+            "SHOW_SUBSCRIBERS_KEY": "Erakutsi harpidedunak",
+            "KEYBOARD_DEMO_POPUP_KEY": "Teklatuaren demoa laster"
+        }
+    }
+}

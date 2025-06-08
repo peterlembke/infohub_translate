@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 19:07:24",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "cs",
+        "language_name": "Czech",
+        "language_name_local": "Česká republika",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Poslat vlastní zprávu",
+        "description": "Jako vývojář můžete posílat zprávy do svých funkcí."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Spouštěč",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Vy jako vývojář můžete poslat zprávu na váš vznikající plugin.",
+            "REFRESH_DATA_KEY": "Obnovit údaje",
+            "NODE_KEY": "Uzel",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Vyberte uzel, na který chcete odeslat zprávu",
+            "CLIENT_KEY": "Klient",
+            "SERVER_KEY": "Server",
+            "PLUGIN_KEY": "Modul",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Vyberte plugin, který chcete odeslat zprávu",
+            "FUNCTION_KEY": "Funkce",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Vyberte funkci, na kterou chcete poslat zprávu",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Výchozí zpráva pro zvolenou funkci",
+            "MESSAGE_KEY": "Zpráva",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Toto je zpráva, kterou můžete poslat do zvoleného pluginu.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Zpráva, kterou vidíte, je výchozí hodnoty, které funkce nastavila.",
+            "GET_ALL_KEY": "Get all",
+            "BARE_BONE_KEY": "Hořčičná kost",
+            "GET_DEFAULT_MESSAGE_KEY": "Získat výchozí zprávu",
+            "SEND_MESSAGE_KEY": "Odeslat zprávu",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Odpověď z funkce",
+            "RESPONSE_KEY": "Odpověď",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Zde uvidíte odpověď z funkce.",
+            "NO_CONFIG_KEY": "Žádný konfigurační"
+        }
+    }
+}

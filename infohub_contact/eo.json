@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "eo",
+        "language_name": "Esperanto",
+        "language_name_local": "Esperanto",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Uzantoj kaj Nodes",
+        "description": "Vi povas teni viajn uzantojn ĉi tie. Vi povas agordi aliron al aliaj servilo nodoj ĉi tie."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instrukciaĵoj",
+            "USE_THE_MENU._KEY": "Uzu la menuon."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Refresh klientoj",
+            "CLIENT_CONTACTS_KEY": "Komercaj kontaktoj",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Listo de ĉiuj klientoj",
+            "NEW_KEY": "Nova",
+            "SAVE_KEY": "Savi",
+            "DELETE_KEY": "Delete",
+            "IMPORT_KEY": "Importado",
+            "EXPORT_KEY": "Eksporto",
+            "ONE_CONTACT_KEY": "Unu kontakto",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Tio estas la datumformularo por unu kontakto",
+            "NODE_KEY": "Neniu",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Via unika nomo de la kliento",
+            "NOTE_KEY": "Notu",
+            "ANY_TEXT_YOU_WANT_KEY": "Ĉiu teksto, kiun vi volas",
+            "DOMAIN_ADDRESS_KEY": "Domain adreso",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "La domajna adreso al via servilo",
+            "USER_NAME_KEY": "Uzantnomo",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Vi ricevas centro-uuid kiam vi ŝparas (folioj)",
+            "SHARED_SECRET_KEY": "Ŝarĝita sekreto",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Vi ricevos 2k hazardan ŝnuron kiam vi ŝparas (folioj)",
+            "ALLOWED_ROLES_KEY": "La jenaj paĝoj ligas",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Listo kun ĉiuj roloj, kiujn vi havas",
+            "USER_KEY": "Uzanta Uzanto",
+            "DEVELOPER_KEY": "Evoluigi",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Havas pasvorton",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Se importita dosiero havas kliento pasvorton metitan fare de la uzanto"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentado igos ĉi tie",
+            "MAIN_DOC_KEY": "Ĉefa punkto",
+            "CLIENT_DOC_KEY": "Klientoj",
+            "SERVER_DOC_KEY": "Servilo"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Kontakta manaĝero",
+            "DOCUMENTATION_KEY": "Dokumentado",
+            "CLIENT_CONTACT_KEY": "Kliento kontakto",
+            "SERVER_CONTACT_KEY": "Servilo kontakto"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Refresh",
+            "SERVER_CONTACTS_KEY": "Servilo kontaktas kontaktojn",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Listo de ĉiuj serviloj",
+            "SAVE_KEY": "Savi",
+            "DELETE_KEY": "Delete",
+            "IMPORT_KEY": "Importado",
+            "EXPORT_KEY": "Eksporto",
+            "PING_SERVER_KEY": "Ping-servilo",
+            "ONE_CONTACT_KEY": "Unu kontakto",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Tio estas la datumformularo por unu kontakto.",
+            "NODE_KEY": "Neniu",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Via unika nomo",
+            "NOTE_KEY": "Notu",
+            "ANY_TEXT_YOU_WANT_KEY": "Ĉiu teksto, kiun vi volas",
+            "DOMAIN_ADDRESS_KEY": "Domain adreso",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "La domajna adreso al la malproksima servilo",
+            "USER_NAME_KEY": "Uzantnomo",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uid vi ricevis de la malproksima servilo",
+            "SHARED_SECRET_KEY": "Ŝarĝita sekreto",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k hazarda ŝnuro vi ricevis de la malproksima servilo",
+            "ALLOWED_ROLES_KEY": "La jenaj paĝoj ligas",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Listo kun ĉiuj roloj tiu raporto havas",
+            "USER_KEY": "Uzanta Uzanto",
+            "DEVELOPER_KEY": "Evoluigi",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

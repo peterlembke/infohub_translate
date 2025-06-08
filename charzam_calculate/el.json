@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:55:22",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "el",
+        "language_name": "Greek",
+        "language_name_local": "Ελληνικά",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Υπολογισμός επιτοκίων",
+        "description": "Υπολογίζεται σε τομείς όπως η οικονομία, τα επιτόκια κ.λπ."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Οδηγίες",
+            "USE_THE_MENU._KEY": "Χρησιμοποίησε το μενού."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Μπορείτε να υπολογίσετε το μηνιαίο επιτόκιο των αποταμιεύσεών σας από το ετήσιο επιτόκιο.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Μπορείτε να χρησιμοποιήσετε το αποτέλεσμα στον προϋπολογισμό σας για να προσθέσετε τραπεζικούς τόκους στις αποταμιεύσεις σας κάθε μήνα.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Αυτό λύνει το πρόβλημα με το επιτόκιο.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Εάν υπολογίζετε μηνιαία επιτόκια δανείου τότε μην χρησιμοποιείτε αυτό το εργαλείο.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Για δάνεια διαιρείτε το ετήσιο επιτόκιο με 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Η διαφορά είναι ότι τα δάνεια δεν έχουν επιτόκιο επιτοκίου.",
+            "INTEREST_RATE_KEY": "Επιτόκιο",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Κάντε κλικ για οδηγίες...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Υπολογίστε το μηνιαίο επιτόκιο των αποταμιεύσεών σας",
+            "YEARLY_INTEREST_RATE_KEY": "Ετήσιο επιτόκιο",
+            "CALCULATE_KEY": "Υπολογισμός",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Μηνιαίο επιτόκιο",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Μηνιαίο επιτόκιο τοις εκατό με δύο δεκαδικά",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Μηνιαίο δεκαδικό επιτόκιο",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Μηνιαίο δεκαδικό επιτόκιο με όλα τα δεκαδικά για το bugdet σας",
+            "CALCULATION_OK_KEY": "Υπολογισμός εντάξει",
+            "CALCULATION_VERIFIED_OK_KEY": "Υπολογισμός επαληθεύτηκε εντάξει",
+            "CALCULATION_FAILED_KEY": "Αποτυχία υπολογισμού",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Αποτυχία επαλήθευσης υπολογισμού"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Μηνιαίο επιτόκιο"
+        }
+    }
+}

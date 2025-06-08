@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "ko",
+        "language_name": "Korean",
+        "language_name_local": "한국어",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "한국어",
+        "description": "키보드 조합에 가입하고 기능에 바인딩 할 수 있습니다."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "키보드 테스트",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "키보드에 조합을 시도",
+            "ANY_BUTTON_KEY": "모든 버튼",
+            "SUBSCRIBE_KEY": "이름 *",
+            "UNSUBSCRIBE_KEY": "구독하기",
+            "SHOW_SUBSCRIBERS_KEY": "회원 가입",
+            "KEYBOARD_DEMO_POPUP_KEY": "키보드 데모 팝업"
+        }
+    }
+}

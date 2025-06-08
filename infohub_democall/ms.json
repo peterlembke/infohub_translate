@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "ms",
+        "language_name": "Malay",
+        "language_name_local": "Bahasa Melayu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Pengiriman pesan",
+        "description": "Sebagai pengembang, Anda dapat melihat apa yang terjadi ketika Anda mengirim pesan ke plugin atau fungsi yang tidak ada."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Instruksi",
+            "USE_THE_MENU._KEY": "Guna menunya.",
+            "RESULT_KEY": "Hasil"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Panggilan Demo",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Di sini Anda dapat mengeksplorasi apa yang terjadi jika Anda memanggil plugin yang hilang, atau fungsi yang hilang",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Klien - panggilan yang benar. Pengaya dan fungsi ada",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Klien - plugin ada, fungsi cmd tidak ada",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Klien - plugin yang hilang",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Server - panggilan yang benar. Pengaya dan fungsi ada",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Server - plugin ada, fungsi cmd tidak ada",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Server - plugin hilang",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Klien - pembicaraan anak dengan responden yang sah",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Klien - panggilan tidak sah kepada anak kandung",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Klien - panggilan tidak sah dari anak ke orang tua",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Server wourdon - jalankan semua tes server"
+        }
+    }
+}

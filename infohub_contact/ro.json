@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:32:55",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "ro",
+        "language_name": "Romanian",
+        "language_name_local": "Română",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Utilizatori și noduri",
+        "description": "Te poţi ocupa de utilizatorii tăi aici. Puteți configura accesul la alte noduri de server aici."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instrucţiuni",
+            "USE_THE_MENU._KEY": "Foloseşte meniul."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Actualizează clienții",
+            "CLIENT_CONTACTS_KEY": "Contactele clienților",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Enumeră toate contactele clienților",
+            "NEW_KEY": "Nou",
+            "SAVE_KEY": "Salvează",
+            "DELETE_KEY": "Șterge",
+            "IMPORT_KEY": "Importă",
+            "EXPORT_KEY": "Exportă",
+            "ONE_CONTACT_KEY": "Un contact",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Acesta este formularul de date pentru un singur contact",
+            "NODE_KEY": "Nod",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Numele dumneavoastră unic al clientului",
+            "NOTE_KEY": "Notă",
+            "ANY_TEXT_YOU_WANT_KEY": "Orice mesaj vrei",
+            "DOMAIN_ADDRESS_KEY": "Adresa domeniului",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Adresa domeniului către serverul dumneavoastră",
+            "USER_NAME_KEY": "Nume utilizator",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Primești un hub-uid atunci când salvați (lasă gol)",
+            "SHARED_SECRET_KEY": "Secret partajat",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Vei primi un șir de 2k aleatoriu atunci când salvați (lăsați gol)",
+            "ALLOWED_ROLES_KEY": "Roluri permise",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Lista cu toate rolurile de utilizator ai",
+            "USER_KEY": "Utilizator",
+            "DEVELOPER_KEY": "Dezvoltator",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Are parolă",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Dacă fișierul importat are o parolă a clientului setată de utilizator"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Documentaţia va face aici",
+            "MAIN_DOC_KEY": "Docul principal",
+            "CLIENT_DOC_KEY": "Dosar client",
+            "SERVER_DOC_KEY": "Server doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Administrator de contact",
+            "DOCUMENTATION_KEY": "Documentație",
+            "CLIENT_CONTACT_KEY": "Contact client",
+            "SERVER_CONTACT_KEY": "Contact server"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Reîmprospătează",
+            "SERVER_CONTACTS_KEY": "Contacte server",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Enumeră toate contactele serverului",
+            "SAVE_KEY": "Salvează",
+            "DELETE_KEY": "Șterge",
+            "IMPORT_KEY": "Importă",
+            "EXPORT_KEY": "Exportă",
+            "PING_SERVER_KEY": "Server de ping",
+            "ONE_CONTACT_KEY": "Un contact",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Acesta este formularul de date pentru un singur contact.",
+            "NODE_KEY": "Nod",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Numele tău unic nod",
+            "NOTE_KEY": "Notă",
+            "ANY_TEXT_YOU_WANT_KEY": "Orice mesaj vrei",
+            "DOMAIN_ADDRESS_KEY": "Adresa domeniului",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Adresa domeniului către serverul de la distanță",
+            "USER_NAME_KEY": "Nume utilizator",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uid ai de la serverul de la distanță",
+            "SHARED_SECRET_KEY": "Secret partajat",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k coardă aleatoare ai de la serverul de la distanță",
+            "ALLOWED_ROLES_KEY": "Roluri permise",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Lista cu toate rolurile pe care le are acest cont",
+            "USER_KEY": "Utilizator",
+            "DEVELOPER_KEY": "Dezvoltator",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

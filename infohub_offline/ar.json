@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:00:18",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "ar",
+        "language_name": "Arabic",
+        "language_name_local": "العربية",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "العمل بدون الإنترنت",
+        "description": "هنا يمكنك الاستعداد للعمل بدون الوصول إلى الخادم تحميل البيانات التي قد تحتاجها."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "الأدوات الخارجية",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "أدوات لمعرفة ما إذا كنت على الإنترنت أو خارج الإنترنت.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "انظر ما هي البلوجينات الضائعة في هذا الحدث.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "البطاطس لتحميل وخزن البيانات للاستعداد لاستعمالها من الخارج.",
+            "DOWNLOAD_PLUGINS_KEY": "الحمولة",
+            "OF_KEY": "من",
+            "DOWNLOAD_ASSETS_KEY": "الأصول المحمولة",
+            "DOWNLOAD_DOCUMENTATION_KEY": "وثائق الشحن",
+            "SHOW_SUBSCRIBERS_KEY": "المشتركون في البرنامج",
+            "STATUS_KEY": "الحالة"
+        }
+    }
+}

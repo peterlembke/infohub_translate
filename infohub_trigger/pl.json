@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "pl",
+        "language_name": "Polish",
+        "language_name_local": "Polski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Wyślij niestandardową wiadomość",
+        "description": "Jako deweloper możesz wysyłać wiadomości do swoich funkcji."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigger",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Ty jako deweloper może wysłać wiadomość do swojej nowej wtyczki.",
+            "REFRESH_DATA_KEY": "Odśwież dane",
+            "NODE_KEY": "Węzeł",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Wybierz węzeł, do którego chcesz wysłać wiadomość",
+            "CLIENT_KEY": "Klient",
+            "SERVER_KEY": "Serwer",
+            "PLUGIN_KEY": "Wtyczka",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Wybierz wtyczkę, do której chcesz wysłać wiadomość",
+            "FUNCTION_KEY": "Funkcja",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Wybierz funkcję, do której chcesz wysłać wiadomość",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Domyślna wiadomość dla wybranej funkcji",
+            "MESSAGE_KEY": "Wiadomość",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Jest to wiadomość, którą można wysłać do wybranej wtyczki.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Wiadomość, którą widzisz, to wartości domyślne, które ustawiła funkcja.",
+            "GET_ALL_KEY": "Get all",
+            "BARE_BONE_KEY": "Bare bone",
+            "GET_DEFAULT_MESSAGE_KEY": "Uzyskaj domyślną wiadomość",
+            "SEND_MESSAGE_KEY": "Wyślij wiadomość",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Odpowiedź z funkcji",
+            "RESPONSE_KEY": "Odpowiedź",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Tutaj zobaczysz odpowiedź z funkcji.",
+            "NO_CONFIG_KEY": "Brak konfiguracji"
+        }
+    }
+}

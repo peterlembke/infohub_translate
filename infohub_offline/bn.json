@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "bn",
+        "language_name": "Bengali",
+        "language_name_local": "বাংলা",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ইন্টারনেট ব্যবহার করা হবে",
+        "description": "সার্ভার ব্যবহারের জন্য এইখানে আপনি প্রস্তুত হতে পারবেন। ডাউনলোড করা তথ্য ডাউনলোড করুন।."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "অফলাইন মোড",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "আপনার অনলাইন অথবা অফলাইন অবস্থায় ব্যবহারের জন্য বিভিন্ন সরঞ্জাম।.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "দেখুন ঐ অনুষ্ঠানে কোন প্লাগগুলো আছে।.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "অফলাইন ব্যবহারের জন্য প্রস্তুত ও সংরক্ষণ করার জন্য তথ্য সংরক্ষণ করার উদ্দেশ্যে বাটন.",
+            "DOWNLOAD_PLUGINS_KEY": "প্লাগইন ডাউনলোড করুন",
+            "OF_KEY": "এর",
+            "DOWNLOAD_ASSETS_KEY": "সম্পদ ডাউনলোড করুন",
+            "DOWNLOAD_DOCUMENTATION_KEY": "নথিপত্র ডাউনলোড করুন",
+            "SHOW_SUBSCRIBERS_KEY": "গ্রাহক দেখাও",
+            "STATUS_KEY": "অবস্থা"
+        }
+    }
+}

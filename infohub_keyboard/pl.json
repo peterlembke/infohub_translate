@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "pl",
+        "language_name": "Polish",
+        "language_name_local": "Polski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Klawiatura",
+        "description": "Tutaj można zapisać się do kombinacji klawiatury i powiązać je z funkcjami."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Testy klawiszowe",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Spróbuj kombinacji na klawiaturze",
+            "ANY_BUTTON_KEY": "Każdy przycisk",
+            "SUBSCRIBE_KEY": "Subscribe",
+            "UNSUBSCRIBE_KEY": "Wypisz subskrypcję",
+            "SHOW_SUBSCRIBERS_KEY": "Pokaż subskrybentów",
+            "KEYBOARD_DEMO_POPUP_KEY": "Popup demo klawiatury"
+        }
+    }
+}

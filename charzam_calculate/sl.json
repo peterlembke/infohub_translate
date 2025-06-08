@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Izračunajte obrestne mere",
+        "description": "Izračunajte na področjih, kot so gospodarstvo, obrestne mere itd."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Navodila",
+            "USE_THE_MENU._KEY": "Uporabi jedilnik."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Mesečno obrestno mero za vaše prihranke lahko izračunate iz letne obrestne mere.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Rezultat lahko uporabite v svojem proračunu za dodajanje bančnih obresti na vaše prihranke vsak mesec.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "To reši problem z obrestno mero.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Če izračunate mesečne obrestne mere posojila, potem tega orodja ne uporabite.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Za posojila delite letno obrestno mero z 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Razlika je v tem, da posojila nimajo obrestne mere za obrestno mero.",
+            "INTEREST_RATE_KEY": "Obrestna mera",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Kliknite za navodila...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Izračunajte mesečno obrestno mero za vaše prihranke",
+            "YEARLY_INTEREST_RATE_KEY": "Letna obrestna mera",
+            "CALCULATE_KEY": "Izračunaj",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Mesečna obrestna mera v odstotkih",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Mesečna obrestna mera odstotek z dvema decimalnima mestoma",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Mesečna obrestna mera",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Mesečna obrestna mera, decimalna z vsemi decimalkami za vaš bugdet",
+            "CALCULATION_OK_KEY": "Izračun ok",
+            "CALCULATION_VERIFIED_OK_KEY": "Izračun preverjen ok",
+            "CALCULATION_FAILED_KEY": "Izračun ni uspel",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Neuspešno preverjanje izračuna"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Mesečna obrestna mera"
+        }
+    }
+}

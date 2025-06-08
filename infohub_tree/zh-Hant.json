@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 17:58:50",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "zh-Hant",
+        "language_name": "Chinese (traditional)",
+        "language_name_local": "中文( 傳統 )",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "那棵樹",
+        "description": "處理你的個人資料."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "指令",
+            "USE_THE_MENU._KEY": "用菜單."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "全部備份",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "完全备份您在伺服器上的所有資料 .",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "你得到所有文件.",
+            "BACKUP_EVERYTHING_KEY": "備份一切",
+            "BACKUP_PLUGINS_KEY": "備份外掛程式",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "每個外掛程式的備份 .",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "您每個外掛程式都有一個備份檔案 .",
+            "REFRESH_PLUGIN_LIST_KEY": "刷新插件清單",
+            "PLUGIN_LIST_KEY": "插件列表",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "列出所有樹狀圖外掛程式",
+            "BACKUP_SELECTED_PLUGINS_KEY": "備份所選取的外掛程式",
+            "PARTIAL_BACKUP_KEY": "部分備份",
+            "PARTIAL_BACKUP._KEY": "部分支援 .",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "選擇一個插件並選擇備份的按鍵 .",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "你有一份備份文件.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "列出所有樹狀圖插件 .",
+            "SELECT_ONE_KEY": "選擇一個",
+            "REFRESH_KEY_LIST_KEY": "刷新金鑰清單",
+            "KEYS_KEY": "金鑰",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "選取的外掛程式的所有金鑰 .",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "選擇要支援的",
+            "BACKUP_SELECTED_KEYS_KEY": "備份選取的金鑰"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "文 件將在此翻譯",
+            "MAIN_DOC_KEY": "主醫生",
+            "VERSION_DOC_KEY": "版本 doc",
+            "ENCRYPTION_DOC_KEY": "加密文件",
+            "BACKUP_DOC_KEY": "備份 doc",
+            "RESTORE_DOC_KEY": "恢复 doc",
+            "STORAGE_DOC_KEY": "儲存 doc",
+            "SYNC_DOC_KEY": "同步 doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "匯入金鑰檔案",
+            "ONE_CONTACT_KEY": "一個聯絡人",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "這是一個聯絡人的資料表單",
+            "IMPORT_PASSWORD_KEY": "匯入密碼",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "您的檔案密碼",
+            "FORGET_IMPORTED_KEY_KEY": "忘記匯入",
+            "EXPORT_KEY_FILE_KEY": "匯出金鑰檔",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "用新密碼匯出匯入的金鑰",
+            "EXPORT_PASSWORD_KEY": "匯出密碼",
+            "CREATE_KEY_FILE_KEY": "建立金鑰檔",
+            "CREATE_NEW_KEY_FILE_KEY": "建立新金鑰檔",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "用新密碼建立新金鑰"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "樹狀管理員",
+            "DOCUMENTATION_KEY": "文件",
+            "VERSION_KEY": "版本",
+            "ENCRYPTION_KEY": "加密",
+            "BACKUP_KEY": "備份",
+            "RESTORE_KEY": "恢复",
+            "SYNC_KEY": "同步"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "衝突",
+            "SELECT_BACKUP_FILES_KEY": "選擇備份檔案",
+            "CLEAR_LIST_KEY": "清除列表",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "將資料還回瀏覽器儲存",
+            "BACKUP_FILES_KEY": "備份檔案",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "這是您在檔案選擇器中選擇的所有備份檔案清單",
+            "INFORMATION_KEY": "信息",
+            "RESTORE_LOG_KEY": "恢复日志",
+            "CLICK_ON_THE_LIST_KEY": "點擊清單",
+            "REFRESH_CONFLICT_LIST_KEY": "刷新衝突清單",
+            "KEEP_LOCAL_VERSION_KEY": "保留本地版本",
+            "KEEP_SERVER_VERSION_KEY": "保留伺服器版本",
+            "CONFLICT_LIST_KEY": "衝突清單"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "在此開始同步",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "您先同步, 然後處理上傳、 下載與衝突清單",
+            "CLICK_ON_THE_LIST_KEY": "點擊清單",
+            "SYNC_KEY": "同步",
+            "UPLOAD_KEY": "上傳",
+            "DOWNLOAD_KEY": "下載",
+            "REFRESH_CONFLICT_LIST_KEY": "刷新衝突清單",
+            "KEEP_LOCAL_VERSION_KEY": "保留本地版本",
+            "KEEP_SERVER_VERSION_KEY": "保留伺服器版本",
+            "CONFLICT_LIST_KEY": "衝突清單",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "你可以幫我決定要保留什麼版本"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "刷新版本資料"
+        }
+    }
+}
