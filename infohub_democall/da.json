@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 19:05:00",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "da",
+        "language_name": "Danish",
+        "language_name_local": "Dansk",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Test- send meddelelser",
+        "description": "Som udvikler kan du se, hvad der sker, når du sender en besked til et plugin eller en funktion, der ikke eksisterer."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Instruktioner",
+            "USE_THE_MENU._KEY": "Brug menuen.",
+            "RESULT_KEY": "Resultat"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Demo-opkald",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Her kan du udforske, hvad der sker, hvis du kalder et plugin, der mangler, eller en manglende funktion",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Klient - korrekt opkald. Plugin og funktion eksisterer",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Klient - plugin eksisterer, cmd funktion eksisterer ikke",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Klient - plugin mangler",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Server - korrekt opkald. Plugin og funktion eksisterer",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Server - plugin eksisterer, cmd funktion eksisterer ikke",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Server - plugin mangler",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Klient - børnesnak med gyldige respondere",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Klient - ugyldig opkald til søskende barn",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Klient - ugyldig opkald fra barn til forælder",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Server - kør alle servertest"
+        }
+    }
+}

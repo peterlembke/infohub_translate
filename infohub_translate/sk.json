@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "sk",
+        "language_name": "Slovak",
+        "language_name_local": "Slovenský",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Preložiť",
+        "description": "Ručne preložiť frázu. Vytvoriť jazykové súbory pre moduly."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Pokyny",
+            "USE_THE_MENU._KEY": "Použi menu."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentácia bude tu",
+            "MAIN_DOC_KEY": "Hlavný dokument",
+            "MANUAL_TRANSLATION_KEY": "Ručný preklad",
+            "PLUGIN_TRANSLATION_KEY": "Preklad modulu"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Ručný preklad",
+            "REFRESH_LANGUAGE_LIST_KEY": "Obnoviť zoznam jazykov",
+            "SELECT_LANGUAGE_KEY": "Vybrať jazyk",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Vyberte zdrojový jazyk.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Vyberte cieľový jazyk.",
+            "YOUR_TEXT_KEY": "Váš text",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Text, ktorý chcete preložiť.",
+            "TRANSLATE_KEY": "Preložiť",
+            "THE_TRANSLATED_TEXT_KEY": "Preložený text",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Text dostanete po preklade.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Vyberte cieľový jazyk. Napíš text. Kliknite preložiť",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Vyberte si jazyk pre preklad z",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Napíš niečo, čo môžem preložiť",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Vyberte jazyk pre preklad do",
+            "TRANSLATION_DONE_KEY": "Vykonaný preklad"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Nástroj na preklad",
+            "DOCUMENTATION_KEY": "Dokumentácia",
+            "MANUAL_TRANSLATION_KEY": "Ručný preklad",
+            "PLUGIN_TRANSLATION_KEY": "Preklad modulu"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Obnoviť zoznamy",
+            "SELECT_PLUGIN_KEY": "Vybrať modul",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Zobrazí všetky klientske moduly, ktoré môžu mať prekladové súbory.",
+            "SELECT_LANGUAGES_KEY": "Vyberte jazyky",
+            "TRANSLATE_KEY": "Preložiť",
+            "PLUGIN_TRANSLATION_KEY": "Preklad modulu",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Vyberte moduly a jazyky",
+            "CLICK_TRANSLATE_KEY": "Kliknite preložiť",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Obnovenie zoznamov prebieha",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Vyberte jeden alebo viac modulov pre preklad",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Vyberte jeden alebo viac jazykov pre preklad",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Požiadavka servera na preklad",
+            "TO_LANGUAGES_KEY": "Do jazykov",
+            "TRANSLATION_DONE_KEY": "Vykonaný preklad",
+            "EXECUTION_TIME_KEY": "Čas realizácie",
+            "SECONDS_KEY": "Sekundy"
+        }
+    }
+}

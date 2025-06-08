@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:10:20",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "pt-BR",
+        "language_name": "Portuguese (Brazil)",
+        "language_name_local": "Português (Brasil)",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Calcule as taxas de juros",
+        "description": "Calcular em áreas como economia, taxas de juros, etc."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Instruções",
+            "USE_THE_MENU._KEY": "Use o menu."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Você pode calcular a taxa de juros mensal em suas economias da taxa de juros anual.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Você pode usar o resultado em seu orçamento para adicionar juros bancários em suas economias a cada mês.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Isso resolve o problema com a taxa de juros na taxa de juros.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Se você calcular taxas de juros mensais do empréstimo, então não use esta ferramenta.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Para empréstimos você divide a taxa de juros anual por 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "A diferença é que os empréstimos não têm taxa de juros.",
+            "INTEREST_RATE_KEY": "Taxa de juros",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Clique para instruções...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Calcule a taxa de juros mensal em suas economias",
+            "YEARLY_INTEREST_RATE_KEY": "Taxa de juros anual",
+            "CALCULATE_KEY": "Calcular",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Taxa de juros mensal por cento",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Taxa de juros mensal por cento com duas casas decimais",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Taxa de juros mensal decimal",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Taxa de juros mensal decimal com todas as decimais para o seu bugdet",
+            "CALCULATION_OK_KEY": "Cálculo ok",
+            "CALCULATION_VERIFIED_OK_KEY": "Cálculo verificado ok",
+            "CALCULATION_FAILED_KEY": "O cálculo falhou",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "O cálculo falhou na verificação"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Taxa de juros mensal"
+        }
+    }
+}

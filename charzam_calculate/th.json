@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "th",
+        "language_name": "Thai",
+        "language_name_local": "ภาษาไทยName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "คํานวณอัตราดอกเบี้ย",
+        "description": "คํานวณในพื้นที่เช่นเศรษฐกิจ อัตราดอกเบี้ย ฯลฯ."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "การ สอน",
+            "USE_THE_MENU._KEY": "ใช้เมนูสิ."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "คุณสามารถคํานวณอัตราดอกเบี้ยรายเดือน จากอัตราดอกเบี้ยต่อปี.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "คุณ สามารถ ใช้ ผล จาก งบ ประมาณ ของ คุณ เพื่อ เพิ่ม ดอกเบี้ย ของ ธนาคาร ใน การ ออม เงิน ของ คุณ แต่ ละ เดือน.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "นั่นแก้ปัญหาด้วยอัตราดอกเบี้ย.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "ถ้าคุณคํานวณอัตราดอกเบี้ยรายเดือน อย่าใช้เครื่องมือนี้.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "สําหรับเงินกู้ คุณหารอัตราดอกเบี้ยต่อปีด้วย 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "ความแตกต่างคือเงินกู้ไม่มีอัตราดอกเบี้ย.",
+            "INTEREST_RATE_KEY": "อัตราดอกเบี้ย",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "คลิกเพื่อรับคําแนะนํา...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "คํานวณอัตราดอกเบี้ยรายเดือนสําหรับ เงินออมของคุณ",
+            "YEARLY_INTEREST_RATE_KEY": "อัตราดอกเบี้ยต่อปี",
+            "CALCULATE_KEY": "คํานวณ",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "อัตราดอกเบี้ยรายเดือน",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "อัตราดอกเบี้ยรายเดือน โดยมีทศนิยมสองตําแหน่ง",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "อัตราดอกเบี้ยรายเดือน ทศนิยม",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "อัตราดอกเบี้ยรายเดือน โดยมีทศนิยมทั้งหมดเป็นทศนิยมสําหรับบั๊ก",
+            "CALCULATION_OK_KEY": "การคํานวณโอเค",
+            "CALCULATION_VERIFIED_OK_KEY": "การคํานวณถูกต้อง",
+            "CALCULATION_FAILED_KEY": "การคํานวณล้มเหลว",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "การคํานวณล้มเหลว"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "อัตราดอกเบี้ยรายเดือน"
+        }
+    }
+}

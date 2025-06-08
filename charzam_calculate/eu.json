@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "eu",
+        "language_name": "Basque",
+        "language_name_local": "Euskara",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Kalkulatu interes-tasak",
+        "description": "Kalkulatu ekonomia, interes-tasak eta abar bezalako eremuetan."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Instrukzioak",
+            "USE_THE_MENU._KEY": "Erabili menua."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Urteko interes-tasaren hileko interes-tasa kalkula dezakezu.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Zure aurrekontuaren emaitza erabil dezakezu hileroko aurrezkiei buruzko interesa gehitzeko.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Horrek arazoa konpontzen du interes-tasarekin.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Maileguaren hileko interes-tasak kalkulatzen badituzu, ez erabili tresna hau.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Maileguengatik, urteko interes-tasa 12ren truke banatzen duzu.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Kontua da maileguek ez dutela interes-tasarik.",
+            "INTEREST_RATE_KEY": "Interes-tasa",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Egin klik argibideetarako...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Kalkulatu zure aurrezkiaren hileko interes-tasa",
+            "YEARLY_INTEREST_RATE_KEY": "Urteko interes-tasa",
+            "CALCULATE_KEY": "Kalkulatu",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Hileko interes-tasa",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Hileroko interes-tasa ehuneko bi hamartarrekin",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Hileko interes-tasa hamartar",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Hileroko interes-tasa hamartar guztiekin zure akatserako",
+            "CALCULATION_OK_KEY": "Kalkulua ongi dago",
+            "CALCULATION_VERIFIED_OK_KEY": "Egiaztatutako kalkulua ongi dago",
+            "CALCULATION_FAILED_KEY": "Kalkuluak huts egin du",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Kalkuluak huts egin du egiaztatzean"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Hileko interes-tasa"
+        }
+    }
+}

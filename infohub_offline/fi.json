@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:59:33",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "fi",
+        "language_name": "Finnish",
+        "language_name_local": "Suomi",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Työ ilman internetiä",
+        "description": "Täällä voit valmistautua työskentelyyn ilman pääsyä palvelimelle. Lataa tarvitsemasi tiedot."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Offline-työkalut",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Työkalut tarkistaa oletko verkossa tai offline.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Katso, mitä plugins ovat tilaamassa kyseisen tapahtuman.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Napit ladata ja tallentaa tietoja valmistautua offline-käyttö.",
+            "DOWNLOAD_PLUGINS_KEY": "Lataa liitännäiset",
+            "OF_KEY": "\/",
+            "DOWNLOAD_ASSETS_KEY": "Lataa varat",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Lataa asiakirjat",
+            "SHOW_SUBSCRIBERS_KEY": "Näytä tilaajat",
+            "STATUS_KEY": "Tila"
+        }
+    }
+}

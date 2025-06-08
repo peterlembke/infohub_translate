@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "eu",
+        "language_name": "Basque",
+        "language_name_local": "Euskara",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Dokumentazioa",
+        "description": "Dokumentazio osoa InfoHub eta plugin guztien gainean."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "Dokumentua",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Hemen dokumentua ikusiko duzu"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Freskatu indizea",
+            "INDEX_KEY": "Indizea"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "Freskatu nabigatzea",
+            "NAVIGATION_KEY": "Nabigazioa"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Freskatu bisita"
+        }
+    }
+}

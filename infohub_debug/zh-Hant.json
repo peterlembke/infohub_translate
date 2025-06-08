@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 17:58:50",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "zh-Hant",
+        "language_name": "Chinese (traditional)",
+        "language_name_local": "中文( 傳統 )",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "除錯工具",
+        "description": "開發者和測試者的工具 ."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "完成清除快取",
+            "DONE_REFRESHING_PAGE_KEY": "完成刷新頁面",
+            "RELOAD_PAGE._KEY": "重新載入頁面 .",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "清除用伺服器標記的舊插件 。 重新載入頁面 .",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "清除所有本地插件, 重新載入頁面 .",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "清除所有本地資料, 重新載入頁面 .",
+            "INSTRUCTIONS_KEY": "指令",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "點擊選項或使用鍵盤 。 這些鑰匙不管你在哪都行.",
+            "INFORMATION_KEY": "信息",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "也是發射器螢幕底部的按鈕, 以防無法啟動除錯且裝置上沒有鍵盤 .",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "是唯一從本地儲存中移除圖示及翻譯與設定的選擇 .",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "悄悄地刪除使用者登入的快取",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "登出並刷新頁面"
+        }
+    }
+}

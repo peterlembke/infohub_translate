@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "et",
+        "language_name": "Estonian",
+        "language_name_local": "Eesti",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Arvuta intressimäärad",
+        "description": "Arvuta sellistes valdkondades nagu majandus, intressimäärad jne."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Juhised",
+            "USE_THE_MENU._KEY": "Kasuta menüüd."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Saate arvutada oma säästude igakuise intressimäära aastasest intressimäärast.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Saate kasutada oma eelarve tulemust, et lisada iga kuu oma säästudele pangaintress.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "See lahendab probleemi intressimääraga.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Kui te arvutate igakuised laenuintressimäärad, siis ärge kasutage seda tööriista.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Laenude puhul jagate aastase intressimäära 12-ga.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Erinevus on selles, et laenudel ei ole intressimäära.",
+            "INTEREST_RATE_KEY": "Intressimäär",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Klõpsa juhiste saamiseks...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Arvuta igakuine intressimäär oma säästudele",
+            "YEARLY_INTEREST_RATE_KEY": "Aastane intressimäär",
+            "CALCULATE_KEY": "Arvuta",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Kuu intressimäära protsent",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Kuu intressimäära protsent kahe kümnendkohaga",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Kuu intressimäära kümnendkoht",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Igakuine intressimäära kümnendkoht koos kõigi kümnendkohtadega sinu vea puhul",
+            "CALCULATION_OK_KEY": "Arvutus ok",
+            "CALCULATION_VERIFIED_OK_KEY": "Arvutus kontrollitud ok",
+            "CALCULATION_FAILED_KEY": "Arvutamine nurjus",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Arvutamine ebaõnnestus kontrollimisel"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Kuu intressimäär"
+        }
+    }
+}

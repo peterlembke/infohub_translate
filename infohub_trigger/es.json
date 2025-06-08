@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 17:52:50",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "es",
+        "language_name": "Spanish",
+        "language_name_local": "Español",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Enviar mensaje personalizado",
+        "description": "Como desarrollador puede enviar mensajes a sus funciones."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigger",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Usted como desarrollador puede enviar un mensaje a su plugin emergente.",
+            "REFRESH_DATA_KEY": "Datos de referencia",
+            "NODE_KEY": "Node",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Seleccione el nodo que desea enviar el mensaje a",
+            "CLIENT_KEY": "Cliente",
+            "SERVER_KEY": "Servidor",
+            "PLUGIN_KEY": "Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Seleccione el plugin que desea enviar el mensaje a",
+            "FUNCTION_KEY": "Función",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Seleccione la función que desea enviar el mensaje a",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Mensaje predeterminado para la función seleccionada",
+            "MESSAGE_KEY": "Mensaje",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Este es el mensaje que puede enviar al plugin seleccionado.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "El mensaje que usted ve es los valores predeterminados que la función ha establecido.",
+            "GET_ALL_KEY": "Todos",
+            "BARE_BONE_KEY": "Hueso desnudo",
+            "GET_DEFAULT_MESSAGE_KEY": "Obtenga el mensaje predeterminado",
+            "SEND_MESSAGE_KEY": "Enviar mensaje",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Respuesta de la función",
+            "RESPONSE_KEY": "Respuesta",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Aquí verá la respuesta de la función.",
+            "NO_CONFIG_KEY": "No config"
+        }
+    }
+}

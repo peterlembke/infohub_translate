@@ -1,0 +1,23 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_asset",
+        "data_checksum": "4b8b2175f172389022784fdb24605692",
+        "language": "ga",
+        "language_name": "Irish",
+        "language_name_local": "Gaeilge na hÉireann",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Eolas faoin gComhlacht",
+        "description": "Taispeáin faisnéis ceadúnas do gach sócmhainní a úsáidtear"
+    },
+    "data": {
+        "infohub_asset": {
+            "REFRESH_LIST_KEY": "Liosta scagtha"
+        }
+    }
+}

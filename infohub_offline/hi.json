@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 17:56:00",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "hi",
+        "language_name": "Hindi",
+        "language_name_local": "हिन्दी",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "इंटरनेट के बिना काम करना",
+        "description": "यहां आप सर्वर तक पहुंच के बिना काम करने के लिए तैयार हो सकते हैं। उन डेटा को डाउनलोड करें जिनकी आपको आवश्यकता हो सकती है।."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "ऑफ़लाइन उपकरण",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "यह देखने के लिए कि क्या आप ऑनलाइन या ऑफलाइन हैं।.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "देखें कि कौन से प्लगइन्स उस घटना की सदस्यता ले रहे हैं।.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "ऑफ़लाइन उपयोग के लिए तैयार करने के लिए डेटा डाउनलोड करने और स्टोर करने के लिए बटन।.",
+            "DOWNLOAD_PLUGINS_KEY": "प्लगइन डाउनलोड करें",
+            "OF_KEY": "Of",
+            "DOWNLOAD_ASSETS_KEY": "संपत्ति डाउनलोड करें",
+            "DOWNLOAD_DOCUMENTATION_KEY": "दस्तावेज़ डाउनलोड करें",
+            "SHOW_SUBSCRIBERS_KEY": "ग्राहक दिखाएँ",
+            "STATUS_KEY": "स्थिति"
+        }
+    }
+}

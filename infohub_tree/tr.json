@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:18:57",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "tr",
+        "language_name": "Turkish",
+        "language_name_local": "Türk Türkçesi",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Ağaç",
+        "description": "Kişisel verilerinizi durdurun."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Talimatlar",
+            "USE_THE_MENU._KEY": "Menüyü kullanın."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Tüm Backup",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Sunucuda sahip olduğunuz tüm verilerin tam yedekleme.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Her şeyle bir dosya alırsınız.",
+            "BACKUP_EVERYTHING_KEY": "Her şeyi değiştir",
+            "BACKUP_PLUGINS_KEY": "Backup eklentileri",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Her bir eklentinin ayrı olarak değiştirilmesi.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Her bir eklenti için bir yedekleme dosyası alırsınız.",
+            "REFRESH_PLUGIN_LIST_KEY": "Yeni eklenti listesi",
+            "PLUGIN_LIST_KEY": "Plugin listesi",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Tüm ağaç eklentileri ile liste",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Backup seçilmiş eklentiler",
+            "PARTIAL_BACKUP_KEY": "Katılımcı yedekleme",
+            "PARTIAL_BACKUP._KEY": "Katılımcı yedekleme.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Bir eklenti seçin ve yedek için anahtarları seçin.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Bir yedekleme dosyası alırsınız.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Tüm ağaç eklentileri ile liste.",
+            "SELECT_ONE_KEY": "Birini seçin",
+            "REFRESH_KEY_LIST_KEY": "Yenilenen anahtar liste",
+            "KEYS_KEY": "Anahtarlar",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Seçilen eklenti için tüm anahtarlar.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Yedeklemek istediğiniz olanları seçin",
+            "BACKUP_SELECTED_KEYS_KEY": "Backup seçilmiş anahtarlar"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokümantasyon burada doğacak",
+            "MAIN_DOC_KEY": "Main docc",
+            "VERSION_DOC_KEY": "Version doc",
+            "ENCRYPTION_DOC_KEY": "Şifreleme",
+            "BACKUP_DOC_KEY": "Backup docc",
+            "RESTORE_DOC_KEY": "Geri yükleme",
+            "STORAGE_DOC_KEY": "DepolamaDoc",
+            "SYNC_DOC_KEY": "You doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Import key file",
+            "ONE_CONTACT_KEY": "Bir temas",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Bu, bir temas için veri formudur",
+            "IMPORT_PASSWORD_KEY": "İthalat şifresi",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Dosya için şifreniz",
+            "FORGET_IMPORTED_KEY_KEY": "Ithal etmeyi unutun",
+            "EXPORT_KEY_FILE_KEY": "Export key file",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Yeni şifre ile ithal edilen anahtarı ihracat",
+            "EXPORT_PASSWORD_KEY": "İhracat şifresi",
+            "CREATE_KEY_FILE_KEY": "Create key file",
+            "CREATE_NEW_KEY_FILE_KEY": "Yeni anahtar dosya oluşturun",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Yeni şifre ile yeni anahtar oluşturun"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Ağaç yöneticisi",
+            "DOCUMENTATION_KEY": "Dokümantasyon",
+            "VERSION_KEY": "Version",
+            "ENCRYPTION_KEY": "Şifreleme",
+            "BACKUP_KEY": "Backup",
+            "RESTORE_KEY": "Geri yükleme geri yükleme",
+            "SYNC_KEY": "Sen"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Çatışmalar",
+            "SELECT_BACKUP_FILES_KEY": "Yedek dosyaları seçin",
+            "CLEAR_LIST_KEY": "Clear list listesi",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Tarayıcı depolama için verileri geri yükleme",
+            "BACKUP_FILES_KEY": "Backup dosyaları",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "İşte dosya seçici olarak seçtiğiniz tüm yedekleme dosyaları ile bir liste",
+            "INFORMATION_KEY": "Bilgi Bilgileri",
+            "RESTORE_LOG_KEY": "Geri yükleme log",
+            "CLICK_ON_THE_LIST_KEY": "Listede tıklayın",
+            "REFRESH_CONFLICT_LIST_KEY": "Yeni çatışma listesi",
+            "KEEP_LOCAL_VERSION_KEY": "Yerel sürüm tutun",
+            "KEEP_SERVER_VERSION_KEY": "Keep server version",
+            "CONFLICT_LIST_KEY": "Çatışma listesi"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Buradaki senkronizasyona başlayın",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Önce sen, sonra yükleme, indirme ve çatışma listelerini idare edin",
+            "CLICK_ON_THE_LIST_KEY": "Listede tıklayın",
+            "SYNC_KEY": "Sen",
+            "UPLOAD_KEY": "Download",
+            "DOWNLOAD_KEY": "Download",
+            "REFRESH_CONFLICT_LIST_KEY": "Yeni çatışma listesi",
+            "KEEP_LOCAL_VERSION_KEY": "Yerel sürüm tutun",
+            "KEEP_SERVER_VERSION_KEY": "Keep server version",
+            "CONFLICT_LIST_KEY": "Çatışma listesi",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Hangi sürümün tutmak için karar vermesine yardımcı olabilirsiniz"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Yeni sürüm verileri"
+        }
+    }
+}

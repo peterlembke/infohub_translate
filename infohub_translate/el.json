@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:55:22",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "el",
+        "language_name": "Greek",
+        "language_name_local": "Ελληνικά",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Μετάφραση",
+        "description": "Χειροκίνητα μεταφράστε μια φράση. Δημιουργία αρχείων γλώσσας για πρόσθετα."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Οδηγίες",
+            "USE_THE_MENU._KEY": "Χρησιμοποίησε το μενού."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Η τεκμηρίωση θα αποδώσει εδώ",
+            "MAIN_DOC_KEY": "Κύριο έγγραφο",
+            "MANUAL_TRANSLATION_KEY": "Χειροκίνητη μετάφραση",
+            "PLUGIN_TRANSLATION_KEY": "Μετάφραση πρόσθετου"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Χειροκίνητη μετάφραση",
+            "REFRESH_LANGUAGE_LIST_KEY": "Ανανέωση λίστας γλωσσών",
+            "SELECT_LANGUAGE_KEY": "Επιλογή γλώσσας",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Επιλέξτε γλώσσα πηγής.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Επιλέξτε τη γλώσσα προορισμού.",
+            "YOUR_TEXT_KEY": "Το κείμενό σας",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Το κείμενο που θέλετε να μεταφράσετε.",
+            "TRANSLATE_KEY": "Μετάφραση",
+            "THE_TRANSLATED_TEXT_KEY": "Το μεταφρασμένο κείμενο",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Το κείμενο που παίρνεις μετά τη μετάφραση.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Επιλέξτε τη γλώσσα προορισμού. Γράψε μήνυμα. Κλικ μετάφρασης",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Επιλέξτε μια γλώσσα για μετάφραση από",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Γράψτε κάτι για να μεταφράσω",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Επιλέξτε μια γλώσσα για μετάφραση",
+            "TRANSLATION_DONE_KEY": "Η μετάφραση έγινε"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Εργαλείο μετάφρασης",
+            "DOCUMENTATION_KEY": "Τεκμηρίωση",
+            "MANUAL_TRANSLATION_KEY": "Χειροκίνητη μετάφραση",
+            "PLUGIN_TRANSLATION_KEY": "Μετάφραση πρόσθετου"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Ανανέωση λίστας",
+            "SELECT_PLUGIN_KEY": "Επιλογή πρόσθετου",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Εμφανίζει όλα τα πρόσθετα του πελάτη που μπορούν να έχουν αρχεία μετάφρασης.",
+            "SELECT_LANGUAGES_KEY": "Επιλογή γλωσσών",
+            "TRANSLATE_KEY": "Μετάφραση",
+            "PLUGIN_TRANSLATION_KEY": "Μετάφραση πρόσθετου",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Επιλογή πρόσθετων και γλωσσών",
+            "CLICK_TRANSLATE_KEY": "Κλικ μετάφρασης",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Η ανανέωση των καταλόγων γίνεται",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Επιλέξτε ένα ή περισσότερα πρόσθετα για μετάφραση",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Επιλέξτε μία ή περισσότερες γλώσσες για να μεταφράσετε",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Ζητώντας από τον εξυπηρετητή να μεταφράσει",
+            "TO_LANGUAGES_KEY": "Στις γλώσσες",
+            "TRANSLATION_DONE_KEY": "Η μετάφραση έγινε",
+            "EXECUTION_TIME_KEY": "Χρόνος εκτέλεσης",
+            "SECONDS_KEY": "Δευτερόλεπτα"
+        }
+    }
+}

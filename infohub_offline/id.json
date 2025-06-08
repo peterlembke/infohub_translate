@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:05:36",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "id",
+        "language_name": "Indonesian",
+        "language_name_local": "Indonesia",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Bekerja tanpa internet",
+        "description": "Di sini Anda dapat mempersiapkan diri untuk bekerja tanpa akses ke server. Download data yang mungkin Anda butuhkan."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Perkakas Offline",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Alat untuk melihat apakah Anda daring atau offline.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Lihat plugin apa yang berlangganan ke acara itu.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Tombol untuk mengunduh dan menyimpan data untuk mempersiapkan penggunaan luring.",
+            "DOWNLOAD_PLUGINS_KEY": "Unduh plugin",
+            "OF_KEY": "Dari",
+            "DOWNLOAD_ASSETS_KEY": "Unduh aset",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Unduh dokumentasi",
+            "SHOW_SUBSCRIBERS_KEY": "Tampilkan pelanggan",
+            "STATUS_KEY": "Status"
+        }
+    }
+}

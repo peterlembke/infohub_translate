@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:12:36",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "ur",
+        "language_name": "Urdu",
+        "language_name_local": "اُردو",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "دستاویز",
+        "description": "انفوHub پر مکمل دستاویز اور تمام حضرات."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "دستاویز",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "یہاں آپ کو دستاویزات دیکھیں گے"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "غیر متصل",
+            "INDEX_KEY": "انڈیکس"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "خوشی",
+            "NAVIGATION_KEY": "جگہ"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "خوشی سے ملاقات"
+        }
+    }
+}

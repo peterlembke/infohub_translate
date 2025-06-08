@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "eu",
+        "language_name": "Basque",
+        "language_name_local": "Euskara",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Erabiltzaileak eta Nodoak",
+        "description": "Hemen zure erabiltzaileak kudea ditzakezu. Zerbitzariko beste nodo batzuetarako sarbidea ezar dezakezu hemen."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instrukzioak",
+            "USE_THE_MENU._KEY": "Erabili menua."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Bezero berriak",
+            "CLIENT_CONTACTS_KEY": "Bezeroaren kontaktuak",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Zerrendatu bezero guztien kontaktuak",
+            "NEW_KEY": "Berria",
+            "SAVE_KEY": "Gorde",
+            "DELETE_KEY": "Ezabatu",
+            "IMPORT_KEY": "Inportatu",
+            "EXPORT_KEY": "Esportatu",
+            "ONE_CONTACT_KEY": "Kontaktu bat",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Hau da kontaktu baten datuen inprimakia",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Zure bezeroaren izen esklusiboa",
+            "NOTE_KEY": "Oharra",
+            "ANY_TEXT_YOU_WANT_KEY": "Nahi duzun testua",
+            "DOMAIN_ADDRESS_KEY": "Domeinuaren helbidea",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Domeinuaren helbidea zerbitzarira",
+            "USER_NAME_KEY": "Erabiltzaile-izena",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Gordetzen duzunean hub-uuid bat lortzen duzu (hutsik utzi)",
+            "SHARED_SECRET_KEY": "Sekretu partekatua",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "2k ausazko katea lortuko duzu gordetzen duzunean (hutsik utzi)",
+            "ALLOWED_ROLES_KEY": "Baimendutako rolak",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Zerrendatu erabiltzailearen rol guztiak",
+            "USER_KEY": "Erabiltzailea",
+            "DEVELOPER_KEY": "Garatzailea",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Pasahitza dauka",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Inportatutako fitxategiak bezeroaren pasahitza badu erabiltzaileak ezarrita"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentazioa hemen errendatuko da",
+            "MAIN_DOC_KEY": "Doc nagusia",
+            "CLIENT_DOC_KEY": "Bezeroaren doc",
+            "SERVER_DOC_KEY": "Zerbitzariaren doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Kontaktu-kudeatzailea",
+            "DOCUMENTATION_KEY": "Dokumentazioa",
+            "CLIENT_CONTACT_KEY": "Bezeroaren kontaktua",
+            "SERVER_CONTACT_KEY": "Zerbitzariaren kontaktua"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Freskatu",
+            "SERVER_CONTACTS_KEY": "Zerbitzariko kontaktuak",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Zerrendatu zerbitzariko kontaktu guztiak",
+            "SAVE_KEY": "Gorde",
+            "DELETE_KEY": "Ezabatu",
+            "IMPORT_KEY": "Inportatu",
+            "EXPORT_KEY": "Esportatu",
+            "PING_SERVER_KEY": "Ping zerbitzaria",
+            "ONE_CONTACT_KEY": "Kontaktu bat",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Hau da kontaktu baten datu-forma.",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Zure nodo bakarraren izena",
+            "NOTE_KEY": "Oharra",
+            "ANY_TEXT_YOU_WANT_KEY": "Nahi duzun testua",
+            "DOMAIN_ADDRESS_KEY": "Domeinuaren helbidea",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Urruneko zerbitzariaren domeinu-helbidea",
+            "USER_NAME_KEY": "Erabiltzaile-izena",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Urruneko zerbitzaritik lortu duzun Hub-uuid-a",
+            "SHARED_SECRET_KEY": "Sekretu partekatua",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "urruneko zerbitzaritik lortu duzun ausazko 2k katea",
+            "ALLOWED_ROLES_KEY": "Baimendutako rolak",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Zerrendatu kontu honek dituen rol guztiak",
+            "USER_KEY": "Erabiltzailea",
+            "DEVELOPER_KEY": "Garatzailea",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

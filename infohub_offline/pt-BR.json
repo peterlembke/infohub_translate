@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:10:20",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "pt-BR",
+        "language_name": "Portuguese (Brazil)",
+        "language_name_local": "Português (Brasil)",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Trabalho sem internet",
+        "description": "Aqui você pode se preparar para trabalhar sem o acesso ao servidor. Baixe dados que você pode precisar."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Ferramentas desligadas",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Ferramentas para ver se está online ou offline.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Veja quais plugins estão assinando para esse evento.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Botões para baixar e armazenar dados para se preparar para uso offline.",
+            "DOWNLOAD_PLUGINS_KEY": "Baixar plugins",
+            "OF_KEY": "De",
+            "DOWNLOAD_ASSETS_KEY": "Baixe os ativos",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Descarregar documentação",
+            "SHOW_SUBSCRIBERS_KEY": "Mostrar assinantes",
+            "STATUS_KEY": "Situação"
+        }
+    }
+}

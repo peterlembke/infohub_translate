@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "lt",
+        "language_name": "Lithuanian",
+        "language_name_local": "Lietuvių",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Derinimo įrankis",
+        "description": "Įrankis kūrėjams ir testeriams."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "Atlikta kliringo talpykla",
+            "DONE_REFRESHING_PAGE_KEY": "Restauravimo puslapis",
+            "RELOAD_PAGE._KEY": "Iš naujo įkelti puslapį.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "Išvalyti senus įskiepius, pažymėtus serveryje. Iš naujo įkelti puslapį.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "Išvalyti visus vietinius įskiepius, įkelti puslapį.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "Išvalyti visus vietinius duomenis, įkelti puslapį.",
+            "INSTRUCTIONS_KEY": "Instrukcijos",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "Paspauskite ant parinkties arba naudokite klaviatūrą. Šie raktai visada veikia, kad ir kur esate infostolyje.",
+            "INFORMATION_KEY": "Informacija",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "Taip pat yra paleidimo ekrano apačioje kaip mygtuką, jei negalite pradėti derinimo ir neturi klaviatūros įrenginyje.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "Yra vienintelis variantas, kuris taip pat pašalinti piktogramas ir vertimus ir nustatymus iš vietinės saugyklos.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "Tyliai ištrinti atvaizdavimo talpyklą prisijungusiam naudotojui",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "Išveda ir atnaujina puslapį"
+        }
+    }
+}

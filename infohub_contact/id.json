@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:05:36",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "id",
+        "language_name": "Indonesian",
+        "language_name_local": "Indonesia",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Pengguna dan Nodes",
+        "description": "Anda dapat menangani pengguna Anda di sini. Anda dapat mengatur akses ke node server lain di sini."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instruksi",
+            "USE_THE_MENU._KEY": "Gunakan menu."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Segarkan klien",
+            "CLIENT_CONTACTS_KEY": "Kontak klien",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Daftar semua kontak klien",
+            "NEW_KEY": "Baru",
+            "SAVE_KEY": "Simpan",
+            "DELETE_KEY": "Hapus",
+            "IMPORT_KEY": "Impor",
+            "EXPORT_KEY": "Ekspor",
+            "ONE_CONTACT_KEY": "Satu kontak",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Ini adalah bentuk data untuk satu kontak",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Nama unik klien Anda",
+            "NOTE_KEY": "Catatan",
+            "ANY_TEXT_YOU_WANT_KEY": "Teks apapun yang Anda inginkan",
+            "DOMAIN_ADDRESS_KEY": "Alamat domain",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Alamat domain ke server Anda",
+            "USER_NAME_KEY": "Nama pengguna",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Anda mendapatkan hub-uuid ketika Anda menyimpan (tinggalkan kosong)",
+            "SHARED_SECRET_KEY": "Rahasia bersama",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Anda akan mendapatkan string acak 2k ketika Anda menyimpan (tinggalkan kosong)",
+            "ALLOWED_ROLES_KEY": "Peran diijinkan",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Daftar dengan semua peran pengguna yang Anda miliki",
+            "USER_KEY": "Pengguna",
+            "DEVELOPER_KEY": "Pengembang",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Punya kata sandi",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Jika berkas yang diimpor memiliki sandi klien yang ditentukan oleh pengguna"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentasi akan dirender di sini",
+            "MAIN_DOC_KEY": "Dok utama",
+            "CLIENT_DOC_KEY": "Dok klien",
+            "SERVER_DOC_KEY": "Dok Server"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Manajer kontak",
+            "DOCUMENTATION_KEY": "Dokumentasi",
+            "CLIENT_CONTACT_KEY": "Kontak klien",
+            "SERVER_CONTACT_KEY": "Kontak server"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Segarkan",
+            "SERVER_CONTACTS_KEY": "Kontak server",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Daftar semua kontak server",
+            "SAVE_KEY": "Simpan",
+            "DELETE_KEY": "Hapus",
+            "IMPORT_KEY": "Impor",
+            "EXPORT_KEY": "Ekspor",
+            "PING_SERVER_KEY": "Server Ping",
+            "ONE_CONTACT_KEY": "Satu kontak",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Ini adalah bentuk data untuk satu kontak.",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Nama node unikmu",
+            "NOTE_KEY": "Catatan",
+            "ANY_TEXT_YOU_WANT_KEY": "Teks apapun yang Anda inginkan",
+            "DOMAIN_ADDRESS_KEY": "Alamat domain",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Alamat domain ke server jauh",
+            "USER_NAME_KEY": "Nama pengguna",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid Anda dapatkan dari server remote",
+            "SHARED_SECRET_KEY": "Rahasia bersama",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "string acak 2k yang anda dapatkan dari server remote",
+            "ALLOWED_ROLES_KEY": "Peran diijinkan",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Daftar dengan semua peran akun ini",
+            "USER_KEY": "Pengguna",
+            "DEVELOPER_KEY": "Pengembang",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "eo",
+        "language_name": "Esperanto",
+        "language_name_local": "Esperanto",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "La arbo",
+        "description": "Mankas viajn personajn datumojn."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Instrukciaĵoj",
+            "USE_THE_MENU._KEY": "Uzu la menuon."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Malantaŭa ĉio",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Plena rezervo de ĉiuj viaj datumoj vi havas sur la servilo.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Vi ricevas unu dosieron kun ĉio.",
+            "BACKUP_EVERYTHING_KEY": "Malantaŭ ĉio",
+            "BACKUP_PLUGINS_KEY": "Malantaŭaj kromaĵoj",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Reen de ĉiu kromaĵo aparte.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Vi ricevas unu rezervo dosieron por ĉiu kromaĵo.",
+            "REFRESH_PLUGIN_LIST_KEY": "Refresh kromaĵo listo",
+            "PLUGIN_LIST_KEY": "Plugin listo",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Listo kun ĉiuj arbo kromaĵoj",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Backup selektis kromaĵojn",
+            "PARTIAL_BACKUP_KEY": "Parta rezervo",
+            "PARTIAL_BACKUP._KEY": "Parta dorso.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Elektu unu kromaĵon kaj selektas ŝlosilojn al rezervo.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Vi ricevas unu rezervo dosieron.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Listo kun ĉiuj arbo kromaĵoj.",
+            "SELECT_ONE_KEY": "Elektu unu",
+            "REFRESH_KEY_LIST_KEY": "Refresh-ŝlosila listo",
+            "KEYS_KEY": "Ŝlosiloj",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Ĉiuj ŝlosiloj por la elektita kromaĵo.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Elektu tiujn, kiujn vi volas subteni",
+            "BACKUP_SELECTED_KEYS_KEY": "Backup selektis ŝlosilojn"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentado igos ĉi tie",
+            "MAIN_DOC_KEY": "Ĉefa punkto",
+            "VERSION_DOC_KEY": "Versio doc",
+            "ENCRYPTION_DOC_KEY": "Akription doc",
+            "BACKUP_DOC_KEY": "Malantaŭa doc",
+            "RESTORE_DOC_KEY": "Restore doc",
+            "STORAGE_DOC_KEY": "Storage Doc",
+            "SYNC_DOC_KEY": "Sync doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Grava dosiero",
+            "ONE_CONTACT_KEY": "Unu kontakto",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Tio estas la datumformularo por unu kontakto",
+            "IMPORT_PASSWORD_KEY": "Importa pasvorton",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Via pasvorton por la dosiero",
+            "FORGET_IMPORTED_KEY_KEY": "Forgesu importitajn",
+            "EXPORT_KEY_FILE_KEY": "Eksporto de ŝlosila dosiero",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Eksporti la importita ŝlosilo kun nova pasvorton",
+            "EXPORT_PASSWORD_KEY": "Eksporto pasvorton",
+            "CREATE_KEY_FILE_KEY": "Ĉefa dosiero",
+            "CREATE_NEW_KEY_FILE_KEY": "Krei novan dosieron",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Krei novan ŝlosilon kun nova pasvorton"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Arbo",
+            "DOCUMENTATION_KEY": "Dokumentado",
+            "VERSION_KEY": "Versio versio",
+            "ENCRYPTION_KEY": "Enkription",
+            "BACKUP_KEY": "Malantaŭa dorso",
+            "RESTORE_KEY": "Restore",
+            "SYNC_KEY": "Sintakso"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Konfliktoj",
+            "SELECT_BACKUP_FILES_KEY": "Elekti rezervo dosierojn",
+            "CLEAR_LIST_KEY": "Klara listo",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Restore datenoj al retumilo stokado",
+            "BACKUP_FILES_KEY": "Malantaŭaj dosieroj",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Jen listo kun ĉiuj rezervo dosierojn vi elektis en la dosiero selektilo",
+            "INFORMATION_KEY": "Informoj",
+            "RESTORE_LOG_KEY": "Restore-registro",
+            "CLICK_ON_THE_LIST_KEY": "Klaku sur la listo",
+            "REFRESH_CONFLICT_LIST_KEY": "Refresh konfliktlisto",
+            "KEEP_LOCAL_VERSION_KEY": "Konservu lokan version",
+            "KEEP_SERVER_VERSION_KEY": "Daŭrigebla versio",
+            "CONFLICT_LIST_KEY": "Konfliktolisto"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Komencu la krion ĉi tie",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Vi unue sinkas, tiam pritraktas la alŝuton, elŝutas kaj konfliktlistojn",
+            "CLICK_ON_THE_LIST_KEY": "Klaku sur la listo",
+            "SYNC_KEY": "Sintakso",
+            "UPLOAD_KEY": "Ĝis la fino",
+            "DOWNLOAD_KEY": "Elŝutu",
+            "REFRESH_CONFLICT_LIST_KEY": "Refresh konfliktlisto",
+            "KEEP_LOCAL_VERSION_KEY": "Konservu lokan version",
+            "KEEP_SERVER_VERSION_KEY": "Daŭrigebla versio",
+            "CONFLICT_LIST_KEY": "Konfliktolisto",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Vi povas helpi min decidi kiu versio por teni"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Refresh-versio datenoj"
+        }
+    }
+}

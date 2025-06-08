@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "lt",
+        "language_name": "Lithuanian",
+        "language_name_local": "Lietuvių",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Naudotojai ir mazgai",
+        "description": "Jūs galite tvarkyti savo vartotojams čia. Čia galite nustatyti prieigą prie kitų serverių mazgų."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instrukcijos",
+            "USE_THE_MENU._KEY": "Naudokite meniu."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Atnaujinti klientus",
+            "CLIENT_CONTACTS_KEY": "Klientų kontaktai",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Išvardyti visus kliento kontaktus",
+            "NEW_KEY": "Naujas",
+            "SAVE_KEY": "Įrašyti",
+            "DELETE_KEY": "Trinti",
+            "IMPORT_KEY": "Importuoti",
+            "EXPORT_KEY": "Eksportuoti",
+            "ONE_CONTACT_KEY": "Vienas kontaktas",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Tai yra vieno kontakto duomenų forma",
+            "NODE_KEY": "Mazgas",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Jūsų unikalus kliento vardas",
+            "NOTE_KEY": "Pastaba",
+            "ANY_TEXT_YOU_WANT_KEY": "Bet kokį norimą tekstą",
+            "DOMAIN_ADDRESS_KEY": "Srities adresas",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Srities adresas jūsų serveryje",
+            "USER_NAME_KEY": "Naudotojo vardas",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Išsaugoję gaunate hub- uuid (palikti tuščią)",
+            "SHARED_SECRET_KEY": "Bendra paslaptis",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Jūs gausite 2k atsitiktinė eilutė, kai jūs įrašyti (palikti tuščią)",
+            "ALLOWED_ROLES_KEY": "Leistinos funkcijos",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Sąrašas su visais vartotojo vaidmenimis",
+            "USER_KEY": "Naudotojas",
+            "DEVELOPER_KEY": "Programuotojas",
+            "ADMIN_KEY": "Adminas",
+            "HAS_PASSWORD_KEY": "Turi slaptažodį",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Jei importuotas failas turi vartotojo nustatytą kliento slaptažodį"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Čia bus pateikti dokumentai",
+            "MAIN_DOC_KEY": "Pagrindinis doc",
+            "CLIENT_DOC_KEY": "Kliento doc",
+            "SERVER_DOC_KEY": "Serverio doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Kontaktų tvarkytuvė",
+            "DOCUMENTATION_KEY": "Dokumentai",
+            "CLIENT_CONTACT_KEY": "Kliento kontaktas",
+            "SERVER_CONTACT_KEY": "Serverio kontaktas"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Atnaujinti",
+            "SERVER_CONTACTS_KEY": "Serverio kontaktai",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Sąrašas visų serverio kontaktų",
+            "SAVE_KEY": "Įrašyti",
+            "DELETE_KEY": "Trinti",
+            "IMPORT_KEY": "Importuoti",
+            "EXPORT_KEY": "Eksportuoti",
+            "PING_SERVER_KEY": "Ping serveris",
+            "ONE_CONTACT_KEY": "Vienas kontaktas",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Tai yra vieno kontakto duomenų forma.",
+            "NODE_KEY": "Mazgas",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Jūsų unikalus mazgo pavadinimas",
+            "NOTE_KEY": "Pastaba",
+            "ANY_TEXT_YOU_WANT_KEY": "Bet kokį norimą tekstą",
+            "DOMAIN_ADDRESS_KEY": "Srities adresas",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Srities adresas nutolusiame serveryje",
+            "USER_NAME_KEY": "Naudotojo vardas",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Gautas iš nutolusio serverio",
+            "SHARED_SECRET_KEY": "Bendra paslaptis",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k atsitiktinė eilutė turite iš nutolusio serverio",
+            "ALLOWED_ROLES_KEY": "Leistinos funkcijos",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Sąrašas su visais vaidmenimis šioje sąskaitoje",
+            "USER_KEY": "Naudotojas",
+            "DEVELOPER_KEY": "Programuotojas",
+            "ADMIN_KEY": "Adminas"
+        }
+    }
+}

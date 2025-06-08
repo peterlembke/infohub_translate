@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:10:20",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "pt-BR",
+        "language_name": "Portuguese (Brazil)",
+        "language_name_local": "Português (Brasil)",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "A árvore",
+        "description": "Lida com seus dados pessoais."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Instruções",
+            "USE_THE_MENU._KEY": "Use o menu."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Reforço a todos",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Backup completo de todos os seus dados no servidor.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Você tem um arquivo com tudo.",
+            "BACKUP_EVERYTHING_KEY": "Faça backup de tudo",
+            "BACKUP_PLUGINS_KEY": "Plug-ins de backup",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Backup de cada plugin separadamente.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Você tem um arquivo de backup para cada plugin.",
+            "REFRESH_PLUGIN_LIST_KEY": "Atualizar lista de plugins",
+            "PLUGIN_LIST_KEY": "Lista de plug-ins",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Lista com todos os plugins de árvores",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Backup de plug-ins selecionados",
+            "PARTIAL_BACKUP_KEY": "Reforço parcial",
+            "PARTIAL_BACKUP._KEY": "Reforço parcial.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Selecione um plugin e selecione as chaves para fazer backup.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Você tem um arquivo reserva.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Lista com todos os plugins de árvores.",
+            "SELECT_ONE_KEY": "Selecione um",
+            "REFRESH_KEY_LIST_KEY": "Atualizar lista de chaves",
+            "KEYS_KEY": "Chaves",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Todas as chaves para o plugin selecionado.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Selecione os que você quer fazer backup",
+            "BACKUP_SELECTED_KEYS_KEY": "Chaves selecionadas para backup"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "A documentação vai renderizar aqui",
+            "MAIN_DOC_KEY": "Doutor principal",
+            "VERSION_DOC_KEY": "Versão Doc",
+            "ENCRYPTION_DOC_KEY": "Doc de criptografia",
+            "BACKUP_DOC_KEY": "Reforço doc",
+            "RESTORE_DOC_KEY": "Restaure o Doc",
+            "STORAGE_DOC_KEY": "Doutor de armazenamento",
+            "SYNC_DOC_KEY": "Tradução e Sincronia:"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Importar arquivo de chave",
+            "ONE_CONTACT_KEY": "Um contato",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Este é o formulário de dados para um contato",
+            "IMPORT_PASSWORD_KEY": "Importar senha",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Sua senha para o arquivo",
+            "FORGET_IMPORTED_KEY_KEY": "Esqueça a importação",
+            "EXPORT_KEY_FILE_KEY": "Arquivo de chave de exportação",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Exportar a chave importada com nova senha",
+            "EXPORT_PASSWORD_KEY": "Exportar senha",
+            "CREATE_KEY_FILE_KEY": "Criar arquivo chave",
+            "CREATE_NEW_KEY_FILE_KEY": "Criar um novo arquivo chave",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Criar uma nova chave com uma nova senha"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Gerente de árvores",
+            "DOCUMENTATION_KEY": "Documentação",
+            "VERSION_KEY": "Versão",
+            "ENCRYPTION_KEY": "Criptografia",
+            "BACKUP_KEY": "Reforço",
+            "RESTORE_KEY": "Restaurar",
+            "SYNC_KEY": "Sincronização"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Conflitos",
+            "SELECT_BACKUP_FILES_KEY": "Selecione arquivos de backup",
+            "CLEAR_LIST_KEY": "Limpar a lista",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Restaure dados no armazenamento do navegador",
+            "BACKUP_FILES_KEY": "Arquivos de backup",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Aqui está uma lista com todos os arquivos de backup que você selecionou no seletor de arquivos",
+            "INFORMATION_KEY": "Informação",
+            "RESTORE_LOG_KEY": "Restaure o log",
+            "CLICK_ON_THE_LIST_KEY": "Clique na lista",
+            "REFRESH_CONFLICT_LIST_KEY": "Atualizar lista de conflitos",
+            "KEEP_LOCAL_VERSION_KEY": "Mantenha a versão local",
+            "KEEP_SERVER_VERSION_KEY": "Mantenha a versão do servidor",
+            "CONFLICT_LIST_KEY": "Lista de conflitos"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Comece a sincronização aqui",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Você primeiro sincroniza, depois lida com as listas de upload, download e conflitos",
+            "CLICK_ON_THE_LIST_KEY": "Clique na lista",
+            "SYNC_KEY": "Sincronização",
+            "UPLOAD_KEY": "Enviar",
+            "DOWNLOAD_KEY": "Baixe",
+            "REFRESH_CONFLICT_LIST_KEY": "Atualizar lista de conflitos",
+            "KEEP_LOCAL_VERSION_KEY": "Mantenha a versão local",
+            "KEEP_SERVER_VERSION_KEY": "Mantenha a versão do servidor",
+            "CONFLICT_LIST_KEY": "Lista de conflitos",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Você pode me ajudar a decidir qual versão manter"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Atualizar dados da versão"
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "lt",
+        "language_name": "Lithuanian",
+        "language_name_local": "Lietuvių",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Medis",
+        "description": "Tvarko jūsų asmens duomenis."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Instrukcijos",
+            "USE_THE_MENU._KEY": "Naudokite meniu."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Kopijuoti visus",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Pilnas visų jūsų duomenų, kuriuos turite serveryje, atsarginės kopijos.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Gausi vieną bylą su viskuo.",
+            "BACKUP_EVERYTHING_KEY": "Kopijuoti viską",
+            "BACKUP_PLUGINS_KEY": "Name",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Kiekvieno įskiepio atsarginė kopija atskirai.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Jūs gaunate vieną atsarginės kopijos failą kiekvienam priestatui.",
+            "REFRESH_PLUGIN_LIST_KEY": "Atnaujinti įskiepių sąrašą",
+            "PLUGIN_LIST_KEY": "Įskiepių sąrašas",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Sąrašas su visais medžio įskiepiais",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Kopijuoti pasirinktus įskiepius",
+            "PARTIAL_BACKUP_KEY": "Dalinė atsarginė kopija",
+            "PARTIAL_BACKUP._KEY": "Dalinis pastiprinimas.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Pasirinkite vieną įskiepį ir pasirinkite raktus atsarginei kopijai.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Gavai vieną atsarginį failą.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Sąrašas su visais medžio įskiepių.",
+            "SELECT_ONE_KEY": "Pasirinkti vieną",
+            "REFRESH_KEY_LIST_KEY": "Atnaujinti raktų sąrašą",
+            "KEYS_KEY": "Raktai",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Visi pasirinkti įskiepio raktai.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Pasirinkite tuos, kuriuos norite kopijuoti",
+            "BACKUP_SELECTED_KEYS_KEY": "Kopijuoti pasirinktus raktus"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Čia bus pateikti dokumentai",
+            "MAIN_DOC_KEY": "Pagrindinis doc",
+            "VERSION_DOC_KEY": "Versijos doc",
+            "ENCRYPTION_DOC_KEY": "Šifravimo doc",
+            "BACKUP_DOC_KEY": "Atsarginės kopijos doc",
+            "RESTORE_DOC_KEY": "Atstatyti doc",
+            "STORAGE_DOC_KEY": "Saugojimo doc",
+            "SYNC_DOC_KEY": "Sinchronizuoti doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Importuoti raktų failą",
+            "ONE_CONTACT_KEY": "Vienas kontaktas",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Tai yra vieno kontakto duomenų forma",
+            "IMPORT_PASSWORD_KEY": "Importuoti slaptažodį",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Jūsų failo slaptažodis",
+            "FORGET_IMPORTED_KEY_KEY": "Pamiršti importuotą",
+            "EXPORT_KEY_FILE_KEY": "Eksporto rakto failas",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Eksportuoti importuotą raktą nauju slaptažodžiu",
+            "EXPORT_PASSWORD_KEY": "Eksportuoti slaptažodį",
+            "CREATE_KEY_FILE_KEY": "Sukurti raktų failą",
+            "CREATE_NEW_KEY_FILE_KEY": "Sukurti naują raktų failą",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Sukurti naują raktą su nauju slaptažodžiu"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Medžių tvarkyklė",
+            "DOCUMENTATION_KEY": "Dokumentai",
+            "VERSION_KEY": "Versija",
+            "ENCRYPTION_KEY": "Šifravimas",
+            "BACKUP_KEY": "Kopijavimas",
+            "RESTORE_KEY": "Atstatyti",
+            "SYNC_KEY": "Sinchronizuoti"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Konfliktai",
+            "SELECT_BACKUP_FILES_KEY": "Pasirinkite atsarginius failus",
+            "CLEAR_LIST_KEY": "Išvalyti sąrašą",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Atstatyti duomenis į naršyklės saugyklą",
+            "BACKUP_FILES_KEY": "Kopijuoti failus",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Čia yra sąrašas su visais atsarginiais failais, kuriuos pasirinkote failų selektoriuje",
+            "INFORMATION_KEY": "Informacija",
+            "RESTORE_LOG_KEY": "Atstatyti žurnalą",
+            "CLICK_ON_THE_LIST_KEY": "Spauskite ant sąrašo",
+            "REFRESH_CONFLICT_LIST_KEY": "Atnaujinti konfliktų sąrašą",
+            "KEEP_LOCAL_VERSION_KEY": "Palikti vietinę versiją",
+            "KEEP_SERVER_VERSION_KEY": "Išlaikyti serverio versiją",
+            "CONFLICT_LIST_KEY": "Konfliktų sąrašas"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Pradėti sinchronizavimą čia",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Jūs pirmą kartą sinchronizuoti, tada tvarkyti įkelti, atsisiųsti ir konfliktų sąrašus",
+            "CLICK_ON_THE_LIST_KEY": "Spauskite ant sąrašo",
+            "SYNC_KEY": "Sinchronizuoti",
+            "UPLOAD_KEY": "Įkelti",
+            "DOWNLOAD_KEY": "Parsisiųsti",
+            "REFRESH_CONFLICT_LIST_KEY": "Atnaujinti konfliktų sąrašą",
+            "KEEP_LOCAL_VERSION_KEY": "Palikti vietinę versiją",
+            "KEEP_SERVER_VERSION_KEY": "Išlaikyti serverio versiją",
+            "CONFLICT_LIST_KEY": "Konfliktų sąrašas",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Galite padėti man nuspręsti, kokią versiją išlaikyti"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Atnaujinti versijos duomenis"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:03:26",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "de",
+        "language_name": "German",
+        "language_name_local": "Deutsch",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Zinssätze berechnen",
+        "description": "Berechnen in Bereichen wie Wirtschaft, Zinsen usw."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Anweisungen",
+            "USE_THE_MENU._KEY": "Verwenden Sie das Menü."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Sie können den monatlichen Zinssatz auf Ihre Einsparungen aus dem jährlichen Zinssatz berechnen.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Sie können das Ergebnis in Ihrem Budget verwenden, um Bankzins auf Ihre Einsparungen jeden Monat hinzuzufügen.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Das löst das Problem mit Zinssatz auf Zinssatz.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Wenn Sie monatliche Kreditzinssätze berechnen, verwenden Sie dieses Tool nicht.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Für Darlehen teilen Sie den jährlichen Zinssatz um 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Differenz ist, dass Kredite keinen Zinssatz auf Zinssatz haben.",
+            "INTEREST_RATE_KEY": "Zinssatz",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Klicken Sie auf Anweisungen...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Berechnen Sie monatlichen Zinssatz auf Ihre Einsparungen",
+            "YEARLY_INTEREST_RATE_KEY": "Jährlicher Zinssatz",
+            "CALCULATE_KEY": "Berechnung",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Monatlicher Zinssatz Prozent",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Monatlicher Zinssatz Prozent mit zwei Dezimalen",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Monatlicher Zinssatz dezimal",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Monatlicher Zinssatz Dezimal mit allen Dezimals für Ihr Bugdet",
+            "CALCULATION_OK_KEY": "Berechnung ok",
+            "CALCULATION_VERIFIED_OK_KEY": "Berechnung geprüft ok",
+            "CALCULATION_FAILED_KEY": "Berechnung fehlgeschlagen",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Berechnung fehlgeschlagene Überprüfung"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Monatlicher Zinssatz"
+        }
+    }
+}

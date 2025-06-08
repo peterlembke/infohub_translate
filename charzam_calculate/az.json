@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "az",
+        "language_name": "Azerbaijani",
+        "language_name_local": "Bakı",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Domen adı qeydiyyatdan keçir",
+        "description": "Iqtisadiyyat, sənaye və s."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Qeydiyyat",
+            "USE_THE_MENU._KEY": "Menyu istifadə edin."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "İllik faiz dərəcəsindən qaldırma aylıq faiz dərəcəsini hesab edə bilərsiniz.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Siz hər ay hansı bir depozitinizə bank faizini əlavə etmək üçün büddə istifadə edə bilərsiniz.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Bu, faiz dərəcəsi faiz dərəcəsi ilə problemi həyata keçirir.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Aylıq kredit faiz niyəsini hesablamaq varsa, bu alət istifadə edin.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Kreditlər üçün illik faiz dərəcəsini 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Müxtəliflik kredit faiz dərəcəsi yoxdur.",
+            "INTEREST_RATE_KEY": " Interest  rate",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Təkliflər üçün basın...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Domen azad deyil",
+            "YEARLY_INTEREST_RATE_KEY": "İllik faiz oranı",
+            "CALCULATE_KEY": " Calculat",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Aylıq faiz oranı",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "İki decimals ilə aylıq faiz oranı",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Aylıq faiz oranı decimal",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Sizin bugdet üçün bütün decimallar ilə aylıq faiz dərəcimal",
+            "CALCULATION_OK_KEY": "Hesabat",
+            "CALCULATION_VERIFIED_OK_KEY": "Hesablaşdırma",
+            "CALCULATION_FAILED_KEY": "Hesabsız",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Hesablaşdırma"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Aylıq faiz oranı"
+        }
+    }
+}

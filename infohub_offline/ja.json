@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:46:01",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "ja",
+        "language_name": "Japanese",
+        "language_name_local": "日本語 English",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "インターネットのない仕事",
+        "description": "サーバへのアクセスなしで作業の準備ができます。 必要なデータをダウンロードします."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "オフラインツール",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "オンラインやオフラインのかどうかを確認するツール.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "プラグインがそのイベントにサブスクライブしているものを見る.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "ボタンを押してデータをダウンロードして保存してオフラインで利用できるようにします.",
+            "DOWNLOAD_PLUGINS_KEY": "プラグインのダウンロード",
+            "OF_KEY": "おすすめ",
+            "DOWNLOAD_ASSETS_KEY": "アセットのダウンロード",
+            "DOWNLOAD_DOCUMENTATION_KEY": "ドキュメントのダウンロード",
+            "SHOW_SUBSCRIBERS_KEY": "購読者を表示",
+            "STATUS_KEY": "ステータス"
+        }
+    }
+}

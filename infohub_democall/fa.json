@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:07:10",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "fa",
+        "language_name": "Persian",
+        "language_name_local": "فارسی",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "آزمون ارسال پیام",
+        "description": "به عنوان یک توسعه دهنده شما می توانید ببینید چه اتفاقی می افتد زمانی که شما یک پیام را به یک پلاگین یا تابع ارسال می کنید که وجود ندارد."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "دستورالعمل ها",
+            "USE_THE_MENU._KEY": "از منو استفاده کنید.",
+            "RESULT_KEY": "نتیجه"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "نام بازی : Demo Call",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "در اینجا شما می توانید ببینید که چه اتفاقی می افتد اگر شما یک پلاگین را که از دست رفته است یا یک تابع از دست رفته است",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "مشتری – تماس صحیح پلاگین و تابع وجود دارد",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "مشتری - پلاگین وجود دارد، عملکرد سانتی متر وجود ندارد",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "مشتری – افزونه گم شده است",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "سرور - تماس صحیح پلاگین و تابع وجود دارد",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "سرور - پلاگین وجود دارد، عملکرد سانتی متر وجود ندارد",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "سرور - افزونه گم شده است",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "مشتری – کودک با پاسخ دهندگان معتبر صحبت می کند",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "مشتری – تماس بی اعتبار به فرزند",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "مشتری – تماس بی اعتبار از کودک به والدین",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "سرور - اجرای تمام تست های سرور"
+        }
+    }
+}

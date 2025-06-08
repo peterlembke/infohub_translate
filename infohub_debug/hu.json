@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "hu",
+        "language_name": "Hungarian",
+        "language_name_local": "Magyar",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Hibaelhárító eszköz",
+        "description": "Eszközök fejlesztők és tesztelők."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "Kész a gyorsítótár",
+            "DONE_REFRESHING_PAGE_KEY": "Kész frissítő oldal",
+            "RELOAD_PAGE._KEY": "Újratöltés.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "Tisztítsa ki a szerver által megjelölt régi bővítményeket. Újratöltés.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "Tisztítsa ki az összes helyi plugin, újratölthető oldal.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "Tisztítsa meg a helyi adatokat, töltse újra az oldalt.",
+            "INSTRUCTIONS_KEY": "Útmutató",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "Kattintson egy opcióra vagy használja a billentyűzetet. Ezek a kulcsok mindig ott működnek, ahol az infohub-ban vagy.",
+            "INFORMATION_KEY": "Tájékoztatás",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "A kilövőképernyő alján van, mint egy gomb, ha nem tudja elindítani a hibakeresést, és nincs billentyűzet az eszközön.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "Az egyetlen lehetőség, hogy is távolítsa el ikonok, fordítások és beállítások a helyi tároló.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "A bejelentkezett felhasználóhoz tartozó render gyorsítótár csendes törlése",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "Kiírja és frissíti az oldalt"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "ko",
+        "language_name": "Korean",
+        "language_name_local": "한국어",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Debugging 도구",
+        "description": "개발자 및 테스터 도구."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "Done 맑음 캐시",
+            "DONE_REFRESHING_PAGE_KEY": "Done 상쾌한 페이지",
+            "RELOAD_PAGE._KEY": "Reload 페이지.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "서버가 표시된 오래된 플러그인을 청소합니다. Reload 페이지.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "모든 로컬 플러그인을 청소, 재로드 페이지.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "모든 로컬 데이터를 정리, 재로드 페이지.",
+            "INSTRUCTIONS_KEY": "이름 *",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "옵션을 클릭하거나 키보드를 사용합니다. 이 열쇠는 항상 당신이 infohub에 있는 어디에서든지 작동합니다.",
+            "INFORMATION_KEY": "- 기타",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "또한 발사기 화면의 하단에 버튼으로 디버깅을 시작하고 장치에서 키보드가 없습니다.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "또한 로컬 저장소에서 아이콘 및 번역 및 설정을 제거하는 유일한 옵션입니다.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "자동으로 사용자에 로그인 한 경우 렌더링 캐시를 삭제",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "자주 묻는 질문"
+        }
+    }
+}

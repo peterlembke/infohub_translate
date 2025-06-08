@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "th",
+        "language_name": "Thai",
+        "language_name_local": "ภาษาไทยName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ผู้ใช้และโหนด",
+        "description": "คุณสามารถจัดการกับผู้ใช้ของคุณที่นี่ คุณสามารถตั้งค่าการเข้าใช้งานโหนดอื่น ๆ ได้ที่นี่."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "การ สอน",
+            "USE_THE_MENU._KEY": "ใช้เมนูสิ."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "ปรับปรุงไคลเอนต์ใหม่",
+            "CLIENT_CONTACTS_KEY": "ที่อยู่ติดต่อของไคลเอนต์",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "รายการที่อยู่ติดต่อของไคลเอนต์ทั้งหมด",
+            "NEW_KEY": "สร้างนัดหมายใหม่New",
+            "SAVE_KEY": "บันทึก",
+            "DELETE_KEY": "ลบ",
+            "IMPORT_KEY": "นําเข้า",
+            "EXPORT_KEY": "ส่งออก",
+            "ONE_CONTACT_KEY": "1 คน",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "นี่เป็นแบบฟอร์มข้อมูลสําหรับการติดต่อเดียว",
+            "NODE_KEY": "โหนด",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "ชื่อของคุณที่เป็นเอกลักษณ์ของลูกค้า",
+            "NOTE_KEY": "บันทึกย่อ",
+            "ANY_TEXT_YOU_WANT_KEY": "ข้อความที่คุณต้องการ",
+            "DOMAIN_ADDRESS_KEY": "ที่อยู่โดเมน",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "ที่อยู่โดเมนของเซิร์ฟเวอร์ของคุณ",
+            "USER_NAME_KEY": "ชื่อผู้ใช้",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "คุณได้เลขฐานสิบหกเมื่อคุณบันทึก (ว่าง)",
+            "SHARED_SECRET_KEY": "ความลับที่ใช้ร่วมกัน",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "คุณจะได้ข้อความสุ่ม 2k เมื่อคุณบันทึก (ว่าง)",
+            "ALLOWED_ROLES_KEY": "บทบาทที่อนุญาต",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "รายการกับบทบาทผู้ใช้ทั้งหมดที่คุณมี",
+            "USER_KEY": "ผู้ใช้",
+            "DEVELOPER_KEY": "ผู้พัฒนา",
+            "ADMIN_KEY": "แอดมิน",
+            "HAS_PASSWORD_KEY": "มีรหัสผ่าน",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "หากแฟ้มนําเข้ามีรหัสผ่านของไคลเอนต์ที่ผู้ใช้กําหนด"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "เอกสารจะแสดงผลที่นี่",
+            "MAIN_DOC_KEY": "หมอหลัก",
+            "CLIENT_DOC_KEY": "ลูกค้าหมอ",
+            "SERVER_DOC_KEY": "ด็อกของแม่ข่าย"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "ตัวจัดการที่อยู่ติดต่อ",
+            "DOCUMENTATION_KEY": "เอกสาร",
+            "CLIENT_CONTACT_KEY": "ที่อยู่ติดต่อของไคลเอนต์",
+            "SERVER_CONTACT_KEY": "ที่อยู่ติดต่อของแม่ข่าย"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "ปรับปรุงใหม่",
+            "SERVER_CONTACTS_KEY": "ที่อยู่ติดต่อของแม่ข่าย",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "เรียกรายชื่อที่อยู่ติดต่อของแม่ข่ายทั้งหมด",
+            "SAVE_KEY": "บันทึก",
+            "DELETE_KEY": "ลบ",
+            "IMPORT_KEY": "นําเข้า",
+            "EXPORT_KEY": "ส่งออก",
+            "PING_SERVER_KEY": "เซิร์ฟเวอร์ Pink",
+            "ONE_CONTACT_KEY": "1 คน",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "นี่คือรูปแบบของข้อมูล การติดต่อครั้งเดียว.",
+            "NODE_KEY": "โหนด",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "ชื่อโหนดเฉพาะของคุณ",
+            "NOTE_KEY": "บันทึกย่อ",
+            "ANY_TEXT_YOU_WANT_KEY": "ข้อความที่คุณต้องการ",
+            "DOMAIN_ADDRESS_KEY": "ที่อยู่โดเมน",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "ที่อยู่โดเมนของเซิร์ฟเวอร์ทางไกล",
+            "USER_NAME_KEY": "ชื่อผู้ใช้",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hubb-uid คุณได้ข้อมูลจากเซิร์ฟเวอร์ทางไกล",
+            "SHARED_SECRET_KEY": "ความลับที่ใช้ร่วมกัน",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "ข้อความสุ่ม 2 k คุณได้จากเซิร์ฟเวอร์ทางไกล",
+            "ALLOWED_ROLES_KEY": "บทบาทที่อนุญาต",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "แสดงรายการกับบทบาททั้งหมดที่บัญชีผู้ใช้นี้",
+            "USER_KEY": "ผู้ใช้",
+            "DEVELOPER_KEY": "ผู้พัฒนา",
+            "ADMIN_KEY": "แอดมิน"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "eo",
+        "language_name": "Esperanto",
+        "language_name_local": "Esperanto",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Laboro sen interreto",
+        "description": "Ĉi tie vi povas prepari por labori sen la aliro al la servilo. Elŝutu datumojn, kiujn vi eble bezonos."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Offline iloj",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Iloj por vidi ĉu vi estas enreta aŭ offline.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Vidu kiuj kromaĵoj estas subskribaj al tiu okazaĵo.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Butonoj por elŝuti kaj stoki datenojn por prepari por eksterlinia uzokutimo.",
+            "DOWNLOAD_PLUGINS_KEY": "Elŝutu kromaĵojn",
+            "OF_KEY": "De la",
+            "DOWNLOAD_ASSETS_KEY": "Elŝutu aktivaĵojn",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Elŝutu dokumentaron",
+            "SHOW_SUBSCRIBERS_KEY": "Montri abonantojn",
+            "STATUS_KEY": "Statuso"
+        }
+    }
+}

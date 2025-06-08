@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "eu",
+        "language_name": "Basque",
+        "language_name_local": "Euskara",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Zuhaitza",
+        "description": "Zure datu pertsonalak kudeatzen ditu."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Instrukzioak",
+            "USE_THE_MENU._KEY": "Erabili menua."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Egin babeskopia denak",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Zerbitzarian dituzun datu guztien babeskopia osoa.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Fitxategi bat daukazu gauza guztiekin.",
+            "BACKUP_EVERYTHING_KEY": "Gorde dena",
+            "BACKUP_PLUGINS_KEY": "Babeskopiaren pluginak",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Plugin bakoitzaren babeskopia aparte.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Plugin bakoitzeko babeskopia-fitxategi bat lortuko duzu.",
+            "REFRESH_PLUGIN_LIST_KEY": "Freskatu pluginen zerrenda",
+            "PLUGIN_LIST_KEY": "Pluginen zerrenda",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Zerrenda zuhaitzen plugin guztiekin",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Egin hautatutako pluginen babeskopia",
+            "PARTIAL_BACKUP_KEY": "Babeskopia partziala",
+            "PARTIAL_BACKUP._KEY": "Babeskopia partziala.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Hautatu plugin bat eta hautatu gakoak babeskopia egiteko.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Babeskopia-fitxategi bat lortuko duzu.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Zerrendatu zuhaitzen plugin guztiekin.",
+            "SELECT_ONE_KEY": "Hautatu bat",
+            "REFRESH_KEY_LIST_KEY": "Freskatu gakoen zerrenda",
+            "KEYS_KEY": "Gakoak",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Hautatutako pluginaren gako guztiak.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Hautatu babeskopia egin nahi duzuna",
+            "BACKUP_SELECTED_KEYS_KEY": "Gorde hautatutako gakoak"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentazioa hemen errendatuko da",
+            "MAIN_DOC_KEY": "Doc nagusia",
+            "VERSION_DOC_KEY": "Bertsioa doc",
+            "ENCRYPTION_DOC_KEY": "Enkriptatze-doktorea",
+            "BACKUP_DOC_KEY": "Babeskopiaren doc",
+            "RESTORE_DOC_KEY": "Leheneratu doc",
+            "STORAGE_DOC_KEY": "Biltegia doc",
+            "SYNC_DOC_KEY": "Sync doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Inportatu gako-fitxategia",
+            "ONE_CONTACT_KEY": "Kontaktu bat",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Hau da kontaktu baten datuen inprimakia",
+            "IMPORT_PASSWORD_KEY": "Inportatu pasahitza",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Fitxategiaren pasahitza",
+            "FORGET_IMPORTED_KEY_KEY": "Ahaztu inportatua",
+            "EXPORT_KEY_FILE_KEY": "Esportatu gako-fitxategia",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Esportatu inportatutako gakoa pasahitz berriarekin",
+            "EXPORT_PASSWORD_KEY": "Esportatu pasahitza",
+            "CREATE_KEY_FILE_KEY": "Sortu gako-fitxategia",
+            "CREATE_NEW_KEY_FILE_KEY": "Sortu gako-fitxategi berria",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Sortu gako berria pasahitz berriarekin"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Zuhaitz-kudeatzailea",
+            "DOCUMENTATION_KEY": "Dokumentazioa",
+            "VERSION_KEY": "Bertsioa",
+            "ENCRYPTION_KEY": "Enkriptatzea",
+            "BACKUP_KEY": "Babeskopia",
+            "RESTORE_KEY": "Berrezarri",
+            "SYNC_KEY": "Sinkronizatu"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Gatazkak",
+            "SELECT_BACKUP_FILES_KEY": "Hautatu babeskopia-fitxategiak",
+            "CLEAR_LIST_KEY": "Garbitu zerrenda",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Leheneratu datuak arakatzailearen biltegira",
+            "BACKUP_FILES_KEY": "Babeskopia-fitxategiak",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Hemen duzu zerrenda bat fitxategi-hautatzailean hautatu dituzun babeskopia-fitxategi guztiekin",
+            "INFORMATION_KEY": "Informazioa",
+            "RESTORE_LOG_KEY": "Leheneratu egunkaria",
+            "CLICK_ON_THE_LIST_KEY": "Egin klik zerrendan",
+            "REFRESH_CONFLICT_LIST_KEY": "Freskatu gatazka-zerrenda",
+            "KEEP_LOCAL_VERSION_KEY": "Mantendu lokaleko bertsioa",
+            "KEEP_SERVER_VERSION_KEY": "Mantendu zerbitzariaren bertsioa",
+            "CONFLICT_LIST_KEY": "Gatazka zerrenda"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Hasi sinkronizazioa hemen",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Lehenik sinkronizatu, gero igo, deskargatu eta gatazka-zerrendak kudeatu",
+            "CLICK_ON_THE_LIST_KEY": "Egin klik zerrendan",
+            "SYNC_KEY": "Sinkronizatu",
+            "UPLOAD_KEY": "Igo",
+            "DOWNLOAD_KEY": "Deskargatu",
+            "REFRESH_CONFLICT_LIST_KEY": "Freskatu gatazka-zerrenda",
+            "KEEP_LOCAL_VERSION_KEY": "Mantendu lokaleko bertsioa",
+            "KEEP_SERVER_VERSION_KEY": "Mantendu zerbitzariaren bertsioa",
+            "CONFLICT_LIST_KEY": "Gatazka zerrenda",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Lagunduko didazu erabakitzen zein bertsio mantenduko duzun"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Freskatu bertsioaren datuak"
+        }
+    }
+}

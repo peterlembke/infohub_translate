@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Prevedi",
+        "description": "Ročno prevedi frazo. Ustvarite jezikovne datoteke za vstavke."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Navodila",
+            "USE_THE_MENU._KEY": "Uporabi jedilnik."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentacija bo tukaj",
+            "MAIN_DOC_KEY": "Glavni dok",
+            "MANUAL_TRANSLATION_KEY": "Ročni prevod",
+            "PLUGIN_TRANSLATION_KEY": "Prevajanje vstavkov"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Ročni prevod",
+            "REFRESH_LANGUAGE_LIST_KEY": "Osveži seznam jezikov",
+            "SELECT_LANGUAGE_KEY": "Izberi jezik",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Izberite izvorni jezik.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Izberite namembni jezik.",
+            "YOUR_TEXT_KEY": "Vaše besedilo",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Besedilo, ki ga želite prevesti.",
+            "TRANSLATE_KEY": "Prevedi",
+            "THE_TRANSLATED_TEXT_KEY": "Prevedeno besedilo",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Besedilo, ki ga dobiš po prevodu.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Izberite namembni jezik. Napiši besedilo. Kliknite prevesti",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Izberite jezik za prevajanje iz",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Napiši nekaj, da lahko prevedem",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Izberite jezik za prevajanje",
+            "TRANSLATION_DONE_KEY": "Prevod je končan"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Orodje za prevajanje",
+            "DOCUMENTATION_KEY": "Dokumentacija",
+            "MANUAL_TRANSLATION_KEY": "Ročni prevod",
+            "PLUGIN_TRANSLATION_KEY": "Prevajanje vstavkov"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Osveži sezname",
+            "SELECT_PLUGIN_KEY": "Izberite vstavek",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Izpiše vse vstavke odjemalca, ki imajo lahko prevajalske datoteke.",
+            "SELECT_LANGUAGES_KEY": "Izberite jezike",
+            "TRANSLATE_KEY": "Prevedi",
+            "PLUGIN_TRANSLATION_KEY": "Prevajanje vstavkov",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Izberite vstavke in jezike",
+            "CLICK_TRANSLATE_KEY": "Kliknite prevesti",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Osvežitev seznamov je opravljena",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Izberite enega ali več vstavkov za prevajanje",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Izberite enega ali več jezikov za prevajanje",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Zahtevanje strežnika za prevajanje",
+            "TO_LANGUAGES_KEY": "V jezike",
+            "TRANSLATION_DONE_KEY": "Prevod je končan",
+            "EXECUTION_TIME_KEY": "Čas izvedbe",
+            "SECONDS_KEY": "Sekunde"
+        }
+    }
+}

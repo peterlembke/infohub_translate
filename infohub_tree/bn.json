@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "bn",
+        "language_name": "Bengali",
+        "language_name_local": "বাংলা",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ট্রী",
+        "description": "তোমার ব্যক্তিগত তথ্য নাও।."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "তথ্যানুসারে গ্রাফ আঁকো",
+            "USE_THE_MENU._KEY": "মেনু ব্যবহার করুন।."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "সমস্ত ব্যাকআপ করা হবে",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "আপনার সকল ডাটা সম্পূর্ণ করুন।.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "আপনি সবকিছু সঙ্গে একটি ফাইল পেতে.",
+            "BACKUP_EVERYTHING_KEY": "সমস্ত ব্যাকআপ করা হবে",
+            "BACKUP_PLUGINS_KEY": "ব্যাক-আপ",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "প্রতিটি প্লাগ-ইন দ্বারা পৃথক বিন্যাসের ব্যাক-আপ করা হবে।.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "প্রতিটি বার্তার জন্য একটি ব্যাক-আপ ফাইল নির্মাণ করুন।.",
+            "REFRESH_PLUGIN_LIST_KEY": "প্লাগ-ইন তালিকা লোড করা হচ্ছে",
+            "PLUGIN_LIST_KEY": "প্লাগ-ইন তালিকা",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "সকল ট্রি-এর তালিকা প্রদর্শন করুন",
+            "BACKUP_SELECTED_PLUGINS_KEY": "নির্বাচিত ব্যাক-আপ প্লাগ-ইন",
+            "PARTIAL_BACKUP_KEY": "আংশিক ব্যাকআপ",
+            "PARTIAL_BACKUP._KEY": "আংশিক ব্যাকআপ.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "ব্যাক-আপ নির্মাণের জন্য একটি প্লাগ-ইন নির্বাচন করুন।.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "আপনি একটি ব্যাক-আপ ফাইল পাবেন।.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "সকল গাছের তালিকা প্রদর্শন করা হবে.",
+            "SELECT_ONE_KEY": "একটি নির্বাচন করুন",
+            "REFRESH_KEY_LIST_KEY": "কি-র তালিকা উদ্ধার করুন",
+            "KEYS_KEY": "কি",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "নির্বাচিত প্লাগ-ইনগুলির জন্য কি-র উপস্থিতি ধার্য করুন।.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "আপনি যে ব্যাক-আপটি ব্যবহার করতে চান তা নির্বাচন করুন",
+            "BACKUP_SELECTED_KEYS_KEY": "নির্বাচিত কি মুছে ফেলা হবে"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "এই ফোল্ডারের মধ্যে ডকুমেন্টেশন প্রদর্শন করা হবে",
+            "MAIN_DOC_KEY": "প্রধানব",
+            "VERSION_DOC_KEY": "সংস্করণ সংক্রান্ত পরিবর্তন",
+            "ENCRYPTION_DOC_KEY": "এনক্রিপশনের অ্যাপ্লেট",
+            "BACKUP_DOC_KEY": "ব্যাক-আপ সম্পন্ন",
+            "RESTORE_DOC_KEY": "Doc পুনরায় আরম্ভ করা হবে (u)",
+            "STORAGE_DOC_KEY": "স্টোরেজ ডকName",
+            "SYNC_DOC_KEY": "Sync ডক"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "কি ইম্পোর্ট করুন",
+            "ONE_CONTACT_KEY": "একটি পরিচিতি নির্বাচন করুন",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "এই পরিচিতির তথ্য একটি নতুন পরিচিতির তথ্য",
+            "IMPORT_PASSWORD_KEY": "পাসওয়ার্ড ইম্পোর্ট করুন",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "ফাইলের জন্য পাসওয়ার্ড",
+            "FORGET_IMPORTED_KEY_KEY": "ইম্পোর্ট করা সার্টিফিকেট",
+            "EXPORT_KEY_FILE_KEY": "ফাইলের মধ্যে এক্সপোর্ট করুন",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "নতুন কি সহযোগে ইম্পোর্ট করুন",
+            "EXPORT_PASSWORD_KEY": "পাসওয়ার্ড এক্সপোর্ট করুন",
+            "CREATE_KEY_FILE_KEY": "কি নির্মাণ করুন",
+            "CREATE_NEW_KEY_FILE_KEY": "নতুন কি নির্মাণ করুন",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "নতুন কি-রিং তৈরি করুন"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "ট্রি পরিচালন ব্যবস্থা",
+            "DOCUMENTATION_KEY": "নথিপত্র",
+            "VERSION_KEY": "সংস্করণ",
+            "ENCRYPTION_KEY": "এনক্রিপশন প্রক্রিয়া",
+            "BACKUP_KEY": "ব্যাকআপ",
+            "RESTORE_KEY": "পুনুদ্ধার করুন",
+            "SYNC_KEY": "সিঙ্ক"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "দ্বন্দ্ব",
+            "SELECT_BACKUP_FILES_KEY": "ব্যাক-আপ ফাইল নির্বাচন করুন",
+            "CLEAR_LIST_KEY": "তালিকা মুছে ফেলুন",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "ব্রাউজার-এ তথ্য সংরক্ষণ করুন",
+            "BACKUP_FILES_KEY": "ব্যাক-আপ ফাইল",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "ফাইল নির্বাচনের উদ্দেশ্যে নির্বাচিত ব্যাক-আপ ফাইলের মধ্যে উপস্থিত সকল ব্যাক-আপ তালিকা প্রদর্শিত হবে",
+            "INFORMATION_KEY": "তথ্য",
+            "RESTORE_LOG_KEY": "লগ-আউট করুন",
+            "CLICK_ON_THE_LIST_KEY": "তালিকার মধ্যে ক্লিক করুন",
+            "REFRESH_CONFLICT_LIST_KEY": "দ্বন্দ্বের তালিকা নতুন করে প্রদর্শন করা হবে",
+            "KEEP_LOCAL_VERSION_KEY": "স্থানীয় সংস্করণ",
+            "KEEP_SERVER_VERSION_KEY": "সার্ভারের সংস্করণ অপরিবর্তিত রাখা হবে",
+            "CONFLICT_LIST_KEY": "দ্বন্দ্ব তালিকা"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "এই স্থানে সুসংগত করা হবে",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "আপনি প্রথমে সুসংগতি, তারপর আপলোড, ডাউনলোড এবং দ্বন্দ্ব তালিকা পরিচালনা করুন",
+            "CLICK_ON_THE_LIST_KEY": "তালিকার মধ্যে ক্লিক করুন",
+            "SYNC_KEY": "সিঙ্ক",
+            "UPLOAD_KEY": "আপলোড",
+            "DOWNLOAD_KEY": "ডাউনলোড করা হয়েছে",
+            "REFRESH_CONFLICT_LIST_KEY": "দ্বন্দ্বের তালিকা নতুন করে প্রদর্শন করা হবে",
+            "KEEP_LOCAL_VERSION_KEY": "স্থানীয় সংস্করণ",
+            "KEEP_SERVER_VERSION_KEY": "সার্ভারের সংস্করণ অপরিবর্তিত রাখা হবে",
+            "CONFLICT_LIST_KEY": "দ্বন্দ্ব তালিকা",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "আপনি আমাকে সাহায্য করতে পারেন ঠিক করতে কি সংস্করণ রাখতে হবে"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "সংস্করণ সংক্রান্ত তথ্য নতুন করে প্রদর্শন করা হবে"
+        }
+    }
+}

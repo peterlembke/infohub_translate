@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Uporabniki in vozlišča",
+        "description": "Tu lahko opravite z uporabniki. Tu lahko nastavite dostop do drugih strežniških vozlišč."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Navodila",
+            "USE_THE_MENU._KEY": "Uporabi jedilnik."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Osveži stranke",
+            "CLIENT_CONTACTS_KEY": "Kontakti s strankami",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Navedi vse stike s strankami",
+            "NEW_KEY": "Novo",
+            "SAVE_KEY": "Shrani",
+            "DELETE_KEY": "Zbriši",
+            "IMPORT_KEY": "Uvozi",
+            "EXPORT_KEY": "Izvoz",
+            "ONE_CONTACT_KEY": "En stik",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "To je obrazec podatkov za en stik",
+            "NODE_KEY": "Vozlič",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Vaše edinstveno ime odjemalca",
+            "NOTE_KEY": "Opomba",
+            "ANY_TEXT_YOU_WANT_KEY": "Vsako sporočilo, ki ga želite",
+            "DOMAIN_ADDRESS_KEY": "Naslov domene",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Naslov domene na strežniku",
+            "USER_NAME_KEY": "Uporabniško ime",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Dobiš hub-uuid, ko shranite (pustite prazno)",
+            "SHARED_SECRET_KEY": "Skupna skrivnost",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Ko boste shranili, boste dobili 2k naključni niz (pustite prazno)",
+            "ALLOWED_ROLES_KEY": "Dovoljene vloge",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Seznam vseh uporabniških vlog",
+            "USER_KEY": "Uporabnik",
+            "DEVELOPER_KEY": "Razvijalec",
+            "ADMIN_KEY": "Skrbnik",
+            "HAS_PASSWORD_KEY": "Ima geslo",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Če ima uvožena datoteka geslo odjemalca, ki ga nastavi uporabnik"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentacija bo tukaj",
+            "MAIN_DOC_KEY": "Glavni dok",
+            "CLIENT_DOC_KEY": "Dok naročnika",
+            "SERVER_DOC_KEY": "Doc strežnika"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Upravljalnik stikov",
+            "DOCUMENTATION_KEY": "Dokumentacija",
+            "CLIENT_CONTACT_KEY": "Kontakt s strankami",
+            "SERVER_CONTACT_KEY": "Stik strežnika"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Osveži",
+            "SERVER_CONTACTS_KEY": "Kontakti strežnika",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Navedi vse stike strežnikov",
+            "SAVE_KEY": "Shrani",
+            "DELETE_KEY": "Zbriši",
+            "IMPORT_KEY": "Uvozi",
+            "EXPORT_KEY": "Izvoz",
+            "PING_SERVER_KEY": "Ping strežnik",
+            "ONE_CONTACT_KEY": "En stik",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "To je obrazec za en kontakt.",
+            "NODE_KEY": "Vozlič",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Vaše edinstveno ime vozlišča",
+            "NOTE_KEY": "Opomba",
+            "ANY_TEXT_YOU_WANT_KEY": "Vsako sporočilo, ki ga želite",
+            "DOMAIN_ADDRESS_KEY": "Naslov domene",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Naslov domene do oddaljenega strežnika",
+            "USER_NAME_KEY": "Uporabniško ime",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid, ki si ga dobil od oddaljenega strežnika",
+            "SHARED_SECRET_KEY": "Skupna skrivnost",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "naključni niz 2k, ki ste ga dobili z oddaljenega strežnika",
+            "ALLOWED_ROLES_KEY": "Dovoljene vloge",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Seznam vseh vlog, ki jih ima ta račun",
+            "USER_KEY": "Uporabnik",
+            "DEVELOPER_KEY": "Razvijalec",
+            "ADMIN_KEY": "Skrbnik"
+        }
+    }
+}

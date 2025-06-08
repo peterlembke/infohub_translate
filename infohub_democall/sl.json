@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Testno pošiljanje sporočil",
+        "description": "Kot razvijalec lahko vidite, kaj se zgodi, ko pošljete sporočilo v plugin ali funkcijo, ki ne obstaja."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Navodila",
+            "USE_THE_MENU._KEY": "Uporabi jedilnik.",
+            "RESULT_KEY": "Rezultat"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Demo klic",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Tukaj lahko raziščete, kaj se zgodi, če pokličete plugin, ki manjka, ali manjka funkcija",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Stranka - pravilen klic. Vstavek in funkcija obstajata",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Odjemalec - vstavek obstaja, funkcija cmd ne obstaja",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Odjemalec - vstavek manjka",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Strežnik - pravilen klic. Vstavek in funkcija obstajata",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Strežnik - vstavek obstaja, funkcija cmd ne obstaja",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Strežnik - vstavek manjka",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Odjemalec - pogovorite se z veljavnimi odzivnimi osebami",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Odjemalec - neveljaven klic na otroka brata ali sestre",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Odjemalec - neveljaven klic otroka na starša",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Strežnik - poženi vse teste strežnika"
+        }
+    }
+}

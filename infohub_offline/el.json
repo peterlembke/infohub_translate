@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:55:22",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "el",
+        "language_name": "Greek",
+        "language_name_local": "Ελληνικά",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Εργασία χωρίς ίντερνετ",
+        "description": "Εδώ μπορείτε να προετοιμαστείτε για εργασία χωρίς την πρόσβαση στο διακομιστή. Λήψεις δεδομένων που μπορεί να χρειαστείτε."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Εργαλεία εκτός σύνδεσης",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Εργαλεία για να δείτε αν είστε σε απευθείας σύνδεση ή εκτός σύνδεσης.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Δείτε τι plugins είναι εγγραφή σε αυτό το γεγονός.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Κουμπιά για να κατεβάσετε και να αποθηκεύσετε τα δεδομένα για να προετοιμαστείτε για χρήση εκτός σύνδεσης.",
+            "DOWNLOAD_PLUGINS_KEY": "Λήψη πρόσθετων",
+            "OF_KEY": "Από",
+            "DOWNLOAD_ASSETS_KEY": "Λήψη περιουσιακών στοιχείων",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Λήψη τεκμηρίωσης",
+            "SHOW_SUBSCRIBERS_KEY": "Εμφάνιση συνδρομητών",
+            "STATUS_KEY": "Κατάσταση"
+        }
+    }
+}

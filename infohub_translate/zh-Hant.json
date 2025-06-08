@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 17:58:50",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "zh-Hant",
+        "language_name": "Chinese (traditional)",
+        "language_name_local": "中文( 傳統 )",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "翻譯",
+        "description": "手動翻譯一句 建立插件的語言檔 ."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "指令",
+            "USE_THE_MENU._KEY": "用菜單."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "文 件將在此翻譯",
+            "MAIN_DOC_KEY": "主醫生",
+            "MANUAL_TRANSLATION_KEY": "手動翻譯",
+            "PLUGIN_TRANSLATION_KEY": "插件翻譯"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "手動翻譯",
+            "REFRESH_LANGUAGE_LIST_KEY": "刷新語言清單",
+            "SELECT_LANGUAGE_KEY": "選擇語言",
+            "SELECT_SOURCE_LANGUAGE._KEY": "選擇來源語言 .",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "選擇目的地語言 .",
+            "YOUR_TEXT_KEY": "您的文字",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "您要翻譯的文字 .",
+            "TRANSLATE_KEY": "翻譯",
+            "THE_TRANSLATED_TEXT_KEY": "翻譯文本",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "翻譯后的文字 .",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "選擇目的地語言 。 寫文字 點擊翻譯",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "選擇要翻譯的語言",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "寫些東西讓我能翻譯",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "選擇要翻譯的語言",
+            "TRANSLATION_DONE_KEY": "翻譯完成"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "翻譯工具",
+            "DOCUMENTATION_KEY": "文件",
+            "MANUAL_TRANSLATION_KEY": "手動翻譯",
+            "PLUGIN_TRANSLATION_KEY": "插件翻譯"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "刷新清單",
+            "SELECT_PLUGIN_KEY": "選擇外掛程式",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "列出所有可以有翻譯檔案的客戶端插件 .",
+            "SELECT_LANGUAGES_KEY": "選擇語言",
+            "TRANSLATE_KEY": "翻譯",
+            "PLUGIN_TRANSLATION_KEY": "插件翻譯",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "選擇插件和語言",
+            "CLICK_TRANSLATE_KEY": "點擊翻譯",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "重新刷新清單完成",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "選擇一个或多个外掛程式來翻譯",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "選擇要翻譯的一个或多个語言",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "要求伺服器翻譯",
+            "TO_LANGUAGES_KEY": "到語言",
+            "TRANSLATION_DONE_KEY": "翻譯完成",
+            "EXECUTION_TIME_KEY": "執行時間",
+            "SECONDS_KEY": "秒"
+        }
+    }
+}

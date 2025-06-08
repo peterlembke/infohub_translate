@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 19:07:24",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "ca",
+        "language_name": "Catalan",
+        "language_name_local": "CatalàName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Teclat",
+        "description": "Aquí podeu subscriure' ls a les combinacions de teclat i unir- les a les funcions."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Comprovacions de teclat",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Intenteu combinacions al teclat",
+            "ANY_BUTTON_KEY": "Qualsevol botó",
+            "SUBSCRIBE_KEY": "Subscriu",
+            "UNSUBSCRIBE_KEY": "Cancel· la la subscripció",
+            "SHOW_SUBSCRIBERS_KEY": "Mostra els subscriptors",
+            "KEYBOARD_DEMO_POPUP_KEY": "Una demostració emergent del teclat"
+        }
+    }
+}

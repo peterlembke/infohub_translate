@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "et",
+        "language_name": "Estonian",
+        "language_name_local": "Eesti",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Tõlki",
+        "description": "Käsitsi tõlgitakse fraas. Pluginate keelefailide loomine."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Juhised",
+            "USE_THE_MENU._KEY": "Kasuta menüüd."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentatsioon näitab siin",
+            "MAIN_DOC_KEY": "Peadoktor",
+            "MANUAL_TRANSLATION_KEY": "Manuaalne tõlge",
+            "PLUGIN_TRANSLATION_KEY": "Plugi tõlkimine"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Manuaalne tõlge",
+            "REFRESH_LANGUAGE_LIST_KEY": "Keelte nimekirja värskendamine",
+            "SELECT_LANGUAGE_KEY": "Vali keel",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Vali lähtekeel.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Vali sihtkeel.",
+            "YOUR_TEXT_KEY": "Tekst",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Tekst, mida soovid tõlkida.",
+            "TRANSLATE_KEY": "Tõlki",
+            "THE_TRANSLATED_TEXT_KEY": "Tõlkinud tekst",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Tekst, mille saad pärast tõlkimist.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Vali sihtkeel. Kirjuta tekst. Klõpsake tõlkida",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Vali keel, millest tõlkida",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Kirjuta midagi, et saaksin tõlkida",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Vali keel, millele tõlkida",
+            "TRANSLATION_DONE_KEY": "Tõlkimine tehtud"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Tõlkevahend",
+            "DOCUMENTATION_KEY": "Dokumentatsioon",
+            "MANUAL_TRANSLATION_KEY": "Manuaalne tõlge",
+            "PLUGIN_TRANSLATION_KEY": "Plugi tõlkimine"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Värskenda nimekirjad",
+            "SELECT_PLUGIN_KEY": "Vali plugin",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Näitab kõiki kliendipluginaid, millel võivad olla tõlkefailid.",
+            "SELECT_LANGUAGES_KEY": "Vali keeled",
+            "TRANSLATE_KEY": "Tõlki",
+            "PLUGIN_TRANSLATION_KEY": "Plugi tõlkimine",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Pluginate ja keelte valimine",
+            "CLICK_TRANSLATE_KEY": "Klõpsake tõlkida",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Nimekirjade värskendamine on tehtud",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Tõlkimiseks valige üks või mitu pluginat",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Valige üks või mitu keelt, mida tõlkida",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Serveri tõlkimine",
+            "TO_LANGUAGES_KEY": "Keeltele",
+            "TRANSLATION_DONE_KEY": "Tõlkimine tehtud",
+            "EXECUTION_TIME_KEY": "Täitmise aeg",
+            "SECONDS_KEY": "Sekundeid"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:46:01",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "ja",
+        "language_name": "Japanese",
+        "language_name_local": "日本語 English",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ユーザーとノード",
+        "description": "利用者は、ここに利用者を扱います。 他のサーバーノードへのアクセスを設定できます."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "インフォメーション",
+            "USE_THE_MENU._KEY": "メニューを使用します."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "クライアントをリフレッシュ",
+            "CLIENT_CONTACTS_KEY": "クライアントの連絡先",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "すべてのクライアントの連絡先をリスト",
+            "NEW_KEY": "ニュース",
+            "SAVE_KEY": "保存する",
+            "DELETE_KEY": "削除",
+            "IMPORT_KEY": "インポート",
+            "EXPORT_KEY": "エクスポート",
+            "ONE_CONTACT_KEY": "1つの接触",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "1つの連絡先のデータフォームです",
+            "NODE_KEY": "ノード",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "お客様固有の名前",
+            "NOTE_KEY": "お問い合わせ",
+            "ANY_TEXT_YOU_WANT_KEY": "必要なテキスト",
+            "DOMAIN_ADDRESS_KEY": "ドメインアドレス",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "サーバーへのドメインアドレス",
+            "USER_NAME_KEY": "ユーザー名",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "保存時にハブ-uuid(空白のまま)",
+            "SHARED_SECRET_KEY": "共有秘密",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "保存すると2kランダム文字列が取得されます(空白のまま)",
+            "ALLOWED_ROLES_KEY": "許可された役割",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "あなたが持っているすべてのユーザーロールでリスト",
+            "USER_KEY": "ユーザー",
+            "DEVELOPER_KEY": "デベロッパー",
+            "ADMIN_KEY": "アドミン",
+            "HAS_PASSWORD_KEY": "パスワード",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "インポートしたファイルには、ユーザが設定したクライアントパスワードがある場合"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "ドキュメントはここにレンダリングされます",
+            "MAIN_DOC_KEY": "メインドキュメント",
+            "CLIENT_DOC_KEY": "クライアントドキュメント",
+            "SERVER_DOC_KEY": "サーバー ドキュメント"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "コンタクトマネージャー",
+            "DOCUMENTATION_KEY": "ドキュメント",
+            "CLIENT_CONTACT_KEY": "クライアントの連絡先",
+            "SERVER_CONTACT_KEY": "サーバーの接触"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "リフレッシュ",
+            "SERVER_CONTACTS_KEY": "サーバーの連絡先",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "すべてのサーバー連絡先をリストする",
+            "SAVE_KEY": "保存する",
+            "DELETE_KEY": "削除",
+            "IMPORT_KEY": "インポート",
+            "EXPORT_KEY": "エクスポート",
+            "PING_SERVER_KEY": "ピンサーバー",
+            "ONE_CONTACT_KEY": "1つの接触",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "1つの連絡先のデータフォームです.",
+            "NODE_KEY": "ノード",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "独自のノード名",
+            "NOTE_KEY": "お問い合わせ",
+            "ANY_TEXT_YOU_WANT_KEY": "必要なテキスト",
+            "DOMAIN_ADDRESS_KEY": "ドメインアドレス",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "リモートサーバへのドメインアドレス",
+            "USER_NAME_KEY": "ユーザー名",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "リモートサーバから取得した Hub-uuid",
+            "SHARED_SECRET_KEY": "共有秘密",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "リモートサーバから取得した2kランダム文字列",
+            "ALLOWED_ROLES_KEY": "許可された役割",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "このアカウントのすべてのロールをリストする",
+            "USER_KEY": "ユーザー",
+            "DEVELOPER_KEY": "デベロッパー",
+            "ADMIN_KEY": "アドミン"
+        }
+    }
+}

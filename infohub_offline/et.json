@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "et",
+        "language_name": "Estonian",
+        "language_name_local": "Eesti",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Töötamine ilma internetita",
+        "description": "Siin saate valmistuda töötamiseks ilma serverile juurdepääsuta. Laadige alla andmed, mida vajate."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Ühenduseta tööriistad",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Tööriistad, et näha, kas olete online või offline.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Vaata, millised pluginad seda sündmust tellivad.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Nupud andmete allalaadimiseks ja salvestamiseks, et valmistuda võrguühenduseta kasutamiseks.",
+            "DOWNLOAD_PLUGINS_KEY": "Laadi pluginad alla",
+            "OF_KEY": "Of",
+            "DOWNLOAD_ASSETS_KEY": "Vara allalaadimine",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Allalaadimisdokumendid",
+            "SHOW_SUBSCRIBERS_KEY": "Tellijate näitamine",
+            "STATUS_KEY": "Staatus"
+        }
+    }
+}

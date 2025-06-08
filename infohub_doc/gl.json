@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:59:33",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "gl",
+        "language_name": "Galician",
+        "language_name_local": "Galego",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Documentación",
+        "description": "Documentación completa sobre InfoHub e todos os plugins."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "Documento",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Aquí podedes ver o documento"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Refresh index",
+            "INDEX_KEY": "Index"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "Renovar a navegación",
+            "NAVIGATION_KEY": "Navegación"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Refrescos visitados"
+        }
+    }
+}

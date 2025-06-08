@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "lv",
+        "language_name": "Latvian",
+        "language_name_local": "Latviešu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Tulkot",
+        "description": "Manuāli tulkot frāzi. Izveidot spraudņu valodu failus."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Norādījumi",
+            "USE_THE_MENU._KEY": "Izmanto izvēlni."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentācija tiks renderēta šeit",
+            "MAIN_DOC_KEY": "Galvenais dok",
+            "MANUAL_TRANSLATION_KEY": "Manuālā tulkošana",
+            "PLUGIN_TRANSLATION_KEY": "Spraudņa tulkojums"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Manuālā tulkošana",
+            "REFRESH_LANGUAGE_LIST_KEY": "Atsvaidzināt valodu sarakstu",
+            "SELECT_LANGUAGE_KEY": "Izvēlieties valodu",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Izvēlieties pirmkoda valodu.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Izvēlieties mērķa valodu.",
+            "YOUR_TEXT_KEY": "Jūsu teksts",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Tekstu, kuru vēlaties tulkot.",
+            "TRANSLATE_KEY": "Tulkot",
+            "THE_TRANSLATED_TEXT_KEY": "Tulkotais teksts",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Teksts jums pēc tulkojuma.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Izvēlieties mērķa valodu. Rakstīt tekstu. Klikšķis tulkot",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Izvēlieties valodu, no kuras tulkot",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Uzrakstīt kaut ko, lai es varētu tulkot",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Izvēlieties valodu tulkot uz",
+            "TRANSLATION_DONE_KEY": "Tulkojums veikts"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Tulkošanas rīks",
+            "DOCUMENTATION_KEY": "Dokumentācija",
+            "MANUAL_TRANSLATION_KEY": "Manuālā tulkošana",
+            "PLUGIN_TRANSLATION_KEY": "Spraudņa tulkojums"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Atjaunināt sarakstus",
+            "SELECT_PLUGIN_KEY": "Izvēlieties spraudni",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Parāda visus klienta spraudņus, kuriem var būt tulkošanas faili.",
+            "SELECT_LANGUAGES_KEY": "Izvēlieties valodas",
+            "TRANSLATE_KEY": "Tulkot",
+            "PLUGIN_TRANSLATION_KEY": "Spraudņa tulkojums",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Izvēlieties spraudņus un valodas",
+            "CLICK_TRANSLATE_KEY": "Klikšķis tulkot",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Sarakstu atjaunināšana ir pabeigta",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Izvēlieties vienu vai vairākus spraudņus, ko tulkot",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Izvēlieties vienu vai vairākas valodas tulkot uz",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Prasa serverim tulkot",
+            "TO_LANGUAGES_KEY": "Uz valodām",
+            "TRANSLATION_DONE_KEY": "Tulkojums veikts",
+            "EXECUTION_TIME_KEY": "Izpildes laiks",
+            "SECONDS_KEY": "Sekundes"
+        }
+    }
+}

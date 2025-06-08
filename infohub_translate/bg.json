@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "bg",
+        "language_name": "Bulgarian",
+        "language_name_local": "Български",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Превод",
+        "description": "Ръчно преведете фраза. Създаване на езикови файлове за плъгини."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Инструкции",
+            "USE_THE_MENU._KEY": "Използвай менюто."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Документацията ще направи тук",
+            "MAIN_DOC_KEY": "Главен лекар",
+            "MANUAL_TRANSLATION_KEY": "Ръчен превод",
+            "PLUGIN_TRANSLATION_KEY": "Превод на приставки"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Ръчен превод",
+            "REFRESH_LANGUAGE_LIST_KEY": "Обновяване на езиковия списък",
+            "SELECT_LANGUAGE_KEY": "Избор на език",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Изберете език на източника.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Изберете език на местоназначението.",
+            "YOUR_TEXT_KEY": "Вашият текст",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Текстът, който искате да преведете.",
+            "TRANSLATE_KEY": "Превод",
+            "THE_TRANSLATED_TEXT_KEY": "Преведеният текст",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Съобщението, което получаваш след превода.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Изберете език на местоназначението. Напиши съобщение. Натиснете превод",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Изберете език, от който да превеждате",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Напиши нещо, за да мога да превеждам",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Изберете език, на който да превеждате",
+            "TRANSLATION_DONE_KEY": "Преводът е направен"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Инструмент за превод",
+            "DOCUMENTATION_KEY": "Документация",
+            "MANUAL_TRANSLATION_KEY": "Ръчен превод",
+            "PLUGIN_TRANSLATION_KEY": "Превод на приставки"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Обновяване на списъците",
+            "SELECT_PLUGIN_KEY": "Избор на приставка",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Списък с всички приставки на клиенти, които могат да имат превод файлове.",
+            "SELECT_LANGUAGES_KEY": "Избор на езици",
+            "TRANSLATE_KEY": "Превод",
+            "PLUGIN_TRANSLATION_KEY": "Превод на приставки",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Избор на приставки и езици",
+            "CLICK_TRANSLATE_KEY": "Натиснете превод",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Обновяване на списъците е направено",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Изберете една или повече приставки за превод",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Изберете един или повече езици, на които да превеждате",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Искане от сървъра за превод",
+            "TO_LANGUAGES_KEY": "Към езиците",
+            "TRANSLATION_DONE_KEY": "Преводът е направен",
+            "EXECUTION_TIME_KEY": "Време за изпълнение",
+            "SECONDS_KEY": "Секунди"
+        }
+    }
+}

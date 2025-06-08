@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:00:18",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "ar",
+        "language_name": "Arabic",
+        "language_name_local": "العربية",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "الشجرة",
+        "description": "يسلّم بياناتك الشخصية."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "التعليمات",
+            "USE_THE_MENU._KEY": "استخدم القائمة."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "دعم كل",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "دعم كامل لجميع البيانات لديك على الخادم.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "تحصل على ملف واحد مع كل شيء.",
+            "BACKUP_EVERYTHING_KEY": "دعم كل شيء",
+            "BACKUP_PLUGINS_KEY": "البقايا الاحتياطية",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "دعم كل بلوجين على حدة.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "يمكنك الحصول على ملف احتياطي واحد لكل بلوجين.",
+            "REFRESH_PLUGIN_LIST_KEY": "قائمة البلوغ المتجددة",
+            "PLUGIN_LIST_KEY": "قائمة البلوغ",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "القائمة مع جميع المزلاجات الشجرية",
+            "BACKUP_SELECTED_PLUGINS_KEY": "دعم مختار",
+            "PARTIAL_BACKUP_KEY": "الدعم الجزئي",
+            "PARTIAL_BACKUP._KEY": "دعم جزئي.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "إختاري واحدة و إختاري مفاتيح الدعم.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "لديك ملف احتياطي واحد.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "قائمة مع كل المزلاجات.",
+            "SELECT_ONE_KEY": "اختيار واحد",
+            "REFRESH_KEY_LIST_KEY": "القائمة الرئيسية المنقحة",
+            "KEYS_KEY": "المفاتيح",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "كل مفاتيح المضرب المختار.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "اختيار الذين تريد دعمهم",
+            "BACKUP_SELECTED_KEYS_KEY": "مفاتيح مختارة"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "الوثائق ستصدر هنا",
+            "MAIN_DOC_KEY": "المركز الرئيسي(ج)",
+            "VERSION_DOC_KEY": "Version doc",
+            "ENCRYPTION_DOC_KEY": "مستند التشفير(ج)",
+            "BACKUP_DOC_KEY": "مكتب الدعم(ج)",
+            "RESTORE_DOC_KEY": "Restore doc",
+            "STORAGE_DOC_KEY": "وثيقة تخزين(ج)",
+            "SYNC_DOC_KEY": "الرمز"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "ملف الواردات",
+            "ONE_CONTACT_KEY": "اتصال واحد",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "هذا هو استمارة البيانات لتواصل واحد",
+            "IMPORT_PASSWORD_KEY": "كلمة المرور",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "كلمة سرك للملف",
+            "FORGET_IMPORTED_KEY_KEY": "ننسى استيراد",
+            "EXPORT_KEY_FILE_KEY": "ملف التصدير",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "تصدير المفتاح المستورد بكلمة سر جديدة",
+            "EXPORT_PASSWORD_KEY": "كلمة سر التصدير",
+            "CREATE_KEY_FILE_KEY": "إنشاء ملف رئيسي",
+            "CREATE_NEW_KEY_FILE_KEY": "إنشاء ملف رئيسي جديد",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "إنشاء مفتاح جديد مع كلمة سر جديدة"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "مدير شجرة",
+            "DOCUMENTATION_KEY": "الوثائق",
+            "VERSION_KEY": "Version",
+            "ENCRYPTION_KEY": "التشفير",
+            "BACKUP_KEY": "الدعم",
+            "RESTORE_KEY": "Restore",
+            "SYNC_KEY": "الرمز"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "النزاعات",
+            "SELECT_BACKUP_FILES_KEY": "ملفات احتياطية مختارة",
+            "CLEAR_LIST_KEY": "قائمة واضحة",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Rewre data to browser storage",
+            "BACKUP_FILES_KEY": "الملفات الاحتياطية",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "هنا قائمة بكل الملفات الإحتياطية التي اخترتها في مختار الملفات",
+            "INFORMATION_KEY": "المعلومات",
+            "RESTORE_LOG_KEY": "Res log",
+            "CLICK_ON_THE_LIST_KEY": "انقر على القائمة",
+            "REFRESH_CONFLICT_LIST_KEY": "قائمة النزاعات الجديدة",
+            "KEEP_LOCAL_VERSION_KEY": "حافظ على النسخة المحلية",
+            "KEEP_SERVER_VERSION_KEY": "حافظ على نسخة الخادم",
+            "CONFLICT_LIST_KEY": "قائمة النزاعات"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "ابدأ المزامنة هنا",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "أنت أول مزامنة، ثم التعامل مع تحميل، تحميل وقوائم الصراع",
+            "CLICK_ON_THE_LIST_KEY": "انقر على القائمة",
+            "SYNC_KEY": "الرمز",
+            "UPLOAD_KEY": "تحميل",
+            "DOWNLOAD_KEY": "تحميل",
+            "REFRESH_CONFLICT_LIST_KEY": "قائمة النزاعات الجديدة",
+            "KEEP_LOCAL_VERSION_KEY": "حافظ على النسخة المحلية",
+            "KEEP_SERVER_VERSION_KEY": "حافظ على نسخة الخادم",
+            "CONFLICT_LIST_KEY": "قائمة النزاعات",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "يمكنك مساعدتي في تحديد أي نسخة"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "بيانات النسخة المنقحة"
+        }
+    }
+}

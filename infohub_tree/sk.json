@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "sk",
+        "language_name": "Slovak",
+        "language_name_local": "Slovenský",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Strom",
+        "description": "Vybavuje vaše osobné údaje."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Pokyny",
+            "USE_THE_MENU._KEY": "Použi menu."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Zálohovať všetko",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Plná záloha všetkých dát, ktoré máte na serveri.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Dostaneš jednu zložku so všetkým.",
+            "BACKUP_EVERYTHING_KEY": "Všetko zálohovať",
+            "BACKUP_PLUGINS_KEY": "Záložné moduly",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Zálohovanie každého modulu samostatne.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Získate jeden záložný súbor pre každý modul.",
+            "REFRESH_PLUGIN_LIST_KEY": "Obnoviť zoznam modulov",
+            "PLUGIN_LIST_KEY": "Zoznam modulov",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Zoznam so všetkými stromami",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Vybrané moduly zálohovania",
+            "PARTIAL_BACKUP_KEY": "Čiastočná záloha",
+            "PARTIAL_BACKUP._KEY": "Čiastočná záloha.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Vyberte jeden modul a vyberte kľúče pre zálohu.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Dostanete jeden záložný súbor.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Zoznam so všetkými stromovými modulmi.",
+            "SELECT_ONE_KEY": "Vybrať jeden",
+            "REFRESH_KEY_LIST_KEY": "Obnoviť zoznam kľúčov",
+            "KEYS_KEY": "Kľúče",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Všetky kľúče pre vybraný modul.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Vyberte tie, ktoré chcete zálohovať",
+            "BACKUP_SELECTED_KEYS_KEY": "Zálohovať vybrané klávesy"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentácia bude tu",
+            "MAIN_DOC_KEY": "Hlavný dokument",
+            "VERSION_DOC_KEY": "Verzia doc",
+            "ENCRYPTION_DOC_KEY": "Šifrovanie doc",
+            "BACKUP_DOC_KEY": "Zálohovací dokument",
+            "RESTORE_DOC_KEY": "Obnoviť doc",
+            "STORAGE_DOC_KEY": "Skladovanie doc",
+            "SYNC_DOC_KEY": "Synchronizácia"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Importovať súbor kľúčov",
+            "ONE_CONTACT_KEY": "Jeden kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Toto je dátový formulár pre jeden kontakt",
+            "IMPORT_PASSWORD_KEY": "Importovať heslo",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Vaše heslo pre súbor",
+            "FORGET_IMPORTED_KEY_KEY": "Zabudnúť dovezený",
+            "EXPORT_KEY_FILE_KEY": "Exportovať súbor kľúčov",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Exportovať importovaný kľúč s novým heslom",
+            "EXPORT_PASSWORD_KEY": "Exportovať heslo",
+            "CREATE_KEY_FILE_KEY": "Vytvoriť súbor kľúčov",
+            "CREATE_NEW_KEY_FILE_KEY": "Vytvoriť nový súbor kľúčov",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Vytvoriť nový kľúč s novým heslom"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Správca stromov",
+            "DOCUMENTATION_KEY": "Dokumentácia",
+            "VERSION_KEY": "Verzia",
+            "ENCRYPTION_KEY": "Šifrovanie",
+            "BACKUP_KEY": "Zálohovanie",
+            "RESTORE_KEY": "Obnoviť",
+            "SYNC_KEY": "Synchronizácia"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Konflikty",
+            "SELECT_BACKUP_FILES_KEY": "Vyberte záložné súbory",
+            "CLEAR_LIST_KEY": "Vyčistiť zoznam",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Obnoviť dáta do úložiska prehliadača",
+            "BACKUP_FILES_KEY": "Zálohovacie súbory",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Tu je zoznam so všetkými zálohovacími súbormi, ktoré ste vybrali vo voliči súborov",
+            "INFORMATION_KEY": "Informácie",
+            "RESTORE_LOG_KEY": "Obnoviť log",
+            "CLICK_ON_THE_LIST_KEY": "Kliknite na zoznam",
+            "REFRESH_CONFLICT_LIST_KEY": "Obnoviť zoznam konfliktov",
+            "KEEP_LOCAL_VERSION_KEY": "Udržať lokálnu verziu",
+            "KEEP_SERVER_VERSION_KEY": "Udržať verziu servera",
+            "CONFLICT_LIST_KEY": "Zoznam konfliktov"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Spustiť synchronizáciu tu",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Najprv synchronizovať, potom zvládnuť nahrávanie, sťahovanie a zoznam konfliktov",
+            "CLICK_ON_THE_LIST_KEY": "Kliknite na zoznam",
+            "SYNC_KEY": "Synchronizácia",
+            "UPLOAD_KEY": "Odoslať",
+            "DOWNLOAD_KEY": "Stiahnuť",
+            "REFRESH_CONFLICT_LIST_KEY": "Obnoviť zoznam konfliktov",
+            "KEEP_LOCAL_VERSION_KEY": "Udržať lokálnu verziu",
+            "KEEP_SERVER_VERSION_KEY": "Udržať verziu servera",
+            "CONFLICT_LIST_KEY": "Zoznam konfliktov",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Môžete mi pomôcť rozhodnúť, akú verziu si nechať"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Obnoviť dáta verzie"
+        }
+    }
+}

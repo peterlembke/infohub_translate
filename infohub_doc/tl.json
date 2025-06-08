@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "tl",
+        "language_name": "Tagalog",
+        "language_name_local": "Tagalog",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Dokumento",
+        "description": "Buong dokumentasyon sa InfoHub at lahat ng plagin."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "Dokumento",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Makikita mo rito ang dokumento"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Nakapagpapasiglang indise",
+            "INDEX_KEY": "Indise"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "Nakarerelaks na paglalayag",
+            "NAVIGATION_KEY": "Nabigasyon"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Nakarerelaks na pagdalaw"
+        }
+    }
+}

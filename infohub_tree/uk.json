@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:14:52",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "uk",
+        "language_name": "Ukrainian",
+        "language_name_local": "Українська",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Дерево",
+        "description": "Надання Ваших персональних даних."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Інструкції",
+            "USE_THE_MENU._KEY": "Використовуйте меню."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Зворотній зв'язок",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Повна резервна копія всіх ваших даних, які ви маєте на сервері.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Ви отримуєте один файл з усім.",
+            "BACKUP_EVERYTHING_KEY": "Резервне копіювання",
+            "BACKUP_PLUGINS_KEY": "Додатки Backup",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Резервне копіювання кожного плагіна окремо.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Ви отримуєте один файл резервного копіювання для кожного плагіна.",
+            "REFRESH_PLUGIN_LIST_KEY": "Список плагінів Refresh",
+            "PLUGIN_LIST_KEY": "Список плагінів",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Список з усіма плагінами",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Резервне копіювання вибраних плагінів",
+            "PARTIAL_BACKUP_KEY": "Часткова резервна копія",
+            "PARTIAL_BACKUP._KEY": "Часткове резервне копіювання.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Виберіть один плагін і виберіть ключі для резервного копіювання.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Ви отримуєте один файл резервного копіювання.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Список з усіма додатками дерева.",
+            "SELECT_ONE_KEY": "Виберіть один",
+            "REFRESH_KEY_LIST_KEY": "Список ключів Refresh",
+            "KEYS_KEY": "Головна",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Всі ключі для вибраного плагіна.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Виберіть ті, які ви хочете створити резервну копію",
+            "BACKUP_SELECTED_KEYS_KEY": "Резервне копіювання вибраних ключів"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Документація буде представлена тут",
+            "MAIN_DOC_KEY": "Головна",
+            "VERSION_DOC_KEY": "Версія doc",
+            "ENCRYPTION_DOC_KEY": "Шифрування doc",
+            "BACKUP_DOC_KEY": "Резервне копіювання",
+            "RESTORE_DOC_KEY": "Відновлення doc",
+            "STORAGE_DOC_KEY": "Зберігання документів",
+            "SYNC_DOC_KEY": "Синхронізація doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Імпорт ключових файлів",
+            "ONE_CONTACT_KEY": "Один контакт",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Це форма даних для одного контакту",
+            "IMPORT_PASSWORD_KEY": "Імпортний пароль",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Ваш пароль для файлу",
+            "FORGET_IMPORTED_KEY_KEY": "Забудьте імпорт",
+            "EXPORT_KEY_FILE_KEY": "Експорт ключових файлів",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Експорт імпортного ключа з новим паролем",
+            "EXPORT_PASSWORD_KEY": "Експорт пароля",
+            "CREATE_KEY_FILE_KEY": "Створити файл",
+            "CREATE_NEW_KEY_FILE_KEY": "Створити новий файл ключа",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Створити новий ключ з новим паролем"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Дерев'яний менеджер",
+            "DOCUMENTATION_KEY": "Документація",
+            "VERSION_KEY": "Редагування",
+            "ENCRYPTION_KEY": "Розшифрування",
+            "BACKUP_KEY": "Зареєструватися",
+            "RESTORE_KEY": "Відновити",
+            "SYNC_KEY": "Синхронізація"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Конфлікти",
+            "SELECT_BACKUP_FILES_KEY": "Виберіть файли резервного копіювання",
+            "CLEAR_LIST_KEY": "Очистити список",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Відновлення даних для зберігання браузерів",
+            "BACKUP_FILES_KEY": "Резервне копіювання файлів",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Ось список з усіма файлами резервного копіювання, які ви вибрали у вибраному файлі",
+            "INFORMATION_KEY": "Інформація",
+            "RESTORE_LOG_KEY": "Відновити журнал",
+            "CLICK_ON_THE_LIST_KEY": "Натисніть на список",
+            "REFRESH_CONFLICT_LIST_KEY": "Список конфліктів",
+            "KEEP_LOCAL_VERSION_KEY": "Збережіть локальну версію",
+            "KEEP_SERVER_VERSION_KEY": "Перевірити версію сервера",
+            "CONFLICT_LIST_KEY": "Список конфліктів"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Почати синхронізацію тут",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Ви перший синхронізація, після чого робіть завантаження, завантаження та список конфліктів",
+            "CLICK_ON_THE_LIST_KEY": "Натисніть на список",
+            "SYNC_KEY": "Синхронізація",
+            "UPLOAD_KEY": "Завантажити",
+            "DOWNLOAD_KEY": "Завантажити",
+            "REFRESH_CONFLICT_LIST_KEY": "Список конфліктів",
+            "KEEP_LOCAL_VERSION_KEY": "Збережіть локальну версію",
+            "KEEP_SERVER_VERSION_KEY": "Перевірити версію сервера",
+            "CONFLICT_LIST_KEY": "Список конфліктів",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Ви можете допомогти мені вирішити яку версію, щоб зберегти"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Refresh версія даних"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 19:15:45",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "sq",
+        "language_name": "Albanian",
+        "language_name_local": "Shqip",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Dërgo mesazh të personalizuar",
+        "description": "Si një zhvillues mund t'i dërgoni mesazhe funksioneve tuaja."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigger",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Ti si një zhvillues mund t'i dërgosh një mesazh plugin në dalje.",
+            "REFRESH_DATA_KEY": "Rifresko të dhënat",
+            "NODE_KEY": "Node",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Zgjidh nyjen ku dëshironi të dërgoni mesazhin",
+            "CLIENT_KEY": "Klienti",
+            "SERVER_KEY": "Serveri",
+            "PLUGIN_KEY": "Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Zgjidh plugin ku dëshironi të dërgoni mesazhin",
+            "FUNCTION_KEY": "Funksioni",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Zgjidh",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Mesazhi i paracaktuar për funksionin e zgjedhur",
+            "MESSAGE_KEY": "Mesazhi:",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Ky është mesazhi që mund të dërgoni tek plugin e zgjedhur.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Mesazh është prezgjedhur.",
+            "GET_ALL_KEY": "Merr gjithçka",
+            "BARE_BONE_KEY": "Kockë",
+            "GET_DEFAULT_MESSAGE_KEY": "Merr mesazhin e prezgjedhur",
+            "SEND_MESSAGE_KEY": "Dërgo mesazh",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Përgjigja nga funksioni",
+            "RESPONSE_KEY": "Përgjigje",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Këtu do të shihni përgjigjen nga funksioni.",
+            "NO_CONFIG_KEY": "Pa konfigurim"
+        }
+    }
+}

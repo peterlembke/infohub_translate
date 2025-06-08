@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 17:49:04",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "sv",
+        "language_name": "Swedish",
+        "language_name_local": "Svenska",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Skicka anpassat meddelande",
+        "description": "Som utvecklare kan du skicka meddelanden till dina funktioner."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigger",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Du som utvecklare kan skicka ett meddelande till ditt nya plugin.",
+            "REFRESH_DATA_KEY": "Refresh data",
+            "NODE_KEY": "Nod",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Välj den nod du vill skicka meddelandet till",
+            "CLIENT_KEY": "Kund",
+            "SERVER_KEY": "Server",
+            "PLUGIN_KEY": "Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Välj plugin du vill skicka meddelandet till",
+            "FUNCTION_KEY": "Funktion",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Välj den funktion du vill skicka meddelandet till",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Standardmeddelande för den valda funktionen",
+            "MESSAGE_KEY": "Meddelande",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Detta är det meddelande du kan skicka till det valda plugin.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Meddelandet du ser är standardvärdena som funktionen har satt.",
+            "GET_ALL_KEY": "Få allt",
+            "BARE_BONE_KEY": "Bare Bone",
+            "GET_DEFAULT_MESSAGE_KEY": "Få standardmeddelande",
+            "SEND_MESSAGE_KEY": "Skicka meddelande",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Svar från funktionen",
+            "RESPONSE_KEY": "Svar",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Här ser du svaret från funktionen.",
+            "NO_CONFIG_KEY": "Ingen konfig"
+        }
+    }
+}

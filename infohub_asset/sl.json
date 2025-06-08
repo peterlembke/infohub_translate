@@ -1,0 +1,23 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_asset",
+        "data_checksum": "4b8b2175f172389022784fdb24605692",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Podatki o licenci",
+        "description": "Prikaži podatke o licenci za vsa uporabljena sredstva"
+    },
+    "data": {
+        "infohub_asset": {
+            "REFRESH_LIST_KEY": "Osveži seznam"
+        }
+    }
+}

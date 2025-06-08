@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:00:18",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "ar",
+        "language_name": "Arabic",
+        "language_name_local": "العربية",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "إرسال رسالة عرفية",
+        "description": "كمطور يمكنك إرسال رسائل لمهامك."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigger",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "أنت كمطور تستطيع أن ترسل رسالة إلى برجك الآخذ.",
+            "REFRESH_DATA_KEY": "تجديد البيانات",
+            "NODE_KEY": "Node",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "اختيار العقد الذي تريد إرسال الرسالة",
+            "CLIENT_KEY": "العميل",
+            "SERVER_KEY": "سيرفر",
+            "PLUGIN_KEY": "Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "إختار المضرب الذي تريد إرسال الرسالة إليه",
+            "FUNCTION_KEY": "المهمة",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "اختيار المهمة التي تريد إرسال الرسالة إلى",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "رسالة تقصير للوظيفة المختارة",
+            "MESSAGE_KEY": "الرسالة",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "هذه هي الرسالة التي يمكنك أن ترسلها إلى المضرب المختار.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "الرسالة التي تراها هي القيم الافتراضية التي رسمتها المهمة.",
+            "GET_ALL_KEY": "كل شيء",
+            "BARE_BONE_KEY": "عظام بالكاد",
+            "GET_DEFAULT_MESSAGE_KEY": "احصل على رسالة خاطئة",
+            "SEND_MESSAGE_KEY": "رسالة",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "الرد من المهمة",
+            "RESPONSE_KEY": "الرد",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "هنا سترى الرد من المهمة.",
+            "NO_CONFIG_KEY": "لا ريب"
+        }
+    }
+}

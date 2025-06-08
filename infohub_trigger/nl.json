@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 19:05:00",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "nl",
+        "language_name": "Dutch",
+        "language_name_local": "Nederlands",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Aangepast bericht versturen",
+        "description": "Als ontwikkelaar kun je berichten naar je functies sturen."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigger",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "U als ontwikkelaar kunt een bericht sturen naar uw opkomende plugin.",
+            "REFRESH_DATA_KEY": "Gegevens verversen",
+            "NODE_KEY": "Knooppunt",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Selecteer de node waarnaar u het bericht wilt versturen",
+            "CLIENT_KEY": "Client",
+            "SERVER_KEY": "Server",
+            "PLUGIN_KEY": "Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Selecteer de plugin waarnaar u het bericht wilt versturen",
+            "FUNCTION_KEY": "Functie",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Selecteer de functie waarnaar u het bericht wilt versturen",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Standaardbericht voor de geselecteerde functie",
+            "MESSAGE_KEY": "Bericht",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Dit is het bericht dat u naar de geselecteerde plugin kunt sturen.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Het bericht dat je ziet is de standaardwaarden die de functie heeft ingesteld.",
+            "GET_ALL_KEY": "Alles krijgen",
+            "BARE_BONE_KEY": "Naadloos been",
+            "GET_DEFAULT_MESSAGE_KEY": "Standaardbericht ophalen",
+            "SEND_MESSAGE_KEY": "Bericht versturen",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Reactie van de functie",
+            "RESPONSE_KEY": "Respons",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Hier ziet u het antwoord van de functie.",
+            "NO_CONFIG_KEY": "Geen configuratie"
+        }
+    }
+}

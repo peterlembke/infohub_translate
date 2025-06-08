@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Drevo",
+        "description": "Upravlja vaše osebne podatke."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Navodila",
+            "USE_THE_MENU._KEY": "Uporabi jedilnik."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Varnostna kopija",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Polno varnostno kopijo vseh podatkov, ki jih imate na strežniku.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Dobiš en dosje z vsem.",
+            "BACKUP_EVERYTHING_KEY": "Okrepitev vsega",
+            "BACKUP_PLUGINS_KEY": "Rezervni vstavki",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Varnostna kopija vsakega vstavka posebej.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Dobite eno varnostno datoteko za vsak plugin.",
+            "REFRESH_PLUGIN_LIST_KEY": "Osveži seznam vstavkov",
+            "PLUGIN_LIST_KEY": "Seznam vstavkov",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Seznam z vsemi drevesnimi vstavki",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Rezervni vstavki",
+            "PARTIAL_BACKUP_KEY": "Delna rezerva",
+            "PARTIAL_BACKUP._KEY": "Delna okrepitev.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Izberite en vstavek in izberite tipke za varnostno kopijo.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Dobiš rezervno datoteko.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Seznam z vsemi drevesnimi vstavki.",
+            "SELECT_ONE_KEY": "Izberi eno",
+            "REFRESH_KEY_LIST_KEY": "Osveži seznam ključev",
+            "KEYS_KEY": "Ključi",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Vsi ključi za izbrani vstavek.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Izberite tiste, ki jih želite rezervirati",
+            "BACKUP_SELECTED_KEYS_KEY": "Rezervne izbrane tipke"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentacija bo tukaj",
+            "MAIN_DOC_KEY": "Glavni dok",
+            "VERSION_DOC_KEY": "Različica doc",
+            "ENCRYPTION_DOC_KEY": "Šifrirni dok",
+            "BACKUP_DOC_KEY": "Rezervni dok",
+            "RESTORE_DOC_KEY": "Obnovi dok",
+            "STORAGE_DOC_KEY": "Dok za shranjevanje",
+            "SYNC_DOC_KEY": "Sync doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Uvozi datoteko s ključi",
+            "ONE_CONTACT_KEY": "En stik",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "To je obrazec podatkov za en stik",
+            "IMPORT_PASSWORD_KEY": "Uvozi geslo",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Vaše geslo za datoteko",
+            "FORGET_IMPORTED_KEY_KEY": "Pozabi uvoženo",
+            "EXPORT_KEY_FILE_KEY": "Izvozi datoteko s ključi",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Izvozi uvoženi ključ z novim geslom",
+            "EXPORT_PASSWORD_KEY": "Izvozi geslo",
+            "CREATE_KEY_FILE_KEY": "Ustvari datoteko s ključi",
+            "CREATE_NEW_KEY_FILE_KEY": "Ustvari novo datoteko s ključi",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Ustvari nov ključ z novim geslom"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Drevesni upravitelj",
+            "DOCUMENTATION_KEY": "Dokumentacija",
+            "VERSION_KEY": "Različica",
+            "ENCRYPTION_KEY": "Šifriranje",
+            "BACKUP_KEY": "Varnostna kopija",
+            "RESTORE_KEY": "Obnovi",
+            "SYNC_KEY": "Uskladitev"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Spori",
+            "SELECT_BACKUP_FILES_KEY": "Izberite varnostne datoteke",
+            "CLEAR_LIST_KEY": "Počisti seznam",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Obnovi podatke za shranjevanje brskalnika",
+            "BACKUP_FILES_KEY": "Varnostne datoteke",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Tukaj je seznam z vsemi rezervnimi datotekami, ki ste jih izbrali v izbirniku datotek",
+            "INFORMATION_KEY": "Podatki",
+            "RESTORE_LOG_KEY": "Obnovi dnevnik",
+            "CLICK_ON_THE_LIST_KEY": "Kliknite na seznam",
+            "REFRESH_CONFLICT_LIST_KEY": "Osveži seznam sporov",
+            "KEEP_LOCAL_VERSION_KEY": "Obdrži krajevno različico",
+            "KEEP_SERVER_VERSION_KEY": "Obdrži različico strežnika",
+            "CONFLICT_LIST_KEY": "Seznam sporov"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Zaženi uskladitev tukaj",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Najprej uskladite, potem pa prenesete, prenesete in sporne sezname",
+            "CLICK_ON_THE_LIST_KEY": "Kliknite na seznam",
+            "SYNC_KEY": "Uskladitev",
+            "UPLOAD_KEY": "Pošlji",
+            "DOWNLOAD_KEY": "Prenesi",
+            "REFRESH_CONFLICT_LIST_KEY": "Osveži seznam sporov",
+            "KEEP_LOCAL_VERSION_KEY": "Obdrži krajevno različico",
+            "KEEP_SERVER_VERSION_KEY": "Obdrži različico strežnika",
+            "CONFLICT_LIST_KEY": "Seznam sporov",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Lahko mi pomagate, da se odločim, katero različico naj obdržim"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Osveži podatke o različici"
+        }
+    }
+}

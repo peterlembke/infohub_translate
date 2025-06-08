@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "ko",
+        "language_name": "Korean",
+        "language_name_local": "한국어",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "나무",
+        "description": "개인 정보 취급."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "이름 *",
+            "USE_THE_MENU._KEY": "메뉴를 사용하십시오."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "백업 모두",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "서버에서 모든 데이터의 전체 백업.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "당신은 모든 파일을 얻을.",
+            "BACKUP_EVERYTHING_KEY": "모든 것",
+            "BACKUP_PLUGINS_KEY": "백업 플러그인",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "각 플러그인의 백업은 별도로.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "각 플러그인에 대한 하나의 백업 파일을 얻을 수 있습니다.",
+            "REFRESH_PLUGIN_LIST_KEY": "새로 고침 플러그인 목록",
+            "PLUGIN_LIST_KEY": "플러그인 목록",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "모든 트리 플러그인 목록",
+            "BACKUP_SELECTED_PLUGINS_KEY": "백업 선택된 플러그인",
+            "PARTIAL_BACKUP_KEY": "Partial 백업",
+            "PARTIAL_BACKUP._KEY": "부분적인 백업.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "하나의 플러그인을 선택하고 백업에 키를 선택합니다.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "당신은 하나의 백업 파일을 얻을.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "모든 트리 플러그인 목록.",
+            "SELECT_ONE_KEY": "한국어",
+            "REFRESH_KEY_LIST_KEY": "키 목록을 새로 고침",
+            "KEYS_KEY": "이름 *",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "선택한 플러그인의 모든 키.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "백업하고 싶은 것들",
+            "BACKUP_SELECTED_KEYS_KEY": "선택된 키를 백업"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "문서가 여기에 표시됩니다",
+            "MAIN_DOC_KEY": "주요 문서",
+            "VERSION_DOC_KEY": "버전 doc",
+            "ENCRYPTION_DOC_KEY": "암호화 doc",
+            "BACKUP_DOC_KEY": "백업 doc",
+            "RESTORE_DOC_KEY": "저장소 doc",
+            "STORAGE_DOC_KEY": "저장 doc",
+            "SYNC_DOC_KEY": "Sync 문서"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "수입 키 파일",
+            "ONE_CONTACT_KEY": "연락처",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "이것은 1개의 접촉을 위한 자료 모양입니다",
+            "IMPORT_PASSWORD_KEY": "비밀번호",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "비밀번호",
+            "FORGET_IMPORTED_KEY_KEY": "수입 된",
+            "EXPORT_KEY_FILE_KEY": "수출 키 파일",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "새로운 암호로 수입 된 키를 내보내기",
+            "EXPORT_PASSWORD_KEY": "수출 암호",
+            "CREATE_KEY_FILE_KEY": "키 파일 만들기",
+            "CREATE_NEW_KEY_FILE_KEY": "새 키 파일 만들기",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "새로운 비밀번호로 새 키 만들기"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "트리 매니저",
+            "DOCUMENTATION_KEY": "회사연혁",
+            "VERSION_KEY": "이름 *",
+            "ENCRYPTION_KEY": "암호화",
+            "BACKUP_KEY": "지원하다",
+            "RESTORE_KEY": "관련 상품",
+            "SYNC_KEY": "Sync의"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "관련 기사",
+            "SELECT_BACKUP_FILES_KEY": "백업 파일 선택",
+            "CLEAR_LIST_KEY": "자주 묻는 질문",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Restore data를 브라우저 저장",
+            "BACKUP_FILES_KEY": "백업 파일",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "파일 selector에서 선택한 모든 백업 파일 목록입니다",
+            "INFORMATION_KEY": "- 기타",
+            "RESTORE_LOG_KEY": "비밀번호",
+            "CLICK_ON_THE_LIST_KEY": "자주 묻는 질문",
+            "REFRESH_CONFLICT_LIST_KEY": "새로 고침 목록",
+            "KEEP_LOCAL_VERSION_KEY": "현지 버전 유지",
+            "KEEP_SERVER_VERSION_KEY": "서버 버전 유지",
+            "CONFLICT_LIST_KEY": "Conflict 목록"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "여기에서 동기화 시작",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "첫 번째 동기화, 다음 업로드, 다운로드 및 충돌 목록을 처리",
+            "CLICK_ON_THE_LIST_KEY": "자주 묻는 질문",
+            "SYNC_KEY": "Sync의",
+            "UPLOAD_KEY": "제품정보",
+            "DOWNLOAD_KEY": "다운로드",
+            "REFRESH_CONFLICT_LIST_KEY": "새로 고침 목록",
+            "KEEP_LOCAL_VERSION_KEY": "현지 버전 유지",
+            "KEEP_SERVER_VERSION_KEY": "서버 버전 유지",
+            "CONFLICT_LIST_KEY": "Conflict 목록",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "유지하려면 어떤 버전을 결정할 수 있습니다"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "새 버전 데이터"
+        }
+    }
+}

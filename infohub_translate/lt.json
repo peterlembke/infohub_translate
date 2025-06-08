@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "lt",
+        "language_name": "Lithuanian",
+        "language_name_local": "Lietuvių",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Išversti",
+        "description": "Rankiniu būdu išversti frazę. Sukurti kalbos failus įskiepiams."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Instrukcijos",
+            "USE_THE_MENU._KEY": "Naudokite meniu."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Čia bus pateikti dokumentai",
+            "MAIN_DOC_KEY": "Pagrindinis doc",
+            "MANUAL_TRANSLATION_KEY": "Rankinis vertimas",
+            "PLUGIN_TRANSLATION_KEY": "Įskiepio vertimas"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Rankinis vertimas",
+            "REFRESH_LANGUAGE_LIST_KEY": "Atnaujinti kalbų sąrašą",
+            "SELECT_LANGUAGE_KEY": "Pasirinkite kalbą",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Pasirinkite pradinio kodo kalbą.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Pasirinkite paskirties kalbą.",
+            "YOUR_TEXT_KEY": "Jūsų tekstas",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Tekstas, kurį norite išversti.",
+            "TRANSLATE_KEY": "Išversti",
+            "THE_TRANSLATED_TEXT_KEY": "Išverstas tekstas",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Tekstas, kurį gaunate po vertimo.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Pasirinkite paskirties kalbą. Rašyti tekstą. Spustelėkite išversti",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Pasirinkite kalbą išversti iš",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Rašyti kažką, kad aš galiu išversti",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Pasirinkite kalbą išversti į",
+            "TRANSLATION_DONE_KEY": "Vertimas atliktas"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Vertimo priemonė",
+            "DOCUMENTATION_KEY": "Dokumentai",
+            "MANUAL_TRANSLATION_KEY": "Rankinis vertimas",
+            "PLUGIN_TRANSLATION_KEY": "Įskiepio vertimas"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Atnaujinti sąrašus",
+            "SELECT_PLUGIN_KEY": "Pasirinkite įskiepį",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Sąrašai visų klientų įskiepių, kurie gali turėti vertimo failus.",
+            "SELECT_LANGUAGES_KEY": "Pasirinkite kalbas",
+            "TRANSLATE_KEY": "Išversti",
+            "PLUGIN_TRANSLATION_KEY": "Įskiepio vertimas",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Pasirinkite įskiepius ir kalbas",
+            "CLICK_TRANSLATE_KEY": "Spustelėkite išversti",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Sąrašų atnaujinimas atliekamas",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Pasirinkite vieną ar daugiau įskiepių vertimui",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Pasirinkite vieną ar daugiau kalbų išversti į",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Užklausa serverio išversti",
+            "TO_LANGUAGES_KEY": "Į kalbas",
+            "TRANSLATION_DONE_KEY": "Vertimas atliktas",
+            "EXECUTION_TIME_KEY": "Vykdymo laikas",
+            "SECONDS_KEY": "Sekundės"
+        }
+    }
+}

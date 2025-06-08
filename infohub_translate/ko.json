@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "ko",
+        "language_name": "Korean",
+        "language_name_local": "한국어",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "이름 *",
+        "description": "수동으로 구문을 번역합니다. 플러그인의 언어 파일 만들기."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "이름 *",
+            "USE_THE_MENU._KEY": "메뉴를 사용하십시오."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "문서가 여기에 표시됩니다",
+            "MAIN_DOC_KEY": "주요 문서",
+            "MANUAL_TRANSLATION_KEY": "수동 번역",
+            "PLUGIN_TRANSLATION_KEY": "Plugin 번역"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "수동 번역",
+            "REFRESH_LANGUAGE_LIST_KEY": "언어 선택",
+            "SELECT_LANGUAGE_KEY": "한국어",
+            "SELECT_SOURCE_LANGUAGE._KEY": "소스 언어 선택.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "자주 묻는 질문.",
+            "YOUR_TEXT_KEY": "본문 바로가기",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "번역하고 싶은 텍스트.",
+            "TRANSLATE_KEY": "이름 *",
+            "THE_TRANSLATED_TEXT_KEY": "번역된 텍스트",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "번역 후 얻을 텍스트.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "자주 묻는 질문 본문 바로가기 번역을 클릭합니다",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "번역할 언어 선택",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "번역 할 수있는 무언가를 작성",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "번역할 언어 선택",
+            "TRANSLATION_DONE_KEY": "번역 완료"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "번역 도구",
+            "DOCUMENTATION_KEY": "회사연혁",
+            "MANUAL_TRANSLATION_KEY": "수동 번역",
+            "PLUGIN_TRANSLATION_KEY": "Plugin 번역"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "새로 고침",
+            "SELECT_PLUGIN_KEY": "플러그인 선택",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "번역 파일을 가질 수있는 모든 클라이언트 플러그인을 나열합니다.",
+            "SELECT_LANGUAGES_KEY": "언어 선택",
+            "TRANSLATE_KEY": "이름 *",
+            "PLUGIN_TRANSLATION_KEY": "Plugin 번역",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "플러그인 및 언어 선택",
+            "CLICK_TRANSLATE_KEY": "번역을 클릭합니다",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "목록의 새로 고침",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "번역에 하나 이상의 플러그인을 선택",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "번역할 언어 선택",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "서버가 번역하기",
+            "TO_LANGUAGES_KEY": "한국어",
+            "TRANSLATION_DONE_KEY": "번역 완료",
+            "EXECUTION_TIME_KEY": "실행 시간",
+            "SECONDS_KEY": "두 번째"
+        }
+    }
+}

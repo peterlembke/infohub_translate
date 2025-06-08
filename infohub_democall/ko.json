@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "ko",
+        "language_name": "Korean",
+        "language_name_local": "한국어",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Test 메시지 보내기",
+        "description": "개발자로서 당신은 존재하지 않는 플러그인 또는 기능에 메시지를 보낼 때 무슨 일이 일어나는지 볼 수 있습니다."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "이름 *",
+            "USE_THE_MENU._KEY": "메뉴를 사용하십시오.",
+            "RESULT_KEY": "제품정보"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "데모 호출",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "여기 당신은 당신이 누락 된 플러그인을 호출하는 경우 무슨 일이 일어날 수 있습니다, 또는 누락 된 기능",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "클라이언트 - 올바른 호출. 플러그인 및 기능",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "클라이언트 - 플러그인 존재, cmd 기능은 존재하지 않습니다",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Client - 플러그인이 누락",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Server - 올바른 호출. 플러그인 및 기능",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "서버 - 플러그인 존재, cmd 함수는 존재하지 않습니다",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Server - 플러그인이 누락",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "클라이언트 - 자녀가 유효한 응답자에 대해 이야기",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "클라이언트 - 자녀를 돕기 위해 잘못된 호출",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Client - 자녀가 부모에게 부당한 통화",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Server - 모든 서버 테스트를 실행"
+        }
+    }
+}

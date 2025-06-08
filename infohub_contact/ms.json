@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "ms",
+        "language_name": "Malay",
+        "language_name_local": "Bahasa Melayu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Pengguna dan Node",
+        "description": "Kau bisa menangani penggunamu di sini. Anda dapat mengatur akses ke node server lain di sini."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instruksi",
+            "USE_THE_MENU._KEY": "Guna menunya."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Klien yang segarkan",
+            "CLIENT_CONTACTS_KEY": "Kontak klien",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Daftarkan semua kontak klien",
+            "NEW_KEY": "New",
+            "SAVE_KEY": "Simpan",
+            "DELETE_KEY": "Dihapus",
+            "IMPORT_KEY": "Import",
+            "EXPORT_KEY": "Ekspor",
+            "ONE_CONTACT_KEY": "Satu kontak",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Ini adalah bentuk data untuk satu kontak",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Nama unik Anda klien",
+            "NOTE_KEY": "Catatan:",
+            "ANY_TEXT_YOU_WANT_KEY": "SMS apapun yang kau mau",
+            "DOMAIN_ADDRESS_KEY": "Alamat Domain Domain",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Alamat domain ke server Anda",
+            "USER_NAME_KEY": "Nama pengguna:",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Anda mendapatkan hub-uuid ketika Anda menyimpan (meninggalkan kosong)",
+            "SHARED_SECRET_KEY": "Rahasia Kongsi",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Anda akan mendapatkan string acak 2k ketika Anda menyimpan (meninggalkan kosong)",
+            "ALLOWED_ROLES_KEY": "Peranan yang diperbolehkan",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Daftar dengan semua peran pengguna yang anda miliki",
+            "USER_KEY": "Pengguna",
+            "DEVELOPER_KEY": "Pembangun",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Ada sandi",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Jika berkas yang diimpor memiliki kata sandi klien yang ditetapkan oleh pengguna"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentasi dokumentasi akan diberikan di sini",
+            "MAIN_DOC_KEY": "Doc Utama [T]",
+            "CLIENT_DOC_KEY": "Doc klien khas",
+            "SERVER_DOC_KEY": "Doc Server doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Manajer Kontak Contact",
+            "DOCUMENTATION_KEY": "Dokumentasi",
+            "CLIENT_CONTACT_KEY": "Kontak klien",
+            "SERVER_CONTACT_KEY": "Kontak Server"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Segarkan",
+            "SERVER_CONTACTS_KEY": "\/_Buang kenalan",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Daftarkan semua kontak server",
+            "SAVE_KEY": "Simpan",
+            "DELETE_KEY": "Dihapus",
+            "IMPORT_KEY": "Import",
+            "EXPORT_KEY": "Ekspor",
+            "PING_SERVER_KEY": "Server Ping",
+            "ONE_CONTACT_KEY": "Satu kontak",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Ini adalah bentuk data untuk satu kontak.",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Nama node unik Anda",
+            "NOTE_KEY": "Catatan:",
+            "ANY_TEXT_YOU_WANT_KEY": "SMS apapun yang kau mau",
+            "DOMAIN_ADDRESS_KEY": "Alamat Domain Domain",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Alamat domain ke server jauh",
+            "USER_NAME_KEY": "Nama pengguna:",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid Anda dapat dari server jauh",
+            "SHARED_SECRET_KEY": "Rahasia Kongsi",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "akar random 2k yang anda dapat dari server jauh",
+            "ALLOWED_ROLES_KEY": "Peranan yang diperbolehkan",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Daftar dengan semua peran yang dimiliki akun ini",
+            "USER_KEY": "Pengguna",
+            "DEVELOPER_KEY": "Pembangun",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

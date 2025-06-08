@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "bn",
+        "language_name": "Bengali",
+        "language_name_local": "বাংলা",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ব্যবহারকারী ও দলের তথ্য",
+        "description": "আপনি এখানে আপনার ব্যবহারকারীদের হ্যান্ডেল করতে পারবেন। অন্যান্য সার্ভারের নোডগুলি এখানে স্থাপন করা যাবে ।."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "তথ্যানুসারে গ্রাফ আঁকো",
+            "USE_THE_MENU._KEY": "মেনু ব্যবহার করুন।."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "ক্লায়েন্ট নতুন করে প্রদর্শন",
+            "CLIENT_CONTACTS_KEY": "ক্লায়েন্টের পরিচিতি",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "সকল ক্লায়েন্টের তালিকা প্রদর্শন করা হবে",
+            "NEW_KEY": "নতুন",
+            "SAVE_KEY": "সংরক্ষণ",
+            "DELETE_KEY": "মুছে ফেলুন",
+            "IMPORT_KEY": "ইম্পোর্ট",
+            "EXPORT_KEY": "এক্সপোর্ট করুন",
+            "ONE_CONTACT_KEY": "একটি পরিচিতি নির্বাচন করুন",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "এই পরিচিতির তথ্য একটি নতুন পরিচিতির তথ্য",
+            "NODE_KEY": "নোড",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "ক্লায়েন্টের জন্য আপনার স্বতন্ত্র নাম",
+            "NOTE_KEY": "নোট",
+            "ANY_TEXT_YOU_WANT_KEY": "যে কোনো লেখা",
+            "DOMAIN_ADDRESS_KEY": "ডোমেইনের ঠিকানা",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "আপনার সার্ভারের ডোমেইন",
+            "USER_NAME_KEY": "ব্যবহারকারীর নাম",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "সংরক্ষণ করার সময় একটি হাব-uuid প্রাপ্ত করুন (এতগুলো ফাঁকা)",
+            "SHARED_SECRET_KEY": "শেয়ার করা মেইল",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "সংরক্ষণ করার সময় ২K এলোমেলো পংক্তি প্রাপ্ত হলে ফাঁকা স্থান প্রয়োগ করা হবে (Al ফাঁকা)",
+            "ALLOWED_ROLES_KEY": "ভূমিকা",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "সকল ব্যবহারকারীর জন্য উপলব্ধ সকল ভূমিকার তালিকা",
+            "USER_KEY": "ব্যবহারকারী",
+            "DEVELOPER_KEY": "'%s' প্রিন্টারে টোনার শেষ হয়ে গেছে।Developer",
+            "ADMIN_KEY": "অ্যাডমিন",
+            "HAS_PASSWORD_KEY": "পাসওয়ার্ড সঠিক নয়",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "ব্যবহারকারীর দ্বারা ক্যারেক্টার সেট করা হলে ক্লায়েন্ট পাসওয়ার্ড দ্বারা প্রতিস্থাপন করা হয়"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "এই ফোল্ডারের মধ্যে ডকুমেন্টেশন প্রদর্শন করা হবে",
+            "MAIN_DOC_KEY": "প্রধানব",
+            "CLIENT_DOC_KEY": "ক্লায়েন্ট ডক",
+            "SERVER_DOC_KEY": "সার্ভার ডক"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "পরিচিতি ব্যবস্থাপক",
+            "DOCUMENTATION_KEY": "নথিপত্র",
+            "CLIENT_CONTACT_KEY": "ক্লায়েন্টের পরিচিতি",
+            "SERVER_CONTACT_KEY": "সার্ভারের পরিচিতি"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "নতুন করে প্রদর্শন",
+            "SERVER_CONTACTS_KEY": "সার্ভারের পরিচিতি",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "সকল পরিচিতিদের তালিকা সংকুচিত করুন",
+            "SAVE_KEY": "সংরক্ষণ",
+            "DELETE_KEY": "মুছে ফেলুন",
+            "IMPORT_KEY": "ইম্পোর্ট",
+            "EXPORT_KEY": "এক্সপোর্ট করুন",
+            "PING_SERVER_KEY": "সার্ভারে Ping করুন",
+            "ONE_CONTACT_KEY": "একটি পরিচিতি নির্বাচন করুন",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "এই তথ্যের জন্য একটি পরিচিতির তথ্য।.",
+            "NODE_KEY": "নোড",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "আপনার অনন্য নোডের নাম",
+            "NOTE_KEY": "নোট",
+            "ANY_TEXT_YOU_WANT_KEY": "যে কোনো লেখা",
+            "DOMAIN_ADDRESS_KEY": "ডোমেইনের ঠিকানা",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "দূরবর্তী সার্ভারের ঠিকানা",
+            "USER_NAME_KEY": "ব্যবহারকারীর নাম",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "দূরবর্তী সার্ভার থেকে হু-uuid প্রাপ্ত হয়েছে",
+            "SHARED_SECRET_KEY": "শেয়ার করা মেইল",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "দূরবর্তী সার্ভার থেকে 2k লগ-ইন নির্বাচন ব্যবস্থা প্রাপ্ত হয়েছে",
+            "ALLOWED_ROLES_KEY": "ভূমিকা",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "চিহ্নিত অ্যাকাউন্টর মধ্যে উপস্থিত সকল ভূমিকার তালিকা প্রদর্শন করা হবে",
+            "USER_KEY": "ব্যবহারকারী",
+            "DEVELOPER_KEY": "'%s' প্রিন্টারে টোনার শেষ হয়ে গেছে।Developer",
+            "ADMIN_KEY": "অ্যাডমিন"
+        }
+    }
+}

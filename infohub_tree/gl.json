@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:59:33",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "gl",
+        "language_name": "Galician",
+        "language_name_local": "Galego",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "El árbol",
+        "description": "Trata os teus datos persoais."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Instrucións",
+            "USE_THE_MENU._KEY": "Utiliza o menú."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Backup All",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Backup completo de todos os seus datos no servidor.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Ten un ficheiro con todo.",
+            "BACKUP_EVERYTHING_KEY": "Backup Todo",
+            "BACKUP_PLUGINS_KEY": "Comentarios en Backup plugins",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Revisión de cada plugin por separado.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Obter un ficheiro de backup para cada plugin.",
+            "REFRESH_PLUGIN_LIST_KEY": "Actualizar a lista de plugins",
+            "PLUGIN_LIST_KEY": "Lista de plugins",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Lista con todos os plugins",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Comentarios desactivados en plugins seleccionados",
+            "PARTIAL_BACKUP_KEY": "Backup parcial",
+            "PARTIAL_BACKUP._KEY": "Backup parcial.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Seleccione un plugin e seleccione as claves para backup.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Ten un ficheiro de backup.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Lista con todos os plugins.",
+            "SELECT_ONE_KEY": "Seleccione unha",
+            "REFRESH_KEY_LIST_KEY": "Refrixeramos a lista clave",
+            "KEYS_KEY": "Chaves",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "As claves do plugin seleccionado.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Seleccione os que desexa backup",
+            "BACKUP_SELECTED_KEYS_KEY": "Backup As claves seleccionadas"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "A documentación presentarase aquí",
+            "MAIN_DOC_KEY": "Doc principal",
+            "VERSION_DOC_KEY": "Versión Doc",
+            "ENCRYPTION_DOC_KEY": "Encryption doc",
+            "BACKUP_DOC_KEY": "Backup Doc",
+            "RESTORE_DOC_KEY": "Restaurar doc",
+            "STORAGE_DOC_KEY": "Doc de almacenamento",
+            "SYNC_DOC_KEY": "Sync doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Importar ficheiros clave",
+            "ONE_CONTACT_KEY": "Un contacto",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Este é o formulario de datos para un contacto",
+            "IMPORT_PASSWORD_KEY": "Importar contrasinal",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "O teu contrasinal para o ficheiro",
+            "FORGET_IMPORTED_KEY_KEY": "Esquece importados",
+            "EXPORT_KEY_FILE_KEY": "Exportar ficheiros clave",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Exportar a clave importada con novo contrasinal",
+            "EXPORT_PASSWORD_KEY": "Exportar contrasinal",
+            "CREATE_KEY_FILE_KEY": "Crea ficheiros clave",
+            "CREATE_NEW_KEY_FILE_KEY": "Crea un novo ficheiro clave",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Crea unha nova clave con novo contrasinal"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Administrador de Árbores",
+            "DOCUMENTATION_KEY": "Documentación",
+            "VERSION_KEY": "Versión",
+            "ENCRYPTION_KEY": "Encriptación",
+            "BACKUP_KEY": "Backup",
+            "RESTORE_KEY": "Restaurar",
+            "SYNC_KEY": "Sync"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Conflitos",
+            "SELECT_BACKUP_FILES_KEY": "Seleccionar ficheiros de backup",
+            "CLEAR_LIST_KEY": "Lista clara",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Restaurar datos para o almacenamento do navegador",
+            "BACKUP_FILES_KEY": "Backup Files",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Aquí está unha lista con todos os ficheiros de copia de seguridade que seleccionou no selector de ficheiros",
+            "INFORMATION_KEY": "Información",
+            "RESTORE_LOG_KEY": "Restaurar log",
+            "CLICK_ON_THE_LIST_KEY": "Click en la lista",
+            "REFRESH_CONFLICT_LIST_KEY": "Renovar a lista de conflitos",
+            "KEEP_LOCAL_VERSION_KEY": "Manter a versión local",
+            "KEEP_SERVER_VERSION_KEY": "Mantén a versión do servidor",
+            "CONFLICT_LIST_KEY": "Lista de conflitos"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Inicia o sincronizado aquí",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Primeiro sincronizar, despois xestionar as listas de subida, descarga e conflito",
+            "CLICK_ON_THE_LIST_KEY": "Click en la lista",
+            "SYNC_KEY": "Sync",
+            "UPLOAD_KEY": "Upload",
+            "DOWNLOAD_KEY": "Baixar",
+            "REFRESH_CONFLICT_LIST_KEY": "Renovar a lista de conflitos",
+            "KEEP_LOCAL_VERSION_KEY": "Manter a versión local",
+            "KEEP_SERVER_VERSION_KEY": "Mantén a versión do servidor",
+            "CONFLICT_LIST_KEY": "Lista de conflitos",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Podes axudarme a decidir que versión"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Actualizar os datos da versión"
+        }
+    }
+}

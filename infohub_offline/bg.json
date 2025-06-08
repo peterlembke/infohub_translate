@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "bg",
+        "language_name": "Bulgarian",
+        "language_name_local": "Български",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Работа без интернет",
+        "description": "Тук можете да се подготвите за работа без достъп до сървъра. Сваля данни, които може да ви трябват."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Офлайн инструменти",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Инструменти, за да видите дали сте онлайн или офлайн.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Вижте какви плъгини се включват в това събитие.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Копчета за изтегляне и съхранение на данни, за да се подготви за офлайн използване.",
+            "DOWNLOAD_PLUGINS_KEY": "Изтегляне на приставките",
+            "OF_KEY": "От",
+            "DOWNLOAD_ASSETS_KEY": "Изтегляне на активи",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Изтегляне на документация",
+            "SHOW_SUBSCRIBERS_KEY": "Показване на абонатите",
+            "STATUS_KEY": "Състояние"
+        }
+    }
+}

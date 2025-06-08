@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "bn",
+        "language_name": "Bengali",
+        "language_name_local": "বাংলা",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "স্বনির্ধারিত বার্তা পাঠান",
+        "description": "[ পাদটীকা]."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "ট্রিগার",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "আপনি যদি একজন ডেভেলপারকে একটি বার্তা পাঠাতে পারেন, তাহলে সেটিকে নতুন করে তৈরি করতে পারেন ।.",
+            "REFRESH_DATA_KEY": "তথ্য পুনরায় লোড করা হচ্ছে",
+            "NODE_KEY": "নোড",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "আপনি যে বার্তাটি লিখছেন, তা নির্বাচন করুন",
+            "CLIENT_KEY": "ক্লায়েন্ট:",
+            "SERVER_KEY": "সার্ভার",
+            "PLUGIN_KEY": "প্লাগ-ইন",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "প্রেরণ করার উদ্দেশ্যে একটি বার্তা নির্বাচন করুন",
+            "FUNCTION_KEY": "ফাংশন",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "যে বার্তাটি প্রেরণ করা হবে তা নির্বাচন করুন",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "নির্বাচিত ফাংশনের জন্য ডিফল্ট বার্তা",
+            "MESSAGE_KEY": "বার্তা",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "নির্বাচিত প্লাগ-ইন দ্বারা এই বার্তাটিটি প্রেরণ করা যাবে।.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "ব্যবহারযোগ্য বার্তাগুলির ডিফল্ট মান ধার্য করা হয়েছে।.",
+            "GET_ALL_KEY": "যা ভাগ",
+            "BARE_BONE_KEY": "বার হাড়",
+            "GET_DEFAULT_MESSAGE_KEY": "ডিফল্ট বার্তা প্রাপ্ত করুন",
+            "SEND_MESSAGE_KEY": "বার্তা পাঠাতে ব্যর্থ",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "ফাংশন থেকে প্রতিক্রিয়া",
+            "RESPONSE_KEY": "প্রতিক্রিয়া",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "ফাংশন থেকে প্রতিক্রিয়া দেখতে পাবেন ।.",
+            "NO_CONFIG_KEY": "কোনো কনফিগারেশন নেই"
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:12:36",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "ur",
+        "language_name": "Urdu",
+        "language_name_local": "اُردو",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "درخت",
+        "description": "آپ کے ذاتی اعداد و شمار کو جانچتا ہے۔."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "ہدایات",
+            "USE_THE_MENU._KEY": "مینو استعمال کریں."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "سب کو واپس اپ لوڈ کریں",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "اپنے تمام اعداد و شمار کی مکمل بیک اپ آپ سرور پر ہے.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "آپ سب کے ساتھ ایک فائل حاصل.",
+            "BACKUP_EVERYTHING_KEY": "سب کچھ واپس بھیج دیں",
+            "BACKUP_PLUGINS_KEY": "فولڈرز",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "ہر پلگ ان کے بیک اپ الگ.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "آپ ہر پلگ انس کے لئے ایک بیک اپ فائل حاصل.",
+            "REFRESH_PLUGIN_LIST_KEY": "تسلی‌بخش پلگ ان فہرست",
+            "PLUGIN_LIST_KEY": "فہرست",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "فہرست تمام درختوں کے ساتھ",
+            "BACKUP_SELECTED_PLUGINS_KEY": "پیکج منتخب پلگ انس",
+            "PARTIAL_BACKUP_KEY": "دوبارہ شروع",
+            "PARTIAL_BACKUP._KEY": "واپس اپ.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "ایک پلگ ان منتخب کریں اور بیک اپ کی کلید منتخب کریں۔.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "تم نے ایک بیک اپ فائل حاصل.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "فہرست تمام درختوں کے ساتھ.",
+            "SELECT_ONE_KEY": "جگہ",
+            "REFRESH_KEY_LIST_KEY": "تسلیی کلید فہرست",
+            "KEYS_KEY": "کلیدیات",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "منتخب پلگ ان کے تمام کلیدیں.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "جن لوگوں کو آپ بیک اپ کرنا چاہتے ہیں منتخب کريں",
+            "BACKUP_SELECTED_KEYS_KEY": "پیکج منتخب کلیدیں"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "دستاویزات یہاں ترتیب دے گی",
+            "MAIN_DOC_KEY": "ما وٴ س",
+            "VERSION_DOC_KEY": "نسخہ",
+            "ENCRYPTION_DOC_KEY": "غفلت",
+            "BACKUP_DOC_KEY": "بیک مشین",
+            "RESTORE_DOC_KEY": "گر تے هو ئے رنگ",
+            "STORAGE_DOC_KEY": "سٹیج دوک",
+            "SYNC_DOC_KEY": "سانک دوک"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "کلید _منتخب کریں",
+            "ONE_CONTACT_KEY": "ایک رابطہ",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "یہ ڈیٹا فارم ایک رابطہ کے لیے ہے۔",
+            "IMPORT_PASSWORD_KEY": "خفیہ لفظ",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "فائل فہرست کے لیے آپ کا پاس ورڈ",
+            "FORGET_IMPORTED_KEY_KEY": "درآمد کردہ درآمد بھول جائیں",
+            "EXPORT_KEY_FILE_KEY": "کلید حذف کریں",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "نئے خفیہ لفظ سے درآمد کردہ کلید کو محفوظ کریں",
+            "EXPORT_PASSWORD_KEY": "خفیہ لفظ پاس ورڈ",
+            "CREATE_KEY_FILE_KEY": "کلیدی فائل بنائیں",
+            "CREATE_NEW_KEY_FILE_KEY": "نیا کلید بنائیں",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "نیا خفیہ لفظ بنائیں"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "درخت منیجر",
+            "DOCUMENTATION_KEY": "دستاویز",
+            "VERSION_KEY": "ورژن",
+            "ENCRYPTION_KEY": "غیر متصل",
+            "BACKUP_KEY": "فولڈرز",
+            "RESTORE_KEY": "مصر",
+            "SYNC_KEY": "سانک"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "اختلافات",
+            "SELECT_BACKUP_FILES_KEY": "پرانی فائلیں منتخب کریں",
+            "CLEAR_LIST_KEY": "صاف فہرست",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "براؤزر ذخیرہ کرنے کے لیے شمارے",
+            "BACKUP_FILES_KEY": "فولڈرز",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "یہ فہرست تمام پشتو فائلیں بلحاظ فائل فائل منتخب کی گئی ہے۔",
+            "INFORMATION_KEY": "معلومات",
+            "RESTORE_LOG_KEY": "لاگ ان",
+            "CLICK_ON_THE_LIST_KEY": "فہرست پر کلک کريں",
+            "REFRESH_CONFLICT_LIST_KEY": "لڑائی جھگڑوں کی فہرست",
+            "KEEP_LOCAL_VERSION_KEY": "مقامی ورژن رکھیں",
+            "KEEP_SERVER_VERSION_KEY": "نیٹ ورک ورژن قائم رکھیں",
+            "CONFLICT_LIST_KEY": "اختلاف فہرست"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "یہاں سنک شروع کریں",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "آپ پہلے سنک، پھر اپ لوڈ کریں، ڈاؤن لوڈ کریں اور اختلاف فہرستیں ڈالیں",
+            "CLICK_ON_THE_LIST_KEY": "فہرست پر کلک کريں",
+            "SYNC_KEY": "سانک",
+            "UPLOAD_KEY": "اپ لوڈ کریں",
+            "DOWNLOAD_KEY": "گر تے ہوئے",
+            "REFRESH_CONFLICT_LIST_KEY": "لڑائی جھگڑوں کی فہرست",
+            "KEEP_LOCAL_VERSION_KEY": "مقامی ورژن رکھیں",
+            "KEEP_SERVER_VERSION_KEY": "نیٹ ورک ورژن قائم رکھیں",
+            "CONFLICT_LIST_KEY": "اختلاف فہرست",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "آپ مجھے یہ فیصلہ کرنے میں مدد دے سکتے ہیں کہ کیا ورژن رکھنے کے لئے ہے"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "غیر متصل نسخہ اعداد"
+        }
+    }
+}

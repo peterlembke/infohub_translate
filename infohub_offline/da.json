@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 19:05:00",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "da",
+        "language_name": "Danish",
+        "language_name_local": "Dansk",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Arbejde uden internet",
+        "description": "Her kan du forberede dig på at arbejde uden adgang til serveren. Download data, som du måske har brug for."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "Offline-værktøjer",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "Værktøjer til at se om du er online eller offline.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "Se hvilke plugins der abonnerer på denne begivenhed.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "Knapper til at downloade og gemme data til at forberede til offline brug.",
+            "DOWNLOAD_PLUGINS_KEY": "Download plugins",
+            "OF_KEY": "Af",
+            "DOWNLOAD_ASSETS_KEY": "Download aktiver",
+            "DOWNLOAD_DOCUMENTATION_KEY": "Download dokumentation",
+            "SHOW_SUBSCRIBERS_KEY": "Vis abonnenter",
+            "STATUS_KEY": "Status"
+        }
+    }
+}

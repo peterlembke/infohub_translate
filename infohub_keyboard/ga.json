@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "ga",
+        "language_name": "Irish",
+        "language_name_local": "Gaeilge na hÉireann",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Uisce agus Séarachas",
+        "description": "Anseo is féidir leat síntiús a íoc le teaglaim méarchlár agus iad a cheangal le feidhmeanna."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Tástálacha Keyboard",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Bain triail as teaglaim ar do mhéarchlár",
+            "ANY_BUTTON_KEY": "Aon cnaipe",
+            "SUBSCRIBE_KEY": "Liostáil",
+            "UNSUBSCRIBE_KEY": "Díroghnaigh gach rud",
+            "SHOW_SUBSCRIBERS_KEY": "Taispeáin síntiúsóirí",
+            "KEYBOARD_DEMO_POPUP_KEY": "Méarchláir popup taispeána"
+        }
+    }
+}

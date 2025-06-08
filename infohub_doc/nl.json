@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 19:05:00",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "nl",
+        "language_name": "Dutch",
+        "language_name_local": "Nederlands",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Documentatie",
+        "description": "Volledige documentatie over InfoHub en alle plugins."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "Document",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Hier ziet u het document"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Index vernieuwen",
+            "INDEX_KEY": "Index"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "Navigeren vernieuwen",
+            "NAVIGATION_KEY": "Navigatie"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Bezochte verversen"
+        }
+    }
+}

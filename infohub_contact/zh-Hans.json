@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 17:57:35",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "zh-Hans",
+        "language_name": "Chinese",
+        "language_name_local": "中国语",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "用户和节点",
+        "description": "您可以在这里处理您的用户 。 您可以在此设置其它服务器节点的访问权限 ."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "说明",
+            "USE_THE_MENU._KEY": "用菜单."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "刷新客户端",
+            "CLIENT_CONTACTS_KEY": "客户联系人",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "列出所有客户端联系人",
+            "NEW_KEY": "新设",
+            "SAVE_KEY": "保存",
+            "DELETE_KEY": "删除",
+            "IMPORT_KEY": "导入",
+            "EXPORT_KEY": "导出",
+            "ONE_CONTACT_KEY": "一个联系人",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "这是一个联系人的数据表单",
+            "NODE_KEY": "节点",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "您的客户端独有名称",
+            "NOTE_KEY": "说明",
+            "ANY_TEXT_YOU_WANT_KEY": "您想要的任何文本",
+            "DOMAIN_ADDRESS_KEY": "域地址",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "服务器的域地址",
+            "USER_NAME_KEY": "用户名",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "你省钱的时候会得到一个枢机",
+            "SHARED_SECRET_KEY": "共享机密",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "当您保存时会获得 2k 随机字符串( 空白)",
+            "ALLOWED_ROLES_KEY": "允许的作用",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "列出您拥有的所有用户角色",
+            "USER_KEY": "用户",
+            "DEVELOPER_KEY": "开发者",
+            "ADMIN_KEY": "管理员",
+            "HAS_PASSWORD_KEY": "有密码",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "如果导入的文件有用户设置的客户端密码"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "文件将在此提交",
+            "MAIN_DOC_KEY": "主要医生",
+            "CLIENT_DOC_KEY": "客户端 doc",
+            "SERVER_DOC_KEY": "服务器 doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "联系管理器",
+            "DOCUMENTATION_KEY": "文档",
+            "CLIENT_CONTACT_KEY": "客户联系人",
+            "SERVER_CONTACT_KEY": "服务器联系人"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "刷新",
+            "SERVER_CONTACTS_KEY": "服务器联系人",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "列出所有服务器联系人",
+            "SAVE_KEY": "保存",
+            "DELETE_KEY": "删除",
+            "IMPORT_KEY": "导入",
+            "EXPORT_KEY": "导出",
+            "PING_SERVER_KEY": "小平服务器",
+            "ONE_CONTACT_KEY": "一个联系人",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "这是一个联系人的数据表.",
+            "NODE_KEY": "节点",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "您唯一的节点名称",
+            "NOTE_KEY": "说明",
+            "ANY_TEXT_YOU_WANT_KEY": "您想要的任何文本",
+            "DOMAIN_ADDRESS_KEY": "域地址",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "远程服务器的域地址",
+            "USER_NAME_KEY": "用户名",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "你从远程服务器得到的Hub -uuid",
+            "SHARED_SECRET_KEY": "共享机密",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "从远程服务器得到的 2k 随机字符串",
+            "ALLOWED_ROLES_KEY": "允许的作用",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "列出该账户的所有角色",
+            "USER_KEY": "用户",
+            "DEVELOPER_KEY": "开发者",
+            "ADMIN_KEY": "管理员"
+        }
+    }
+}

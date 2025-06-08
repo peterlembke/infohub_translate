@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "lv",
+        "language_name": "Latvian",
+        "language_name_local": "Latviešu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Lietotāji un mezgli",
+        "description": "Jūs varat rīkoties ar saviem lietotājiem šeit. Šeit varat iestatīt piekļuvi citiem servera mezgliem."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Norādījumi",
+            "USE_THE_MENU._KEY": "Izmanto izvēlni."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Atjaunināt klientus",
+            "CLIENT_CONTACTS_KEY": "Klientu kontakti",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Parādīt visus klienta kontaktus",
+            "NEW_KEY": "Jauns",
+            "SAVE_KEY": "Saglabāt",
+            "DELETE_KEY": "Dzēst",
+            "IMPORT_KEY": "Importēt",
+            "EXPORT_KEY": "Eksports",
+            "ONE_CONTACT_KEY": "Viens kontakts",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Šī ir viena kontakta datu veidlapa",
+            "NODE_KEY": "Mezgls",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Jūsu unikālais klienta vārds",
+            "NOTE_KEY": "Piezīme",
+            "ANY_TEXT_YOU_WANT_KEY": "Jebkurš teksts, ko vēlaties",
+            "DOMAIN_ADDRESS_KEY": "Domēna adrese",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Domēna adrese uz jūsu serveri",
+            "USER_NAME_KEY": "Lietotājvārds",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Saglabāšanas laikā jūs iegūstat centrmezglu (atstāt tukšu)",
+            "SHARED_SECRET_KEY": "Dalīts noslēpums",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Saglabājot jūs saņemsiet 2k nejaušu virkni (atstājiet tukšu)",
+            "ALLOWED_ROLES_KEY": "Atļautās lomas",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Saraksts ar visām jūsu lietotāja lomām",
+            "USER_KEY": "Lietotājs",
+            "DEVELOPER_KEY": "Izstrādātājs",
+            "ADMIN_KEY": "Administrators",
+            "HAS_PASSWORD_KEY": "Ir parole",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Ja importētajam failam ir lietotāja iestatīta klienta parole"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentācija tiks renderēta šeit",
+            "MAIN_DOC_KEY": "Galvenais dok",
+            "CLIENT_DOC_KEY": "Klienta doks",
+            "SERVER_DOC_KEY": "Servera doks"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Kontaktu pārvaldnieks",
+            "DOCUMENTATION_KEY": "Dokumentācija",
+            "CLIENT_CONTACT_KEY": "Klientu kontakts",
+            "SERVER_CONTACT_KEY": "Servera kontakts"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Atsvaidzināt",
+            "SERVER_CONTACTS_KEY": "Servera kontakti",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Parādīt visus servera kontaktus",
+            "SAVE_KEY": "Saglabāt",
+            "DELETE_KEY": "Dzēst",
+            "IMPORT_KEY": "Importēt",
+            "EXPORT_KEY": "Eksports",
+            "PING_SERVER_KEY": "Ping serveris",
+            "ONE_CONTACT_KEY": "Viens kontakts",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Šī ir viena kontakta datu veidlapa.",
+            "NODE_KEY": "Mezgls",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Jūsu unikālais mezgla nosaukums",
+            "NOTE_KEY": "Piezīme",
+            "ANY_TEXT_YOU_WANT_KEY": "Jebkurš teksts, ko vēlaties",
+            "DOMAIN_ADDRESS_KEY": "Domēna adrese",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Domēna adrese uz attālināto serveri",
+            "USER_NAME_KEY": "Lietotājvārds",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub- uuid jums no attālinātā servera",
+            "SHARED_SECRET_KEY": "Dalīts noslēpums",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k nejauša virkne no attālinātā servera",
+            "ALLOWED_ROLES_KEY": "Atļautās lomas",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Saraksts ar visām šī konta lomām",
+            "USER_KEY": "Lietotājs",
+            "DEVELOPER_KEY": "Izstrādātājs",
+            "ADMIN_KEY": "Administrators"
+        }
+    }
+}

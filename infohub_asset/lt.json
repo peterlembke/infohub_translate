@@ -1,0 +1,23 @@
+{
+    "version": {
+        "date": "2025-06-08 18:39:46",
+        "plugin": "infohub_asset",
+        "data_checksum": "4b8b2175f172389022784fdb24605692",
+        "language": "lt",
+        "language_name": "Lithuanian",
+        "language_name_local": "Lietuvių",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Licencijos informacija",
+        "description": "Rodyti viso naudojamo turto licencijos informaciją"
+    },
+    "data": {
+        "infohub_asset": {
+            "REFRESH_LIST_KEY": "Atnaujinti sąrašą"
+        }
+    }
+}

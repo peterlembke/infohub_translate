@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 19:05:00",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "nl",
+        "language_name": "Dutch",
+        "language_name_local": "Nederlands",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Vertalen",
+        "description": "Handmatig vertalen van een zin. Taalbestanden aanmaken voor plugins."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Instructies",
+            "USE_THE_MENU._KEY": "Gebruik het menu."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Documentatie wordt hier weergegeven",
+            "MAIN_DOC_KEY": "Hoofddoc",
+            "MANUAL_TRANSLATION_KEY": "Handmatige vertaling",
+            "PLUGIN_TRANSLATION_KEY": "Plugin-vertaling"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Handmatige vertaling",
+            "REFRESH_LANGUAGE_LIST_KEY": "Talenlijst vernieuwen",
+            "SELECT_LANGUAGE_KEY": "Taal selecteren",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Selecteer brontaal.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Selecteer doeltaal.",
+            "YOUR_TEXT_KEY": "Uw tekst",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "De tekst die u wilt vertalen.",
+            "TRANSLATE_KEY": "Vertalen",
+            "THE_TRANSLATED_TEXT_KEY": "De vertaalde tekst",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "De tekst die je krijgt na vertaling.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Selecteer doeltaal. Schrijf tekst. Klik op vertalen",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Kies een taal om te vertalen uit",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Schrijf iets zodat ik kan vertalen",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Kies een taal om naar te vertalen",
+            "TRANSLATION_DONE_KEY": "Vertaling gedaan"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Vertaalhulpmiddel",
+            "DOCUMENTATION_KEY": "Documentatie",
+            "MANUAL_TRANSLATION_KEY": "Handmatige vertaling",
+            "PLUGIN_TRANSLATION_KEY": "Plugin-vertaling"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Lijsten vernieuwen",
+            "SELECT_PLUGIN_KEY": "Plugin selecteren",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Lijsten van alle client plugins die vertaling bestanden kunnen hebben.",
+            "SELECT_LANGUAGES_KEY": "Talen selecteren",
+            "TRANSLATE_KEY": "Vertalen",
+            "PLUGIN_TRANSLATION_KEY": "Plugin-vertaling",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Plugins en talen selecteren",
+            "CLICK_TRANSLATE_KEY": "Klik op vertalen",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Verversen van de lijsten is voltooid",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Kies een of meer plugins om te vertalen",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Kies een of meer talen om naar te vertalen",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Server vragen om te vertalen",
+            "TO_LANGUAGES_KEY": "Naar talen",
+            "TRANSLATION_DONE_KEY": "Vertaling gedaan",
+            "EXECUTION_TIME_KEY": "Uitvoeringstijd",
+            "SECONDS_KEY": "Seconden"
+        }
+    }
+}

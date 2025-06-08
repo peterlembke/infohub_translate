@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 19:05:00",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "da",
+        "language_name": "Danish",
+        "language_name_local": "Dansk",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Brugere og knudepunkter",
+        "description": "Du kan håndtere dine brugere her. Du kan oprette adgang til andre serverknuder her."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instruktioner",
+            "USE_THE_MENU._KEY": "Brug menuen."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Genopfrisk kunder",
+            "CLIENT_CONTACTS_KEY": "Kundekontakter",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Liste over alle klientkontakter",
+            "NEW_KEY": "Ny",
+            "SAVE_KEY": "Gem",
+            "DELETE_KEY": "Slet",
+            "IMPORT_KEY": "Importér",
+            "EXPORT_KEY": "Eksport",
+            "ONE_CONTACT_KEY": "En kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Dette er dataformularen for én kontakt",
+            "NODE_KEY": "Knude",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Dit unikke navn på klienten",
+            "NOTE_KEY": "Bemærkning",
+            "ANY_TEXT_YOU_WANT_KEY": "Enhver tekst du ønsker",
+            "DOMAIN_ADDRESS_KEY": "Domæne adresse",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Domænets adresse til din server",
+            "USER_NAME_KEY": "Brugernavn",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Du får en hub- uuid når du gemmer (lad blanke)",
+            "SHARED_SECRET_KEY": "Fælles hemmelighed",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Du vil få en 2k tilfældig streng, når du gemmer (lad blank)",
+            "ALLOWED_ROLES_KEY": "Tilladte roller",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Liste med alle brugerroller du har",
+            "USER_KEY": "Bruger",
+            "DEVELOPER_KEY": "Udvikler",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Har adgangskode",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Hvis importeret fil har en klient password indstillet af brugeren"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentation vil vise her",
+            "MAIN_DOC_KEY": "Hovedlæge",
+            "CLIENT_DOC_KEY": "Kundedoc",
+            "SERVER_DOC_KEY": "Serverdoc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Kontakthåndtering",
+            "DOCUMENTATION_KEY": "Dokumentation",
+            "CLIENT_CONTACT_KEY": "Klientkontakt",
+            "SERVER_CONTACT_KEY": "Serverkontakt"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Genopfrisk",
+            "SERVER_CONTACTS_KEY": "Serverkontakter",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Liste over alle serverkontakter",
+            "SAVE_KEY": "Gem",
+            "DELETE_KEY": "Slet",
+            "IMPORT_KEY": "Importér",
+            "EXPORT_KEY": "Eksport",
+            "PING_SERVER_KEY": "Ping- server",
+            "ONE_CONTACT_KEY": "En kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Dette er dataformularen for én kontakt.",
+            "NODE_KEY": "Knude",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Dit unikke nodenavn",
+            "NOTE_KEY": "Bemærkning",
+            "ANY_TEXT_YOU_WANT_KEY": "Enhver tekst du ønsker",
+            "DOMAIN_ADDRESS_KEY": "Domæne adresse",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Domæneadressen til den eksterne server",
+            "USER_NAME_KEY": "Brugernavn",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub- uuid du fik fra den eksterne server",
+            "SHARED_SECRET_KEY": "Fælles hemmelighed",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k tilfældig streng du fik fra den eksterne server",
+            "ALLOWED_ROLES_KEY": "Tilladte roller",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Liste med alle roller denne konto har",
+            "USER_KEY": "Bruger",
+            "DEVELOPER_KEY": "Udvikler",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

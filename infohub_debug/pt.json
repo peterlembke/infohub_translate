@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:08:43",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "pt",
+        "language_name": "Portuguese",
+        "language_name_local": "Português",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Ferramenta de depuração",
+        "description": "Ferramenta para desenvolvedores e testadores."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "Limpar a 'cache'",
+            "DONE_REFRESHING_PAGE_KEY": "Página refrescante feita",
+            "RELOAD_PAGE._KEY": "Recarregar página.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "Limpar plug- ins antigos marcados pelo servidor. Recarregar página.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "Limpar todos os plugins locais, página de recarga.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "Limpar todos os dados locais, recarregar página.",
+            "INSTRUCTIONS_KEY": "Instruções",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "Clique em uma opção ou use o teclado. Estas chaves funcionam sempre onde quer que você esteja em infohub.",
+            "INFORMATION_KEY": "Informação",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "Também está na parte inferior da tela do lançador como um botão no caso de você não poder iniciar a depuração e não ter nenhum teclado em seu dispositivo.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "É a única opção que também remove ícones e traduções e configurações do armazenamento local.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "Remove silenciosamente a 'cache' de renderização para o usuário conectado",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "Regista- o e actualiza a página"
+        }
+    }
+}

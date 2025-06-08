@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:14:52",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "uk",
+        "language_name": "Ukrainian",
+        "language_name_local": "Українська",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Переклад",
+        "description": "Ручно переклад фрази. Створення мовних файлів для плагінів."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Інструкції",
+            "USE_THE_MENU._KEY": "Використовуйте меню."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Документація буде представлена тут",
+            "MAIN_DOC_KEY": "Головна",
+            "MANUAL_TRANSLATION_KEY": "Ручний переклад",
+            "PLUGIN_TRANSLATION_KEY": "Переклад плагінів"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Ручний переклад",
+            "REFRESH_LANGUAGE_LIST_KEY": "Список іноземних мов",
+            "SELECT_LANGUAGE_KEY": "Виберіть мову",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Виберіть мову джерела.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Виберіть мову призначення.",
+            "YOUR_TEXT_KEY": "Ваш текст",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Текст ви хочете перевести.",
+            "TRANSLATE_KEY": "Переклад",
+            "THE_TRANSLATED_TEXT_KEY": "Переклад текстів",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Текст ви отримаєте після перекладу.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Виберіть мову призначення. Напишіть текст. Натисніть переклад",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Виберіть мову для перекладу з",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Напишіть щось так, що я можу перевести",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Виберіть мову для перекладу",
+            "TRANSLATION_DONE_KEY": "Переклад"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Інструменти перекладу",
+            "DOCUMENTATION_KEY": "Документація",
+            "MANUAL_TRANSLATION_KEY": "Ручний переклад",
+            "PLUGIN_TRANSLATION_KEY": "Переклад плагінів"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Списки Refresh",
+            "SELECT_PLUGIN_KEY": "Виберіть плагін",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Списки всіх клієнтських плагінів, які можуть мати файли перекладу.",
+            "SELECT_LANGUAGES_KEY": "Виберіть мову",
+            "TRANSLATE_KEY": "Переклад",
+            "PLUGIN_TRANSLATION_KEY": "Переклад плагінів",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Виберіть плагіни та мови",
+            "CLICK_TRANSLATE_KEY": "Натисніть переклад",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Референц списків робиться",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Виберіть один або більше плагінів для перекладу",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Виберіть одну або більше мов для перекладу",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Запит сервера для перекладу",
+            "TO_LANGUAGES_KEY": "Мова",
+            "TRANSLATION_DONE_KEY": "Переклад",
+            "EXECUTION_TIME_KEY": "Час виконання",
+            "SECONDS_KEY": "Втрьох"
+        }
+    }
+}

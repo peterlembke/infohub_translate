@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:46:01",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "ja",
+        "language_name": "Japanese",
+        "language_name_local": "日本語 English",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ツリー",
+        "description": "個人情報の処理."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "インフォメーション",
+            "USE_THE_MENU._KEY": "メニューを使用します."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "すべてのバックアップ",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "サーバ上のすべてのデータの完全なバックアップ.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "すべてのファイルで1つのファイルを取得します.",
+            "BACKUP_EVERYTHING_KEY": "すべてのバックアップ",
+            "BACKUP_PLUGINS_KEY": "バックアッププラグイン",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "各プラグインを別々にバックアップします.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "各プラグインに1つのバックアップファイルがあります.",
+            "REFRESH_PLUGIN_LIST_KEY": "プラグインリストをリフレッシュ",
+            "PLUGIN_LIST_KEY": "プラグインリスト",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "すべてのツリープラグインでリスト",
+            "BACKUP_SELECTED_PLUGINS_KEY": "バックアップ選択したプラグイン",
+            "PARTIAL_BACKUP_KEY": "部分的なバックアップ",
+            "PARTIAL_BACKUP._KEY": "部分的なバックアップ.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "1つのプラグインを選択し、バックアップにキーを選択します.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "1つのバックアップファイルを取得します.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "すべてのツリープラグインでリストします.",
+            "SELECT_ONE_KEY": "1 つを選択",
+            "REFRESH_KEY_LIST_KEY": "キーリストをリフレッシュ",
+            "KEYS_KEY": "キー",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "選択したプラグインのすべてのキー.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "バックアップしたいものを選択します",
+            "BACKUP_SELECTED_KEYS_KEY": "バックアップ選択キー"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "ドキュメントはここにレンダリングされます",
+            "MAIN_DOC_KEY": "メインドキュメント",
+            "VERSION_DOC_KEY": "バージョン doc",
+            "ENCRYPTION_DOC_KEY": "暗号化 doc",
+            "BACKUP_DOC_KEY": "バックアップ doc",
+            "RESTORE_DOC_KEY": "ドキュメントを復元する",
+            "STORAGE_DOC_KEY": "ストレージ doc",
+            "SYNC_DOC_KEY": "ドキュメントの同期"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "インポートキーファイル",
+            "ONE_CONTACT_KEY": "1つの接触",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "1つの連絡先のデータフォームです",
+            "IMPORT_PASSWORD_KEY": "インポートパスワード",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "ファイルのパスワード",
+            "FORGET_IMPORTED_KEY_KEY": "輸入された忘れ物",
+            "EXPORT_KEY_FILE_KEY": "エクスポートキーファイル",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "インポートされたキーを新しいパスワードでエクスポートする",
+            "EXPORT_PASSWORD_KEY": "パスワードのエクスポート",
+            "CREATE_KEY_FILE_KEY": "キーファイルを作成する",
+            "CREATE_NEW_KEY_FILE_KEY": "新しいキーファイルを作成する",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "新しいパスワードで新しいキーを作成する"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "ツリーマネージャー",
+            "DOCUMENTATION_KEY": "ドキュメント",
+            "VERSION_KEY": "バージョン",
+            "ENCRYPTION_KEY": "暗号化",
+            "BACKUP_KEY": "バックアップ",
+            "RESTORE_KEY": "リストア",
+            "SYNC_KEY": "同期"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "コンプリット",
+            "SELECT_BACKUP_FILES_KEY": "バックアップファイルの選択",
+            "CLEAR_LIST_KEY": "明確なリスト",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "ブラウザストレージにデータを復元",
+            "BACKUP_FILES_KEY": "バックアップファイル",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "ここでは、ファイルセレクターで選択したすべてのバックアップファイルのリストです",
+            "INFORMATION_KEY": "インフォメーション",
+            "RESTORE_LOG_KEY": "ログを復元する",
+            "CLICK_ON_THE_LIST_KEY": "リストをクリック",
+            "REFRESH_CONFLICT_LIST_KEY": "競合リストをリフレッシュ",
+            "KEEP_LOCAL_VERSION_KEY": "ローカルバージョンを維持",
+            "KEEP_SERVER_VERSION_KEY": "サーババージョンを維持",
+            "CONFLICT_LIST_KEY": "紛争リスト"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "ここで同期を開始する",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "最初に同期し、アップロード、ダウンロード、競合リストを処理します",
+            "CLICK_ON_THE_LIST_KEY": "リストをクリック",
+            "SYNC_KEY": "同期",
+            "UPLOAD_KEY": "アップロード",
+            "DOWNLOAD_KEY": "ダウンロード",
+            "REFRESH_CONFLICT_LIST_KEY": "競合リストをリフレッシュ",
+            "KEEP_LOCAL_VERSION_KEY": "ローカルバージョンを維持",
+            "KEEP_SERVER_VERSION_KEY": "サーババージョンを維持",
+            "CONFLICT_LIST_KEY": "紛争リスト",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "どのバージョンが保持されているかを判断するのに役立ちます"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "バージョンデータの更新"
+        }
+    }
+}

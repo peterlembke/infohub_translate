@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Orodje za razhroščevanje",
+        "description": "Orodje za razvijalce in testerje."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "Opravil klirinški predpomnilnik",
+            "DONE_REFRESHING_PAGE_KEY": "Osvežujoča stran",
+            "RELOAD_PAGE._KEY": "Znova naloži stran.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "Očisti stare vstavke, ki jih označuje strežnik. Znova naloži stran.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "Očisti vse lokalne vstavke, ponovno naloži stran.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "Počisti vse lokalne podatke, znova naloži stran.",
+            "INSTRUCTIONS_KEY": "Navodila",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "Kliknite na možnost ali uporabite tipkovnico. Ti ključi vedno delujejo povsod, kjer ste v infohubu.",
+            "INFORMATION_KEY": "Podatki",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "Je tudi na dnu zaganjalnika kot gumb v primeru, da ne morete začeti razhroščevanja in nimajo tipkovnice na napravi.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "Je edina možnost, ki tudi odstrani ikone in prevode in nastavitve iz krajevnega skladišča.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "Tiho zbriši predpomnilnik za prijavljenega uporabnika",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "Izpiše in osveži stran"
+        }
+    }
+}

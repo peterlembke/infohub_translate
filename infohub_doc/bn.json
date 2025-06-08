@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "bn",
+        "language_name": "Bengali",
+        "language_name_local": "বাংলা",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "নথিপত্র",
+        "description": "ইনফোহাব এবং সমস্ত প্লাগইনের সম্পূর্ণ নথি।."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "ডকুমেন্ট",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "এখানে আপনি ডকুমেন্ট দেখতে পাবেন"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "সূচী পুনরায় লোড করো",
+            "INDEX_KEY": "সূচিপত্র"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "নতুন করে প্রদর্শন",
+            "NAVIGATION_KEY": "পরিদর্শন"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "পরিদর্শিত মাপে প্রদর্শন"
+        }
+    }
+}

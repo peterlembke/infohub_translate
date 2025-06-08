@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "tl",
+        "language_name": "Tagalog",
+        "language_name_local": "Tagalog",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Susi",
+        "description": "Dito ay maaari kang sumang - ayon sa mga kombinasyon ng keyboard at itali ito sa mga gawain."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Mga pagsubok sa teklado",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Subukan ang mga kombinasyon sa iyong keyboard",
+            "ANY_BUTTON_KEY": "Anumang buton",
+            "SUBSCRIBE_KEY": "Sulat",
+            "UNSUBSCRIBE_KEY": "Hindi Nakikita",
+            "SHOW_SUBSCRIBERS_KEY": "Ipakita ang mga subscriber",
+            "KEYBOARD_DEMO_POPUP_KEY": "\" Keyboard demo popup \""
+        }
+    }
+}

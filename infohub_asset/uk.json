@@ -1,0 +1,23 @@
+{
+    "version": {
+        "date": "2025-06-08 18:14:52",
+        "plugin": "infohub_asset",
+        "data_checksum": "4b8b2175f172389022784fdb24605692",
+        "language": "uk",
+        "language_name": "Ukrainian",
+        "language_name_local": "Українська",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Інформація про ліцензію",
+        "description": "Показати інформацію про ліцензію для всіх використаних активів"
+    },
+    "data": {
+        "infohub_asset": {
+            "REFRESH_LIST_KEY": "Список Refresh"
+        }
+    }
+}

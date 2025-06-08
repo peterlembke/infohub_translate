@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:46:01",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "ja",
+        "language_name": "Japanese",
+        "language_name_local": "日本語 English",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ログイン",
+        "description": "手動でフレーズを翻訳します。 プラグイン用の言語ファイルを作成します."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "インフォメーション",
+            "USE_THE_MENU._KEY": "メニューを使用します."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "ドキュメントはここにレンダリングされます",
+            "MAIN_DOC_KEY": "メインドキュメント",
+            "MANUAL_TRANSLATION_KEY": "マニュアル翻訳",
+            "PLUGIN_TRANSLATION_KEY": "プラグイン翻訳"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "マニュアル翻訳",
+            "REFRESH_LANGUAGE_LIST_KEY": "言語リストをリフレッシュ",
+            "SELECT_LANGUAGE_KEY": "言語を選択",
+            "SELECT_SOURCE_LANGUAGE._KEY": "ソース言語を選択します.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "目的地の言語を選択します.",
+            "YOUR_TEXT_KEY": "あなたのテキスト",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "翻訳するテキスト.",
+            "TRANSLATE_KEY": "ログイン",
+            "THE_TRANSLATED_TEXT_KEY": "翻訳されたテキスト",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "翻訳後に取得するテキスト.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "目的地の言語を選択します。 テキストを書きます。 翻訳をクリック",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "翻訳する言語を選ぶ",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "翻訳できるように何かを書く",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "翻訳する言語を選ぶ",
+            "TRANSLATION_DONE_KEY": "翻訳完了"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "翻訳ツール",
+            "DOCUMENTATION_KEY": "ドキュメント",
+            "MANUAL_TRANSLATION_KEY": "マニュアル翻訳",
+            "PLUGIN_TRANSLATION_KEY": "プラグイン翻訳"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "リストをリフレッシュ",
+            "SELECT_PLUGIN_KEY": "プラグインを選択",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "翻訳ファイルを持つすべてのクライアントプラグインをリストします.",
+            "SELECT_LANGUAGES_KEY": "言語を選択",
+            "TRANSLATE_KEY": "ログイン",
+            "PLUGIN_TRANSLATION_KEY": "プラグイン翻訳",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "プラグインと言語の選択",
+            "CLICK_TRANSLATE_KEY": "翻訳をクリック",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "リストのリフレッシュ",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "翻訳するプラグインを1つ以上選ぶ",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "翻訳する1つ以上の言語を選ぶ",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "翻訳するサーバを要求する",
+            "TO_LANGUAGES_KEY": "外国語対応",
+            "TRANSLATION_DONE_KEY": "翻訳完了",
+            "EXECUTION_TIME_KEY": "実行時間",
+            "SECONDS_KEY": "セカンド"
+        }
+    }
+}

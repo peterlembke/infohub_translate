@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 19:07:24",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "cs",
+        "language_name": "Czech",
+        "language_name_local": "Česká republika",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Uživatelé a uzly",
+        "description": "Můžete se postarat o své uživatele zde. Zde můžete nastavit přístup k dalším serverovým uzlům."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Pokyny",
+            "USE_THE_MENU._KEY": "Použij menu."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Obnovit klienty",
+            "CLIENT_CONTACTS_KEY": "Klientské kontakty",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Seznam všech kontaktů klientů",
+            "NEW_KEY": "Nový",
+            "SAVE_KEY": "Uložit",
+            "DELETE_KEY": "Smazat",
+            "IMPORT_KEY": "Importovat",
+            "EXPORT_KEY": "Vývoz",
+            "ONE_CONTACT_KEY": "Jeden kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Toto je datový formulář pro jeden kontakt",
+            "NODE_KEY": "Uzel",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Vaše jedinečné jméno klienta",
+            "NOTE_KEY": "Poznámka",
+            "ANY_TEXT_YOU_WANT_KEY": "Jakýkoliv text, který chcete",
+            "DOMAIN_ADDRESS_KEY": "Adresa domény",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Adresa domény na váš server",
+            "USER_NAME_KEY": "Uživatelské jméno",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Dostanete hub- uuid, když ušetříte (nechat prázdné)",
+            "SHARED_SECRET_KEY": "Sdílené tajemství",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Získáte 2k náhodný řetězec, když uložíte (nechte prázdné)",
+            "ALLOWED_ROLES_KEY": "Povolené role",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Seznam se všemi uživatelskými rolemi, které máte",
+            "USER_KEY": "Uživatel",
+            "DEVELOPER_KEY": "Vývojář",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Má heslo",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Pokud importovaný soubor má heslo klienta nastavené uživatelem"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentace se objeví zde",
+            "MAIN_DOC_KEY": "Hlavní lékař",
+            "CLIENT_DOC_KEY": "Klient doc",
+            "SERVER_DOC_KEY": "Server doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Správce kontaktů",
+            "DOCUMENTATION_KEY": "Dokumentace",
+            "CLIENT_CONTACT_KEY": "Kontakt klienta",
+            "SERVER_CONTACT_KEY": "Kontakt serveru"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Obnovit",
+            "SERVER_CONTACTS_KEY": "Kontakty serveru",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Seznam všech kontaktů serveru",
+            "SAVE_KEY": "Uložit",
+            "DELETE_KEY": "Smazat",
+            "IMPORT_KEY": "Importovat",
+            "EXPORT_KEY": "Vývoz",
+            "PING_SERVER_KEY": "Ping server",
+            "ONE_CONTACT_KEY": "Jeden kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Toto je datový formulář pro jeden kontakt.",
+            "NODE_KEY": "Uzel",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Vaše jedinečné jméno uzlu",
+            "NOTE_KEY": "Poznámka",
+            "ANY_TEXT_YOU_WANT_KEY": "Jakýkoliv text, který chcete",
+            "DOMAIN_ADDRESS_KEY": "Adresa domény",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Adresa domény vzdáleného serveru",
+            "USER_NAME_KEY": "Uživatelské jméno",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub- uuid jste dostali ze vzdáleného serveru",
+            "SHARED_SECRET_KEY": "Sdílené tajemství",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k náhodný řetězec máte ze vzdáleného serveru",
+            "ALLOWED_ROLES_KEY": "Povolené role",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Seznam se všemi rolemi, které tento účet má",
+            "USER_KEY": "Uživatel",
+            "DEVELOPER_KEY": "Vývojář",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

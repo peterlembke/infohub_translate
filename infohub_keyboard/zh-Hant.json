@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 17:58:50",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "zh-Hant",
+        "language_name": "Chinese (traditional)",
+        "language_name_local": "中文( 傳統 )",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "鍵盤",
+        "description": "您可以在此訂閱鍵盤組合並將它們連結到函數 ."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "鍵盤測試",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "在鍵盤上試試密碼",
+            "ANY_BUTTON_KEY": "任何按鈕",
+            "SUBSCRIBE_KEY": "訂閱",
+            "UNSUBSCRIBE_KEY": "取消訂閱",
+            "SHOW_SUBSCRIBERS_KEY": "顯示訂閱者",
+            "KEYBOARD_DEMO_POPUP_KEY": "鍵盤演示彈出"
+        }
+    }
+}

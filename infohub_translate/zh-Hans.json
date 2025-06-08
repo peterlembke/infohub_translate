@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 17:57:35",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "zh-Hans",
+        "language_name": "Chinese",
+        "language_name_local": "中国语",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "翻译",
+        "description": "手译一句. 为插件创建语言文件 ."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "说明",
+            "USE_THE_MENU._KEY": "用菜单."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "文件将在此提交",
+            "MAIN_DOC_KEY": "主要医生",
+            "MANUAL_TRANSLATION_KEY": "手工翻译",
+            "PLUGIN_TRANSLATION_KEY": "插件翻译"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "手工翻译",
+            "REFRESH_LANGUAGE_LIST_KEY": "刷新语言列表",
+            "SELECT_LANGUAGE_KEY": "选择语言",
+            "SELECT_SOURCE_LANGUAGE._KEY": "选择源语言.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "选择目的地语言.",
+            "YOUR_TEXT_KEY": "您的文本",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "要翻译的文字.",
+            "TRANSLATE_KEY": "翻译",
+            "THE_TRANSLATED_TEXT_KEY": "翻译文本",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "翻译后的文字.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "选择目的地语言。 写文字. 单击翻译",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "选择要翻译的语言",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "写些东西让我能翻译",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "选择要翻译的语言",
+            "TRANSLATION_DONE_KEY": "翻译完成"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "翻译工具",
+            "DOCUMENTATION_KEY": "文档",
+            "MANUAL_TRANSLATION_KEY": "手工翻译",
+            "PLUGIN_TRANSLATION_KEY": "插件翻译"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "更新列表",
+            "SELECT_PLUGIN_KEY": "选择插件",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "列出可以拥有翻译文件的所有客户端插件.",
+            "SELECT_LANGUAGES_KEY": "选择语言",
+            "TRANSLATE_KEY": "翻译",
+            "PLUGIN_TRANSLATION_KEY": "插件翻译",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "选择插件和语言",
+            "CLICK_TRANSLATE_KEY": "单击翻译",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "清单的更新已经完成",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "选择一个或多个翻译插件",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "选择要翻译的一个或多个语言",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "请求服务器翻译",
+            "TO_LANGUAGES_KEY": "对语言",
+            "TRANSLATION_DONE_KEY": "翻译完成",
+            "EXECUTION_TIME_KEY": "执行时间",
+            "SECONDS_KEY": "秒数"
+        }
+    }
+}

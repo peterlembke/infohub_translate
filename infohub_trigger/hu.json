@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "hu",
+        "language_name": "Hungarian",
+        "language_name_local": "Magyar",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Egyéni üzenet küldése",
+        "description": "Mint fejlesztő küldhetsz üzeneteket a funkcióidnak."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Nagyító",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Ön mint fejlesztő küldhet egy üzenetet a kialakulóban lévő plugin.",
+            "REFRESH_DATA_KEY": "Az adatok frissítése",
+            "NODE_KEY": "Csomópont",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Válassza ki az üzenetet",
+            "CLIENT_KEY": "Ügyfél",
+            "SERVER_KEY": "Szolgáltató",
+            "PLUGIN_KEY": "Bővítőmodul",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Válassza ki, melyik plugint szeretné elküldeni",
+            "FUNCTION_KEY": "Funkció",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Válassza ki az üzenetet",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "A kijelölt függvény alapértelmezett üzenete",
+            "MESSAGE_KEY": "Üzenet",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Ezt az üzenetet küldheti a kijelölt pluginnak.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Az üzenet, amit látsz, az alapértelmezett értékek, amiket a függvény beállított.",
+            "GET_ALL_KEY": "Mindet",
+            "BARE_BONE_KEY": "Bare bone",
+            "GET_DEFAULT_MESSAGE_KEY": "Az alapértelmezett üzenet letöltése",
+            "SEND_MESSAGE_KEY": "Üzenet küldése",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Válasz a funkcióból",
+            "RESPONSE_KEY": "Válasz",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Itt látható a válasz a funkció.",
+            "NO_CONFIG_KEY": "Nincs konfig"
+        }
+    }
+}

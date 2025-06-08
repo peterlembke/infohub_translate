@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "bn",
+        "language_name": "Bengali",
+        "language_name_local": "বাংলা",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ডিবাগ টুল",
+        "description": "ডেভেলপার এবং টেস্টারদের জন্য টুল।."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "ক্যাশে পরিষ্কার করুন",
+            "DONE_REFRESHING_PAGE_KEY": "পাতা মসৃণকরণ সম্পন্ন",
+            "RELOAD_PAGE._KEY": "পেজ পুনরায় লোড করুন ।.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "সার্ভারে চিহ্নিত পুরোনো প্লাগ-ইনগুলি মুছে ফেলুন। পেজ পুনরায় লোড করুন ।.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "সকল স্থানীয় প্লাগিন মুছে ফেলা হবে, পৃষ্ঠা পুনরায় লোড করা হচ্ছে।.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "সকল স্থানীয় তথ্য মুছে ফেলা হবে, পৃষ্ঠা পুনরায় লোড করা হবে।.",
+            "INSTRUCTIONS_KEY": "তথ্যানুসারে গ্রাফ আঁকো",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "বিকল্প ক্লিক করুন অথবা কীবোর্ড ব্যবহার করুন। তুমি যেখানেই থাকো না কেন এই চাবি সব সময় কাজ করে।.",
+            "INFORMATION_KEY": "তথ্য",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "লঞ্চারের উপর মাউস পয়েন্টার স্থাপন করা হলে কি-বোর্ড সক্রিয় করা হবে না ও সেটি চিহ্নিত করতে সক্ষম না।.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "একমাত্র এই অপশনটিই স্থানীয় সংগ্রহস্থল থেকে আইকন এবং অনুবাদ এবং বৈশিষ্ট্য সরিয়ে ফেলা হয় ।.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "ব্যবহারকারীর লগ-ইন থেকে প্রাপ্ত ব্যবহারকারীর জন্য নীরব করা ক্যাশে মুছে ফেলুন",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "লগ-আউট করে পুনরায় আরম্ভ করুন"
+        }
+    }
+}

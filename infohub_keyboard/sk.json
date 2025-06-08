@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "sk",
+        "language_name": "Slovak",
+        "language_name_local": "Slovenský",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Klávesnica",
+        "description": "Tu sa môžete prihlásiť na kombinácie klávesnice a pripojiť ich k funkciám."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Skúšky klávesnice",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Skúste kombinácie na klávesnici",
+            "ANY_BUTTON_KEY": "Akékoľvek tlačidlo",
+            "SUBSCRIBE_KEY": "Prihlásiť sa",
+            "UNSUBSCRIBE_KEY": "Odhlásiť",
+            "SHOW_SUBSCRIBERS_KEY": "Zobraziť predplatiteľov",
+            "KEYBOARD_DEMO_POPUP_KEY": "Name"
+        }
+    }
+}

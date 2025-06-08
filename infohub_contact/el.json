@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:55:22",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "el",
+        "language_name": "Greek",
+        "language_name_local": "Ελληνικά",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Χρήστες και κόμβοι",
+        "description": "Μπορείτε να χειριστείτε τους χρήστες σας εδώ. Μπορείτε να ρυθμίσετε την πρόσβαση σε άλλους κόμβους server εδώ."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Οδηγίες",
+            "USE_THE_MENU._KEY": "Χρησιμοποίησε το μενού."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Ανανέωση πελατών",
+            "CLIENT_CONTACTS_KEY": "Επαφές πελάτη",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Λίστα όλων των επαφών πελάτη",
+            "NEW_KEY": "Νέο",
+            "SAVE_KEY": "Αποθήκευση",
+            "DELETE_KEY": "Διαγραφή",
+            "IMPORT_KEY": "Εισαγωγή",
+            "EXPORT_KEY": "Εξαγωγή",
+            "ONE_CONTACT_KEY": "Μία επαφή",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Αυτή είναι η φόρμα δεδομένων για μία επαφή",
+            "NODE_KEY": "Κόμβος",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Το μοναδικό σας όνομα του πελάτη",
+            "NOTE_KEY": "Σημείωση",
+            "ANY_TEXT_YOU_WANT_KEY": "Οποιοδήποτε μήνυμα θέλετε",
+            "DOMAIN_ADDRESS_KEY": "Διεύθυνση τομέα",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Η διεύθυνση τομέα στον εξυπηρετητή σας",
+            "USER_NAME_KEY": "Όνομα χρήστη",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Μπορείτε να πάρετε ένα hub-uid όταν αποθηκεύσετε (αφήστε κενό)",
+            "SHARED_SECRET_KEY": "Κοινό μυστικό",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Θα πάρετε μια τυχαία συμβολοσειρά 2k όταν αποθηκεύσετε (αφήστε κενό)",
+            "ALLOWED_ROLES_KEY": "Επιτρεπόμενοι ρόλοι",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Λίστα με όλους τους ρόλους χρηστών που έχετε",
+            "USER_KEY": "Χρήστης",
+            "DEVELOPER_KEY": "Προγραμματιστής",
+            "ADMIN_KEY": "Διαχειριστής",
+            "HAS_PASSWORD_KEY": "Έχει κωδικό πρόσβασης",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Αν το εισαγόμενο αρχείο έχει έναν κωδικό πρόσβασης πελάτη που έχει οριστεί από το χρήστη"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Η τεκμηρίωση θα αποδώσει εδώ",
+            "MAIN_DOC_KEY": "Κύριο έγγραφο",
+            "CLIENT_DOC_KEY": "Γιατρός-πελάτης",
+            "SERVER_DOC_KEY": "Εγχειρίδιο εξυπηρετητή"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Διαχειριστής επαφών",
+            "DOCUMENTATION_KEY": "Τεκμηρίωση",
+            "CLIENT_CONTACT_KEY": "Επαφή πελάτη",
+            "SERVER_CONTACT_KEY": "Επαφή εξυπηρετητή"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Ανανέωση",
+            "SERVER_CONTACTS_KEY": "Επαφές εξυπηρετητή",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Λίστα όλων των επαφών εξυπηρετητή",
+            "SAVE_KEY": "Αποθήκευση",
+            "DELETE_KEY": "Διαγραφή",
+            "IMPORT_KEY": "Εισαγωγή",
+            "EXPORT_KEY": "Εξαγωγή",
+            "PING_SERVER_KEY": "Εξυπηρετητής Ping",
+            "ONE_CONTACT_KEY": "Μία επαφή",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Αυτή είναι η φόρμα δεδομένων για μία επαφή.",
+            "NODE_KEY": "Κόμβος",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Το μοναδικό σας όνομα κόμβου",
+            "NOTE_KEY": "Σημείωση",
+            "ANY_TEXT_YOU_WANT_KEY": "Οποιοδήποτε μήνυμα θέλετε",
+            "DOMAIN_ADDRESS_KEY": "Διεύθυνση τομέα",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Η διεύθυνση τομέα στον απομακρυσμένο εξυπηρετητή",
+            "USER_NAME_KEY": "Όνομα χρήστη",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uid που πήρατε από τον απομακρυσμένο εξυπηρετητή",
+            "SHARED_SECRET_KEY": "Κοινό μυστικό",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k τυχαία συμβολοσειρά από τον απομακρυσμένο εξυπηρετητή",
+            "ALLOWED_ROLES_KEY": "Επιτρεπόμενοι ρόλοι",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Λίστα με όλους τους ρόλους που έχει αυτός ο λογαριασμός",
+            "USER_KEY": "Χρήστης",
+            "DEVELOPER_KEY": "Προγραμματιστής",
+            "ADMIN_KEY": "Διαχειριστής"
+        }
+    }
+}

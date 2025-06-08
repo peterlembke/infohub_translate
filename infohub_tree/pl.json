@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "pl",
+        "language_name": "Polish",
+        "language_name_local": "Polski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Drzewo",
+        "description": "Zajmuje się twoimi danymi osobowymi."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Instrukcje",
+            "USE_THE_MENU._KEY": "Użyj menu."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Wszystkie kopie zapasowe",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Pełna kopia zapasowa wszystkich danych na serwerze.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Masz jeden plik ze wszystkim.",
+            "BACKUP_EVERYTHING_KEY": "Backup wszystko",
+            "BACKUP_PLUGINS_KEY": "Wtyczki kopii zapasowej",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Backup każdej wtyczki oddzielnie.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Otrzymasz jeden plik zapasowy dla każdej wtyczki.",
+            "REFRESH_PLUGIN_LIST_KEY": "Odśwież listę plugin",
+            "PLUGIN_LIST_KEY": "Lista wtyczek",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Lista wszystkich wtyczek",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Backup wybrane wtyczki",
+            "PARTIAL_BACKUP_KEY": "Częściowa kopia zapasowa",
+            "PARTIAL_BACKUP._KEY": "Częściowe wsparcie.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Wybierz jedną wtyczkę i wybierz klucze do kopii zapasowej.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Masz jeden plik zapasowy.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Lista wszystkich wtyczek.",
+            "SELECT_ONE_KEY": "Wybierz jeden",
+            "REFRESH_KEY_LIST_KEY": "Odśwież listę kluczy",
+            "KEYS_KEY": "Klucze",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Wszystkie klucze dla wybranej wtyczki.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Wybierz te, które chcesz utworzyć kopii zapasowej",
+            "BACKUP_SELECTED_KEYS_KEY": "Kopia zapasowa wybranych kluczy"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentacja będzie renderować tutaj",
+            "MAIN_DOC_KEY": "Główny lekarz",
+            "VERSION_DOC_KEY": "Wersja doc",
+            "ENCRYPTION_DOC_KEY": "Dok szyfrowania",
+            "BACKUP_DOC_KEY": "Backup doc",
+            "RESTORE_DOC_KEY": "Przywróć dok",
+            "STORAGE_DOC_KEY": "Storage doc",
+            "SYNC_DOC_KEY": "Sync doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Importuj plik klucza",
+            "ONE_CONTACT_KEY": "Jeden kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Jest to formularz danych dla jednego kontaktu",
+            "IMPORT_PASSWORD_KEY": "Importuj hasło",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Twoje hasło do pliku",
+            "FORGET_IMPORTED_KEY_KEY": "Zapomnij o imporcie",
+            "EXPORT_KEY_FILE_KEY": "Eksportuj plik klucza",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Eksportuj zaimportowany klucz z nowym hasłem",
+            "EXPORT_PASSWORD_KEY": "Eksportuj hasło",
+            "CREATE_KEY_FILE_KEY": "Utwórz plik klucza",
+            "CREATE_NEW_KEY_FILE_KEY": "Utwórz nowy plik klucza",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Utwórz nowy klucz z nowym hasłem"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Menadżer drzew",
+            "DOCUMENTATION_KEY": "Dokumentacja",
+            "VERSION_KEY": "Wersja",
+            "ENCRYPTION_KEY": "Szyfrowanie",
+            "BACKUP_KEY": "Kopia zapasowa",
+            "RESTORE_KEY": "Przywróć",
+            "SYNC_KEY": "Sync"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Konflikty",
+            "SELECT_BACKUP_FILES_KEY": "Wybierz pliki kopii zapasowej",
+            "CLEAR_LIST_KEY": "Wyczyść listę",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Przywracanie danych do przechowywania w przeglądarce",
+            "BACKUP_FILES_KEY": "Pliki kopii zapasowej",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Oto lista wszystkich plików kopii zapasowych, które wybrałeś w oknie wyboru pliku",
+            "INFORMATION_KEY": "Informacje",
+            "RESTORE_LOG_KEY": "Przywróć dziennik",
+            "CLICK_ON_THE_LIST_KEY": "Kliknij na listę",
+            "REFRESH_CONFLICT_LIST_KEY": "Odśwież listę konfliktów",
+            "KEEP_LOCAL_VERSION_KEY": "Zachowaj wersję lokalną",
+            "KEEP_SERVER_VERSION_KEY": "Zachowaj wersję serwera",
+            "CONFLICT_LIST_KEY": "Lista konfliktów"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Uruchom synchronizację tutaj",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Najpierw synchronizacja, a następnie obsługa listy wysyłania, pobierania i konfliktów",
+            "CLICK_ON_THE_LIST_KEY": "Kliknij na listę",
+            "SYNC_KEY": "Sync",
+            "UPLOAD_KEY": "Wyślij",
+            "DOWNLOAD_KEY": "Pobierz",
+            "REFRESH_CONFLICT_LIST_KEY": "Odśwież listę konfliktów",
+            "KEEP_LOCAL_VERSION_KEY": "Zachowaj wersję lokalną",
+            "KEEP_SERVER_VERSION_KEY": "Zachowaj wersję serwera",
+            "CONFLICT_LIST_KEY": "Lista konfliktów",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Możesz mi pomóc zdecydować jaką wersję zachować"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Odśwież dane wersji"
+        }
+    }
+}

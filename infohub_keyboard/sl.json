@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Tipkovnica",
+        "description": "Tu se lahko naročite na kombinacije tipkovnice in jih vežete na funkcije."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Preskusi tipkovnice",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Poskusite kombinacije na tipkovnici",
+            "ANY_BUTTON_KEY": "Kateri koli gumb",
+            "SUBSCRIBE_KEY": "Naroči se",
+            "UNSUBSCRIBE_KEY": "Odjavi se",
+            "SHOW_SUBSCRIBERS_KEY": "Prikaži naročnike",
+            "KEYBOARD_DEMO_POPUP_KEY": "Pojav demo tipkovnice"
+        }
+    }
+}

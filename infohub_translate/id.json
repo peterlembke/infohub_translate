@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 18:05:36",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "id",
+        "language_name": "Indonesian",
+        "language_name_local": "Indonesia",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Terjemahkan",
+        "description": "Terjemahkan frase secara manual. Buat berkas bahasa untuk plugin."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Instruksi",
+            "USE_THE_MENU._KEY": "Gunakan menu."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentasi akan dirender di sini",
+            "MAIN_DOC_KEY": "Dok utama",
+            "MANUAL_TRANSLATION_KEY": "Terjemahan manual",
+            "PLUGIN_TRANSLATION_KEY": "Terjemahan plugin"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Terjemahan manual",
+            "REFRESH_LANGUAGE_LIST_KEY": "Segarkan daftar bahasa",
+            "SELECT_LANGUAGE_KEY": "Pilih bahasa",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Pilih bahasa sumber.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Pilih bahasa tujuan.",
+            "YOUR_TEXT_KEY": "Teks Anda",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "Teks yang ingin kau terjemahkan.",
+            "TRANSLATE_KEY": "Terjemahkan",
+            "THE_TRANSLATED_TEXT_KEY": "Teks terjemahan",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "Teks yang Anda dapatkan setelah terjemahan.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Pilih bahasa tujuan. Tulis teks. Terjemahkan klik",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Pilih bahasa untuk menerjemahkan dari",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Tulis sesuatu agar aku bisa menerjemahkan",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Pilih bahasa untuk diterjemahkan ke",
+            "TRANSLATION_DONE_KEY": "Terjemahan selesai"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Alat terjemahan",
+            "DOCUMENTATION_KEY": "Dokumentasi",
+            "MANUAL_TRANSLATION_KEY": "Terjemahan manual",
+            "PLUGIN_TRANSLATION_KEY": "Terjemahan plugin"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Segarkan daftar",
+            "SELECT_PLUGIN_KEY": "Pilih plugin",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Daftar semua plugin klien yang dapat memiliki berkas terjemahan.",
+            "SELECT_LANGUAGES_KEY": "Pilih bahasa",
+            "TRANSLATE_KEY": "Terjemahkan",
+            "PLUGIN_TRANSLATION_KEY": "Terjemahan plugin",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Pilih plugin dan bahasa",
+            "CLICK_TRANSLATE_KEY": "Terjemahkan klik",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Segarkan daftar dilakukan",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Pilih satu atau lebih plugin untuk diterjemahkan",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Pilih satu atau lebih bahasa untuk diterjemahkan ke",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "Meminta server untuk diterjemahkan",
+            "TO_LANGUAGES_KEY": "Untuk bahasa",
+            "TRANSLATION_DONE_KEY": "Terjemahan selesai",
+            "EXECUTION_TIME_KEY": "Waktu eksekusi",
+            "SECONDS_KEY": "Detik"
+        }
+    }
+}

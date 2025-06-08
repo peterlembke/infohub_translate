@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 17:49:04",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "sv",
+        "language_name": "Swedish",
+        "language_name_local": "Svenska",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Keyboard",
+        "description": "Här kan du prenumerera på tangentbordskombinationer och binda dem till funktioner."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Keyboard tester",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Prova kombinationer på tangentbordet",
+            "ANY_BUTTON_KEY": "Alla knappar",
+            "SUBSCRIBE_KEY": "Prenumerera",
+            "UNSUBSCRIBE_KEY": "Unsubscribe",
+            "SHOW_SUBSCRIBERS_KEY": "Visa abonnenter",
+            "KEYBOARD_DEMO_POPUP_KEY": "Keyboard demo popup"
+        }
+    }
+}

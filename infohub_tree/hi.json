@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 17:56:00",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "hi",
+        "language_name": "Hindi",
+        "language_name_local": "हिन्दी",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "पेड़",
+        "description": "अपने व्यक्तिगत डेटा को संभालती है।."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "निर्देश",
+            "USE_THE_MENU._KEY": "मेनू का उपयोग करें।."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "सभी बैकअप",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "सर्वर पर आपके सभी डेटा का पूर्ण बैकअप।.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "आप सब कुछ के साथ एक फ़ाइल प्राप्त करते हैं।.",
+            "BACKUP_EVERYTHING_KEY": "सब कुछ बैकअप",
+            "BACKUP_PLUGINS_KEY": "बैकअप प्लगइन",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "प्रत्येक प्लगइन का बैकअप अलग से होता है।.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "आपको प्रत्येक प्लगइन के लिए एक बैकअप फ़ाइल मिलती है।.",
+            "REFRESH_PLUGIN_LIST_KEY": "ताज़ा प्लगइन सूची",
+            "PLUGIN_LIST_KEY": "प्लगइन सूची",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "सभी पेड़ प्लगइन्स के साथ सूची",
+            "BACKUP_SELECTED_PLUGINS_KEY": "बैकअप चयनित प्लगइन",
+            "PARTIAL_BACKUP_KEY": "आंशिक बैकअप",
+            "PARTIAL_BACKUP._KEY": "आंशिक बैकअप।.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "एक प्लगइन चुनें और बैकअप के लिए कुंजी चुनें।.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "आपको एक बैकअप फ़ाइल मिलती है।.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "सभी पेड़ प्लगइन्स के साथ सूची।.",
+            "SELECT_ONE_KEY": "एक",
+            "REFRESH_KEY_LIST_KEY": "रिफ्रेश की सूची",
+            "KEYS_KEY": "कुंजी",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "चयनित प्लगइन के लिए सभी कुंजी।.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "उन लोगों का चयन करें जिन्हें आप बैकअप करना चाहते हैं",
+            "BACKUP_SELECTED_KEYS_KEY": "बैकअप चयनित कुंजी"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "दस्तावेज़ीकरण यहां प्रस्तुत करेगा",
+            "MAIN_DOC_KEY": "मुख्य डॉक्टर",
+            "VERSION_DOC_KEY": "संस्करण डॉक",
+            "ENCRYPTION_DOC_KEY": "एन्क्रिप्शन",
+            "BACKUP_DOC_KEY": "बैकअप डॉक",
+            "RESTORE_DOC_KEY": "डोक पुनर्स्थापित करें",
+            "STORAGE_DOC_KEY": "भंडारण डॉक",
+            "SYNC_DOC_KEY": "सिंक डॉक"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "आयात कुंजी फ़ाइल",
+            "ONE_CONTACT_KEY": "एक संपर्क",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "यह एक संपर्क के लिए डेटा फॉर्म है",
+            "IMPORT_PASSWORD_KEY": "पासवर्ड आयात",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "फ़ाइल के लिए आपका पासवर्ड",
+            "FORGET_IMPORTED_KEY_KEY": "आयात",
+            "EXPORT_KEY_FILE_KEY": "कुंजी फ़ाइल निर्यात करें",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "नए पासवर्ड के साथ आयातित कुंजी निर्यात करें",
+            "EXPORT_PASSWORD_KEY": "पासवर्ड निर्यात करें",
+            "CREATE_KEY_FILE_KEY": "कुंजी फ़ाइल बनाएं",
+            "CREATE_NEW_KEY_FILE_KEY": "नई कुंजी फ़ाइल बनाएँ",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "नए पासवर्ड के साथ नई कुंजी बनाएं"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "ट्री मैनेजर",
+            "DOCUMENTATION_KEY": "दस्तावेज़ीकरण",
+            "VERSION_KEY": "संस्करण",
+            "ENCRYPTION_KEY": "एन्क्रिप्शन",
+            "BACKUP_KEY": "बैकअप",
+            "RESTORE_KEY": "पुनर्स्थापित करें",
+            "SYNC_KEY": "सिंक"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "संघर्ष",
+            "SELECT_BACKUP_FILES_KEY": "बैकअप फ़ाइलों का चयन करें",
+            "CLEAR_LIST_KEY": "स्पष्ट सूची",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "डेटा को ब्राउज़र स्टोरेज में पुनर्स्थापित करें",
+            "BACKUP_FILES_KEY": "बैकअप फाइलें",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "यहाँ उन सभी बैकअप फ़ाइलों के साथ एक सूची है जिन्हें आपने फ़ाइल चयनकर्ता में चुना है",
+            "INFORMATION_KEY": "सूचना",
+            "RESTORE_LOG_KEY": "लॉग इन करें",
+            "CLICK_ON_THE_LIST_KEY": "सूची में क्लिक करें",
+            "REFRESH_CONFLICT_LIST_KEY": "ताज़ा संघर्ष सूची",
+            "KEEP_LOCAL_VERSION_KEY": "स्थानीय संस्करण रखें",
+            "KEEP_SERVER_VERSION_KEY": "सर्वर संस्करण रखें",
+            "CONFLICT_LIST_KEY": "संघर्ष सूची"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "यहाँ सिंक शुरू करें",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "आप पहले सिंक करते हैं, फिर अपलोड, डाउनलोड और संघर्ष सूची को संभालते हैं",
+            "CLICK_ON_THE_LIST_KEY": "सूची में क्लिक करें",
+            "SYNC_KEY": "सिंक",
+            "UPLOAD_KEY": "अपलोड",
+            "DOWNLOAD_KEY": "डाउनलोड",
+            "REFRESH_CONFLICT_LIST_KEY": "ताज़ा संघर्ष सूची",
+            "KEEP_LOCAL_VERSION_KEY": "स्थानीय संस्करण रखें",
+            "KEEP_SERVER_VERSION_KEY": "सर्वर संस्करण रखें",
+            "CONFLICT_LIST_KEY": "संघर्ष सूची",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "आप मुझे यह तय करने में मदद कर सकते हैं कि कौन-सा संस्करण रखना है"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "ताज़ा संस्करण डेटा"
+        }
+    }
+}

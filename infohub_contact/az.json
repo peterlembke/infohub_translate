@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "az",
+        "language_name": "Azerbaijani",
+        "language_name_local": "Bakı",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Yadda saxla",
+        "description": "Burada istifadə edə bilərsiniz. Burada digər server nömrələrinə daxil ola bilərsiniz."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Qeydiyyat",
+            "USE_THE_MENU._KEY": "Menyu istifadə edin."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Avtomobil",
+            "CLIENT_CONTACTS_KEY": "Yadda saxla",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Bütün müştəri əlaqələri",
+            "NEW_KEY": "Yeniyetmə",
+            "SAVE_KEY": "Yadda saxla",
+            "DELETE_KEY": "Delete",
+            "IMPORT_KEY": "Avtomobil",
+            "EXPORT_KEY": "İdman",
+            "ONE_CONTACT_KEY": "Bir kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Bu, bir kontakt üçün məlumat forması",
+            "NODE_KEY": "Qeydiyyat",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "İstehsalçının unikal adı",
+            "NOTE_KEY": "Qeyd",
+            "ANY_TEXT_YOU_WANT_KEY": "Axtarış",
+            "DOMAIN_ADDRESS_KEY": "Domain ünvanı",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Domen adı",
+            "USER_NAME_KEY": "Ad Soyad",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Siz saxlamaq zaman bir hub-uid almaq (boş)",
+            "SHARED_SECRET_KEY": "Gizli gizli",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Siz saxlamaq zaman 2k random string əldə edəcəksiniz (boş)",
+            "ALLOWED_ROLES_KEY": "Daxili rollar",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Siz bütün istifadəçi rolları ilə siyahısı",
+            "USER_KEY": "Qadın",
+            "DEVELOPER_KEY": "Proqram",
+            "ADMIN_KEY": "Qeydiyyat",
+            "HAS_PASSWORD_KEY": "Qeydiyyat",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Yadda saxla"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Sertifikatlaşdırma buraxacaq",
+            "MAIN_DOC_KEY": "Ana doc",
+            "CLIENT_DOC_KEY": "Yadda saxla",
+            "SERVER_DOC_KEY": "Proqram"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "E-poçt ünvanı",
+            "DOCUMENTATION_KEY": "Tarix",
+            "CLIENT_CONTACT_KEY": "Yadda saxla",
+            "SERVER_CONTACT_KEY": " Server"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Axtarış",
+            "SERVER_CONTACTS_KEY": "Axtarış",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Bütün server kontaktları",
+            "SAVE_KEY": "Yadda saxla",
+            "DELETE_KEY": "Delete",
+            "IMPORT_KEY": "Avtomobil",
+            "EXPORT_KEY": "İdman",
+            "PING_SERVER_KEY": "Ping server",
+            "ONE_CONTACT_KEY": "Bir kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Bu bir əlaqə üçün data forması.",
+            "NODE_KEY": "Qeydiyyat",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Sizin unikal node adı",
+            "NOTE_KEY": "Qeyd",
+            "ANY_TEXT_YOU_WANT_KEY": "Axtarış",
+            "DOMAIN_ADDRESS_KEY": "Domain ünvanı",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Domen adı uzaq server",
+            "USER_NAME_KEY": "Ad Soyad",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uid siz uzaq server var",
+            "SHARED_SECRET_KEY": "Gizli gizli",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k random string siz uzaq server var",
+            "ALLOWED_ROLES_KEY": "Daxili rollar",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Bütün roller bu hesabı olan siyahısı",
+            "USER_KEY": "Qadın",
+            "DEVELOPER_KEY": "Proqram",
+            "ADMIN_KEY": "Qeydiyyat"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:59:33",
+        "plugin": "infohub_debug",
+        "data_checksum": "3fa25f0c79826e74e9c04bcb4cae91d9",
+        "language": "fi",
+        "language_name": "Finnish",
+        "language_name_local": "Suomi",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Vianetsintätyökalu",
+        "description": "Työkalu kehittäjille ja testaajille."
+    },
+    "data": {
+        "infohub_debug": {
+            "DONE_CLEARING_CACHE_KEY": "Tyhjennä välimuisti",
+            "DONE_REFRESHING_PAGE_KEY": "Valmis virkistävä sivu",
+            "RELOAD_PAGE._KEY": "Lataa sivu uudelleen.",
+            "CLEAN_OUT_OLD_PLUGINS_MARKED_BY_THE_SERVER._RELOAD_PAGE._KEY": "Puhdista vanhat plugins merkitty palvelimen. Lataa sivu uudelleen.",
+            "CLEAN_OUT_ALL_LOCAL_PLUGINS,_RELOAD_PAGE._KEY": "Puhdista kaikki paikalliset liitännäiset, lataa sivu.",
+            "CLEAN_OUT_ALL_LOCAL_DATA,_RELOAD_PAGE._KEY": "Puhdista kaikki paikalliset tiedot ja lataa sivu.",
+            "INSTRUCTIONS_KEY": "Ohjeet",
+            "CLICK_ON_AN_OPTION_OR_USE_THE_KEYBOARD._THESE_KEYS_ALWAYS_WORKS_WHEREVER_YOU_ARE_IN_INFOHUB._KEY": "Klikkaa vaihtoehtoa tai käytä näppäimistöä. Nämä avaimet toimivat aina missä olet infohubissa.",
+            "INFORMATION_KEY": "Tiedot",
+            "IS_ALSO_AT_THE_BOTTOM_OF_THE_LAUNCHER_SCREEN_AS_A_BUTTON_IN_CASE_YOU_CAN_NOT_START_DEBUG_AND_HAVE_NO_KEYBOARD_ON_YOUR_DEVICE._KEY": "On myös alareunassa kantoraketti näytön painikkeena, jos et voi käynnistää vianetsintää ja ei ole näppäimistöä laitteessa.",
+            "IS_THE_ONLY_OPTION_THAT_ALSO_REMOVE_ICONS_AND_TRANSLATIONS_AND_SETTINGS_FROM_THE_LOCAL_STORAGE._KEY": "On ainoa vaihtoehto, joka myös poistaa kuvakkeet ja käännökset ja asetukset paikallisesta varastosta.",
+            "SILENTLY_DELETE_THE_RENDER_CACHE_FOR_THE_LOGGED_IN_USER_KEY": "Poista hiljaa merkkivälimuisti kirjautuneelle käyttäjälle",
+            "LOGS_YOU_OUT_AND_REFRESH_THE_PAGE_KEY": "Kirjautuu ulos ja päivittää sivun"
+        }
+    }
+}

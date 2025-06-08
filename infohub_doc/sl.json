@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Dokumentacija",
+        "description": "Polna dokumentacija nad InfoHub in vsi vstavki."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "Dokument",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Tukaj boste videli dokument"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Osveži indeks",
+            "INDEX_KEY": "Indeks"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "Osveži navigacijo",
+            "NAVIGATION_KEY": "Plovba"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Osveži obiskano"
+        }
+    }
+}

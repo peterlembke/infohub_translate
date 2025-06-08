@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 19:12:45",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "az",
+        "language_name": "Azerbaijani",
+        "language_name_local": "Bakı",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Ağac",
+        "description": "Kişisel məlumatlarınızı saxlayın."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Qeydiyyat",
+            "USE_THE_MENU._KEY": "Menyu istifadə edin."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Bütün hüquqlar",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Server var bütün data tam backup.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Siz hər şey ilə bir fayl edin.",
+            "BACKUP_EVERYTHING_KEY": "Hər şey istifadə edin",
+            "BACKUP_PLUGINS_KEY": "E-poçt",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Hər bir plugin istifadə.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Hər bir plugin üçün bir backup fayl edin.",
+            "REFRESH_PLUGIN_LIST_KEY": "Daxili plugin siyahısı",
+            "PLUGIN_LIST_KEY": "Plugin siyahısı",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Bütün ağacı plugins ilə siyahısı",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Seçki addımlar",
+            "PARTIAL_BACKUP_KEY": "Daxili backup",
+            "PARTIAL_BACKUP._KEY": "Daxili backup.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Bir plugin seçin və backup üçün anahtar seçin.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Siz bir backup fayl edin.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Bütün ağacı plugins ilə siyahısı.",
+            "SELECT_ONE_KEY": "Seçki",
+            "REFRESH_KEY_LIST_KEY": "Daxil ol",
+            "KEYS_KEY": "Tarix",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Seçilmiş plugin üçün bütün açarlar.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Backup istəyirsiniz olanları seçin",
+            "BACKUP_SELECTED_KEYS_KEY": "İstifadə edilən şəkillər"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Sertifikatlaşdırma buraxacaq",
+            "MAIN_DOC_KEY": "Ana doc",
+            "VERSION_DOC_KEY": "Proqram",
+            "ENCRYPTION_DOC_KEY": "Encryption doc",
+            "BACKUP_DOC_KEY": "Pulsuz",
+            "RESTORE_DOC_KEY": "Doc",
+            "STORAGE_DOC_KEY": "Yadda saxla",
+            "SYNC_DOC_KEY": "Axtarış"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Əsas fayl",
+            "ONE_CONTACT_KEY": "Bir kontakt",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Bu, bir kontakt üçün məlumat forması",
+            "IMPORT_PASSWORD_KEY": "Qeydiyyat",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Dosya üçün şəkil",
+            "FORGET_IMPORTED_KEY_KEY": "Qeydiyyatdan keçin",
+            "EXPORT_KEY_FILE_KEY": "İctimai fayl",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Yeni şəxs ilə idarə olunmuş məhsul",
+            "EXPORT_PASSWORD_KEY": "İqtisadiyyat",
+            "CREATE_KEY_FILE_KEY": "Yadda saxla",
+            "CREATE_NEW_KEY_FILE_KEY": "Yeni əsas fayl yarat",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Yeni şəkil ilə yeni açar yaradır"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Ağac meneceri",
+            "DOCUMENTATION_KEY": "Tarix",
+            "VERSION_KEY": "Proqram",
+            "ENCRYPTION_KEY": "Encryption",
+            "BACKUP_KEY": "E-poçt",
+            "RESTORE_KEY": "Yuxarı",
+            "SYNC_KEY": "Axtarış"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Haqqında",
+            "SELECT_BACKUP_FILES_KEY": "Backup faylları seçin",
+            "CLEAR_LIST_KEY": "Tarix",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Browser saxlama data",
+            "BACKUP_FILES_KEY": "E-poçt",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Burada fayl seçorda seçilmiş bütün backup faylları ilə bir siyahısı",
+            "INFORMATION_KEY": "İnformasiya",
+            "RESTORE_LOG_KEY": "Qeydiyyat",
+            "CLICK_ON_THE_LIST_KEY": "Siyahısı",
+            "REFRESH_CONFLICT_LIST_KEY": "Daxil ol",
+            "KEEP_LOCAL_VERSION_KEY": "Yerli versiyası qorunur",
+            "KEEP_SERVER_VERSION_KEY": "Server versiyası",
+            "CONFLICT_LIST_KEY": "Haqqımızda"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Burada senkronize başlayın",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Siz ilk senkronize, sonra yükləyin, yükləyin və münasibət siyahısı",
+            "CLICK_ON_THE_LIST_KEY": "Siyahısı",
+            "SYNC_KEY": "Axtarış",
+            "UPLOAD_KEY": "Tarix",
+            "DOWNLOAD_KEY": "Pulsuz",
+            "REFRESH_CONFLICT_LIST_KEY": "Daxil ol",
+            "KEEP_LOCAL_VERSION_KEY": "Yerli versiyası qorunur",
+            "KEEP_SERVER_VERSION_KEY": "Server versiyası",
+            "CONFLICT_LIST_KEY": "Haqqımızda",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Siz mövcudluğu saxlamaq üçün versiyaya kömək edə bilərsiniz"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Yadda saxla"
+        }
+    }
+}

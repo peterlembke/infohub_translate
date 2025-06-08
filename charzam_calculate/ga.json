@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "ga",
+        "language_name": "Irish",
+        "language_name_local": "Gaeilge na hÉireann",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Rátaí úis a ríomh",
+        "description": "Ríomh i limistéir cosúil le geilleagar, rátaí úis, etc."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Treoracha",
+            "USE_THE_MENU._KEY": "Bain úsáid as an roghchlár."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Féadtar an ráta úis míosúil a ríomh ar do choigilteas ón ráta úis bliantúil.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Is féidir leat an toradh a úsáid i do bhuiséad chun ús bainc a chur ar do chuid coigiltis gach mí.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Sin réitíonn an fhadhb le ráta úis ar ráta úis.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Má ríomhann tú rátaí úis iasachta míosúil, ní úsáideann tú an uirlis seo.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "I gcás iasachtaí a roinneann tú an ráta úis bliantúil faoi 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Is é an difríocht ná nach bhfuil ráta úis ag iasachtaí ar ráta úis.",
+            "INTEREST_RATE_KEY": "Ráta úis",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Cliceáil le haghaidh treoracha...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Ríomh ráta úis míosúil ar do choigilteas",
+            "YEARLY_INTEREST_RATE_KEY": "Ráta úis bliantúil",
+            "CALCULATE_KEY": "Ríomh",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Ráta úis míosúil faoin gcéad",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Ráta úis míosúil faoin gcéad le dhá dheachúlacha",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Ráta úis míosúil deachúil",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Ráta úis míosúil deachúil le gach deachúil do do bugdet",
+            "CALCULATION_OK_KEY": "Ríomh ceart go leor",
+            "CALCULATION_VERIFIED_OK_KEY": "Ríomh fhíorú ceart go leor",
+            "CALCULATION_FAILED_KEY": "Ríomh",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Ríomh an fíorú"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Ráta úis míosúil"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 17:52:32",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "en",
+        "language_name": "English",
+        "language_name_local": "English",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Keyboard",
+        "description": "Here you can subscribe to keyboard combinations and bind them to functions."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Keyboard tests",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Try combinations on your keyboard",
+            "ANY_BUTTON_KEY": "Any button",
+            "SUBSCRIBE_KEY": "Subscribe",
+            "UNSUBSCRIBE_KEY": "Unsubscribe",
+            "SHOW_SUBSCRIBERS_KEY": "Show subscribers",
+            "KEYBOARD_DEMO_POPUP_KEY": "Keyboard demo popup"
+        }
+    }
+}

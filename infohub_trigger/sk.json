@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "sk",
+        "language_name": "Slovak",
+        "language_name_local": "Slovenský",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Poslať vlastnú správu",
+        "description": "Ako vývojár môžete posielať správy do svojich funkcií."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Spustenie",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Vy ako vývojár môžete poslať správu do Vášho vznikajúceho pluginu.",
+            "REFRESH_DATA_KEY": "Obnoviť údaje",
+            "NODE_KEY": "Uzol",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Vyberte uzol, do ktorého chcete poslať správu",
+            "CLIENT_KEY": "Klient",
+            "SERVER_KEY": "Server",
+            "PLUGIN_KEY": "Modul",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Vyberte modul, do ktorého chcete poslať správu",
+            "FUNCTION_KEY": "Funkcia",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Vyberte funkciu, do ktorej chcete poslať správu",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Štandardná správa pre vybranú funkciu",
+            "MESSAGE_KEY": "Správa",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Toto je správa, ktorú môžete poslať do vybraného modulu.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Správa, ktorú vidíte, je predvolené hodnoty, ktoré funkcia nastavila.",
+            "GET_ALL_KEY": "Získať všetko",
+            "BARE_BONE_KEY": "Bez kosti",
+            "GET_DEFAULT_MESSAGE_KEY": "Získať štandardnú správu",
+            "SEND_MESSAGE_KEY": "Poslať správu",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Odpoveď z funkcie",
+            "RESPONSE_KEY": "Odpoveď",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Tu uvidíte odpoveď z funkcie.",
+            "NO_CONFIG_KEY": "No config"
+        }
+    }
+}

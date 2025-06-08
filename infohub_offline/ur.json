@@ -1,0 +1,32 @@
+{
+    "version": {
+        "date": "2025-06-08 18:12:36",
+        "plugin": "infohub_offline",
+        "data_checksum": "5c076bbee964fe439cd56f0065f900c6",
+        "language": "ur",
+        "language_name": "Urdu",
+        "language_name_local": "اُردو",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "انٹرنیٹ کے بغیر کام",
+        "description": "یہاں سرور تک رسائی کے بغیر کام کرنے کی تیاری کر سکتے ہیں۔ آپ کو ضرورت پڑ سکتی ہے کہ اعداد و شمار ڈاؤن لوڈ کریں۔."
+    },
+    "data": {
+        "infohub_offline": {
+            "OFFLINE_TOOLS_KEY": "آلات",
+            "TOOLS_TO_SEE_IF_YOU_ARE_ONLINE_OR_OFFLINE._KEY": "یہ دیکھنے کے لئے کہ آیا آپ آن لائن ہیں یا پھر آپ کے کام آئے ہیں.",
+            "SEE_WHAT_PLUGINS_ARE_SUBSCRIBING_TO_THAT_EVENT._KEY": "غور کریں کہ اِس واقعے کے بارے میں کیا کہا جا رہا ہے ۔.",
+            "BUTTONS_TO_DOWNLOAD_AND_STORE_DATA_TO_PREPARE_FOR_OFFLINE_USAGE._KEY": "بٹنوں کو ڈاؤن لوڈ کرنے اور ذخیرہ کرنے کے لیے ڈیٹا کو محفوظ کرنے کے لئے.",
+            "DOWNLOAD_PLUGINS_KEY": "طےشدہ",
+            "OF_KEY": "جس کے متعلق",
+            "DOWNLOAD_ASSETS_KEY": "دولت خرچ کریں",
+            "DOWNLOAD_DOCUMENTATION_KEY": "پرنٹ",
+            "SHOW_SUBSCRIBERS_KEY": "طےشدہ",
+            "STATUS_KEY": "سٹیٹس"
+        }
+    }
+}

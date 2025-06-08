@@ -1,0 +1,48 @@
+{
+    "version": {
+        "date": "2025-06-08 18:14:52",
+        "plugin": "charzam_calculate",
+        "data_checksum": "108d803a12545b21b544063f1fb431ce",
+        "language": "uk",
+        "language_name": "Ukrainian",
+        "language_name_local": "Українська",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Розрахунок процентних ставок",
+        "description": "Розрахунок за такими напрямками як економіка, процентні ставки тощо."
+    },
+    "data": {
+        "charzam_calculate": {
+            "INSTRUCTIONS_KEY": "Інструкції",
+            "USE_THE_MENU._KEY": "Використовуйте меню."
+        },
+        "charzam_calculate_interest": {
+            "YOU_CAN_CALCULATE_THE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_FROM_THE_YEARLY_INTEREST_RATE._KEY": "Ви можете розрахувати місячну процентну ставку на заощадження від річних процентних ставок.",
+            "YOU_CAN_USE_THE_RESULT_IN_YOUR_BUDGET_TO_ADD_BANK_INTEREST_ON_YOUR_SAVINGS_EACH_MONTH._KEY": "Введіть номер мобільного, який Ви вказали при укладаннi договору з банком - для ідентифікації.",
+            "THAT_SOLVES_THE_PROBLEM_WITH_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Що вирішує проблему з процентною ставкою за процентною ставкою.",
+            "IF_YOU_CALCULATE_MONTHLY_LOAN_INTEREST_RATES_THEN_DO_NOT_USE_THIS_TOOL._KEY": "Якщо ви розраховуєте щомісячні процентні ставки, то не використовуйте цей інструмент.",
+            "FOR_LOANS_YOU_DIVIDE_THE_YEARLY_INTEREST_RATE_BY_12._KEY": "Для кредитів ви розділяєте річну процентну ставку на 12.",
+            "DIFFERENCE_IS_THAT_LOANS_DO_NOT_HAVE_INTEREST_RATE_ON_INTEREST_RATE._KEY": "Відмінність полягає в тому, що кредити не мають процентної ставки на процентну ставку.",
+            "INTEREST_RATE_KEY": "Процентна ставка",
+            "CLICK_FOR_INSTRUCTIONS..._KEY": "Натисніть для інструкцій ...",
+            "CALCULATE_MONTHLY_INTEREST_RATE_ON_YOUR_SAVINGS_KEY": "Розрахунок щомісячної процентної ставки на заощадження",
+            "YEARLY_INTEREST_RATE_KEY": "Річна процентна ставка",
+            "CALCULATE_KEY": "Розрахувати",
+            "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Щомісячна процентна ставка",
+            "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Щомісячний відсоток відсотків з двома десятками",
+            "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Щомісячна процентна ставка",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Щомісячна процентна ставка з усіма десятками для вашого клопотання",
+            "CALCULATION_OK_KEY": "Розрахунок ок",
+            "CALCULATION_VERIFIED_OK_KEY": "Розрахунок перевірених ок",
+            "CALCULATION_FAILED_KEY": "Розрахунок не вдалося",
+            "CALCULATION_FAILED_VERIFICATION_KEY": "Розрахунок невдалої перевірки"
+        },
+        "charzam_calculate_menu": {
+            "MONTHLY_INTEREST_RATE_KEY": "Щомісячна процентна ставка"
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:55:22",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "he",
+        "language_name": "Hebrew",
+        "language_name_local": "עברית",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "העץ",
+        "description": "עקבו אחרי הנתונים האישיים שלך."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "הוראות",
+            "USE_THE_MENU._KEY": "השתמש בתפריט."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "גיבוי כל",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "גיבוי מלא של כל הנתונים שיש לך בשרת.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "אתה מקבל קובץ אחד עם הכל.",
+            "BACKUP_EVERYTHING_KEY": "גיבוי הכל",
+            "BACKUP_PLUGINS_KEY": "גיבוי plugins",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "גיבוי של כל תוסף בנפרד.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "אתה מקבל קובץ גיבוי אחד עבור כל תוסף.",
+            "REFRESH_PLUGIN_LIST_KEY": "רשימת התוספים",
+            "PLUGIN_LIST_KEY": "רשימת Plugin",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "רשימה עם כל תוספי העץ",
+            "BACKUP_SELECTED_PLUGINS_KEY": "גיבוי תוספים נבחרים",
+            "PARTIAL_BACKUP_KEY": "גיבוי חלקי",
+            "PARTIAL_BACKUP._KEY": "גיבוי חלקי.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "בחר תוסף אחד ובחר מפתחות לגיבוי.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "אתה מקבל קובץ גיבוי אחד.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "רשימה עם כל תוספי העץ.",
+            "SELECT_ONE_KEY": "בחר אחד",
+            "REFRESH_KEY_LIST_KEY": "רשימת המפתח",
+            "KEYS_KEY": "המפתחות",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "כל המפתחות לתוסף שנבחר.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "בחר את אלה שברצונך לגבות",
+            "BACKUP_SELECTED_KEYS_KEY": "מפתחות נבחרים"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "מסמך יהפוך כאן",
+            "MAIN_DOC_KEY": "המונחים",
+            "VERSION_DOC_KEY": "גרסה",
+            "ENCRYPTION_DOC_KEY": "תגית: doc",
+            "BACKUP_DOC_KEY": "גיבוי",
+            "RESTORE_DOC_KEY": "שחזור Doc",
+            "STORAGE_DOC_KEY": "אחסון",
+            "SYNC_DOC_KEY": "Sync doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "יבוא קובץ מפתח",
+            "ONE_CONTACT_KEY": "מגע אחד",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "זהו טופס הנתונים ליצירת קשר אחד",
+            "IMPORT_PASSWORD_KEY": "ייבוא הסיסמה",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "הסיסמה שלך לקובץ",
+            "FORGET_IMPORTED_KEY_KEY": "נשכח",
+            "EXPORT_KEY_FILE_KEY": "קובץ מפתח",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "ייצוא מפתח מיובא עם סיסמה חדשה",
+            "EXPORT_PASSWORD_KEY": "המונחים הסיסמה",
+            "CREATE_KEY_FILE_KEY": "יצירת קובץ מפתח",
+            "CREATE_NEW_KEY_FILE_KEY": "צור קובץ מפתח חדש",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "צור מפתח חדש עם סיסמה חדשה"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "מנהל עץ",
+            "DOCUMENTATION_KEY": "מסמך",
+            "VERSION_KEY": "גרסה",
+            "ENCRYPTION_KEY": "הצפנה",
+            "BACKUP_KEY": "גיבוי",
+            "RESTORE_KEY": "שיקום",
+            "SYNC_KEY": "Sync"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "סכסוכים",
+            "SELECT_BACKUP_FILES_KEY": "קבצי גיבוי נבחרים",
+            "CLEAR_LIST_KEY": "רשימה ברורה",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "שחזור נתונים לאחסון דפדפן",
+            "BACKUP_FILES_KEY": "גיבוי קבצים",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "הנה רשימה עם כל הקבצים הגיבוי שבחרת בקובץ Selector",
+            "INFORMATION_KEY": "מידע",
+            "RESTORE_LOG_KEY": "שחזור יומן",
+            "CLICK_ON_THE_LIST_KEY": "לחץ על הרשימה",
+            "REFRESH_CONFLICT_LIST_KEY": "רשימת סכסוכים",
+            "KEEP_LOCAL_VERSION_KEY": "לשמור על הגרסה המקומית",
+            "KEEP_SERVER_VERSION_KEY": "עקבו אחרי Server version",
+            "CONFLICT_LIST_KEY": "רשימת סכסוכים"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "התחל את הסינכרון כאן",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "אתה מסנכרן ראשון, לאחר מכן להתמודד עם ההעלאה, הורדת ורשימות הקונפליקט",
+            "CLICK_ON_THE_LIST_KEY": "לחץ על הרשימה",
+            "SYNC_KEY": "Sync",
+            "UPLOAD_KEY": "Upload",
+            "DOWNLOAD_KEY": "הורד Download",
+            "REFRESH_CONFLICT_LIST_KEY": "רשימת סכסוכים",
+            "KEEP_LOCAL_VERSION_KEY": "לשמור על הגרסה המקומית",
+            "KEEP_SERVER_VERSION_KEY": "עקבו אחרי Server version",
+            "CONFLICT_LIST_KEY": "רשימת סכסוכים",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "אתה יכול לעזור לי להחליט איזו גירסה לשמור"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "נתונים מרעננים"
+        }
+    }
+}

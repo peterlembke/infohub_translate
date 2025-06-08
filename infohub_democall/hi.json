@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 17:56:00",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "hi",
+        "language_name": "Hindi",
+        "language_name_local": "हिन्दी",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "टेस्ट संदेश भेजना",
+        "description": "एक डेवलपर के रूप में आप देख सकते हैं कि क्या होता है जब आप एक प्लगइन या फ़ंक्शन को संदेश भेजते हैं जो मौजूद नहीं होते हैं।."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "निर्देश",
+            "USE_THE_MENU._KEY": "मेनू का उपयोग करें।.",
+            "RESULT_KEY": "परिणाम"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "डेमो कॉल",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "यहां आप पता लगा सकते हैं कि क्या होता है अगर आप ऐसा प्लगइन कहते हैं जो गायब है, या लापता फ़ंक्शन",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "ग्राहक - सही कॉल। प्लगइन और फ़ंक्शन मौजूद हैं",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "ग्राहक - प्लगइन मौजूद है, cmd फ़ंक्शन मौजूद नहीं है",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "ग्राहक - प्लगइन लापता है",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "सर्वर - सही कॉल। प्लगइन और फ़ंक्शन मौजूद हैं",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "सर्वर - प्लगइन मौजूद है, cmd फ़ंक्शन मौजूद नहीं है",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "सर्वर - प्लगइन लापता है",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "ग्राहक - बच्चे वैध उत्तरदाताओं से बात करते हैं",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "ग्राहक - बच्चे को बहने के लिए अवैध कॉल",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "ग्राहक - बच्चे से माता-पिता तक अमान्य कॉल",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "सर्वर - सभी सर्वर परीक्षण चलाएं"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:10:20",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "pt-BR",
+        "language_name": "Portuguese (Brazil)",
+        "language_name_local": "Português (Brasil)",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Usuários e nós",
+        "description": "Você pode lidar com seus usuários aqui. Você pode configurar o acesso a outros nós de servidor aqui."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Instruções",
+            "USE_THE_MENU._KEY": "Use o menu."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Atualizar clientes",
+            "CLIENT_CONTACTS_KEY": "Contatos de clientes",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Liste todos os contatos do cliente",
+            "NEW_KEY": "Novo",
+            "SAVE_KEY": "Salve",
+            "DELETE_KEY": "Apagar",
+            "IMPORT_KEY": "Importar",
+            "EXPORT_KEY": "Exportar",
+            "ONE_CONTACT_KEY": "Um contato",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Este é o formulário de dados para um contato",
+            "NODE_KEY": "Nó",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Seu nome único do cliente",
+            "NOTE_KEY": "Nota",
+            "ANY_TEXT_YOU_WANT_KEY": "Qualquer mensagem que quiser",
+            "DOMAIN_ADDRESS_KEY": "Endereço de domínio",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "O endereço de domínio do seu servidor",
+            "USER_NAME_KEY": "Nome do usuário",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Você ganha um hub-uuid quando você salva (deixa em branco)",
+            "SHARED_SECRET_KEY": "Segredo compartilhado",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Você receberá uma corda aleatória de 2K quando salvar (deixar em branco)",
+            "ALLOWED_ROLES_KEY": "Permissão de papéis",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Lista com todos os papéis de usuário que você tem",
+            "USER_KEY": "Usuário",
+            "DEVELOPER_KEY": "Desenvolvimento",
+            "ADMIN_KEY": "Administrador",
+            "HAS_PASSWORD_KEY": "Tem senha",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Se o arquivo importado tem uma senha do cliente definida pelo usuário"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "A documentação vai renderizar aqui",
+            "MAIN_DOC_KEY": "Doutor principal",
+            "CLIENT_DOC_KEY": "Cliente Doc",
+            "SERVER_DOC_KEY": "Doc do servidor"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "Gerente de contato",
+            "DOCUMENTATION_KEY": "Documentação",
+            "CLIENT_CONTACT_KEY": "Contato do cliente",
+            "SERVER_CONTACT_KEY": "Contato do servidor"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Atualizar",
+            "SERVER_CONTACTS_KEY": "Contatos de servidor",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Listar todos os contatos do servidor",
+            "SAVE_KEY": "Salve",
+            "DELETE_KEY": "Apagar",
+            "IMPORT_KEY": "Importar",
+            "EXPORT_KEY": "Exportar",
+            "PING_SERVER_KEY": "Ping server",
+            "ONE_CONTACT_KEY": "Um contato",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Este é o formulário de dados para um contato.",
+            "NODE_KEY": "Nó",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Seu nome de nó único",
+            "NOTE_KEY": "Nota",
+            "ANY_TEXT_YOU_WANT_KEY": "Qualquer mensagem que quiser",
+            "DOMAIN_ADDRESS_KEY": "Endereço de domínio",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "O endereço do domínio para o servidor remoto",
+            "USER_NAME_KEY": "Nome do usuário",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid você tem do servidor remoto",
+            "SHARED_SECRET_KEY": "Segredo compartilhado",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "2k de corda aleatória que você tem do servidor remoto",
+            "ALLOWED_ROLES_KEY": "Permissão de papéis",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Lista com todos os papéis que esta conta tem",
+            "USER_KEY": "Usuário",
+            "DEVELOPER_KEY": "Desenvolvimento",
+            "ADMIN_KEY": "Administrador"
+        }
+    }
+}

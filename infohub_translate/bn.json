@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "bn",
+        "language_name": "Bengali",
+        "language_name_local": "বাংলা",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "অনুবাদ করো",
+        "description": "স্বয়ং একটি শব্দ অনুবাদ করা হয়েছে। প্লাগ-ইনের জন্য ভাষার ফাইল নির্মাণ করুন ।."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "তথ্যানুসারে গ্রাফ আঁকো",
+            "USE_THE_MENU._KEY": "মেনু ব্যবহার করুন।."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "এই ফোল্ডারের মধ্যে ডকুমেন্টেশন প্রদর্শন করা হবে",
+            "MAIN_DOC_KEY": "প্রধানব",
+            "MANUAL_TRANSLATION_KEY": "নিজস্ব অনুবাদ",
+            "PLUGIN_TRANSLATION_KEY": "প্লাগ-ইন অনুবাদ"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "নিজস্ব অনুবাদ",
+            "REFRESH_LANGUAGE_LIST_KEY": "ভাষাের তালিকা নতুন করে প্রদর্শন করা হবে",
+            "SELECT_LANGUAGE_KEY": "ভাষা নির্বাচন করুন",
+            "SELECT_SOURCE_LANGUAGE._KEY": "উৎস ভাষা নির্বাচন করুন ।.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "উদ্দিষ্ট ভাষা নির্বাচন করুন ।.",
+            "YOUR_TEXT_KEY": "আপনার টেক্সট",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "যে টেক্সটটি আপনি অনুবাদ করতে চান।.",
+            "TRANSLATE_KEY": "অনুবাদ করো",
+            "THE_TRANSLATED_TEXT_KEY": "লেখা",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "অনুবাদ করার পর টেক্সটটা পাবে।.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "উদ্দিষ্ট ভাষা নির্বাচন করুন । টেক্সট লিখুন। অনুবাদ",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "একটি ভাষা নির্বাচন করুন",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "কিছু লিখুন যাতে আমি অনুবাদ করতে পারি",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "একটি ভাষা নির্বাচন করুন",
+            "TRANSLATION_DONE_KEY": "অনুবাদ সমাপ্ত"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "অনুবাদ টুল",
+            "DOCUMENTATION_KEY": "নথিপত্র",
+            "MANUAL_TRANSLATION_KEY": "নিজস্ব অনুবাদ",
+            "PLUGIN_TRANSLATION_KEY": "প্লাগ-ইন অনুবাদ"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "নতুন করে প্রদর্শন",
+            "SELECT_PLUGIN_KEY": "প্লাগ-ইন নির্বাচন করুন",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "যে সব ক্লায়েন্ট প্লাগইনের তালিকা এবং তাদের অনুবাদ ফাইল থাকতে পারে ।.",
+            "SELECT_LANGUAGES_KEY": "ভাষা নির্বাচন করুন",
+            "TRANSLATE_KEY": "অনুবাদ করো",
+            "PLUGIN_TRANSLATION_KEY": "প্লাগ-ইন অনুবাদ",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "প্লাগ-ইন নির্বাচন করুন",
+            "CLICK_TRANSLATE_KEY": "অনুবাদ",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "তালিকা নতুন করে প্রদর্শন করা হবে",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "অনুবাদ করার জন্য এক অথবা একাধিক প্লাগ-ইন নির্বাচন করুন",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "অনুবাদ করার জন্য এক অথবা একাধিক ভাষা নির্বাচন করুন",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "সার্ভার অনুবাদ করার অনুরোধ জানানো হচ্ছে",
+            "TO_LANGUAGES_KEY": "চিহ্নিত স্থানে ভাষা",
+            "TRANSLATION_DONE_KEY": "অনুবাদ সমাপ্ত",
+            "EXECUTION_TIME_KEY": "সময় নির্বাচন করুন",
+            "SECONDS_KEY": "সেকেন্ড"
+        }
+    }
+}

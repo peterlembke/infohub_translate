@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "tl",
+        "language_name": "Tagalog",
+        "language_name_local": "Tagalog",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Ang puno",
+        "description": "Gamitin ang iyong personal na datos."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Tagubilin",
+            "USE_THE_MENU._KEY": "Gamitin ang menu."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Ibalik ang lahat",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Buong backup ng lahat ng datos mo sa server.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Kumuha ka ng isang file sa lahat ng bagay.",
+            "BACKUP_EVERYTHING_KEY": "Ibalik ang lahat ng bagay",
+            "BACKUP_PLUGINS_KEY": "Mga plagin sa likod",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Backup ng bawat plagin nang hiwalay.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Kumuha ka ng isang backup file para sa bawat plagin.",
+            "REFRESH_PLUGIN_LIST_KEY": "Muling baguhin ang listahan ng plagin",
+            "PLUGIN_LIST_KEY": "Listahan ng Plugin",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Listahan ng lahat ng mga plagin ng puno",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Likod ng napiling mga plagin",
+            "PARTIAL_BACKUP_KEY": "Hindi Bahaging backup",
+            "PARTIAL_BACKUP._KEY": "Hindi kumpletong backup.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Pumili ng isang plagin at pumili ng mga susi sa backup.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Kumuha ka ng isang backup file.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Listahan ng lahat ng mga plagin ng puno.",
+            "SELECT_ONE_KEY": "Pumili ng isa",
+            "REFRESH_KEY_LIST_KEY": "Baguhin ang listahan",
+            "KEYS_KEY": "Mga Susi",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Lahat ng susi para sa napiling plagin.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Pumili ng mga gusto mong packup",
+            "BACKUP_SELECTED_KEYS_KEY": "Backup piniling key"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Ang dokumento ay maggagawad dito",
+            "MAIN_DOC_KEY": "Pangunahing doc",
+            "VERSION_DOC_KEY": "Bersiyong doc",
+            "ENCRYPTION_DOC_KEY": "Kaguluhan",
+            "BACKUP_DOC_KEY": "Likod",
+            "RESTORE_DOC_KEY": "Ibalik ang doc",
+            "STORAGE_DOC_KEY": "Doc ng torage",
+            "SYNC_DOC_KEY": "Sync doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "I-port ang talaksang susi",
+            "ONE_CONTACT_KEY": "Isang pakikipag - ugnayan",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Ito ang anyong datos para sa isang contact",
+            "IMPORT_PASSWORD_KEY": "I-port password",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Ang inyong kontrasenyas para sa talaksan",
+            "FORGET_IMPORTED_KEY_KEY": "Kalimutang inangkat",
+            "EXPORT_KEY_FILE_KEY": "Itapon ang talaksang susi",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Itapon ang inangkat na susi sa pamamagitan ng bagong password",
+            "EXPORT_PASSWORD_KEY": "Itapon ang password",
+            "CREATE_KEY_FILE_KEY": "Gumawa ng talaksang susi",
+            "CREATE_NEW_KEY_FILE_KEY": "Gumawa ng bagong talaksang susi",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Gumawa ng bagong key gamit ang bagong password"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Tagapangasiwa ng puno",
+            "DOCUMENTATION_KEY": "Dokumento",
+            "VERSION_KEY": "Bersiyon",
+            "ENCRYPTION_KEY": "Pag - iyak",
+            "BACKUP_KEY": "Pagbabalik",
+            "RESTORE_KEY": "Pagbabalik",
+            "SYNC_KEY": "Sync"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Mga Labanan",
+            "SELECT_BACKUP_FILES_KEY": "Pumili ng backup files",
+            "CLEAR_LIST_KEY": "Malinaw na listahan",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Ibalik ang impormasyon sa imbakan ng browser",
+            "BACKUP_FILES_KEY": "Mga talaksang backup",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Narito ang listahan na may lahat ng backup file na napili mo sa pilidor ng file",
+            "INFORMATION_KEY": "Impormasyon",
+            "RESTORE_LOG_KEY": "Ibalik ang log",
+            "CLICK_ON_THE_LIST_KEY": "Click sa listahan",
+            "REFRESH_CONFLICT_LIST_KEY": "Muling baguhin ang listahan ng labanan",
+            "KEEP_LOCAL_VERSION_KEY": "Panatilihin ang lokal na bersiyon",
+            "KEEP_SERVER_VERSION_KEY": "Ituloy ang bersyon ng server",
+            "CONFLICT_LIST_KEY": "Pagkakasalungatang listahan"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Paandarin ang enclusion dito",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Una kang nag - sabay, pagkatapos ay hawakan mo ang mga listahan ng upload, download at conflict",
+            "CLICK_ON_THE_LIST_KEY": "Click sa listahan",
+            "SYNC_KEY": "Sync",
+            "UPLOAD_KEY": "Itaas",
+            "DOWNLOAD_KEY": "Ibaba",
+            "REFRESH_CONFLICT_LIST_KEY": "Muling baguhin ang listahan ng labanan",
+            "KEEP_LOCAL_VERSION_KEY": "Panatilihin ang lokal na bersiyon",
+            "KEEP_SERVER_VERSION_KEY": "Ituloy ang bersyon ng server",
+            "CONFLICT_LIST_KEY": "Pagkakasalungatang listahan",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Matutulungan mo akong magpasiya kung anong bersiyon ang iingatan ko"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Relivang datos ng bersyon"
+        }
+    }
+}

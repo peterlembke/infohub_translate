@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "tl",
+        "language_name": "Tagalog",
+        "language_name_local": "Tagalog",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Magpadala ng mensahe ng kaugalian",
+        "description": "Bilang isang tagapagpaunlad maaari kang magpadala ng mga mensahe sa iyong mga gawain."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "\" Trigger \"",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Ikaw bilang isang developer ay maaaring magpadala ng mensahe sa iyong lumalabas na plagin.",
+            "REFRESH_DATA_KEY": "Muling baguhin ang datos",
+            "NODE_KEY": "Node",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Pumili ng node na ibig mong ipaabot ang mensahe",
+            "CLIENT_KEY": "Kliente",
+            "SERVER_KEY": "Tagapagsilbi",
+            "PLUGIN_KEY": "Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Piliin ang plagin na nais mong ipadala ang mensahe",
+            "FUNCTION_KEY": "Kasiyahan",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Pumili ng trabahong gusto mong ipaabot sa iba",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Itapon ang mensahe para sa napiling tungkulin",
+            "MESSAGE_KEY": "Mensahe",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Ito ang mensahe na maaari mong ipadala sa napiling plagin.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Ang mensahe na nakikita mo ay ang default na pamantayan na itinakda ng gawain.",
+            "GET_ALL_KEY": "Kunin ang lahat",
+            "BARE_BONE_KEY": "Buto ngare",
+            "GET_DEFAULT_MESSAGE_KEY": "Kunin ang default message",
+            "SEND_MESSAGE_KEY": "Magpadala ng mensahe",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Pagtugon mula sa tungkulin",
+            "RESPONSE_KEY": "Pagtugon",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Makikita mo rito ang tugon mula sa gawain.",
+            "NO_CONFIG_KEY": "Walang Prepektura"
+        }
+    }
+}

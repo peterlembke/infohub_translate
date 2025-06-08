@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:32:55",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "ro",
+        "language_name": "Romanian",
+        "language_name_local": "Română",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Trimite mesaj personalizat",
+        "description": "Ca dezvoltator, puteți trimite mesaje la funcțiile dumneavoastră."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Declanşator",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Tu ca un dezvoltator poate trimite un mesaj pentru plugin-ul dumneavoastră emergente.",
+            "REFRESH_DATA_KEY": "Actualizează datele",
+            "NODE_KEY": "Nod",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Selectați nodul la care doriți să trimiteți mesajul",
+            "CLIENT_KEY": "Client",
+            "SERVER_KEY": "Server",
+            "PLUGIN_KEY": "Modul",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Alegeți modulul la care doriți să trimiteți mesajul",
+            "FUNCTION_KEY": "Funcție",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Alegeți funcția la care doriți să trimiteți mesajul",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Mesaj implicit pentru funcția selectată",
+            "MESSAGE_KEY": "Mesaj",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Acesta este mesajul pe care îl puteți trimite la modulul selectat.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Mesajul pe care îl vedeți este valorile implicite pe care funcția le-a setat.",
+            "GET_ALL_KEY": "Get all",
+            "BARE_BONE_KEY": "Os gol",
+            "GET_DEFAULT_MESSAGE_KEY": "Obține mesajul implicit",
+            "SEND_MESSAGE_KEY": "Trimite mesajul",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Răspunsul din funcție",
+            "RESPONSE_KEY": "Răspuns",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Aici veți vedea răspunsul din funcție.",
+            "NO_CONFIG_KEY": "Nu config"
+        }
+    }
+}

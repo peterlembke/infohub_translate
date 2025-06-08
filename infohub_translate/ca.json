@@ -1,0 +1,71 @@
+{
+    "version": {
+        "date": "2025-06-08 19:07:24",
+        "plugin": "infohub_translate",
+        "data_checksum": "5a70d4c33b49496eb1d64b3af7582c75",
+        "language": "ca",
+        "language_name": "Catalan",
+        "language_name_local": "CatalàName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Tradueix",
+        "description": "Es tradueix manualment una frase. Crea fitxers de llenguatge per als connectors."
+    },
+    "data": {
+        "infohub_translate": {
+            "INSTRUCTIONS_KEY": "Instruccions",
+            "USE_THE_MENU._KEY": "Usa el menú."
+        },
+        "infohub_translate_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "La documentació es representarà aquí",
+            "MAIN_DOC_KEY": "Doc principal",
+            "MANUAL_TRANSLATION_KEY": "Traducció manual",
+            "PLUGIN_TRANSLATION_KEY": "Traducció al connector"
+        },
+        "infohub_translate_manual": {
+            "MANUAL_TRANSLATION_KEY": "Traducció manual",
+            "REFRESH_LANGUAGE_LIST_KEY": "Refresca la llista d' idiomes",
+            "SELECT_LANGUAGE_KEY": "Selecciona l' idioma",
+            "SELECT_SOURCE_LANGUAGE._KEY": "Selecciona l' idioma del codi font.",
+            "SELECT_DESTINATION_LANGUAGE._KEY": "Selecciona l' idioma de destí.",
+            "YOUR_TEXT_KEY": "El vostre text",
+            "THE_TEXT_YOU_WANT_TO_TRANSLATE._KEY": "El text que voleu traduir.",
+            "TRANSLATE_KEY": "Tradueix",
+            "THE_TRANSLATED_TEXT_KEY": "El text traduït",
+            "THE_TEXT_YOU_GET_AFTER_TRANSLATION._KEY": "El text que obteniu després de la traducció.",
+            "SELECT_DESTINATION_LANGUAGE._WRITE_TEXT._CLICK_TRANSLATE_KEY": "Selecciona l' idioma de destí. Escriu text. Clic a traduir",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_FROM_KEY": "Trieu un idioma a traduir des de",
+            "WRITE_SOMETHING_SO_I_CAN_TRANSLATE_KEY": "Escriu alguna cosa per traduir",
+            "PICK_A_LANGUAGE_TO_TRANSLATE_TO_KEY": "Trieu un idioma per traduir",
+            "TRANSLATION_DONE_KEY": "Traducció acabada"
+        },
+        "infohub_translate_menu": {
+            "TRANSLATION_TOOL_KEY": "Eina de traducció",
+            "DOCUMENTATION_KEY": "Documentació",
+            "MANUAL_TRANSLATION_KEY": "Traducció manual",
+            "PLUGIN_TRANSLATION_KEY": "Traducció al connector"
+        },
+        "infohub_translate_plugin": {
+            "REFRESH_LISTS_KEY": "Refresca la llista",
+            "SELECT_PLUGIN_KEY": "Selecció de connector",
+            "LISTS_ALL_CLIENT_PLUGINS_THAT_CAN_HAVE_TRANSLATION_FILES._KEY": "Llista tots els connectors de client que poden tenir fitxers de traducció.",
+            "SELECT_LANGUAGES_KEY": "Selecciona idiomes",
+            "TRANSLATE_KEY": "Tradueix",
+            "PLUGIN_TRANSLATION_KEY": "Traducció al connector",
+            "SELECT_PLUGINS_AND_LANGUAGES_KEY": "Selecciona connectors i idiomes",
+            "CLICK_TRANSLATE_KEY": "Clic a traduir",
+            "REFRESH_OF_THE_LISTS_IS_DONE_KEY": "Refresca la llista",
+            "PICK_ONE_OR_MORE_PLUGINS_TO_TRANSLATE_KEY": "Trieu un o més connectors per traduir",
+            "PICK_ONE_OR_MORE_LANGUAGES_TO_TRANSLATE_TO_KEY": "Trieu un o més idiomes per traduir",
+            "ASKING_SERVER_TO_TRANSLATE_KEY": "S' està demanant al servidor que es tradueixi",
+            "TO_LANGUAGES_KEY": "Per idiomes",
+            "TRANSLATION_DONE_KEY": "Traducció acabada",
+            "EXECUTION_TIME_KEY": "Temps d' execució",
+            "SECONDS_KEY": "Segons"
+        }
+    }
+}

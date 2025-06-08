@@ -1,0 +1,92 @@
+{
+    "version": {
+        "date": "2025-06-08 18:18:57",
+        "plugin": "infohub_contact",
+        "data_checksum": "8241fee35ac048e71f5beaaa44ffa342",
+        "language": "tr",
+        "language_name": "Turkish",
+        "language_name_local": "Türk Türkçesi",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Kullanıcılar ve Nodes",
+        "description": "Kullanıcılarınızı burada idare edebilirsiniz. Burada diğer sunucu düğümlerine erişim kurabilirsiniz."
+    },
+    "data": {
+        "infohub_contact": {
+            "INSTRUCTIONS_KEY": "Talimatlar",
+            "USE_THE_MENU._KEY": "Menüyü kullanın."
+        },
+        "infohub_contact_client": {
+            "REFRESH_CLIENTS_KEY": "Yeni müşteriler",
+            "CLIENT_CONTACTS_KEY": "Müşteriler",
+            "LIST_ALL_CLIENT_CONTACTS_KEY": "Tüm müşteri kontaktları Listesi",
+            "NEW_KEY": "Yeni",
+            "SAVE_KEY": "Kaydet",
+            "DELETE_KEY": "Delete",
+            "IMPORT_KEY": "İthalat",
+            "EXPORT_KEY": "İhracat İhracatı",
+            "ONE_CONTACT_KEY": "Bir temas",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Bu, bir temas için veri formudur",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NAME_OF_THE_CLIENT_KEY": "Müşterinizin eşsiz adı",
+            "NOTE_KEY": "Not",
+            "ANY_TEXT_YOU_WANT_KEY": "İstediğiniz herhangi bir metin",
+            "DOMAIN_ADDRESS_KEY": "Domain adresi",
+            "THE_DOMAIN_ADDRESS_TO_YOUR_SERVER_KEY": "Domain adresi sunucunuza",
+            "USER_NAME_KEY": "Kullanıcı adı",
+            "YOU_GET_A_HUB-UUID_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Kurtardığınızda bir hub-uuid elde edersiniz ( boş bırak)",
+            "SHARED_SECRET_KEY": "Ortak sır",
+            "YOU_WILL_GET_A_2K_RANDOM_STRING_WHEN_YOU_SAVE_(LEAVE_BLANK)_KEY": "Kurtardığınızda 2k rastgele bir dize alacaksınız (boş bırak)",
+            "ALLOWED_ROLES_KEY": "İzinli roller",
+            "LIST_WITH_ALL_USER_ROLES_YOU_HAVE_KEY": "Sahip olduğunuz tüm kullanıcı rolleri ile liste",
+            "USER_KEY": "Kullanıcı",
+            "DEVELOPER_KEY": "Geliştirici",
+            "ADMIN_KEY": "Admin",
+            "HAS_PASSWORD_KEY": "Şifre var",
+            "IF_IMPORTED_FILE_HAS_A_CLIENT_PASSWORD_SET_BY_THE_USER_KEY": "Eğer ithal dosyanın kullanıcı tarafından belirlenen bir müşteri şifresi varsa"
+        },
+        "infohub_contact_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokümantasyon burada doğacak",
+            "MAIN_DOC_KEY": "Main docc",
+            "CLIENT_DOC_KEY": "Müşteri Doc",
+            "SERVER_DOC_KEY": "Server doc"
+        },
+        "infohub_contact_menu": {
+            "CONTACT_MANAGER_KEY": "İletişim yöneticisi",
+            "DOCUMENTATION_KEY": "Dokümantasyon",
+            "CLIENT_CONTACT_KEY": "Müşterilerle iletişim kurun",
+            "SERVER_CONTACT_KEY": "Server contact"
+        },
+        "infohub_contact_server": {
+            "REFRESH_KEY": "Yenileme",
+            "SERVER_CONTACTS_KEY": "Server kontakları",
+            "LIST_ALL_SERVER_CONTACTS_KEY": "Tüm sunucu kontaktları Listesi",
+            "SAVE_KEY": "Kaydet",
+            "DELETE_KEY": "Delete",
+            "IMPORT_KEY": "İthalat",
+            "EXPORT_KEY": "İhracat İhracatı",
+            "PING_SERVER_KEY": "Ping server",
+            "ONE_CONTACT_KEY": "Bir temas",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT._KEY": "Bu, bir temas için veri formudur.",
+            "NODE_KEY": "Node",
+            "YOUR_UNIQUE_NODE_NAME_KEY": "Senin eşsiz node adı",
+            "NOTE_KEY": "Not",
+            "ANY_TEXT_YOU_WANT_KEY": "İstediğiniz herhangi bir metin",
+            "DOMAIN_ADDRESS_KEY": "Domain adresi",
+            "THE_DOMAIN_ADDRESS_TO_THE_REMOTE_SERVER_KEY": "Bölge uzak sunucuya hitap ediyor",
+            "USER_NAME_KEY": "Kullanıcı adı",
+            "HUB-UUID_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "Hub-uuid uzaktan sunucudan aldın",
+            "SHARED_SECRET_KEY": "Ortak sır",
+            "2K_RANDOM_STRING_YOU_GOT_FROM_THE_REMOTE_SERVER_KEY": "uzak sunucudan aldığınız rastgele dize",
+            "ALLOWED_ROLES_KEY": "İzinli roller",
+            "LIST_WITH_ALL_ROLES_THIS_ACCOUNT_HAS_KEY": "Bu hesabın tüm rolleri ile liste listesi",
+            "USER_KEY": "Kullanıcı",
+            "DEVELOPER_KEY": "Geliştirici",
+            "ADMIN_KEY": "Admin"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "eo",
+        "language_name": "Esperanto",
+        "language_name_local": "Esperanto",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Sendu kutimon mesaĝon",
+        "description": "Kiel programisto vi povas sendi mesaĝojn al viaj funkcioj."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigger",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Vi kiel programisto povas sendi mesaĝon al via emerĝanta kromaĵo.",
+            "REFRESH_DATA_KEY": "Refresh datenoj",
+            "NODE_KEY": "Neniu",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Se vi volas sendi la mesaĝon al la",
+            "CLIENT_KEY": "Kliento",
+            "SERVER_KEY": "Servilo",
+            "PLUGIN_KEY": "Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Se vi volas sendi la mesaĝon al",
+            "FUNCTION_KEY": "Funkcio",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Elektu la funkcion, kiun vi volas sendi la mesaĝon al",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Defaŭlta mesaĝo por la elektita funkcio",
+            "MESSAGE_KEY": "Mesaĝo",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Ĉi tiu estas la mesaĝo, kiun vi povas sendi al la elektita kromaĵo.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "La mesaĝo kiun vi vidas estas la defaŭltaj valoroj la funkcio metis.",
+            "GET_ALL_KEY": "Akiri ĉiujn",
+            "BARE_BONE_KEY": "Bara osto",
+            "GET_DEFAULT_MESSAGE_KEY": "Akiri defaŭltan mesaĝon",
+            "SEND_MESSAGE_KEY": "Sendu mesaĝon",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Respondo de la funkcio",
+            "RESPONSE_KEY": "Respondo",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Ĉi tie vi vidos la respondon de la funkcio.",
+            "NO_CONFIG_KEY": "Neniu konfig"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:32:55",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "ru",
+        "language_name": "Russian",
+        "language_name_local": "Русский",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Клавиатура",
+        "description": "Здесь вы можете подписаться на комбинации клавиатуры и привязать их к функциям."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Тестирование клавиатуры",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Попробуйте комбинации на клавиатуре",
+            "ANY_BUTTON_KEY": "Любые кнопки",
+            "SUBSCRIBE_KEY": "Подписаться",
+            "UNSUBSCRIBE_KEY": "Отписаться",
+            "SHOW_SUBSCRIBERS_KEY": "Показать подписчиков",
+            "KEYBOARD_DEMO_POPUP_KEY": "Демонстрационный всплывающий экран"
+        }
+    }
+}

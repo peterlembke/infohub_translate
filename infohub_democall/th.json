@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:21:52",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "th",
+        "language_name": "Thai",
+        "language_name_local": "ภาษาไทยName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "ทดสอบจดหมาย",
+        "description": "ในฐานะนักพัฒนา คุณสามารถเห็นสิ่งที่เกิดขึ้น เมื่อคุณส่งข้อความไปยังส่วนเสริมหรือฟังก์ชันที่ไม่มีอยู่."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "การ สอน",
+            "USE_THE_MENU._KEY": "ใช้เมนูสิ.",
+            "RESULT_KEY": "ผลลัพธ์"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "ยกเลิกการเรียก",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "ตรงนี้คุณสามารถดูว่าเกิดอะไรขึ้น ถ้าคุณเรียกส่วนเสริมที่หายไป หรือฟังก์ชันที่หายไป",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "ลูกค้าโทรถูกที่ มีส่วนเสริมและการทํางานอยู่",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "ส่วนเสริม - ส่วนเสริม มีอยู่แล้ว, ฟังก์ชัน cmd ยังไม่มีอยู่",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "ไม่มีไคลเอนต์ - ส่วนเสริม",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "เซอเวอร์โทรถูกที่ มีส่วนเสริมและการทํางานอยู่",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "แม่ข่ายให้บริการ - ส่วนเสริม มีอยู่แล้ว ไม่มีฟังก์ชัน cmd อยู่",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "เซิร์ฟเวอร์ - ไม่มีส่วนเสริม",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "การ พูด คุย กับ ลูก ค้า",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "ลูก ค้า – ลูก กําพร้า",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "ลูก ค้า - การ เรียก ผิด จาก ลูก ไป ยัง พ่อ แม่",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "เซิร์ฟเวอร์ - ทําการทดสอบเซิร์ฟเวอร์ทั้งหมด"
+        }
+    }
+}

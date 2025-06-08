@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:37:12",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "nb",
+        "language_name": "Norwegian",
+        "language_name_local": "Norsk",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Send egendefinert melding",
+        "description": "Som utvikler kan du sende meldinger til dine funksjoner."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigger",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Du som utvikler kan sende en melding til det nye programtillegget.",
+            "REFRESH_DATA_KEY": "Oppfrisk data",
+            "NODE_KEY": "Node",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Velg noden du vil sende meldingen til",
+            "CLIENT_KEY": "Kunde",
+            "SERVER_KEY": "Server",
+            "PLUGIN_KEY": "Tilleggsmodul",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Velg plugin du vil sende meldingen til",
+            "FUNCTION_KEY": "Funksjon",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Velg funksjonen du vil sende meldingen til",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Standard melding for den valgte funksjonen",
+            "MESSAGE_KEY": "Melding",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "Dette er meldingen du kan sende til det valgte programtillegget.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Meldingen du ser er standardverdiene som funksjonen har satt.",
+            "GET_ALL_KEY": "Få alle",
+            "BARE_BONE_KEY": "Bare bein",
+            "GET_DEFAULT_MESSAGE_KEY": "Få standardmelding",
+            "SEND_MESSAGE_KEY": "Send melding",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Svar fra funksjonen",
+            "RESPONSE_KEY": "Svar",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Her vil du se svaret fra funksjonen.",
+            "NO_CONFIG_KEY": "Ingen innstilling"
+        }
+    }
+}

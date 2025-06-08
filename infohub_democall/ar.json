@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 18:00:18",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "ar",
+        "language_name": "Arabic",
+        "language_name_local": "العربية",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "إرسال الرسائل",
+        "description": "كمطور يمكنك أن ترى ما يحدث عندما ترسل رسالة إلى بلوجين أو وظيفة غير موجودة."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "التعليمات",
+            "USE_THE_MENU._KEY": "استخدم القائمة.",
+            "RESULT_KEY": "النتيجة"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "نداء ديمو",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "هنا يمكنك أن تستكشف ما يحدث إذا كنت تدعو البلوغ الذي هو مفقود، أو وظيفة مفقودة",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "عميل - نداء صحيح وجود البلوغ والوظيفة",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "لا توجد وظيفة مقطعية",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "العميلة - البلوجين مفقودة",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "(سيرفر) مكالمة صحيحة وجود البلوغ والوظيفة",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "(سيرفر) - لا وجود لـ (بلوجين) ولا توجد وظيفة (سمد)",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "(سيرفر)، (بلوجين) مفقود",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "العملاء - الأطفال يتحدثون مع المستجيبين الشرعيين",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "دعوة غير صحيحة لاختطاف الطفل",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "- دعوة غير صحيحة من الطفل إلى الوالد",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "(سيرفر) أجري جميع اختبارات الخادم"
+        }
+    }
+}

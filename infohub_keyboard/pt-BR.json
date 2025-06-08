@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:10:20",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "pt-BR",
+        "language_name": "Portuguese (Brazil)",
+        "language_name_local": "Português (Brasil)",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Teclado",
+        "description": "Aqui você pode assinar combinações de teclado e ligá-las a funções."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "Testes de teclado",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "Tente combinações no teclado",
+            "ANY_BUTTON_KEY": "Qualquer botão",
+            "SUBSCRIBE_KEY": "Assine",
+            "UNSUBSCRIBE_KEY": "Cancelar a inscrição",
+            "SHOW_SUBSCRIBERS_KEY": "Mostrar assinantes",
+            "KEYBOARD_DEMO_POPUP_KEY": "Popup de demonstração de teclado"
+        }
+    }
+}

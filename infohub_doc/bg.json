@@ -1,0 +1,35 @@
+{
+    "version": {
+        "date": "2025-06-08 19:10:18",
+        "plugin": "infohub_doc",
+        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "language": "bg",
+        "language_name": "Bulgarian",
+        "language_name_local": "Български",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Документация",
+        "description": "Пълна документация над InfoHub и всички плъгини."
+    },
+    "data": {
+        "infohub_doc_document": {
+            "DOCUMENT_KEY": "Документ",
+            "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Тук ще видите документа"
+        },
+        "infohub_doc_index": {
+            "REFRESH_INDEX_KEY": "Индекс на освежаване",
+            "INDEX_KEY": "Индекс"
+        },
+        "infohub_doc_navigate": {
+            "REFRESH_NAVIGATE_KEY": "Презареждане",
+            "NAVIGATION_KEY": "Навигация"
+        },
+        "infohub_doc_visited": {
+            "REFRESH_VISITED_KEY": "Обновяване"
+        }
+    }
+}

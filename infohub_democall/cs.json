@@ -1,0 +1,39 @@
+{
+    "version": {
+        "date": "2025-06-08 19:07:24",
+        "plugin": "infohub_democall",
+        "data_checksum": "0e005ba052c0162aba960428b0f97345",
+        "language": "cs",
+        "language_name": "Czech",
+        "language_name_local": "Česká republika",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Zprávy o odeslání testu",
+        "description": "Jako vývojář můžete vidět, co se stane, když pošlete zprávu na plugin nebo funkce, které neexistují."
+    },
+    "data": {
+        "infohub_democall": {
+            "INSTRUCTIONS_KEY": "Pokyny",
+            "USE_THE_MENU._KEY": "Použij menu.",
+            "RESULT_KEY": "Výsledek"
+        },
+        "infohub_democall_menu": {
+            "DEMO_CALL_KEY": "Demo volání",
+            "HERE_YOU_CAN_EXPLORE_WHAT_HAPPENS_IF_YOU_CALL_A_PLUGIN_THAT_IS_MISSING,_OR_A_MISSING_FUNCTION_KEY": "Zde můžete prozkoumat, co se stane, pokud zavoláte plugin, který chybí, nebo chybějící funkce",
+            "CLIENT_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Klient - správné volání. Modul a funkce existují",
+            "CLIENT_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Klient - plugin existuje, cmd funkce neexistuje",
+            "CLIENT_-_PLUGIN_IS_MISSING_KEY": "Klient - plugin chybí",
+            "SERVER_-_CORRECT_CALL._PLUGIN_AND_FUNCTION_EXIST_KEY": "Server - správné volání. Modul a funkce existují",
+            "SERVER_-_PLUGIN_EXIST,_CMD_FUNCTION_DO_NOT_EXIST_KEY": "Server - plugin existuje, cmd funkce neexistuje",
+            "SERVER_-_PLUGIN_IS_MISSING_KEY": "Server - plugin chybí",
+            "CLIENT_-_CHILD_TALK_TO_VALID_RESPONDERS_KEY": "Klient - dětský rozhovor s platnými respondéry",
+            "CLIENT_-_INVALID_CALL_TO_SIBLING_CHILD_KEY": "Klient - neplatné volání na sourozence",
+            "CLIENT_-_INVALID_CALL_FROM_CHILD_TO_PARENT_KEY": "Klient - neplatné volání z dítěte na rodiče",
+            "SERVER_-_RUN_ALL_SERVER_TESTS_KEY": "Server - spustit všechny serverové testy"
+        }
+    }
+}

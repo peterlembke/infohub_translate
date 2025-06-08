@@ -1,0 +1,29 @@
+{
+    "version": {
+        "date": "2025-06-08 18:55:22",
+        "plugin": "infohub_keyboard",
+        "data_checksum": "c58e1022aafedc6fa6e96fbad571148c",
+        "language": "he",
+        "language_name": "Hebrew",
+        "language_name_local": "עברית",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Keyboard",
+        "description": "כאן אתה יכול להירשם לשילובי מקלדת ולקשור אותם לפונקציות."
+    },
+    "data": {
+        "infohub_keyboard": {
+            "KEYBOARD_TESTS_KEY": "בדיקות Keyboard",
+            "TRY_COMBINATIONS_ON_YOUR_KEYBOARD_KEY": "נסה שילובים על המקלדת שלך",
+            "ANY_BUTTON_KEY": "כל כפתור",
+            "SUBSCRIBE_KEY": "Subscribe",
+            "UNSUBSCRIBE_KEY": "Unsubscribe",
+            "SHOW_SUBSCRIBERS_KEY": "הצג מנויים",
+            "KEYBOARD_DEMO_POPUP_KEY": "תגית: Popup"
+        }
+    }
+}

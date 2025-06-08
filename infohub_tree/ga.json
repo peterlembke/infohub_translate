@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:48:42",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "ga",
+        "language_name": "Irish",
+        "language_name_local": "Gaeilge na hÉireann",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "An crann",
+        "description": "Láimhseálann do shonraí pearsanta."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Treoracha",
+            "USE_THE_MENU._KEY": "Bain úsáid as an roghchlár."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Cúltaca go léir",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Cúltaca iomlán de do chuid sonraí a bhfuil tú ar an bhfreastalaí.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Gheobhaidh tú comhad amháin le gach rud.",
+            "BACKUP_EVERYTHING_KEY": "Gach rud ar ais",
+            "BACKUP_PLUGINS_KEY": "Cúltaca plugins",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Cúltaca de gach breiseán ar leithligh.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "A gheobhaidh tú comhad cúltaca amháin do gach breiseán.",
+            "REFRESH_PLUGIN_LIST_KEY": "Refresh liosta breiseán",
+            "PLUGIN_LIST_KEY": "Liosta breiseán",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Liosta le gach breiseán crann",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Cúltaca plugins roghnaithe",
+            "PARTIAL_BACKUP_KEY": "Cúltaca páirteach",
+            "PARTIAL_BACKUP._KEY": "Cúltaca páirteach.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Roghnaigh breiseán amháin agus eochracha a roghnú chun cúltaca.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "A gheobhaidh tú comhad cúltaca amháin.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Liosta le gach breiseán crann.",
+            "SELECT_ONE_KEY": "Roghnaigh ceann amháin",
+            "REFRESH_KEY_LIST_KEY": "Leathanach Main",
+            "KEYS_KEY": "Amharc ar gach eolas",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Gach eochracha don breiseán roghnaithe.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Roghnaigh na cinn is mian leat a cúltaca",
+            "BACKUP_SELECTED_KEYS_KEY": "Cúltaca an Gharda Síochána"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Beidh doiciméadú a dhéanamh anseo",
+            "MAIN_DOC_KEY": "Príomh doc",
+            "VERSION_DOC_KEY": "Leagan doc",
+            "ENCRYPTION_DOC_KEY": "Criptiú doc",
+            "BACKUP_DOC_KEY": "Cúltaca an Gharda",
+            "RESTORE_DOC_KEY": "Déan teagmháil linn",
+            "STORAGE_DOC_KEY": "Stóráil doc",
+            "SYNC_DOC_KEY": "Sync doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Iompórtáil comhad eochair",
+            "ONE_CONTACT_KEY": "Teagmháil amháin",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Is é seo an fhoirm sonraí le haghaidh teagmhála amháin",
+            "IMPORT_PASSWORD_KEY": "Focal faire Allamuigh",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Do phasfhocal don chomhad",
+            "FORGET_IMPORTED_KEY_KEY": "Déan staidéar",
+            "EXPORT_KEY_FILE_KEY": "Easpórtáil comhad eochair",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Easpórtáil an eochair allmhairithe le focal faire nua",
+            "EXPORT_PASSWORD_KEY": "Focal faire Easpórtáil",
+            "CREATE_KEY_FILE_KEY": "Cruthaigh comhad eochair",
+            "CREATE_NEW_KEY_FILE_KEY": "Cruthaigh comhad eochair nua",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Cruthaigh eochair nua le focal faire nua"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Bainisteoir crann",
+            "DOCUMENTATION_KEY": "Cáipéisí",
+            "VERSION_KEY": "Leagan Gaeilge",
+            "ENCRYPTION_KEY": "Criptiú",
+            "BACKUP_KEY": "Cúltaca an Gharda Síochána",
+            "RESTORE_KEY": "Déan teagmháil linn",
+            "SYNC_KEY": "Sync"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Coinbhleachtaí",
+            "SELECT_BACKUP_FILES_KEY": "Roghnaigh comhaid cúltaca",
+            "CLEAR_LIST_KEY": "Liosta léitheoireachta",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Athchóirigh sonraí le stóráil bhrabhsálaí",
+            "BACKUP_FILES_KEY": "Comhaid cúltaca",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Seo liosta le gach comhad cúltaca agat roghnaithe sa roghnóir comhad",
+            "INFORMATION_KEY": "Irl - Library Service",
+            "RESTORE_LOG_KEY": "Déan logáil isteach",
+            "CLICK_ON_THE_LIST_KEY": "Cliceáil ar an liosta",
+            "REFRESH_CONFLICT_LIST_KEY": "Refresh liosta coimhlint",
+            "KEEP_LOCAL_VERSION_KEY": "Coinnigh leagan áitiúil",
+            "KEEP_SERVER_VERSION_KEY": "Coinnigh leagan freastalaí",
+            "CONFLICT_LIST_KEY": "Liosta coinbhleachtaí"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Tosaigh an sync anseo",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Tá tú an chéad sync, ansin a láimhseáil na liostaí uaslódáil, íoslódáil agus coimhlint",
+            "CLICK_ON_THE_LIST_KEY": "Cliceáil ar an liosta",
+            "SYNC_KEY": "Sync",
+            "UPLOAD_KEY": "Uaslódáil",
+            "DOWNLOAD_KEY": "Íoslódáil",
+            "REFRESH_CONFLICT_LIST_KEY": "Refresh liosta coimhlint",
+            "KEEP_LOCAL_VERSION_KEY": "Coinnigh leagan áitiúil",
+            "KEEP_SERVER_VERSION_KEY": "Coinnigh leagan freastalaí",
+            "CONFLICT_LIST_KEY": "Liosta coinbhleachtaí",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Is féidir leat cabhrú liom cinneadh a dhéanamh cad leagan a choinneáil"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Sonraí leagan scagtha"
+        }
+    }
+}

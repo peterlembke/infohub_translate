@@ -1,0 +1,112 @@
+{
+    "version": {
+        "date": "2025-06-08 18:43:05",
+        "plugin": "infohub_tree",
+        "data_checksum": "70055e735244f30d228027d790b314dd",
+        "language": "lv",
+        "language_name": "Latvian",
+        "language_name_local": "Latviešu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Koks",
+        "description": "Sniedz jūsu personas datus."
+    },
+    "data": {
+        "infohub_tree": {
+            "INSTRUCTIONS_KEY": "Norādījumi",
+            "USE_THE_MENU._KEY": "Izmanto izvēlni."
+        },
+        "infohub_tree_backup": {
+            "BACKUP_ALL_KEY": "Rezerves kopēšana",
+            "FULL_BACKUP_OF_ALL_YOUR_DATA_YOU_HAVE_ON_THE_SERVER._KEY": "Visu serverī esošo datu pilnīga dublēšana.",
+            "YOU_GET_ONE_FILE_WITH_EVERYTHING._KEY": "Tu dabū vienu failu ar visu.",
+            "BACKUP_EVERYTHING_KEY": "Visu dublēt",
+            "BACKUP_PLUGINS_KEY": "Rezerves kopēšanas spraudņi",
+            "BACKUP_OF_EACH_PLUGIN_SEPARATELY._KEY": "Katra spraudņa dublēšana atsevišķi.",
+            "YOU_GET_ONE_BACKUP_FILE_FOR_EACH_PLUGIN._KEY": "Katram spraudnim jūs saņemsiet vienu rezerves kopijas failu.",
+            "REFRESH_PLUGIN_LIST_KEY": "Atsvaidzināt spraudņu sarakstu",
+            "PLUGIN_LIST_KEY": "Spraudņu saraksts",
+            "LIST_WITH_ALL_TREE_PLUGINS_KEY": "Saraksts ar visiem koku spraudņiem",
+            "BACKUP_SELECTED_PLUGINS_KEY": "Izvēlētie rezerves kopēšanas spraudņi",
+            "PARTIAL_BACKUP_KEY": "Daļēja dublēšana",
+            "PARTIAL_BACKUP._KEY": "Daļēja papildināšana.",
+            "SELECT_ONE_PLUGIN_AND_SELECT_KEYS_TO_BACKUP._KEY": "Izvēlieties vienu spraudni un izvēlieties rezerves kopijas taustiņus.",
+            "YOU_GET_ONE_BACKUP_FILE._KEY": "Jums ir viens rezerves fails.",
+            "LIST_WITH_ALL_TREE_PLUGINS._KEY": "Saraksts ar visiem koku spraudņiem.",
+            "SELECT_ONE_KEY": "Izvēlieties vienu",
+            "REFRESH_KEY_LIST_KEY": "Atsvaidzināt atslēgu sarakstu",
+            "KEYS_KEY": "Atslēgas",
+            "ALL_KEYS_FOR_THE_SELECTED_PLUGIN._KEY": "Visas izvēlētā spraudņa atslēgas.",
+            "SELECT_THE_ONES_YOU_WANT_TO_BACKUP_KEY": "Izvēlieties rezerves kopijas",
+            "BACKUP_SELECTED_KEYS_KEY": "Rezerves izvēlētās atslēgas"
+        },
+        "infohub_tree_doc": {
+            "DOCUMENTATION_WILL_RENDER_HERE_KEY": "Dokumentācija tiks renderēta šeit",
+            "MAIN_DOC_KEY": "Galvenais dok",
+            "VERSION_DOC_KEY": "Versijas doks",
+            "ENCRYPTION_DOC_KEY": "Šifrēšanas dokuments",
+            "BACKUP_DOC_KEY": "Rezerves doc",
+            "RESTORE_DOC_KEY": "Atjaunot doku",
+            "STORAGE_DOC_KEY": "Uzglabāšanas doks",
+            "SYNC_DOC_KEY": "Sinhronizēt doc"
+        },
+        "infohub_tree_encrypt": {
+            "IMPORT_KEY_FILE_KEY": "Importēt atslēgas failu",
+            "ONE_CONTACT_KEY": "Viens kontakts",
+            "THIS_IS_THE_DATA_FORM_FOR_ONE_CONTACT_KEY": "Šī ir viena kontakta datu veidlapa",
+            "IMPORT_PASSWORD_KEY": "Importēt paroli",
+            "YOUR_PASSWORD_FOR_THE_FILE_KEY": "Jūsu parole failam",
+            "FORGET_IMPORTED_KEY_KEY": "Aizmirst importēto",
+            "EXPORT_KEY_FILE_KEY": "Eksportēt atslēgas failu",
+            "EXPORT_THE_IMPORTED_KEY_WITH_NEW_PASSWORD_KEY": "Eksportēt importēto atslēgu ar jaunu paroli",
+            "EXPORT_PASSWORD_KEY": "Eksportēt paroli",
+            "CREATE_KEY_FILE_KEY": "Izveidot atslēgas failu",
+            "CREATE_NEW_KEY_FILE_KEY": "Izveidot jaunu atslēgas failu",
+            "CREATE_NEW_KEY_WITH_NEW_PASSWORD_KEY": "Izveidot jaunu atslēgu ar jaunu paroli"
+        },
+        "infohub_tree_menu": {
+            "TREE_MANAGER_KEY": "Koku pārvaldnieks",
+            "DOCUMENTATION_KEY": "Dokumentācija",
+            "VERSION_KEY": "Versija",
+            "ENCRYPTION_KEY": "Šifrēšana",
+            "BACKUP_KEY": "Rezerves kopija",
+            "RESTORE_KEY": "Atjaunot",
+            "SYNC_KEY": "Sinhr"
+        },
+        "infohub_tree_restore": {
+            "CONFLICTS_KEY": "Konflikti",
+            "SELECT_BACKUP_FILES_KEY": "Izvēlieties rezerves kopiju failus",
+            "CLEAR_LIST_KEY": "Tīrīt sarakstu",
+            "RESTORE_DATA_TO_BROWSER_STORAGE_KEY": "Atjaunot datus pārlūka krātuvē",
+            "BACKUP_FILES_KEY": "Rezerves faili",
+            "HERE_IS_A_LIST_WITH_ALL_BACKUP_FILES_YOU_HAVE_SELECTED_IN_THE_FILE_SELECTOR_KEY": "Šeit ir saraksts ar visiem failu selektorā iezīmētajiem rezerves kopijas failiem",
+            "INFORMATION_KEY": "Informācija",
+            "RESTORE_LOG_KEY": "Atjaunot žurnālu",
+            "CLICK_ON_THE_LIST_KEY": "Nospiediet uz saraksta",
+            "REFRESH_CONFLICT_LIST_KEY": "Atsvaidzināt konfliktu sarakstu",
+            "KEEP_LOCAL_VERSION_KEY": "Paturēt lokālo versiju",
+            "KEEP_SERVER_VERSION_KEY": "Paturēt servera versiju",
+            "CONFLICT_LIST_KEY": "Konfliktu saraksts"
+        },
+        "infohub_tree_sync": {
+            "START_THE_SYNC_HERE_KEY": "Sākt sinhronizāciju šeit",
+            "YOU_FIRST_SYNC,_THEN_HANDLE_THE_UPLOAD,_DOWNLOAD_AND_CONFLICT_LISTS_KEY": "Jūs vispirms sinhronizēt, pēc tam apstrādāt augšupielādēt, lejupielādēt un konfliktu sarakstus",
+            "CLICK_ON_THE_LIST_KEY": "Nospiediet uz saraksta",
+            "SYNC_KEY": "Sinhr",
+            "UPLOAD_KEY": "Augšupielāde",
+            "DOWNLOAD_KEY": "Lejupielādēt",
+            "REFRESH_CONFLICT_LIST_KEY": "Atsvaidzināt konfliktu sarakstu",
+            "KEEP_LOCAL_VERSION_KEY": "Paturēt lokālo versiju",
+            "KEEP_SERVER_VERSION_KEY": "Paturēt servera versiju",
+            "CONFLICT_LIST_KEY": "Konfliktu saraksts",
+            "YOU_CAN_HELP_ME_DECIDE_WHAT_VERSION_TO_KEEP_KEY": "Jūs varat man palīdzēt izlemt, kāda versija, lai saglabātu"
+        },
+        "infohub_tree_version": {
+            "REFRESH_VERSION_DATA_KEY": "Atsvaidzināt versijas datus"
+        }
+    }
+}

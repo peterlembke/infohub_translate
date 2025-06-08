@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 19:02:00",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "et",
+        "language_name": "Estonian",
+        "language_name_local": "Eesti",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Kohandatud sõnumi saatmine",
+        "description": "Arendajana saate oma funktsioonidele sõnumeid saata."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Trigger",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Teie kui arendaja saate saata sõnumi oma arenevale pluginale.",
+            "REFRESH_DATA_KEY": "Värskenda andmeid",
+            "NODE_KEY": "Node",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Vali sõlm, kuhu soovid sõnumi saata",
+            "CLIENT_KEY": "Klient",
+            "SERVER_KEY": "Server",
+            "PLUGIN_KEY": "Plugin",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Vali plugin, kuhu soovid sõnumi saata",
+            "FUNCTION_KEY": "Funktsioon",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Vali funktsioon, millele soovid sõnumi saata",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Valitud funktsiooni vaikesõnum",
+            "MESSAGE_KEY": "Sõnum",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "See on sõnum, mille saad valitud pluginale saata.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Nähtav sõnum on funktsiooni määratud vaikeväärtused.",
+            "GET_ALL_KEY": "Võta",
+            "BARE_BONE_KEY": "Paljas luu",
+            "GET_DEFAULT_MESSAGE_KEY": "Vaikimisi teate saatmine",
+            "SEND_MESSAGE_KEY": "Saada sõnum",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Funktsiooni reageering",
+            "RESPONSE_KEY": "Vastus",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Siin näete funktsiooni vastust.",
+            "NO_CONFIG_KEY": "Konfiguratsiooni pole"
+        }
+    }
+}

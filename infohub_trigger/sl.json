@@ -1,0 +1,45 @@
+{
+    "version": {
+        "date": "2025-06-08 18:27:20",
+        "plugin": "infohub_trigger",
+        "data_checksum": "519edda090d5203e179aab96be87e894",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Pošlji sporočilo po meri",
+        "description": "Kot razvijalec lahko pošiljate sporočila svojim funkcijam."
+    },
+    "data": {
+        "infohub_trigger": {
+            "TRIGGER_KEY": "Sprožilec",
+            "YOU_AS_A_DEVELOPER_CAN_SEND_A_MESSAGE_TO_YOUR_EMERGING_PLUGIN._KEY": "Vi kot razvijalec lahko pošljete sporočilo na vaš nastajajoči plugin.",
+            "REFRESH_DATA_KEY": "Osveži podatke",
+            "NODE_KEY": "Vozlič",
+            "SELECT_THE_NODE_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Izberite vozlišče, na katerega želite poslati sporočilo",
+            "CLIENT_KEY": "Odjemalec",
+            "SERVER_KEY": "Strežnik",
+            "PLUGIN_KEY": "Vstavek",
+            "SELECT_THE_PLUGIN_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Izberite vstavek, na katerega želite poslati sporočilo",
+            "FUNCTION_KEY": "Funkcija",
+            "SELECT_THE_FUNCTION_YOU_WANT_TO_SEND_THE_MESSAGE_TO_KEY": "Izberite funkcijo, na katero želite poslati sporočilo",
+            "DEFAULT_MESSAGE_FOR_THE_SELECTED_FUNCTION_KEY": "Privzeto sporočilo za izbrano funkcijo",
+            "MESSAGE_KEY": "Sporočilo",
+            "THIS_IS_THE_MESSAGE_YOU_CAN_SEND_TO_THE_SELECTED_PLUGIN._KEY": "To je sporočilo, ki ga lahko pošljete izbranemu vstavku.",
+            "THE_MESSAGE_YOU_SEE_IS_THE_DEFAULT_VALUES_THE_FUNCTION_HAVE_SET._KEY": "Sporočilo, ki ga vidite, je privzete vrednosti, ki jih je funkcija nastavila.",
+            "GET_ALL_KEY": "Zberi se",
+            "BARE_BONE_KEY": "Brez kosti",
+            "GET_DEFAULT_MESSAGE_KEY": "Privzeto sporočilo",
+            "SEND_MESSAGE_KEY": "Pošlji sporočilo",
+            "RESPONSE_FROM_THE_FUNCTION_KEY": "Odziv funkcije",
+            "RESPONSE_KEY": "Odziv",
+            "HERE_YOU_WILL_SEE_THE_RESPONSE_FROM_THE_FUNCTION._KEY": "Tukaj boste videli odgovor iz funkcije.",
+            "NO_CONFIG_KEY": "Ni nastavitve"
+        }
+    }
+}
