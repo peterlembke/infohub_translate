@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 19:10:18",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "bn",
         "language_name": "Bengali",
         "language_name_local": "বাংলা",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "এখানে আপনি ডকুমেন্ট দেখতে পাবেন"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "সূচী পুনরায় লোড করো",
-            "INDEX_KEY": "সূচিপত্র"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "উপাদানের টেবিল আপডেট করুন",
+            "TABLE_OF_CONTENTS_KEY": "সূচিপত্র"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "নতুন করে প্রদর্শন",
-            "NAVIGATION_KEY": "পরিদর্শন"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "ডকুমেন্টের বিভাগ আপডেট করুন",
+            "DOCUMENTS_LIST_KEY": "ডকুমেন্ট তালিকা"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "পরিদর্শিত মাপে প্রদর্শন"

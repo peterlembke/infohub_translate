@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 18:32:55",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "ro",
         "language_name": "Romanian",
         "language_name_local": "Română",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Aici veţi vedea documentul"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "Actualizează indexul",
-            "INDEX_KEY": "Indice"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "Actualizează tabelul cu conținut",
+            "TABLE_OF_CONTENTS_KEY": "Cuprins"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "Reîmprospătare navigare",
-            "NAVIGATION_KEY": "Navigare"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "Actualizează lista de documente",
+            "DOCUMENTS_LIST_KEY": "Lista documentelor"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "Reîmprospătează vizita"

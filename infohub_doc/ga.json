@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 18:48:42",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "ga",
         "language_name": "Irish",
         "language_name_local": "Gaeilge na hÉireann",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Anseo feicfidh tú an doiciméad"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "Innéacs Athraigh",
-            "INDEX_KEY": "Innéacs"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "Update the table of content",
+            "TABLE_OF_CONTENTS_KEY": "Tábla an ábhair"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "Athraigh nascleanúint",
-            "NAVIGATION_KEY": "Uisce agus Séarachas"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "An liosta doiciméad a nuashonrú",
+            "DOCUMENTS_LIST_KEY": "Liosta doiciméad"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "Thug Refresh cuairt"

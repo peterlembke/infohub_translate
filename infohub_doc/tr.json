@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 18:18:57",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "tr",
         "language_name": "Turkish",
         "language_name_local": "Türk Türkçesi",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "İşte belgeyi göreceksiniz"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "Yenileme indeksi",
-            "INDEX_KEY": "Index"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "İçerik tablosunu güncelleyin",
+            "TABLE_OF_CONTENTS_KEY": "İçerik tablosu"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "Yeniden gezi",
-            "NAVIGATION_KEY": "Navigation"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "Belgelerin listesini Güncelleme",
+            "DOCUMENTS_LIST_KEY": "Belgeler listesi"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "Daha fazla ziyaret ziyaret ziyaret"

@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 18:08:43",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "pt",
         "language_name": "Portuguese",
         "language_name_local": "Português",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Aqui você verá o documento"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "Actualizar o índice",
-            "INDEX_KEY": "Índice"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "Atualizar o índice",
+            "TABLE_OF_CONTENTS_KEY": "Índice"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "Actualizar a navegação",
-            "NAVIGATION_KEY": "Navegação"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "Atualizar a lista de documentos",
+            "DOCUMENTS_LIST_KEY": "Lista de documentos"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "Actualizar a visita"

@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 19:02:00",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "et",
         "language_name": "Estonian",
         "language_name_local": "Eesti",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Siin näete dokumenti"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "Värskenda indeksit",
-            "INDEX_KEY": "Indeks"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "Sisukorra uuendamine",
+            "TABLE_OF_CONTENTS_KEY": "Sisukord"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "Värskenda navigeerimist",
-            "NAVIGATION_KEY": "Navigatsioon"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "Dokumentide nimekirja uuendamine",
+            "DOCUMENTS_LIST_KEY": "Dokumentide nimekiri"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "Värskenda külastatud"
