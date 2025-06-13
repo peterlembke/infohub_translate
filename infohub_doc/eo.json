@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 19:02:00",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "eo",
         "language_name": "Esperanto",
         "language_name_local": "Esperanto",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Ĉi tie vi vidos la dokumenton"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "Refresh Index",
-            "INDEX_KEY": "Indekso de Indekso"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "Ĝisdatigu la tablon de enhavoj",
+            "TABLE_OF_CONTENTS_KEY": "Tablo de enhavo"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "Refresh navigi",
-            "NAVIGATION_KEY": "Navigacio"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "La listo de dokumentoj",
+            "DOCUMENTS_LIST_KEY": "Dokumentoj de dokumentoj"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "Refresh vizitis"

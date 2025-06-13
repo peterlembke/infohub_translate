@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 19:10:18",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "bg",
         "language_name": "Bulgarian",
         "language_name_local": "Български",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Тук ще видите документа"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "Индекс на освежаване",
-            "INDEX_KEY": "Индекс"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "Обновяване на съдържанието",
+            "TABLE_OF_CONTENTS_KEY": "Съдържание"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "Презареждане",
-            "NAVIGATION_KEY": "Навигация"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "Обновяване на списъка с документи",
+            "DOCUMENTS_LIST_KEY": "Списък на документите"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "Обновяване"

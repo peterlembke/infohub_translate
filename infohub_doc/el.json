@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 18:55:22",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "el",
         "language_name": "Greek",
         "language_name_local": "Ελληνικά",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Εδώ θα δείτε το έγγραφο"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "Ανανέωση ευρετηρίου",
-            "INDEX_KEY": "Ευρετήριο"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "Ενημέρωση του πίνακα περιεχομένων",
+            "TABLE_OF_CONTENTS_KEY": "Περιεχόμενα"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "Ανανέωση πλοήγησης",
-            "NAVIGATION_KEY": "Πλοήγηση"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "Ενημέρωση της λίστας εγγράφων",
+            "DOCUMENTS_LIST_KEY": "Κατάλογος εγγράφων"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "Ανανέωση επίσκεψης"

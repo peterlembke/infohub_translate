@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 18:00:18",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "ar",
         "language_name": "Arabic",
         "language_name_local": "العربية",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "هنا سترى الوثيقة"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "مؤشر التجديد",
-            "INDEX_KEY": "الفهرس"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "تحديث جدول المحتويات",
+            "TABLE_OF_CONTENTS_KEY": "جدول المحتويات"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "الملاحة النادرة",
-            "NAVIGATION_KEY": "الملاحة"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "تحديث قائمة الوثائق",
+            "DOCUMENTS_LIST_KEY": "قائمة الوثائق"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "Refresh visited"

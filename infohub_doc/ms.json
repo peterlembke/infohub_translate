@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 18:39:46",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "ms",
         "language_name": "Malay",
         "language_name_local": "Bahasa Melayu",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Di sini Anda akan melihat dokumen"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "Indeks Segarkan",
-            "INDEX_KEY": "Indeks"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "Memutakhirkan tabel isi",
+            "TABLE_OF_CONTENTS_KEY": "Tabel isi"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "♪ Segarkan navigasi ♪",
-            "NAVIGATION_KEY": "Pemandu arah"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "Update daftar dokumen",
+            "DOCUMENTS_LIST_KEY": "Daftar Dokumen-dokumen"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "%s: %s"

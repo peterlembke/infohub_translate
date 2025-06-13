@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 18:07:10",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "fa",
         "language_name": "Persian",
         "language_name_local": "فارسی",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "در اینجا شما سند را خواهید دید"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "شاخص جدید",
-            "INDEX_KEY": "شاخص"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "به روز رسانی جدول محتویات",
+            "TABLE_OF_CONTENTS_KEY": "جدول محتویات"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "حرکت تازه",
-            "NAVIGATION_KEY": "ناوبری"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "به روز رسانی لیست اسناد",
+            "DOCUMENTS_LIST_KEY": "لیست اسناد"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "تازه بازدید"

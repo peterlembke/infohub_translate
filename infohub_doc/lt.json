@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-08 18:39:46",
+        "date": "2025-06-13 08:07:33",
         "plugin": "infohub_doc",
-        "data_checksum": "1c6cb8325b8b187828651c4f0c30c026",
+        "data_checksum": "e92c660a6ed2c9ade41ce19035fb80fb",
         "language": "lt",
         "language_name": "Lithuanian",
         "language_name_local": "Lietuvių",
@@ -21,12 +21,12 @@
             "HERE_YOU_WILL_SEE_THE_DOCUMENT_KEY": "Čia rasite dokumentą"
         },
         "infohub_doc_index": {
-            "REFRESH_INDEX_KEY": "Atnaujinti indeksą",
-            "INDEX_KEY": "Indeksas"
+            "UPDATE_THE_TABLE_OF_CONTENTS_KEY": "Atnaujinti turinį",
+            "TABLE_OF_CONTENTS_KEY": "Turinys"
         },
         "infohub_doc_navigate": {
-            "REFRESH_NAVIGATE_KEY": "Atnaujinti naršyklę",
-            "NAVIGATION_KEY": "Navigacija"
+            "UPDATE_THE_DOCUMENTS_LIST_KEY": "Atnaujinti dokumentų sąrašą",
+            "DOCUMENTS_LIST_KEY": "Dokumentų sąrašas"
         },
         "infohub_doc_visited": {
             "REFRESH_VISITED_KEY": "Atnaujinti aplankytą"
