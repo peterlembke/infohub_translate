@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Havi kamatláb százalék",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Havi kamatláb százalék két tizedesjegygel",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Havi kamatláb tizedesjegy",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Havi kamatláb tizedesjegy az összes tizedesjegy a bugdet",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Havi kamatláb tizedesjegy az összes tizedesjegy a bugdet",
             "CALCULATION_OK_KEY": "Számítás oké",
             "CALCULATION_VERIFIED_OK_KEY": "Számítás ellenőrzött ok",
             "CALCULATION_FAILED_KEY": "A számítás nem sikerült",

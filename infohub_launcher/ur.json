@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "ur",
+        "language_name": "Urdu",
+        "language_name_local": "اُردو",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "اطلاقیے شروع کریں",
+        "description": "آپ شروع کر سکتے ہیں اصل آغاز کامبنچ سے ہوتا ہے۔."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "پسندوں یا تمام پلگ انس دکھا وٴ",
+            "FAVORITES_KEY": "مہربانی",
+            "ALL_APPS_KEY": "تمام عرفیت",
+            "INSTRUCTIONS_KEY": "ہدایات",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "سوئچ فہرست۔ تسلی ۔ مجھ پر کلک کرو.",
+            "HELP_KEY": "مدد",
+            "SHOW_MORE_KEY": "دکھائیں",
+            "USER_NAME_KEY": "صا_رف کا نام",
+            "CURRENT_URL_KEY": "حالیہ پلگ ان",
+            "LOG_OUT_KEY": "لاگ آؤٹ",
+            "UPDATE_THE_PAGE_KEY": "صفحہ کا مطالعہ کريں",
+            "UPDATE_THIS_LIST_KEY": "اس فہرست کو تجدید کریں",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "انتخاب فہرست حاصل کریں فہرست کے لیے انتخابی اقدار نہیں دی جا سکتی۔",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "اضافین میں غلطی تھی۔",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "ایڈیکن کو غیر صحیح فہرست ملی",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "ایڈیکن کو خالی آئٹم ملا",
+            "FAVORITE_KEY": "مہربانی",
+            "NO_FAVORITE_KEY": "کوئی پسندیدہ پسند نہیں",
+            "START_KEY": "آغاز",
+            "START_IN_NEW_WINDOW_KEY": "نئی ونڈو میں شروع کریں"
+        }
+    }
+}

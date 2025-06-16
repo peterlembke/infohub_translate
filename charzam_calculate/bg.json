@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Месечен лихвен процент",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Месечен лихвен процент с два десетични знака",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Месечен лихвен знак след десетичната запетая",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Месечен лихвен знак след десетичната запетая с всички десетични знака за вашия bugdet",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Месечен лихвен знак след десетичната запетая с всички десетични знака за вашия bugdet",
             "CALCULATION_OK_KEY": "Изчисляване ОК",
             "CALCULATION_VERIFIED_OK_KEY": "Изчисляването е проверено",
             "CALCULATION_FAILED_KEY": "Грешка при изчисляване",

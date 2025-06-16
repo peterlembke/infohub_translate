@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "id",
+        "language_name": "Indonesian",
+        "language_name_local": "Indonesia",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Mulai aplikasi",
+        "description": "Plugin dengan GUI yang menampilkan ikon bagi plugin yang tersedia yang dapat Anda mulai. Awal yang sebenarnya ditangani oleh meja kerja."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Tampilkan favorit atau semua aplikasi",
+            "FAVORITES_KEY": "Favorit",
+            "ALL_APPS_KEY": "Semua aplikasi",
+            "INSTRUCTIONS_KEY": "Instruksi",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Ganti daftar. Refresh. Ikon klik.",
+            "HELP_KEY": "Bantuan",
+            "SHOW_MORE_KEY": "Tampilkan lebih banyak",
+            "USER_NAME_KEY": "Nama pengguna",
+            "CURRENT_URL_KEY": "Url saat ini",
+            "LOG_OUT_KEY": "Keluar",
+            "UPDATE_THE_PAGE_KEY": "Perbarui halaman",
+            "UPDATE_THIS_LIST_KEY": "Mutakhirkan daftar ini",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Dapatkan daftar opsi tidak dapat memberikan nilai opsi bagi daftar",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Ada kesalahan dalam kecanduan",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon memperoleh daftar yang tak valid",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon mendapat item kosong",
+            "FAVORITE_KEY": "Favorit",
+            "NO_FAVORITE_KEY": "Tidak ada favorit",
+            "START_KEY": "Mulai",
+            "START_IN_NEW_WINDOW_KEY": "Mulai dari jendela baru"
+        }
+    }
+}

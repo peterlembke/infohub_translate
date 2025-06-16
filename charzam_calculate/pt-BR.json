@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Taxa de juros mensal por cento",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Taxa de juros mensal por cento com duas casas decimais",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Taxa de juros mensal decimal",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Taxa de juros mensal decimal com todas as decimais para o seu bugdet",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Taxa de juros mensal decimal com todas as decimais para o seu bugdet",
             "CALCULATION_OK_KEY": "Cálculo ok",
             "CALCULATION_VERIFIED_OK_KEY": "Cálculo verificado ok",
             "CALCULATION_FAILED_KEY": "O cálculo falhou",

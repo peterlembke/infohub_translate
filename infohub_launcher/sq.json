@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "sq",
+        "language_name": "Albanian",
+        "language_name_local": "Shqip",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Fillo programin",
+        "description": "Plugin me një GUI që shfaq ikona për plugin në dispozicion që mund të fillosh. Fillimi aktual është trajtuar nga Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Shfaq të preferuarit apo të gjitha aplikacionet",
+            "FAVORITES_KEY": "Libërshënues",
+            "ALL_APPS_KEY": "Të gjitha aplikacionet",
+            "INSTRUCTIONS_KEY": "Udhëzime",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Ndryshoje listën. Freskues. Kliko ikonë.",
+            "HELP_KEY": "Ndihmë",
+            "SHOW_MORE_KEY": "Shfaq më shumë",
+            "USER_NAME_KEY": "Emri i përdoruesit",
+            "CURRENT_URL_KEY": "Aktual",
+            "LOG_OUT_KEY": "Dil jashtë",
+            "UPDATE_THE_PAGE_KEY": "Rifresko faqen",
+            "UPDATE_THIS_LIST_KEY": "Rifresko këtë listë",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Merr lista nuk për lista",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Gabim në shtohet",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Shtojcon mori një listë të pavlefshme",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Shtojca mori një element bosh",
+            "FAVORITE_KEY": "Libërshënues",
+            "NO_FAVORITE_KEY": "Jo i preferuar",
+            "START_KEY": "Fillimi",
+            "START_IN_NEW_WINDOW_KEY": "Fillo në një dritare të re"
+        }
+    }
+}

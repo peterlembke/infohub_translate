@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "he",
+        "language_name": "Hebrew",
+        "language_name_local": "עברית",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "התחל יישומים",
+        "description": "Plugin עם GUI המציג סמלים עבור תוספים הזמינים שאתה יכול להתחיל. ההתחלה האמיתית מנוהלת על ידי Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "הצג מועדפים או את כל האפליקציות",
+            "FAVORITES_KEY": "מועדפים",
+            "ALL_APPS_KEY": "כל היישומים",
+            "INSTRUCTIONS_KEY": "הוראות",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "רשימת Switch מרענן. לחץ על סמל.",
+            "HELP_KEY": "עזרה",
+            "SHOW_MORE_KEY": "הצג עוד",
+            "USER_NAME_KEY": "שם המשתמש",
+            "CURRENT_URL_KEY": "Url",
+            "LOG_OUT_KEY": "עקבו",
+            "UPDATE_THE_PAGE_KEY": "עדכון הדף",
+            "UPDATE_THIS_LIST_KEY": "עדכון הרשימה",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "רשימת אפשרויות לא יכולה לתת ערכים אפשריים לרשימה",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "הייתה טעות בהוספת",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon קיבלה רשימה לא חוקית",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon קיבלה פריט ריק",
+            "FAVORITE_KEY": "אהוב מועדף",
+            "NO_FAVORITE_KEY": "לא מועדף",
+            "START_KEY": "התחל",
+            "START_IN_NEW_WINDOW_KEY": "התחל בחלון חדש"
+        }
+    }
+}

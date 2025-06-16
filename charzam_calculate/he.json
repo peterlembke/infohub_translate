@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "ריבית חודשית",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "ריבית חודשית עם שתי נקודות",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "ריבית חודשית decimal",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "ריבית חודשית decimal עם כל decimals עבור באגדות שלך",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "ריבית חודשית decimal עם כל decimals עבור באגדות שלך",
             "CALCULATION_OK_KEY": "רגיעה בסדר",
             "CALCULATION_VERIFIED_OK_KEY": "המונחים: go",
             "CALCULATION_FAILED_KEY": "קלקולציה נכשלה",

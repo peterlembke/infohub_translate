@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "ko",
+        "language_name": "Korean",
+        "language_name_local": "한국어",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "관련 제품",
+        "description": "사용할 수있는 플러그인을위한 아이콘을 보여주는 GUI와 플러그인. 실제 시작은 Workbench에 의해 처리됩니다."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "즐겨 찾기 또는 모든 앱 보기",
+            "FAVORITES_KEY": "이름 *",
+            "ALL_APPS_KEY": "모든 앱",
+            "INSTRUCTIONS_KEY": "이름 *",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "스위치 목록. 새로 고침 아이콘을 클릭합니다.",
+            "HELP_KEY": "지원하다",
+            "SHOW_MORE_KEY": "더 보기",
+            "USER_NAME_KEY": "사용자 이름",
+            "CURRENT_URL_KEY": "현재 URL",
+            "LOG_OUT_KEY": "기타 제품",
+            "UPDATE_THE_PAGE_KEY": "자주 묻는 질문",
+            "UPDATE_THIS_LIST_KEY": "이 목록 업데이트",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "옵션을 지정하면 목록의 옵션 값을 줄 수 없습니다",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Addicon에 오류가 있었습니다",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon은 잘못된 리스트를 가지고 있습니다",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon는 빈 품목을 얻었습니다",
+            "FAVORITE_KEY": "이름 *",
+            "NO_FAVORITE_KEY": "자주 묻는 질문",
+            "START_KEY": "지원하다",
+            "START_IN_NEW_WINDOW_KEY": "새 창에서 시작"
+        }
+    }
+}

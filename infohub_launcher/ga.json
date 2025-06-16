@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "ga",
+        "language_name": "Irish",
+        "language_name_local": "Gaeilge na hÉireann",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Iarratais Tosaigh",
+        "description": "Breiseán le GUI a léiríonn deilbhíní le haghaidh plugins ar fáil gur féidir leat tosú. Tá an tús iarbhír á láimhseáil ag an Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Taispeáin Favorites nó gach apps",
+            "FAVORITES_KEY": "An bhfuil a fhios agat",
+            "ALL_APPS_KEY": "Gach apps",
+            "INSTRUCTIONS_KEY": "Treoracha",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Athraigh liosta. Athraigh. Cliceáil deilbhín.",
+            "HELP_KEY": "Cabhair",
+            "SHOW_MORE_KEY": "Taispeáin níos mó",
+            "USER_NAME_KEY": "Ainm úsáideora",
+            "CURRENT_URL_KEY": "Taiseachas aeir: fliuch",
+            "LOG_OUT_KEY": "Logáil isteach",
+            "UPDATE_THE_PAGE_KEY": "Nuashonraigh an leathanach",
+            "UPDATE_THIS_LIST_KEY": "An liosta seo a nuashonrú",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Faigh Ní féidir liosta rogha a thabhairt luachanna rogha le haghaidh an liosta",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Bhí earráid i addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon fuair liosta neamhbhailí",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon fuair mír folamh",
+            "FAVORITE_KEY": "Taiseachas aeir: fliuch",
+            "NO_FAVORITE_KEY": "Níl an Tweet seo ar fáil",
+            "START_KEY": "Tosaigh",
+            "START_IN_NEW_WINDOW_KEY": "Tosaigh i bhfuinneog nua"
+        }
+    }
+}

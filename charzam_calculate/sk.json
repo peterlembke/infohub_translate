@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Mesačná úroková sadzba v percentách",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Mesačná úroková sadzba v percentách s dvoma desatinnými miestami",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Mesačná desatinná sadzba",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Mesačná úroková sadzba desiatková so všetkými desatinnými miestami pre vašu chybu",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Mesačná úroková sadzba desiatková so všetkými desatinnými miestami pre vašu chybu",
             "CALCULATION_OK_KEY": "Výpočet ok",
             "CALCULATION_VERIFIED_OK_KEY": "Výpočet overený ok",
             "CALCULATION_FAILED_KEY": "Výpočet zlyhal",

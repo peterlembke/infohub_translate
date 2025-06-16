@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Aylıq faiz oranı",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "İki decimals ilə aylıq faiz oranı",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Aylıq faiz oranı decimal",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Sizin bugdet üçün bütün decimallar ilə aylıq faiz dərəcimal",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Sizin bugdet üçün bütün decimallar ilə aylıq faiz dərəcimal",
             "CALCULATION_OK_KEY": "Hesabat",
             "CALCULATION_VERIFIED_OK_KEY": "Hesablaşdırma",
             "CALCULATION_FAILED_KEY": "Hesabsız",

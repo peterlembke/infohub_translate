@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "pl",
+        "language_name": "Polish",
+        "language_name_local": "Polski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Uruchomienie aplikacji",
+        "description": "Wtyczka z GUI, która pokazuje ikony dla dostępnych wtyczek, które można uruchomić. Rzeczywisty początek jest obsługiwany przez Workławkę."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Pokaż ulubione lub wszystkie aplikacje",
+            "FAVORITES_KEY": "Ulubione",
+            "ALL_APPS_KEY": "Wszystkie aplikacje",
+            "INSTRUCTIONS_KEY": "Instrukcje",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Lista zmian. Odśwież. Kliknij ikonę.",
+            "HELP_KEY": "Pomoc",
+            "SHOW_MORE_KEY": "Pokaż więcej",
+            "USER_NAME_KEY": "Nazwa użytkownika",
+            "CURRENT_URL_KEY": "Bieżący url",
+            "LOG_OUT_KEY": "Wyloguj się",
+            "UPDATE_THE_PAGE_KEY": "Aktualizuj stronę",
+            "UPDATE_THIS_LIST_KEY": "Aktualizuj tę listę",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Pobierz listę opcji nie może podać wartości opcji dla listy",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Był błąd w uzależnieniu",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon dostał złą listę",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon dostał pusty element",
+            "FAVORITE_KEY": "Ulubione",
+            "NO_FAVORITE_KEY": "Brak ulubionych",
+            "START_KEY": "Start",
+            "START_IN_NEW_WINDOW_KEY": "Uruchom w nowym oknie"
+        }
+    }
+}

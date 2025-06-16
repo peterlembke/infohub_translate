@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "fr",
+        "language_name": "French",
+        "language_name_local": "Français",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Démarrer les applications",
+        "description": "Plugin avec une interface graphique qui montre des icônes pour les plugins disponibles que vous pouvez démarrer. Le départ réel est géré par le Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Afficher les favoris ou toutes les applications",
+            "FAVORITES_KEY": "Favoris",
+            "ALL_APPS_KEY": "Toutes les applications",
+            "INSTRUCTIONS_KEY": "Instructions",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Changer de liste. Rafraîchir. Cliquez sur l'icône.",
+            "HELP_KEY": "Aide",
+            "SHOW_MORE_KEY": "Afficher plus",
+            "USER_NAME_KEY": "Nom d'utilisateur",
+            "CURRENT_URL_KEY": "Durée actuelle",
+            "LOG_OUT_KEY": "Déconnexion",
+            "UPDATE_THE_PAGE_KEY": "Mettre à jour la page",
+            "UPDATE_THIS_LIST_KEY": "Mettre à jour cette liste",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Obtenir une liste d'options ne peut pas donner de valeurs d'options pour la liste",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Il y avait une erreur dans l'addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon a obtenu une liste invalide",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon a un objet vide",
+            "FAVORITE_KEY": "Favoris",
+            "NO_FAVORITE_KEY": "Pas de favori",
+            "START_KEY": "Démarrer",
+            "START_IN_NEW_WINDOW_KEY": "Démarrer dans une nouvelle fenêtre"
+        }
+    }
+}

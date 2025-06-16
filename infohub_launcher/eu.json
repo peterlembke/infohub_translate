@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "eu",
+        "language_name": "Basque",
+        "language_name_local": "Euskara",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Hasi aplikazioak",
+        "description": "Abiarazi ditzakezun plugin erabilgarrietarako ikonoak erakusten dituen interfazedun plugina. Hasierakoak Workbench-ek kudeatzen ditu."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Erakutsi gogokoak edo aplikazio guztiak",
+            "FAVORITES_KEY": "Gogokoak",
+            "ALL_APPS_KEY": "Aplikazio guztiak",
+            "INSTRUCTIONS_KEY": "Instrukzioak",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Aldatu zerrenda. Freskatu. Egin klik ikonoan.",
+            "HELP_KEY": "Laguntza",
+            "SHOW_MORE_KEY": "Erakutsi gehiago",
+            "USER_NAME_KEY": "Erabiltzaile-izena",
+            "CURRENT_URL_KEY": "Uneko url",
+            "LOG_OUT_KEY": "Amaitu saioa",
+            "UPDATE_THE_PAGE_KEY": "Eguneratu orrialdea",
+            "UPDATE_THIS_LIST_KEY": "Eguneratu zerrenda",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Lortu aukera-zerrendak ezin ditu zerrendako aukera-balioak eman",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Errorea gertatu da addicon-ean",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon-ek zerrenda baliogabea du",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon-ek elementu hutsa dauka",
+            "FAVORITE_KEY": "Gogokoa",
+            "NO_FAVORITE_KEY": "Gogokorik ez",
+            "START_KEY": "Hasi",
+            "START_IN_NEW_WINDOW_KEY": "Hasi leiho berrian"
+        }
+    }
+}

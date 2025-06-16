@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "bn",
+        "language_name": "Bengali",
+        "language_name_local": "বাংলা",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "অ্যাপ্লিকেশন আরম্ভ করুন",
+        "description": "উপলব্ধ প্লাগ-ইন দ্বারা উপলব্ধ GUI-র সাথে ব্যবহারযোগ্য GUI প্লাগ-ইন। আসল শুরুটা হল ওয়ার্কবেঞ্চের মাধ্যমে।."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "দিনের নাম প্রদর্শন করো",
+            "FAVORITES_KEY": "পছন্দনীয়",
+            "ALL_APPS_KEY": "সব পাতা",
+            "INSTRUCTIONS_KEY": "তথ্যানুসারে গ্রাফ আঁকো",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "পরিবর্তন তালিকা। নতুন করে প্রদর্শন। আইকন ক্লিক করুন ।.",
+            "HELP_KEY": "সাহায্য",
+            "SHOW_MORE_KEY": "আরো বেশি দেখাও",
+            "USER_NAME_KEY": "ব্যবহারকারীর নাম",
+            "CURRENT_URL_KEY": "বর্তমান url",
+            "LOG_OUT_KEY": "লগ-আউট",
+            "UPDATE_THE_PAGE_KEY": "পেজ আপডেট করুন",
+            "UPDATE_THIS_LIST_KEY": "এই তালিকা আপডেট করো",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "তালিকা সম্বন্ধীয় বিকল্পের তালিকা প্রাপ্ত করতে ব্যর্থ",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "ফন্ট যোগ করতে ত্রুটি",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "ID যোগ করুন",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "নিদর্শন যোগ করো",
+            "FAVORITE_KEY": "প্রিয়",
+            "NO_FAVORITE_KEY": "কোন প্রিয় নয়",
+            "START_KEY": "আরম্ভ",
+            "START_IN_NEW_WINDOW_KEY": "নতুন উইন্ডোতে আরম্ভ করুন"
+        }
+    }
+}

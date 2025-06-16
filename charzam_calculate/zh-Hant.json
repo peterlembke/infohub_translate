@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "月利率百分比",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "月利率百分比,小數點二",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "月利率",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "您的bugdet 的月利率與所有小數點",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "您的bugdet 的月利率與所有小數點",
             "CALCULATION_OK_KEY": "計算好",
             "CALCULATION_VERIFIED_OK_KEY": "計算已驗證",
             "CALCULATION_FAILED_KEY": "計算失敗",

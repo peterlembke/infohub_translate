@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "نرخ بهره ماهانه",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "نرخ بهره ماهانه با دو تصمیم",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "نرخ بهره ماهانه decimal",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "نرخ بهره ماهانه با تمام decimals برای اشکالات شما",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "نرخ بهره ماهانه با تمام decimals برای اشکالات شما",
             "CALCULATION_OK_KEY": "محاسبه خوب",
             "CALCULATION_VERIFIED_OK_KEY": "محاسبه خوب تایید شده",
             "CALCULATION_FAILED_KEY": "سانسور شکست خورد",

@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "sl",
+        "language_name": "Slovenian",
+        "language_name_local": "Slovenski",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Zaženi programe",
+        "description": "Vstavek z grafičnim vmesnikom, ki prikazuje ikone za razpoložljive vstavke, ki jih lahko zaženete. Dejanski začetek ureja delovna miza."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Prikaži priljubljene ali vse aplikacije",
+            "FAVORITES_KEY": "Priljubljene",
+            "ALL_APPS_KEY": "Vse aplikacije",
+            "INSTRUCTIONS_KEY": "Navodila",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Zamenjaj seznam. Osveži. Klikni ikono.",
+            "HELP_KEY": "Pomoč",
+            "SHOW_MORE_KEY": "Pokaži več",
+            "USER_NAME_KEY": "Uporabniško ime",
+            "CURRENT_URL_KEY": "Trenutni url",
+            "LOG_OUT_KEY": "Odjava",
+            "UPDATE_THE_PAGE_KEY": "Posodobi stran",
+            "UPDATE_THIS_LIST_KEY": "Posodobi ta seznam",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Dobi seznam možnosti ne more dati vrednosti možnosti za seznam",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Prišlo je do napake v dodatku",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon je dobil neveljaven seznam",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon je dobil prazen predmet",
+            "FAVORITE_KEY": "Priljubljeno",
+            "NO_FAVORITE_KEY": "Ni najljubšega",
+            "START_KEY": "Začetek",
+            "START_IN_NEW_WINDOW_KEY": "Začni v novem oknu"
+        }
+    }
+}

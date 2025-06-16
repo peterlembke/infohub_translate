@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Mesečna obrestna mera v odstotkih",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Mesečna obrestna mera odstotek z dvema decimalnima mestoma",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Mesečna obrestna mera",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Mesečna obrestna mera, decimalna z vsemi decimalkami za vaš bugdet",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Mesečna obrestna mera, decimalna z vsemi decimalkami za vaš bugdet",
             "CALCULATION_OK_KEY": "Izračun ok",
             "CALCULATION_VERIFIED_OK_KEY": "Izračun preverjen ok",
             "CALCULATION_FAILED_KEY": "Izračun ni uspel",

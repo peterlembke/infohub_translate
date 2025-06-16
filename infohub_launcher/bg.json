@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "bg",
+        "language_name": "Bulgarian",
+        "language_name_local": "Български",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Стартиране на приложения",
+        "description": "Приставка с GUI, която показва икони за налични приставки, които можете да стартирате. Истинското начало се управлява от Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Показване на фаворити или всички приложения",
+            "FAVORITES_KEY": "Любими",
+            "ALL_APPS_KEY": "Всички приложения",
+            "INSTRUCTIONS_KEY": "Инструкции",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Смени списъка. Презареждане. Щракнете върху иконата.",
+            "HELP_KEY": "Помощ",
+            "SHOW_MORE_KEY": "Показване на повече",
+            "USER_NAME_KEY": "Потребител",
+            "CURRENT_URL_KEY": "Текущ URL",
+            "LOG_OUT_KEY": "Изход",
+            "UPDATE_THE_PAGE_KEY": "Обновяване на страницата",
+            "UPDATE_THIS_LIST_KEY": "Обновяване на списъка",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Получаване на списък с опции не може да даде стойности на опцията за списъка",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Имаше грешка в Addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon получи невалиден списък",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon получи празен елемент",
+            "FAVORITE_KEY": "Любимо",
+            "NO_FAVORITE_KEY": "Не е любим",
+            "START_KEY": "Начало",
+            "START_IN_NEW_WINDOW_KEY": "Стартиране в нов прозорец"
+        }
+    }
+}

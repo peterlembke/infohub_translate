@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "lv",
+        "language_name": "Latvian",
+        "language_name_local": "Latviešu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Palaist programmas",
+        "description": "Spraudnis ar GUI, kas parāda ikonas pieejamajiem spraudņiem, kurus varat palaist. Faktiskos startus apstrādā ar darbagaldu."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Rādīt iecienītās vai visas programmas",
+            "FAVORITES_KEY": "Iecienītās",
+            "ALL_APPS_KEY": "Visas programmas",
+            "INSTRUCTIONS_KEY": "Norādījumi",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Pārslēgšanas saraksts. Atsvaidzināt. Noklikšķiniet uz ikonas.",
+            "HELP_KEY": "Palīdzība",
+            "SHOW_MORE_KEY": "Rādīt vairāk",
+            "USER_NAME_KEY": "Lietotājvārds",
+            "CURRENT_URL_KEY": "Pašreizējais URL",
+            "LOG_OUT_KEY": "Atteikties",
+            "UPDATE_THE_PAGE_KEY": "Atjaunināt lapu",
+            "UPDATE_THIS_LIST_KEY": "Atjaunināt šo sarakstu",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Saņemt opciju sarakstu nevar dot opciju vērtības sarakstam",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Gadījās kļūda addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon ieguva nederīgu sarakstu",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Atkarībā tika saņemts tukšs ieraksts",
+            "FAVORITE_KEY": "Iecienīts",
+            "NO_FAVORITE_KEY": "Nav iecienīta",
+            "START_KEY": "Sākums",
+            "START_IN_NEW_WINDOW_KEY": "Sākt jaunā logā"
+        }
+    }
+}

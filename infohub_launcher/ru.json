@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "ru",
+        "language_name": "Russian",
+        "language_name_local": "Русский",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Запуск приложений",
+        "description": "Плагин с графическим интерфейсом, который показывает значки для доступных плагинов, которые вы можете начать. Фактическим началом занимается Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Показать любимые или все приложения",
+            "FAVORITES_KEY": "Любимые",
+            "ALL_APPS_KEY": "Все приложения",
+            "INSTRUCTIONS_KEY": "Инструкции",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Переключай список. Освежи. Нажмите на иконку.",
+            "HELP_KEY": "Помощь",
+            "SHOW_MORE_KEY": "Показать больше",
+            "USER_NAME_KEY": "Имя пользователя",
+            "CURRENT_URL_KEY": "Текущий URL",
+            "LOG_OUT_KEY": "Выходи",
+            "UPDATE_THE_PAGE_KEY": "Обновить страницу",
+            "UPDATE_THIS_LIST_KEY": "Обновить этот список",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Получить список опций не может дать значения опций для списка",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "В аддиконе была ошибка",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Аддикон получил недействительный список",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Аддикон получил пустой предмет",
+            "FAVORITE_KEY": "Любимый",
+            "NO_FAVORITE_KEY": "Любимый",
+            "START_KEY": "Начинать",
+            "START_IN_NEW_WINDOW_KEY": "Начать в новом окне"
+        }
+    }
+}

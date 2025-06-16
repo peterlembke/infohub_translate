@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Mēneša procentu likme (%)",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Mēneša procentu likme ar diviem cipariem aiz komata",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Mēneša procentu likme aiz komata",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Mēneša procentu likme aiz komata ar visiem cipariem aiz komata jūsu bugdet",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Mēneša procentu likme aiz komata ar visiem cipariem aiz komata jūsu bugdet",
             "CALCULATION_OK_KEY": "Aprēķina ok",
             "CALCULATION_VERIFIED_OK_KEY": "Aprēķins pārbaudīts ok",
             "CALCULATION_FAILED_KEY": "Neizdevās aprēķināt",

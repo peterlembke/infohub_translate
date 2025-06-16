@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "月間利息率パーセント",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "2つの小数の月間利息率パーセント",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "月間金利小数",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "毎月の利息率は、あなたのバグデットのためのすべての小数と小数",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "毎月の利息率は、あなたのバグデットのためのすべての小数と小数",
             "CALCULATION_OK_KEY": "計算OK",
             "CALCULATION_VERIFIED_OK_KEY": "計算検証OK",
             "CALCULATION_FAILED_KEY": "計算失敗",

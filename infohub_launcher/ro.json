@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "ro",
+        "language_name": "Romanian",
+        "language_name_local": "Română",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Pornește aplicațiile",
+        "description": "Modul cu un GUI care arată pictograme pentru module disponibile pe care le puteți începe. Începerea efectivă este tratată de către Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Arată favorite sau toate aplicațiile",
+            "FAVORITES_KEY": "Favorite",
+            "ALL_APPS_KEY": "Toate aplicațiile",
+            "INSTRUCTIONS_KEY": "Instrucţiuni",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Schimbă lista. Refresh. Click pe pictogramă.",
+            "HELP_KEY": "Ajutor",
+            "SHOW_MORE_KEY": "Arată mai mult",
+            "USER_NAME_KEY": "Nume utilizator",
+            "CURRENT_URL_KEY": "Url curent",
+            "LOG_OUT_KEY": "Deconectează",
+            "UPDATE_THE_PAGE_KEY": "Actualizează pagina",
+            "UPDATE_THIS_LIST_KEY": "Actualizează această listă",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Obține lista de opțiuni nu poate da valori de opțiuni pentru listă",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "A fost o eroare în Addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon a primit o listă invalidă",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon are un obiect gol",
+            "FAVORITE_KEY": "Favorit",
+            "NO_FAVORITE_KEY": "Fără favorite",
+            "START_KEY": "Start",
+            "START_IN_NEW_WINDOW_KEY": "Pornește în fereastră nouă"
+        }
+    }
+}

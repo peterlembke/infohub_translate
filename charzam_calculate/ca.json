@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Taxa d' interès mensual",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Taxa d' interès mensual amb dos decimals",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Taxa d' interès mensual decimal",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Taxa d' interès mensual decimal amb tots els decimals per al vostre error",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Taxa d' interès mensual decimal amb tots els decimals per al vostre error",
             "CALCULATION_OK_KEY": "Càlcul bé",
             "CALCULATION_VERIFIED_OK_KEY": "Càlcul verificat d' acord",
             "CALCULATION_FAILED_KEY": "El càlcul ha fallat",

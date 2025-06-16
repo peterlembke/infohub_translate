@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "it",
+        "language_name": "Italian",
+        "language_name_local": "Italiano",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Avviare le applicazioni",
+        "description": "Plugin con una GUI che mostra icone per i plugin disponibili che è possibile avviare. L'effettivo avviamento è gestito dal banco da lavoro."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Mostra preferiti o tutte le app",
+            "FAVORITES_KEY": "Preferiti",
+            "ALL_APPS_KEY": "Tutte le app",
+            "INSTRUCTIONS_KEY": "Istruzioni",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Cambia la lista. Refresh. Fare clic sull'icona.",
+            "HELP_KEY": "Aiuto",
+            "SHOW_MORE_KEY": "Mostra di più",
+            "USER_NAME_KEY": "Nome utente",
+            "CURRENT_URL_KEY": "Url corrente",
+            "LOG_OUT_KEY": "Accedi",
+            "UPDATE_THE_PAGE_KEY": "Aggiorna la pagina",
+            "UPDATE_THIS_LIST_KEY": "Aggiorna questa lista",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Ottenere l'elenco di opzione non può dare i valori di opzione per l'elenco",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "C'è stato un errore nell'addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon ha ottenuto un elenco non valido",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon ha ottenuto un elemento vuoto",
+            "FAVORITE_KEY": "Preferito",
+            "NO_FAVORITE_KEY": "No preferiti",
+            "START_KEY": "Inizio",
+            "START_IN_NEW_WINDOW_KEY": "Iniziare in una nuova finestra"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "uk",
+        "language_name": "Ukrainian",
+        "language_name_local": "Українська",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Стартові програми",
+        "description": "Плагін з графічним інтерфейсом, який показує іконки для доступних плагінів, які можна запустити. Актуальний старт ручить Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Показати вподобання або всі додатки",
+            "FAVORITES_KEY": "Вибрані",
+            "ALL_APPS_KEY": "Всі додатки",
+            "INSTRUCTIONS_KEY": "Інструкції",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Список перемикачів. Рефреш. Натисніть іконку.",
+            "HELP_KEY": "Про нас",
+            "SHOW_MORE_KEY": "Показати більше",
+            "USER_NAME_KEY": "Ім'я користувача",
+            "CURRENT_URL_KEY": "Поточний URL",
+            "LOG_OUT_KEY": "Увійти",
+            "UPDATE_THE_PAGE_KEY": "Оновлення сторінки",
+            "UPDATE_THIS_LIST_KEY": "Оновлення списку",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Отримати список опцій не можна давати значення для списку",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Відбувся помилка в addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon отримав недійсний список",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon отримав порожній елемент",
+            "FAVORITE_KEY": "Вибрані",
+            "NO_FAVORITE_KEY": "Ні улюблений",
+            "START_KEY": "Почати",
+            "START_IN_NEW_WINDOW_KEY": "Початок в новому вікні"
+        }
+    }
+}

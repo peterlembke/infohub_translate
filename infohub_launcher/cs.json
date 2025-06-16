@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "cs",
+        "language_name": "Czech",
+        "language_name_local": "Česká republika",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Zahájit aplikace",
+        "description": "Modul s GUI, který ukazuje ikony pro dostupné pluginy, které můžete spustit. Skutečné startování řeší pracovní stůl."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Zobrazit oblíbené nebo všechny aplikace",
+            "FAVORITES_KEY": "Oblíbené",
+            "ALL_APPS_KEY": "Všechny aplikace",
+            "INSTRUCTIONS_KEY": "Pokyny",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Seznam změn. Obnovit. Klikněte na ikonu.",
+            "HELP_KEY": "Nápověda",
+            "SHOW_MORE_KEY": "Zobrazit více",
+            "USER_NAME_KEY": "Uživatelské jméno",
+            "CURRENT_URL_KEY": "Aktuální url",
+            "LOG_OUT_KEY": "Odhlásit se",
+            "UPDATE_THE_PAGE_KEY": "Aktualizovat stránku",
+            "UPDATE_THIS_LIST_KEY": "Aktualizovat tento seznam",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Získat seznam možností nemůže dát hodnoty volby pro seznam",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Došlo k chybě v závislosti",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon dostal neplatný seznam",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon má prázdnou položku",
+            "FAVORITE_KEY": "Oblíbené",
+            "NO_FAVORITE_KEY": "Žádný oblíbený",
+            "START_KEY": "Start",
+            "START_IN_NEW_WINDOW_KEY": "Spustit v novém okně"
+        }
+    }
+}

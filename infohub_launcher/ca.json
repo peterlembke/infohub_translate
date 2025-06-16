@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "ca",
+        "language_name": "Catalan",
+        "language_name_local": "CatalàName",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Inicia aplicacions",
+        "description": "Connector amb una IGU que mostra icones per als connectors disponibles que podeu iniciar. Name L'acció real està gestionada pel grup de treball."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Mostra els preferits o totes les aplicacions",
+            "FAVORITES_KEY": "Preferits",
+            "ALL_APPS_KEY": "Totes les aplicacions",
+            "INSTRUCTIONS_KEY": "Instruccions",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Canvia la llista. Refresca. Cliqueu la icona.",
+            "HELP_KEY": "Ajuda",
+            "SHOW_MORE_KEY": "Mostra més",
+            "USER_NAME_KEY": "Nom d' usuari",
+            "CURRENT_URL_KEY": "URL actual",
+            "LOG_OUT_KEY": "Sortida",
+            "UPDATE_THE_PAGE_KEY": "Actualitza la pàgina",
+            "UPDATE_THIS_LIST_KEY": "Actualitza aquesta llista",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Obtén una llista d' opcions no pot donar valors d' opció per a la llista",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Hi ha hagut un error en afegiricon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Afegeix icona ha rebut una llista invàlida",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Afegeix icona té un element buit",
+            "FAVORITE_KEY": "Preferida",
+            "NO_FAVORITE_KEY": "Sense favorit",
+            "START_KEY": "Inicia",
+            "START_IN_NEW_WINDOW_KEY": "Inicia en una finestra nova"
+        }
+    }
+}
