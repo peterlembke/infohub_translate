@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Щомісячна процентна ставка",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Щомісячний відсоток відсотків з двома десятками",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Щомісячна процентна ставка",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Щомісячна процентна ставка з усіма десятками для вашого клопотання",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Щомісячна процентна ставка з усіма десятками для вашого клопотання",
             "CALCULATION_OK_KEY": "Розрахунок ок",
             "CALCULATION_VERIFIED_OK_KEY": "Розрахунок перевірених ок",
             "CALCULATION_FAILED_KEY": "Розрахунок не вдалося",

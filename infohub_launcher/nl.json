@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "nl",
+        "language_name": "Dutch",
+        "language_name_local": "Nederlands",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Starttoepassingen",
+        "description": "Plugin met een GUI die pictogrammen tonen voor beschikbare plugins die u kunt starten. De werkelijke start wordt behandeld door de Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Favorieten of alle apps tonen",
+            "FAVORITES_KEY": "Favorieten",
+            "ALL_APPS_KEY": "Alle apps",
+            "INSTRUCTIONS_KEY": "Instructies",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Wissellijst. Vernieuwen. Klik op pictogram.",
+            "HELP_KEY": "Hulp",
+            "SHOW_MORE_KEY": "Meer tonen",
+            "USER_NAME_KEY": "Gebruikersnaam",
+            "CURRENT_URL_KEY": "Huidige url",
+            "LOG_OUT_KEY": "Afmelden",
+            "UPDATE_THE_PAGE_KEY": "De pagina bijwerken",
+            "UPDATE_THIS_LIST_KEY": "Deze lijst bijwerken",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Ophalen optielijst kan geen optiewaarden voor de lijst geven",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Er is een fout opgetreden in addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon kreeg een ongeldige lijst",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon heeft een leeg item",
+            "FAVORITE_KEY": "Favoriet",
+            "NO_FAVORITE_KEY": "Geen favoriet",
+            "START_KEY": "Begin",
+            "START_IN_NEW_WINDOW_KEY": "In nieuw venster starten"
+        }
+    }
+}

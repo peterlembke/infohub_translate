@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "سعر الفائدة الشهري في المائة",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "سعر الفائدة الشهري بنسبة عشرين",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "سعر الفائدة الشهري العشري",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "معدل الفائدة الشهري عشري مع كل العشرات لبقائك",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "معدل الفائدة الشهري عشري مع كل العشرات لبقائك",
             "CALCULATION_OK_KEY": "الحساب",
             "CALCULATION_VERIFIED_OK_KEY": "تم التحقق من الحساب",
             "CALCULATION_FAILED_KEY": "الحساب فشل",

@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "hi",
+        "language_name": "Hindi",
+        "language_name_local": "हिन्दी",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "सम्पर्क करने का विवरण",
+        "description": "एक GUI के साथ प्लगइन जो उपलब्ध प्लगइन्स के लिए आइकन दिखाता है जिसे आप शुरू कर सकते हैं। वास्तविक शुरुआत कार्यक्षेत्र द्वारा नियंत्रित की जाती है।."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "पसंदीदा या सभी एप्लिकेशन दिखाएं",
+            "FAVORITES_KEY": "पसंदीदा",
+            "ALL_APPS_KEY": "सभी एप्लिकेशन",
+            "INSTRUCTIONS_KEY": "निर्देश",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "स्विच सूची ताज़ा आइकन पर क्लिक करें।.",
+            "HELP_KEY": "सहायता",
+            "SHOW_MORE_KEY": "और देखो",
+            "USER_NAME_KEY": "उपयोगकर्ता का नाम",
+            "CURRENT_URL_KEY": "वर्तमान यूआरएल",
+            "LOG_OUT_KEY": "लॉग आउट",
+            "UPDATE_THE_PAGE_KEY": "पेज को अपडेट करें",
+            "UPDATE_THIS_LIST_KEY": "इस सूची को अद्यतन करें",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "विकल्प सूची प्राप्त करें सूची के लिए विकल्प मान नहीं दे सकता है",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "नशे में त्रुटि थी",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon एक अवैध सूची मिला",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon एक खाली आइटम मिला",
+            "FAVORITE_KEY": "पसंदीदा",
+            "NO_FAVORITE_KEY": "पसंदीदा",
+            "START_KEY": "प्रारंभ करना",
+            "START_IN_NEW_WINDOW_KEY": "नई विंडो में शुरू"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "fa",
+        "language_name": "Persian",
+        "language_name_local": "فارسی",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "شروع برنامه ها",
+        "description": "پلاگین با GUI که آیکون هایی را برای افزونه های موجود نشان می دهد که می توانید شروع کنید. شروع واقعی توسط Workbench انجام می شود."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "نمایش مورد علاقه یا همه برنامه ها",
+            "FAVORITES_KEY": "محبوب",
+            "ALL_APPS_KEY": "همه برنامه ها",
+            "INSTRUCTIONS_KEY": "دستورالعمل ها",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "لیست Switch بازسازی روی آیکون کلیک کنید.",
+            "HELP_KEY": "کمک به کمک",
+            "SHOW_MORE_KEY": "نمایش بیشتر",
+            "USER_NAME_KEY": "نام کاربری",
+            "CURRENT_URL_KEY": "URL فعلی",
+            "LOG_OUT_KEY": "ورود",
+            "UPDATE_THE_PAGE_KEY": "به روز رسانی صفحه",
+            "UPDATE_THIS_LIST_KEY": "به روز رسانی این لیست",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "لیست گزینه ها نمی تواند ارزش های گزینه ای برای لیست ارائه دهد",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "خطایی در Addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon یک لیست نامعتبر دریافت کرد",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon یک آیتم خالی",
+            "FAVORITE_KEY": "محبوب ترین",
+            "NO_FAVORITE_KEY": "محبوب نیست",
+            "START_KEY": "شروع کار",
+            "START_IN_NEW_WINDOW_KEY": "شروع در پنجره جدید"
+        }
+    }
+}

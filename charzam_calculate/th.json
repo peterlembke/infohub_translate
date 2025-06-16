@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "อัตราดอกเบี้ยรายเดือน",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "อัตราดอกเบี้ยรายเดือน โดยมีทศนิยมสองตําแหน่ง",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "อัตราดอกเบี้ยรายเดือน ทศนิยม",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "อัตราดอกเบี้ยรายเดือน โดยมีทศนิยมทั้งหมดเป็นทศนิยมสําหรับบั๊ก",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "อัตราดอกเบี้ยรายเดือน โดยมีทศนิยมทั้งหมดเป็นทศนิยมสําหรับบั๊ก",
             "CALCULATION_OK_KEY": "การคํานวณโอเค",
             "CALCULATION_VERIFIED_OK_KEY": "การคํานวณถูกต้อง",
             "CALCULATION_FAILED_KEY": "การคํานวณล้มเหลว",

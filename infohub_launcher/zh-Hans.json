@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "zh-Hans",
+        "language_name": "Chinese",
+        "language_name_local": "中国语",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "启动应用程序",
+        "description": "带有图形界面的插件,可以显示可用插件的图标。 实际起步由工务局办理."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "显示最爱或所有应用程序",
+            "FAVORITES_KEY": "爱好",
+            "ALL_APPS_KEY": "所有应用程序",
+            "INSTRUCTIONS_KEY": "说明",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "切换列表 。 刷新。 刷新。 点击图标.",
+            "HELP_KEY": "帮助",
+            "SHOW_MORE_KEY": "显示更多",
+            "USER_NAME_KEY": "用户名",
+            "CURRENT_URL_KEY": "当前url",
+            "LOG_OUT_KEY": "注销",
+            "UPDATE_THE_PAGE_KEY": "更新页面",
+            "UPDATE_THIS_LIST_KEY": "更新此列表",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "获取选项列表无法给出列表的选项值",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "添加剂有错误",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon 获得无效列表",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon 获得一个空项目",
+            "FAVORITE_KEY": "最爱",
+            "NO_FAVORITE_KEY": "无最爱",
+            "START_KEY": "开始",
+            "START_IN_NEW_WINDOW_KEY": "在新窗口开始"
+        }
+    }
+}

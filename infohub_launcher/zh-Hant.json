@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "zh-Hant",
+        "language_name": "Chinese (traditional)",
+        "language_name_local": "中文( 傳統 )",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "啟動應用程式",
+        "description": "用 GUI 插件顯示可用插件的圖示 實際開始由工作室處理."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "顯示最愛或所有應用程式",
+            "FAVORITES_KEY": "喜好",
+            "ALL_APPS_KEY": "所有應用程式",
+            "INSTRUCTIONS_KEY": "指令",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "切換清單 。 刷新。 點擊圖示 .",
+            "HELP_KEY": "說明",
+            "SHOW_MORE_KEY": "顯示更多",
+            "USER_NAME_KEY": "使用者名稱",
+            "CURRENT_URL_KEY": "目前 URL",
+            "LOG_OUT_KEY": "登出",
+            "UPDATE_THE_PAGE_KEY": "更新頁面",
+            "UPDATE_THIS_LIST_KEY": "更新此清單",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "取得選項清單無法提供清單的選項值",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "附加物有錯誤",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon 得到不合法的列表",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon 有一個空項目",
+            "FAVORITE_KEY": "最愛",
+            "NO_FAVORITE_KEY": "沒有最喜歡的",
+            "START_KEY": "開始",
+            "START_IN_NEW_WINDOW_KEY": "從新視窗開始"
+        }
+    }
+}

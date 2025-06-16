@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "hu",
+        "language_name": "Hungarian",
+        "language_name_local": "Magyar",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Alkalmazások indítása",
+        "description": "Plugin egy GUI, amely megmutatja ikonok elérhető bővítmények, hogy lehet kezdeni. A tényleges kezdést a Munkapad kezeli."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Kedvencek vagy az összes alkalmazás megjelenítése",
+            "FAVORITES_KEY": "Kedvencek",
+            "ALL_APPS_KEY": "Minden alkalmazás",
+            "INSTRUCTIONS_KEY": "Útmutató",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Váltás lista. Frissítés. Kattintson az ikonra.",
+            "HELP_KEY": "Segítség",
+            "SHOW_MORE_KEY": "Bővebben",
+            "USER_NAME_KEY": "Felhasználónév",
+            "CURRENT_URL_KEY": "Aktuális URl",
+            "LOG_OUT_KEY": "Kijelentkezés",
+            "UPDATE_THE_PAGE_KEY": "Az oldal frissítése",
+            "UPDATE_THIS_LIST_KEY": "A lista frissítése",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Az opciós lista nem adhat opciós értékeket a listához",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Hiba történt a függőben",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon van egy érvénytelen lista",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon kapott egy üres tárgyat",
+            "FAVORITE_KEY": "Kedvenc",
+            "NO_FAVORITE_KEY": "Nincs kedvencem",
+            "START_KEY": "Kezdés",
+            "START_IN_NEW_WINDOW_KEY": "Új ablakban indul"
+        }
+    }
+}

@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Ежемесячная процентная ставка",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Месячная процентная ставка с двумя десятичными числами",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Месячная процентная ставка decimal",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Ежемесячная процентная ставка десятичная со всеми десятичными для вашего баггета",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Ежемесячная процентная ставка десятичная со всеми десятичными для вашего баггета",
             "CALCULATION_OK_KEY": "Расчет ОК",
             "CALCULATION_VERIFIED_OK_KEY": "Вычисление проверено ОК",
             "CALCULATION_FAILED_KEY": "Расчет провалился",

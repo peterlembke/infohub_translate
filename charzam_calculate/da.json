@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Månedlig rente",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Månedlig rente procent med to decimaler",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Månedlig rente decimal",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Månedlig rente decimal med alle decimaler for din bugdet",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Månedlig rente decimal med alle decimaler for din bugdet",
             "CALCULATION_OK_KEY": "Beregning ok",
             "CALCULATION_VERIFIED_OK_KEY": "Beregning verificeret ok",
             "CALCULATION_FAILED_KEY": "Beregning mislykkedes",

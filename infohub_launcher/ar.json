@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "ar",
+        "language_name": "Arabic",
+        "language_name_local": "العربية",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "بدء تطبيقات",
+        "description": "اضغطي مع (غوي) الذي يظهر ايقونات للمزمار المتاح الذي يمكنك البدء به \"البدء الفعلي يتم التعامل معه من قبل فرقة العمل\"."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "عرض مفضّل أو جميع التطبيقات",
+            "FAVORITES_KEY": "المفضلة",
+            "ALL_APPS_KEY": "جميع التطبيقات",
+            "INSTRUCTIONS_KEY": "التعليمات",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "قائمة التبديل التجديد. كليك ايكون.",
+            "HELP_KEY": "النجدة",
+            "SHOW_MORE_KEY": "أظهر المزيد",
+            "USER_NAME_KEY": "اسم المستخدم",
+            "CURRENT_URL_KEY": "الحالي",
+            "LOG_OUT_KEY": "أخرج",
+            "UPDATE_THE_PAGE_KEY": "تحديث الصفحة",
+            "UPDATE_THIS_LIST_KEY": "تحديث هذه القائمة",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "لا يمكن لقائمة الخيارات أن تعطي قيم الخيار للقائمة",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "كان هناك خطأ في إضافتكون",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "(أديكون) لديه قائمة غير صحيحة",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "(أديكون) لديه بند فارغ",
+            "FAVORITE_KEY": "Favorite",
+            "NO_FAVORITE_KEY": "لا مفضل",
+            "START_KEY": "ابدأ",
+            "START_IN_NEW_WINDOW_KEY": "بدء النافذة الجديدة"
+        }
+    }
+}

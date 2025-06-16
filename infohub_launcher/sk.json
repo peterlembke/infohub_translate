@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "sk",
+        "language_name": "Slovak",
+        "language_name_local": "Slovenský",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Začiatok aplikácie",
+        "description": "Comment Skutočný štart je riadený pracovný stôl."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Zobraziť obľúbené alebo všetky aplikácie",
+            "FAVORITES_KEY": "Obľúbené",
+            "ALL_APPS_KEY": "Všetky aplikácie",
+            "INSTRUCTIONS_KEY": "Pokyny",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Zmeniť zoznam. Obnoviť. Kliknite na ikonu.",
+            "HELP_KEY": "Pomocník",
+            "SHOW_MORE_KEY": "Zobraziť viac",
+            "USER_NAME_KEY": "Meno užívateľa",
+            "CURRENT_URL_KEY": "Aktuálna url",
+            "LOG_OUT_KEY": "Odhlásiť sa",
+            "UPDATE_THE_PAGE_KEY": "Aktualizovať stránku",
+            "UPDATE_THIS_LIST_KEY": "Aktualizovať tento zoznam",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Získať zoznam možností nemôže dať hodnoty voľby pre zoznam",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Nastala chyba v prídavku",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon dostal neplatný zoznam",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon dostal prázdnu položku",
+            "FAVORITE_KEY": "Obľúbené",
+            "NO_FAVORITE_KEY": "Žiadne obľúbené",
+            "START_KEY": "Začiatok",
+            "START_IN_NEW_WINDOW_KEY": "Spustiť v novom okne"
+        }
+    }
+}

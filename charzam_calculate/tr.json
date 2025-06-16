@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Aylık faiz oranı yüzde yüzde yüzde Yüzde",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Aylık ilgi oranı yüzde iki dekimal ile",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Aylık faiz oranı",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Aylık ilgi oranı, tüm hayal kırıklıkları ile boğar",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Aylık ilgi oranı, tüm hayal kırıklıkları ile boğar",
             "CALCULATION_OK_KEY": "Hesaplama tamam",
             "CALCULATION_VERIFIED_OK_KEY": "Hesaplama doğrulandı",
             "CALCULATION_FAILED_KEY": "Hesaplama başarısız oldu",

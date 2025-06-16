@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "et",
+        "language_name": "Estonian",
+        "language_name_local": "Eesti",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Käivita rakendused",
+        "description": "Plugin GUI- ga, mis näitab käivitatavate pluginate ikoone. Tegeliku algusega tegeleb Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Näita lemmikuid või kõiki rakendusi",
+            "FAVORITES_KEY": "Lemmikloomad",
+            "ALL_APPS_KEY": "Kõik rakendused",
+            "INSTRUCTIONS_KEY": "Juhised",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Vaheta nimekiri. Värskenda. Klõpsa ikoonil.",
+            "HELP_KEY": "Aita",
+            "SHOW_MORE_KEY": "Näita rohkem",
+            "USER_NAME_KEY": "Kasutajanimi",
+            "CURRENT_URL_KEY": "Praegune URL",
+            "LOG_OUT_KEY": "Logi sisse",
+            "UPDATE_THE_PAGE_KEY": "Lehe uuendamine",
+            "UPDATE_THIS_LIST_KEY": "Uuenda seda nimekirja",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Valikute nimekirja hankimine ei anna nimekirjale võtmeväärtusi",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Lisakonis tekkis viga",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon sai vigase nimekirja",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon sai tühja elemendi",
+            "FAVORITE_KEY": "Lemmik",
+            "NO_FAVORITE_KEY": "Lemmik pole",
+            "START_KEY": "Alusta",
+            "START_IN_NEW_WINDOW_KEY": "Käivita uus aken"
+        }
+    }
+}

@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "월간이자율 %",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "월간이자율 2 소수의 %",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "월간이자율 decimal",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "월간이자율 당신의 버그에 대한 모든 소수점과 소수점",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "월간이자율 당신의 버그에 대한 모든 소수점과 소수점",
             "CALCULATION_OK_KEY": "계산 ok",
             "CALCULATION_VERIFIED_OK_KEY": "계산 확인 된 ok",
             "CALCULATION_FAILED_KEY": "계산 실패",

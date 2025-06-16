@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "el",
+        "language_name": "Greek",
+        "language_name_local": "Ελληνικά",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Έναρξη εφαρμογών",
+        "description": "Πρόσθετο με ένα γραφικό περιβάλλον που εμφανίζει τα εικονίδια για τα διαθέσιμα πρόσθετα που μπορείτε να ξεκινήσετε. Η πραγματική έναρξη γίνεται από τον πάγκο εργασίας."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Εμφάνιση αγαπημένων ή όλων των εφαρμογών",
+            "FAVORITES_KEY": "Αγαπημένα",
+            "ALL_APPS_KEY": "Όλες οι εφαρμογές",
+            "INSTRUCTIONS_KEY": "Οδηγίες",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Αλλάξτε λίστα. Ανανέωση. Κάντε κλικ στο εικονίδιο.",
+            "HELP_KEY": "Βοήθεια",
+            "SHOW_MORE_KEY": "Εμφάνιση περισσότερων",
+            "USER_NAME_KEY": "Όνομα χρήστη",
+            "CURRENT_URL_KEY": "Τρέχων url",
+            "LOG_OUT_KEY": "Αποσύνδεση",
+            "UPDATE_THE_PAGE_KEY": "Ενημέρωση της σελίδας",
+            "UPDATE_THIS_LIST_KEY": "Ενημέρωση αυτής της λίστας",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Λήψη λίστας επιλογών δεν μπορεί να δώσει τιμές επιλογής για τη λίστα",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Υπήρξε ένα σφάλμα στο Addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Το Addicon πήρε μια μη έγκυρη λίστα",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Το Addicon πήρε ένα κενό αντικείμενο",
+            "FAVORITE_KEY": "Αγαπημένο",
+            "NO_FAVORITE_KEY": "Κανένα αγαπημένο",
+            "START_KEY": "Έναρξη",
+            "START_IN_NEW_WINDOW_KEY": "Εκκίνηση σε νέο παράθυρο"
+        }
+    }
+}

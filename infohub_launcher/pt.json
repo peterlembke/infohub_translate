@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "pt",
+        "language_name": "Portuguese",
+        "language_name_local": "Português",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Iniciar aplicações",
+        "description": "Plug-in com uma interface gráfica que mostra ícones para plugins disponíveis que você pode iniciar. O início real é tratado pelo Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Mostrar favoritos ou todos os aplicativos",
+            "FAVORITES_KEY": "Favoritos",
+            "ALL_APPS_KEY": "Todos os aplicativos",
+            "INSTRUCTIONS_KEY": "Instruções",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Mudar de lista. Actualizar. Clique no ícone.",
+            "HELP_KEY": "Ajuda",
+            "SHOW_MORE_KEY": "Mostrar mais",
+            "USER_NAME_KEY": "Nome do utilizador",
+            "CURRENT_URL_KEY": "URL atual",
+            "LOG_OUT_KEY": "Sair",
+            "UPDATE_THE_PAGE_KEY": "Atualizar a página",
+            "UPDATE_THIS_LIST_KEY": "Atualizar esta lista",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "A lista de opções Get não pode dar valores de opção para a lista",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Ocorreu um erro no adicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon tem uma lista inválida",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon tem um item vazio",
+            "FAVORITE_KEY": "Favorito",
+            "NO_FAVORITE_KEY": "Nenhum favorito",
+            "START_KEY": "Iniciar",
+            "START_IN_NEW_WINDOW_KEY": "Iniciar numa nova janela"
+        }
+    }
+}

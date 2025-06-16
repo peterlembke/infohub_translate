@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "মাসিক সুদের হার",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "মাস অনুযায়ী প্রদর্শনে ব্যয়ের হার",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "মাস অনুযায়ী প্রদর্শনে ব্যয়ের হার",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "দশমিকের পর যতগুলো অংক যোগ করা হবে",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "দশমিকের পর যতগুলো অংক যোগ করা হবে",
             "CALCULATION_OK_KEY": "ঠিক আছে",
             "CALCULATION_VERIFIED_OK_KEY": "গণনা প্রক্রিয়া ঠিক আছে",
             "CALCULATION_FAILED_KEY": "গণনা করতে ব্যর্থ",

@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "az",
+        "language_name": "Azerbaijani",
+        "language_name_local": "Bakı",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Proqramlar",
+        "description": "Başlamaq mümkün olan plugins üçün icons göstərir GUI ilə Plugin. Daxili başlanğıc Workbench tərəfindən işləyir."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Sevdiyiniz və ya bütün apps",
+            "FAVORITES_KEY": "Seçki",
+            "ALL_APPS_KEY": "Bütün proqramlar",
+            "INSTRUCTIONS_KEY": "Qeydiyyat",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Çap siyahısı. Daxil ol Oxunub.",
+            "HELP_KEY": "Yardım",
+            "SHOW_MORE_KEY": "Daha çox",
+            "USER_NAME_KEY": "Ad Soyad",
+            "CURRENT_URL_KEY": "Daxil ol",
+            "LOG_OUT_KEY": "Daxil ol",
+            "UPDATE_THE_PAGE_KEY": " the",
+            "UPDATE_THIS_LIST_KEY": "Bu siyahısı yeniləyin",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Seçim siyahısı siyahısı siyahısı siyahısı üçün seçim qiymətləri vermir",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Addicon bir səhv idi",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon qeydsiz siyahısı var",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon boş maddə var",
+            "FAVORITE_KEY": "Seçki",
+            "NO_FAVORITE_KEY": "Axtarış",
+            "START_KEY": "Başlıq",
+            "START_IN_NEW_WINDOW_KEY": "Yeni pencerede başlayır"
+        }
+    }
+}

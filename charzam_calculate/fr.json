@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Taux d'intérêt mensuel pour cent",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Taux d'intérêt mensuel pour cent avec deux décimales",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Taux d'intérêt mensuel décimal",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Taux d'intérêt mensuel décimal avec toutes les décimales pour votre bugdet",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Taux d'intérêt mensuel décimal avec toutes les décimales pour votre bugdet",
             "CALCULATION_OK_KEY": "Calcul ok",
             "CALCULATION_VERIFIED_OK_KEY": "Calcul vérifié ok",
             "CALCULATION_FAILED_KEY": "Le calcul a échoué",

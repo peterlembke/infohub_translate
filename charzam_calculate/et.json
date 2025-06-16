@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Kuu intressimäära protsent",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Kuu intressimäära protsent kahe kümnendkohaga",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Kuu intressimäära kümnendkoht",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Igakuine intressimäära kümnendkoht koos kõigi kümnendkohtadega sinu vea puhul",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Igakuine intressimäära kümnendkoht koos kõigi kümnendkohtadega sinu vea puhul",
             "CALCULATION_OK_KEY": "Arvutus ok",
             "CALCULATION_VERIFIED_OK_KEY": "Arvutus kontrollitud ok",
             "CALCULATION_FAILED_KEY": "Arvutamine nurjus",

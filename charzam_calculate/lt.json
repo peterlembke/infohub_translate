@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Mėnesio palūkanų norma procentais",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Mėnesinė palūkanų norma procentais su dviem dešimtainiais skaičiais",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Mėnesio palūkanų normos dešimtainė dalis",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Mėnesio palūkanų normos dešimtainė su visais dešimtainiais skaičiais jūsų bugdet",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Mėnesio palūkanų normos dešimtainė su visais dešimtainiais skaičiais jūsų bugdet",
             "CALCULATION_OK_KEY": "Apskaičiavimas ok",
             "CALCULATION_VERIFIED_OK_KEY": "Apskaičiavimas patikrintas ok",
             "CALCULATION_FAILED_KEY": "Nepavyko apskaičiuoti",

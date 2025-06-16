@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "ja",
+        "language_name": "Japanese",
+        "language_name_local": "日本語 English",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "アプリケーションの開始",
+        "description": "起動できるプラグインのアイコンを表示するGUIでプラグイン。 実際の開始はWorkbenchで処理されます."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "お気に入りやすべてのアプリを表示",
+            "FAVORITES_KEY": "お気に入り",
+            "ALL_APPS_KEY": "すべてのアプリ",
+            "INSTRUCTIONS_KEY": "インフォメーション",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "スイッチリスト。 リフレッシュ。 アイコンをクリックします.",
+            "HELP_KEY": "お問い合わせ",
+            "SHOW_MORE_KEY": "もっと表示",
+            "USER_NAME_KEY": "ユーザー名",
+            "CURRENT_URL_KEY": "現在の URL",
+            "LOG_OUT_KEY": "ログイン",
+            "UPDATE_THE_PAGE_KEY": "ページの更新",
+            "UPDATE_THIS_LIST_KEY": "このリストの更新",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "オプションリストを取得すると、リストのオプション値を指定できません",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Addiconにエラーがありました",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addiconが無効なリストを取得しました",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon は空の項目を得ました",
+            "FAVORITE_KEY": "お気に入り",
+            "NO_FAVORITE_KEY": "お気に入りなし",
+            "START_KEY": "スタート",
+            "START_IN_NEW_WINDOW_KEY": "新規ウィンドウで開始"
+        }
+    }
+}

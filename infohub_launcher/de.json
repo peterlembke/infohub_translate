@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "de",
+        "language_name": "German",
+        "language_name_local": "Deutsch",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Start von Anwendungen",
+        "description": "Plugin mit einer GUI, die Icons für verfügbare Plugins zeigen, die Sie starten können. Der eigentliche Start wird von der Workbench bearbeitet."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Favoriten oder alle Apps anzeigen",
+            "FAVORITES_KEY": "Favoriten",
+            "ALL_APPS_KEY": "Alle Apps",
+            "INSTRUCTIONS_KEY": "Anweisungen",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Schaltliste. Refresh. Klicken Sie auf Icon.",
+            "HELP_KEY": "Hilfe",
+            "SHOW_MORE_KEY": "Mehr erfahren",
+            "USER_NAME_KEY": "Benutzername",
+            "CURRENT_URL_KEY": "Aktueller url",
+            "LOG_OUT_KEY": "Anmelden",
+            "UPDATE_THE_PAGE_KEY": "Seite aktualisieren",
+            "UPDATE_THIS_LIST_KEY": "Diese Liste aktualisieren",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Optionsliste erhalten kann keine Optionswerte für die Liste geben",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Es gab einen Fehler in addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon hat eine ungültige Liste",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon hat ein leeres Item",
+            "FAVORITE_KEY": "Favorit",
+            "NO_FAVORITE_KEY": "Keine Favoriten",
+            "START_KEY": "Start",
+            "START_IN_NEW_WINDOW_KEY": "Start in neuem Fenster"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "ms",
+        "language_name": "Malay",
+        "language_name_local": "Bahasa Melayu",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Aplikasi Start",
+        "description": "Plugin permainan dengan GUI yang menampilkan ikon untuk plugin yang tersedia yang dapat Anda mulai. Awal sebenarnya ditangani oleh Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Pertunjukkan favorit atau semua aplikasi",
+            "FAVORITES_KEY": "Favorit",
+            "ALL_APPS_KEY": "Perancis",
+            "INSTRUCTIONS_KEY": "Instruksi",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Daftar switch. Segarkan. Klik ikon.",
+            "HELP_KEY": "Bantuan",
+            "SHOW_MORE_KEY": "Lebih banyak pertunjukan",
+            "USER_NAME_KEY": "Nama pengguna:",
+            "CURRENT_URL_KEY": "Url saat ini",
+            "LOG_OUT_KEY": "Log keluar",
+            "UPDATE_THE_PAGE_KEY": "Update halaman",
+            "UPDATE_THIS_LIST_KEY": "Update senarai ini",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Daftar pilihan tidak dapat memberikan nilai pilihan untuk daftar",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "Ada kesalahan di Addicon",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Addicon mendapat daftar yang tidak sah",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Addicon mendapat item kosong",
+            "FAVORITE_KEY": "Favorit",
+            "NO_FAVORITE_KEY": "Tak ada favorit",
+            "START_KEY": "Mula",
+            "START_IN_NEW_WINDOW_KEY": "Mula di jendela baru"
+        }
+    }
+}

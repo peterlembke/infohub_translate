@@ -35,7 +35,7 @@
             "MONTHLY_INTEREST_RATE_PERCENT_KEY": "Kuukausikorko prosentteina",
             "MONTHLY_INTEREST_RATE_PERCENT_WITH_TWO_DECIMALS_KEY": "Kuukausikorko prosentteina kahden desimaalin tarkkuudella",
             "MONTHLY_INTEREST_RATE_DECIMAL_KEY": "Kuukausittaisen koron desimaali",
-            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUGDET_KEY": "Kuukausittaisen koron desimaali ja kaikki desimaalit bugdet",
+            "MONTHLY_INTEREST_RATE_DECIMAL_WITH_ALL_DECIMALS_FOR_YOUR_BUDGET_KEY": "Kuukausittaisen koron desimaali ja kaikki desimaalit bugdet",
             "CALCULATION_OK_KEY": "Laskenta ok",
             "CALCULATION_VERIFIED_OK_KEY": "Laskenta todennettu ok",
             "CALCULATION_FAILED_KEY": "Laskenta epäonnistui",

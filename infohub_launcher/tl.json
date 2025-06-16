@@ -1,0 +1,42 @@
+{
+    "version": {
+        "date": "2025-06-16 21:59:39",
+        "plugin": "infohub_launcher",
+        "data_checksum": "a1ca7642ac9d36f9fcf85bc29ffc740d",
+        "language": "tl",
+        "language_name": "Tagalog",
+        "language_name_local": "Tagalog",
+        "country": "",
+        "country_name": "",
+        "file_type": "translate_file",
+        "has_manual_translations": "false"
+    },
+    "launcher": {
+        "title": "Magsimulang mga aplikasyon",
+        "description": "Plugin na may GUI na nagpapakita ng mga imahe para sa mga magagamit na plagin na maaari mong simulan. Ang aktuwal na pagsisimula ay pinangangasiwaan ng Workbench."
+    },
+    "data": {
+        "infohub_launcher": {
+            "SHOW_FAVORITES_OR_ALL_APPS_KEY": "Ipakita ang mga paborito o lahat ng app",
+            "FAVORITES_KEY": "Mga Paborito",
+            "ALL_APPS_KEY": "Lahat ng app",
+            "INSTRUCTIONS_KEY": "Tagubilin",
+            "SWITCH_LIST._REFRESH._CLICK_ICON._KEY": "Switch list. Panariwain. Click icon.",
+            "HELP_KEY": "Tulong",
+            "SHOW_MORE_KEY": "Ipakita ang higit pa",
+            "USER_NAME_KEY": "Pangalan ng User",
+            "CURRENT_URL_KEY": "Kasalukuyang url",
+            "LOG_OUT_KEY": "Tumalon",
+            "UPDATE_THE_PAGE_KEY": "Itaas ang pahina",
+            "UPDATE_THIS_LIST_KEY": "Itaas ang talaang ito",
+            "GET_OPTION_LIST_CAN_NOT_GIVE_OPTION_VALUES_FOR_THE_LIST_KEY": "Hindi makapagbibigay ng opsyonal na mga pamantayan para sa listahan ang kumuha ng listahan",
+            "THERE_WAS_AN_ERROR_IN_ADDICON_KEY": "May pagkakamali sa addison",
+            "ADDICON_GOT_AN_INVALID_LIST_KEY": "Nakakuha si Addicon ng hindi tanggap na talaan",
+            "ADDICON_GOT_AN_EMPTY_ITEM_KEY": "Nakakuha si Addicon ng isang bagay na walang laman",
+            "FAVORITE_KEY": "Paborito",
+            "NO_FAVORITE_KEY": "Walang paborito",
+            "START_KEY": "Magsimula",
+            "START_IN_NEW_WINDOW_KEY": "Magsimula sa bagong bintana"
+        }
+    }
+}
