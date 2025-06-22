@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:29:29",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "ar",
         "language_name": "Arabic",
         "language_name_local": "العربية",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "ملفات مختارة",
             "PASSWORD_KEY": "كلمة السر",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "حساب التحميل",
-            "LOGIN_RESULT_KEY": "النتيجة",
-            "MORE_KEY": "أكثر",
-            "CURRENT_URL_KEY": "الحالي",
-            "RELOAD_THE_PAGE_KEY": "Reload the page"
+            "RESULT_KEY": "النتيجة",
+            "SHOW_MORE_KEY": "أظهر المزيد",
+            "CURRENT_ADDRESS_KEY": "العنوان الحالي",
+            "UPDATE_THE_PAGE_KEY": "تحديث الصفحة"
         }
     }
 }

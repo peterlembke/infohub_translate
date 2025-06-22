@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:29:23",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "sq",
         "language_name": "Albanian",
         "language_name_local": "Shqip",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "Zgjidh _gjithçka",
             "PASSWORD_KEY": "Fjalëkalimi",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "Duke shkarkuar llogarinë",
-            "LOGIN_RESULT_KEY": "Rezultati i hyrjes",
-            "MORE_KEY": "Më shumë",
-            "CURRENT_URL_KEY": "Aktual",
-            "RELOAD_THE_PAGE_KEY": "Rilexo faqen"
+            "RESULT_KEY": "Rezultati",
+            "SHOW_MORE_KEY": "Shfaq më shumë",
+            "CURRENT_ADDRESS_KEY": "Adresa aktuale",
+            "UPDATE_THE_PAGE_KEY": "Rifresko faqen"
         }
     }
 }

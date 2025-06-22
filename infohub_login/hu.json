@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:33:41",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "hu",
         "language_name": "Hungarian",
         "language_name_local": "Magyar",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "Fájl kiválasztása",
             "PASSWORD_KEY": "Jelszó",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "Demo fiók letöltése",
-            "LOGIN_RESULT_KEY": "Bejelentkezési eredmény",
-            "MORE_KEY": "Több",
-            "CURRENT_URL_KEY": "Aktuális URl",
-            "RELOAD_THE_PAGE_KEY": "Az oldal újratöltése"
+            "RESULT_KEY": "Eredmény",
+            "SHOW_MORE_KEY": "Bővebben",
+            "CURRENT_ADDRESS_KEY": "Jelenlegi cím",
+            "UPDATE_THE_PAGE_KEY": "Az oldal frissítése"
         }
     }
 }

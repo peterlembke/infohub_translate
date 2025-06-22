@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:30:31",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "bn",
         "language_name": "Bengali",
         "language_name_local": "বাংলা",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "ফাইল নির্বাচন করুন",
             "PASSWORD_KEY": "পাসওয়ার্ড",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "অ্যাকাউন্ট ডাউনলোড করো",
-            "LOGIN_RESULT_KEY": "লগ-ইন ফলাফল",
-            "MORE_KEY": "মডেল",
-            "CURRENT_URL_KEY": "বর্তমান url",
-            "RELOAD_THE_PAGE_KEY": "পৃষ্ঠা পুনরায় লোড করুন"
+            "RESULT_KEY": "ফলাফল",
+            "SHOW_MORE_KEY": "আরো বেশি দেখাও",
+            "CURRENT_ADDRESS_KEY": "বর্তমান ঠিকানা",
+            "UPDATE_THE_PAGE_KEY": "পেজ আপডেট করুন"
         }
     }
 }

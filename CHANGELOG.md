@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 * [GitHub release notes](https://github.com/peterlembke/infohub_translate/releases/tag/v1.0.1)
 
-Updated translation files for infohub_login, infohub_doc, charzam_calculate.
+Updated translation files for infohub_login, infohub_doc, charzam_calculate, infohub_launcher.
 
 # [1.0.0] - 2025-06-08
 

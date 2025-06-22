@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:30:38",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "bg",
         "language_name": "Bulgarian",
         "language_name_local": "Български",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "Избор на файл",
             "PASSWORD_KEY": "Парола",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "Изтегляне на демо сметка",
-            "LOGIN_RESULT_KEY": "Входящ резултат",
-            "MORE_KEY": "Още",
-            "CURRENT_URL_KEY": "Текущ URL",
-            "RELOAD_THE_PAGE_KEY": "Презареждане на страницата"
+            "RESULT_KEY": "Резултат",
+            "SHOW_MORE_KEY": "Показване на повече",
+            "CURRENT_ADDRESS_KEY": "Текущ адрес",
+            "UPDATE_THE_PAGE_KEY": "Обновяване на страницата"
         }
     }
 }

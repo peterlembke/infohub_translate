@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:30:52",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "zh-Hans",
         "language_name": "Chinese",
         "language_name_local": "中国语",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "选择文件",
             "PASSWORD_KEY": "密码",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "下载演示账户",
-            "LOGIN_RESULT_KEY": "登录结果",
-            "MORE_KEY": "更多",
-            "CURRENT_URL_KEY": "当前url",
-            "RELOAD_THE_PAGE_KEY": "重新装入页面"
+            "RESULT_KEY": "结果",
+            "SHOW_MORE_KEY": "显示更多",
+            "CURRENT_ADDRESS_KEY": "当前地址",
+            "UPDATE_THE_PAGE_KEY": "更新页面"
         }
     }
 }

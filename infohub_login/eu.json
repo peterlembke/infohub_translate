@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:30:24",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "eu",
         "language_name": "Basque",
         "language_name_local": "Euskara",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "Hautatu fitxategia",
             "PASSWORD_KEY": "Pasahitza",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "Deskargatu demo kontua",
-            "LOGIN_RESULT_KEY": "Saio-hasierako emaitza",
-            "MORE_KEY": "Gehiago",
-            "CURRENT_URL_KEY": "Uneko url",
-            "RELOAD_THE_PAGE_KEY": "Birkargatu orrialdea"
+            "RESULT_KEY": "Emaitza",
+            "SHOW_MORE_KEY": "Erakutsi gehiago",
+            "CURRENT_ADDRESS_KEY": "Uneko helbidea",
+            "UPDATE_THE_PAGE_KEY": "Eguneratu orrialdea"
         }
     }
 }

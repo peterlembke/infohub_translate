@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:33:41",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "ms",
         "language_name": "Malay",
         "language_name_local": "Bahasa Melayu",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "Pilih berkas",
             "PASSWORD_KEY": "Kata Sandi",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "Muat turun akun demo",
-            "LOGIN_RESULT_KEY": "Hasil Daftar Masuk",
-            "MORE_KEY": "Amerika Serikat",
-            "CURRENT_URL_KEY": "Url saat ini",
-            "RELOAD_THE_PAGE_KEY": "Kuncupkan semula halaman"
+            "RESULT_KEY": "Hasil",
+            "SHOW_MORE_KEY": "Lebih banyak pertunjukan",
+            "CURRENT_ADDRESS_KEY": "Alamat saat ini",
+            "UPDATE_THE_PAGE_KEY": "Update halaman"
         }
     }
 }

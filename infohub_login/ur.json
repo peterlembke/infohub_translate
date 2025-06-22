@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:33:41",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "ur",
         "language_name": "Urdu",
         "language_name_local": "اُردو",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "فائل منتخب کریں",
             "PASSWORD_KEY": "پاس ورڈ",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "ڈیم بند کریں",
-            "LOGIN_RESULT_KEY": "لاگ ان نتائج",
-            "MORE_KEY": "مزید",
-            "CURRENT_URL_KEY": "حالیہ پلگ ان",
-            "RELOAD_THE_PAGE_KEY": "صفحہ دوبارہ لوڈ کریں"
+            "RESULT_KEY": "نتیجہ",
+            "SHOW_MORE_KEY": "دکھائیں",
+            "CURRENT_ADDRESS_KEY": "حالیہ پتہ",
+            "UPDATE_THE_PAGE_KEY": "صفحہ کا مطالعہ کريں"
         }
     }
 }

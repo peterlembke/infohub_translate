@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:32:08",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "nl",
         "language_name": "Dutch",
         "language_name_local": "Nederlands",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "Bestand selecteren",
             "PASSWORD_KEY": "Wachtwoord",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "Demo-account downloaden",
-            "LOGIN_RESULT_KEY": "Aanmeldresultaat",
-            "MORE_KEY": "Meer",
-            "CURRENT_URL_KEY": "Huidige url",
-            "RELOAD_THE_PAGE_KEY": "Pagina herladen"
+            "RESULT_KEY": "Resultaat",
+            "SHOW_MORE_KEY": "Meer tonen",
+            "CURRENT_ADDRESS_KEY": "Huidig adres",
+            "UPDATE_THE_PAGE_KEY": "De pagina bijwerken"
         }
     }
 }
