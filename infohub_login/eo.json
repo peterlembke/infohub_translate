@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:32:08",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "eo",
         "language_name": "Esperanto",
         "language_name_local": "Esperanto",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "Elektu dosieron",
             "PASSWORD_KEY": "Pasvorto",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "Demo konto",
-            "LOGIN_RESULT_KEY": "Login-rezulto",
-            "MORE_KEY": "Pli",
-            "CURRENT_URL_KEY": "Nuna url",
-            "RELOAD_THE_PAGE_KEY": "Reŝargu la paĝon"
+            "RESULT_KEY": "RESult",
+            "SHOW_MORE_KEY": "Montri pli",
+            "CURRENT_ADDRESS_KEY": "Nuna adreso",
+            "UPDATE_THE_PAGE_KEY": "Ĝisdatigu la paĝon"
         }
     }
 }

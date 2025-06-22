@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:33:41",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "he",
         "language_name": "Hebrew",
         "language_name_local": "עברית",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "קובץ",
             "PASSWORD_KEY": "סיסמה",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "הורד חשבון ההדגמה",
-            "LOGIN_RESULT_KEY": "תוצאות",
-            "MORE_KEY": "עוד יותר",
-            "CURRENT_URL_KEY": "Url",
-            "RELOAD_THE_PAGE_KEY": "Reload the page"
+            "RESULT_KEY": "תוצאה",
+            "SHOW_MORE_KEY": "הצג עוד",
+            "CURRENT_ADDRESS_KEY": "הכתובת הנוכחית",
+            "UPDATE_THE_PAGE_KEY": "עדכון הדף"
         }
     }
 }

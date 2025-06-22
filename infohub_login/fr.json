@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:33:41",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "fr",
         "language_name": "French",
         "language_name_local": "Français",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "Sélectionner un fichier",
             "PASSWORD_KEY": "Mot de passe",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "Télécharger le compte démo",
-            "LOGIN_RESULT_KEY": "Résultat de la connexion",
-            "MORE_KEY": "Plus",
-            "CURRENT_URL_KEY": "Durée actuelle",
-            "RELOAD_THE_PAGE_KEY": "Recharger la page"
+            "RESULT_KEY": "Résultat",
+            "SHOW_MORE_KEY": "Afficher plus",
+            "CURRENT_ADDRESS_KEY": "Adresse actuelle",
+            "UPDATE_THE_PAGE_KEY": "Mettre à jour la page"
         }
     }
 }

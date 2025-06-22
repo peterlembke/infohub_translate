@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:33:41",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "hi",
         "language_name": "Hindi",
         "language_name_local": "हिन्दी",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "फ़ाइल चुनें",
             "PASSWORD_KEY": "पासवर्ड",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "डेमो खाता डाउनलोड करें",
-            "LOGIN_RESULT_KEY": "लॉग इन करें",
-            "MORE_KEY": "अधिक",
-            "CURRENT_URL_KEY": "वर्तमान यूआरएल",
-            "RELOAD_THE_PAGE_KEY": "पृष्ठ रीलोड करें"
+            "RESULT_KEY": "परिणाम",
+            "SHOW_MORE_KEY": "और देखो",
+            "CURRENT_ADDRESS_KEY": "वर्तमान पता",
+            "UPDATE_THE_PAGE_KEY": "पेज को अपडेट करें"
         }
     }
 }

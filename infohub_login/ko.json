@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:33:41",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "ko",
         "language_name": "Korean",
         "language_name_local": "한국어",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "파일 선택",
             "PASSWORD_KEY": "비밀번호",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "데모 계정 다운로드",
-            "LOGIN_RESULT_KEY": "로그인 결과",
-            "MORE_KEY": "더 보기",
-            "CURRENT_URL_KEY": "현재 URL",
-            "RELOAD_THE_PAGE_KEY": "자주 묻는 질문"
+            "RESULT_KEY": "제품정보",
+            "SHOW_MORE_KEY": "더 보기",
+            "CURRENT_ADDRESS_KEY": "현재 주소",
+            "UPDATE_THE_PAGE_KEY": "자주 묻는 질문"
         }
     }
 }

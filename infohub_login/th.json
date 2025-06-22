@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:33:41",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "th",
         "language_name": "Thai",
         "language_name_local": "ภาษาไทยName",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "เลือกแฟ้ม",
             "PASSWORD_KEY": "รหัสผ่าน",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "ดาวน์โหลดบัญชีผู้ใช้ของสาธิต",
-            "LOGIN_RESULT_KEY": "ผลการล็อกอิน",
-            "MORE_KEY": "เพิ่มเติม",
-            "CURRENT_URL_KEY": "Url ปัจจุบัน",
-            "RELOAD_THE_PAGE_KEY": "เรียกหน้าใหม่อีกครั้ง"
+            "RESULT_KEY": "ผลลัพธ์",
+            "SHOW_MORE_KEY": "แสดงเพิ่มเติม",
+            "CURRENT_ADDRESS_KEY": "ที่อยู่ปัจจุบัน",
+            "UPDATE_THE_PAGE_KEY": "ปรับปรุงหน้า"
         }
     }
 }

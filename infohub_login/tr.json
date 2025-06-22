@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:33:41",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "tr",
         "language_name": "Turkish",
         "language_name_local": "Türk Türkçesi",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "Dosyayı seçin",
             "PASSWORD_KEY": "Şifre",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "Demo hesabı indirin",
-            "LOGIN_RESULT_KEY": "Sonuç",
-            "MORE_KEY": "Daha fazla",
-            "CURRENT_URL_KEY": "Current url",
-            "RELOAD_THE_PAGE_KEY": "Sayfayı yeniden yükleyin"
+            "RESULT_KEY": "Sonuç",
+            "SHOW_MORE_KEY": "Daha fazlasını göster",
+            "CURRENT_ADDRESS_KEY": "Şimdiki adres",
+            "UPDATE_THE_PAGE_KEY": "Sayfayı güncelleyin"
         }
     }
 }

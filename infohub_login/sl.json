@@ -1,8 +1,8 @@
 {
     "version": {
-        "date": "2025-06-16 20:33:41",
+        "date": "2025-06-18 07:06:41",
         "plugin": "infohub_login",
-        "data_checksum": "91c227617b9f6149647ee785601451b3",
+        "data_checksum": "f3bdf01463f3971dfb292dcf076f4c9c",
         "language": "sl",
         "language_name": "Slovenian",
         "language_name_local": "Slovenski",
@@ -105,10 +105,10 @@
             "SELECT_FILE_KEY": "Izberite datoteko",
             "PASSWORD_KEY": "Geslo",
             "DOWNLOAD_DEMO_ACCOUNT_KEY": "Prenesi demo račun",
-            "LOGIN_RESULT_KEY": "Rezultat prijave",
-            "MORE_KEY": "Več",
-            "CURRENT_URL_KEY": "Trenutni url",
-            "RELOAD_THE_PAGE_KEY": "Znova naloži stran"
+            "RESULT_KEY": "Rezultat",
+            "SHOW_MORE_KEY": "Pokaži več",
+            "CURRENT_ADDRESS_KEY": "Trenutni naslov",
+            "UPDATE_THE_PAGE_KEY": "Posodobi stran"
         }
     }
 }
